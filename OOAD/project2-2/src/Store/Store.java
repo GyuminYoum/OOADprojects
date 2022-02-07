@@ -1,6 +1,7 @@
 package Store;
 
 import Staff.Clerk;
+import Staff.Staff;
 
 import java.util.ArrayList;
 
@@ -28,6 +29,7 @@ public class Store {
 
     public void Report(){
     }
+
     public static void set_daysPassed(Integer days1){
         daysPassed=days1;
     }
@@ -36,6 +38,13 @@ public class Store {
     }
     public static Integer get_register(){
         return Cash_Register;
+    }
+
+    public void AddStaff(Staff worker) {
+        staff_member.add(worker);
+    }
+    public void RemoveStaff(Staff worker) {
+        staff_member.remove((staff_member.indexOf(worker)));
     }
 
 }
