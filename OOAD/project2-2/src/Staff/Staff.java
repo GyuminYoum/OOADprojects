@@ -12,5 +12,4 @@ public class Staff {
         return name;
     }
 
-
 }
