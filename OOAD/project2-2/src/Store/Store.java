@@ -1,24 +1,32 @@
 package Store;
 
 import Staff.Clerk;
+import Items.*;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 
 public class Store {
-    private static int Cash_Register;
-    private ArrayList<listItem> Inventory;
-    private float Inventory_value;
+    private static Double Cash_Register;
+    //arraylist of Item objects to represent inventory
+    private ArrayList<Items> Inventory;
+    //hashmap to keep track of the counts
+    private static HashMap<String, Integer> Inventory_stock= new HashMap<String, Integer>();
+    private Double Inventory_value;
     private Clerk staff_member;
     private static int daysPassed;
-    private ArrayList<listItem> Items_sold;
-    private float total_salePrice;
+    private ArrayList<> Items_sold;
+    private Double total_salePrice;
     private float money_added;
-    private ArrayList<listItem> Ordered_Items;
+    private static ArrayList<String> Order_list;
+    private static float money_withdrawn;
 
+    //default constructor
     public Store(){
-        Cash_Register=0;
+        Cash_Register=0.0;
         daysPassed=0;
+
 
 
     }
@@ -36,6 +44,15 @@ public class Store {
     }
     public static Integer get_register(){
         return Cash_Register;
+    }
+    public static HashMap<String,Integer> get_orderedItems(){
+        return Ordered_Items;
+    }
+    public static Float get_moneyWithdrawn(){
+        return money_withdrawn;
+    }
+    public static void set_moneyWithdrawn(Float value1){
+        money_withdrawn=value1;
     }
 
 }
