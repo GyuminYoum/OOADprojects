@@ -291,8 +291,5 @@ public class Clerk extends Staff{
             Store.get_Item(roll).set_condition(mod_condition);
             Store.get_Item(roll).set_listPrice(mod_listPrice);
         }
-
     }
-
-
 }
