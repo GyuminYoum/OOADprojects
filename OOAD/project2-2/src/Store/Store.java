@@ -12,15 +12,12 @@ import Instruments_Items.Stringed_Items.Mandolin;
 import Instruments_Items.wind_Items.Flute;
 import Instruments_Items.wind_Items.Harmonica;
 import Items.Items;
-
 import Music_Items.CD;
 import Music_Items.PaperScore;
 import Music_Items.Vinyl;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
-
 import Staff.Clerk;
-import Staff.Staff;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -239,12 +236,12 @@ public class Store {
         return count;
     }
 
-    public static void increment_daysPassed(){
-        daysPassed+=1;
+    public static void increment_daysPassed() {
+        daysPassed += 1;
+    }
 
-    public static void set_daysPassed(Integer days1){
+    public static void set_daysPassed(int days1){
         daysPassed=days1;
-
     }
     public static Integer get_daysPassed(){
         return daysPassed;
@@ -318,7 +315,6 @@ public class Store {
         staff_member.remove((staff_member.indexOf(worker)));
     }
 
-<<<<<<< HEAD
      */
     public static void Report(){
         System.out.println("In the inventory, there remains: ");
@@ -345,16 +341,18 @@ public class Store {
             OnShift.GoToBank();
             set_Register(get_Register()-amount);
         }
-=======
+        /*
     public void AddStaff(Staff worker) {
         staff_member.add(worker);
     }
     public void RemoveStaff(Staff worker) {
         staff_member.remove((staff_member.indexOf(worker)));
->>>>>>> a360157b2b710f70112b3a9d964dce34fd01d89a
     }
 
+         */
+    }
 }
+
 
 
 
