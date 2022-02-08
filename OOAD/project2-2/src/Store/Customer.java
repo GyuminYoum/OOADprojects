@@ -7,8 +7,8 @@ import java.util.Random;
 public class Customer {
     public void Buy(){
 
-
     }
+
     public void Sell(){
         Items random_item;
         int roll;
@@ -27,4 +27,6 @@ public class Customer {
                 //random_item= new PaperScore("PaperScore", pricef,used,day,condition,band_names[names],album_names[names]);
         }
     }
+
+
 }

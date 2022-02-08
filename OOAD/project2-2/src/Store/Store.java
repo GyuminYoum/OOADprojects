@@ -11,19 +11,19 @@ import java.util.HashMap;
 
 
 public class Store {
-    private static Double Cash_Register=0.0;
+    private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
     private static ArrayList<Items> Inventory= new ArrayList<Items>();
     private static ArrayList<Staff> staff_member=new ArrayList<Staff>();
     private static HashMap<String, Integer> Inventory_stock= new HashMap<String, Integer>();
-    private Double Inventory_value=0.0;
+    private double Inventory_value=0.0;
     private static int daysPassed=0;
     private ArrayList<Items> Items_sold=new ArrayList<Items>();
-    private Double total_salePrice=0.0;
-    private Double money_added=0.0;
+    private double total_salePrice=0.0;
+    private double money_added=0.0;
     private static ArrayList<String> Order_list= new ArrayList<String>();
     private static ArrayList<Items> Sold_list=new ArrayList<Items>();
-    private static Double money_withdrawn=0.0;
+    private static double money_withdrawn=0.0;
     public static String[] Item_list={"PaperScore", "MusicCD","Vinyl","CDplayer","RecordPlayer","MP3",
             "Guitar","Bass","Mandolin","Flute","Harmonica","Hats","Shirts","Bandanas","PracticeAmps",
             "Cables","Strings"};
@@ -71,59 +71,58 @@ public class Store {
     public static void increment_daysPassed(){
         daysPassed+=1;
 
-    public static void set_daysPassed(Integer days1){
+    public static void set_daysPassed(int days1){
         daysPassed=days1;
-
     }
-    public static Integer get_daysPassed(){
+    public static int get_daysPassed() {
         return daysPassed;
     }
-    public static Double get_register(){
+    public static double get_register(){
         return Cash_Register;
     }
-    public static void add_register(Double value1){
+    public static void add_register(double value1){
         Cash_Register+=value1;
     }
-    public static void subtract_register(Double value1){
+    public static void subtract_register(double value1){
         Cash_Register-=value1;
     }
 
     public static ArrayList<String> get_orders(){
         return Order_list;
     }
-    public static Double get_moneyWithdrawn(){
+    public static double get_moneyWithdrawn(){
         return money_withdrawn;
     }
-    public static void add_moneyWithdrawn(Float value1){
+    public static void add_moneyWithdrawn(float value1){
         money_withdrawn+=value1;
     }
     public static void set_InventoryValue(){
 
     }
     //for DoInventory function for clerk
-    public static Double get_InventoryValue(){
-        Double total_value=0.0;
+    public static double get_InventoryValue(){
+        double total_value=0.0;
         for (int i=0; i< Inventory.size(); i++){
             total_value+=Inventory.get(i).get_purchasePrice();
         }
         return total_value;
     }
-    public static Integer get_InventorySize(){
+    public static int get_InventorySize(){
         return Inventory.size();
     }
     public static ArrayList<Items> get_Inventory(){
         return Inventory;
     }
-    public static Items get_Item(Integer x){
+    public static Items get_Item(int x){
         return Inventory.get(x);
     }
     public static void add_Inventory(Items item1){
         Inventory.add(item1);
     }
-    public static void remove_Inventory(Integer i){
+    public static void remove_Inventory(int i){
         Inventory.remove(i);
     }
-    public static void set_moneyWithdrawn(Double money){
+    public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
     public void AddStaff(Staff worker) {
