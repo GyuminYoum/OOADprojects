@@ -1,11 +1,9 @@
 package Items;
 
-import Items.Items;
-
 public class Players extends Items {
 
-    public Players(String name1, Float price1, Float price2, Boolean nou, Integer day1, Integer con1, Float price3, Integer day2) {
-        super(name1, price1, price2, nou, day1, con1, price3, day2);
+    public Players(String name1, Double price1, Boolean nou, Integer day1, Integer con1) {
+        super(name1, price1, nou, day1, con1);
     }
 }
 

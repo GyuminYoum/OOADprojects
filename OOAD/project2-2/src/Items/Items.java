@@ -1,27 +1,23 @@
 package Items;
 
-import java.util.*;
-
 //public class item, it's attributes and getters & setters
 public class Items {
     private String name;
-    private Float purchasePrice;
-    private Float listPrice;
+    private Double purchasePrice;
+    private Double listPrice;
     private Boolean newOrUsed;
     private Integer dayArrived;
     private Integer condition;
-    private Float salePrice;
+    private Double salePrice;
     private Integer daySold;
 
-    public Items(String name1, Float price1, Float price2, Boolean nou, Integer day1, Integer con1, Float price3, Integer day2){
+    public Items(String name1, Double price1, Boolean nou, Integer day1, Integer con1){
         name=name1;
         purchasePrice=price1;
-        listPrice=price2;
+        listPrice=2*price1;
         newOrUsed=nou;
         dayArrived=day1;
         condition=con1;
-        salePrice=price3;
-        daySold=day2;
     }
 
 
@@ -31,16 +27,16 @@ public class Items {
     public void set_name(String name1){
         name=name1;
     }
-    public Float get_purchasePrice(){
+    public Double get_purchasePrice(){
         return purchasePrice;
     }
-    public void set_purchasePrice(Float price1){
+    public void set_purchasePrice(Double price1){
         purchasePrice=price1;
     }
-    public Float get_listPrice(){
+    public Double get_listPrice(){
         return listPrice;
     }
-    public void set_listPrice(Float price1){
+    public void set_listPrice(Double price1){
         listPrice=price1;
     }
     public Boolean get_newOrUsed(){
@@ -61,10 +57,10 @@ public class Items {
     public void set_condition(Integer condition1){
         condition=condition1;
     }
-    public Float get_salePrice(){
+    public Double get_salePrice(){
         return salePrice;
     }
-    public void set_salePrice(Float price1){
+    public void set_salePrice(Double price1){
         salePrice=price1;
     }
     public Integer get_daySold(){
@@ -73,6 +69,7 @@ public class Items {
     public void set_daySold(Integer day1){
         daySold=day1;
     }
+
 }
 
 
