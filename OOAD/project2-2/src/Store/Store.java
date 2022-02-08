@@ -4,6 +4,7 @@ import Items.Items;
 import Items.Music_Items.PaperScore;
 import Staff.Staff;
 import Staff.Clerk;
+import Staff.Staff;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -56,6 +57,7 @@ public class Store {
 
     public void Report(){
     }
+
     public static Integer check_stock(String name1){
         int count=0;
         for (int i=0; i< Inventory.size(); i++){
@@ -68,6 +70,10 @@ public class Store {
 
     public static void increment_daysPassed(){
         daysPassed+=1;
+
+    public static void set_daysPassed(Integer days1){
+        daysPassed=days1;
+
     }
     public static Integer get_daysPassed(){
         return daysPassed;
@@ -120,6 +126,13 @@ public class Store {
     public static void set_moneyWithdrawn(Double money){
         money_withdrawn=money;
     }
+    public void AddStaff(Staff worker) {
+        staff_member.add(worker);
+    }
+    public void RemoveStaff(Staff worker) {
+        staff_member.remove((staff_member.indexOf(worker)));
+    }
+
     public void AddStaff(Staff worker) {
         staff_member.add(worker);
     }
