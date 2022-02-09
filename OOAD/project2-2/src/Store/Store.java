@@ -20,28 +20,26 @@ import Players_Items.RecordPlayer;
 import Staff.Clerk;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Random;
 
 
 public class Store {
 
 
-    private static Double Cash_Register=0.0;
-
+    private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
     private static ArrayList<Items> Inventory= new ArrayList<Items>();
     private static ArrayList<Clerk> Clerk_member=new ArrayList<Clerk>();
-    private static HashMap<String, Integer> Inventory_stock= new HashMap<String, Integer>();
+    //private static HashMap<String, int> Inventory_stock= new HashMap<String, int>();
+    private static double Inventory_value=0.0;
 
-    private static Double Inventory_value=0.0;
     private static int daysPassed=1;
-    private static Double total_salePrice=0.0;
-    private static Double money_added=0.0;
+    private static double total_salePrice=0.0;
+    private static double money_added=0.0;
     private static Clerk OnShift;
     private static ArrayList<Items> Order_list= new ArrayList<Items>();
     private static ArrayList<Items> Sold_list=new ArrayList<Items>();
-    private static Double money_withdrawn=0.0;
+    private static double money_withdrawn=0.0;
     private static String[] Item_list={"PaperScore", "MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
             "Guitar","Bass","Mandolin","Flute","Harmonica","Hats","Shirts","Bandanas","PracticeAmps",
             "Cables","Strings"};
@@ -164,9 +162,12 @@ public class Store {
         Clerk Shaggy=new Clerk("Shaggy");
         Clerk_member.add(Velma);
         Clerk_member.add(Shaggy);
+        /*
         for (int i=0; i<Item_list.length; i++){
             Inventory_stock.put(Item_list[i],3);
         }
+
+         */
         //System.out.println(Inventory_stock.keySet());
     }
 
@@ -225,11 +226,11 @@ public class Store {
     public static Clerk get_OnShift(){
         return OnShift;
     }
-    public static void set_days(Integer int1){
+    public static void set_days(int int1){
         daysPassed=int1;
     }
 
-    public static Integer check_stock(String name1){
+    public static int check_stock(String name1){
         int count=0;
         for (int i=0; i< Inventory.size(); i++){
             if(Inventory.get(i).get_name()==name1){
@@ -246,17 +247,17 @@ public class Store {
     public static void set_daysPassed(int days1){
         daysPassed=days1;
     }
-    public static int get_daysPassed() {
+
+    public static int get_daysPassed(){
         return daysPassed;
     }
-
     public static Double get_Register(){
         return Math.floor(Cash_Register * 100) /100;
     }
-    public static void add_Register(Double value1){
+    public static void add_Register(double value1){
         Cash_Register+=value1;
     }
-    public static void set_Register(Double value1){
+    public static void set_Register(double value1){
         Cash_Register=value1;
     }
 
@@ -267,7 +268,7 @@ public class Store {
     public static void add_orders(Items item1){
         Order_list.add(item1);
     }
-    public static Integer get_orderSize(){
+    public static int get_orderSize(){
         return Order_list.size();
     }
     public static double get_moneyWithdrawn(){
@@ -288,14 +289,14 @@ public class Store {
     public static int get_InventorySize(){
         return Inventory.size();
     }
-    public static Double get_soldValue(){
-        Double total_value=0.0;
+    public static double get_soldValue(){
+        double total_value=0.0;
         for (int i=0; i< Sold_list.size(); i++){
             total_value+=Sold_list.get(i).get_salePrice();
         }
-        return total_value;
+        return Math.floor(total_value * 100) / 100;
     }
-    public static Integer get_soldListSize(){
+    public static int get_soldListSize(){
         return Sold_list.size();
     }
     public static void add_soldItem(Items item1) {Sold_list.add(item1);}
@@ -308,7 +309,8 @@ public class Store {
         return inv;
     }*/
 
-    public static Items get_Item(Integer x){
+
+    public static Items get_Item(int x){
 
         return Inventory.get(x);
     }
@@ -324,7 +326,6 @@ public class Store {
     public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
-
     public static void add_moneyWithdrawn(Float value1){
         money_withdrawn+=value1;
     }
@@ -341,21 +342,23 @@ public class Store {
     public static void Report(){
         System.out.println("In the inventory, there remains: ");
         String item_name;
-        Double price;
+        double price;
         for(int i=0; i<get_InventorySize(); i++){
             item_name=Inventory.get(i).get_name();
             System.out.print(item_name+" ");
+
         }
+        System.out.println(" ");
         System.out.println("with total value of "+ get_InventoryValue());
         for(int i=0; i<get_soldListSize(); i++){
             item_name=Sold_list.get(i).get_name();
             System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
         }
-        System.out.println("with total Sale value of "+ get_soldValue());
+        System.out.println("with total Sale value of $"+ get_soldValue());
         System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
-    public static void Pay(Double amount){
+    public static void Pay(double amount){
         if(get_Register()>amount){
             set_Register(get_Register()-amount);
         }

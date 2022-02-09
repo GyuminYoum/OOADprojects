@@ -173,7 +173,6 @@ public class Customer {
                 String[] typeS = {"Violin", "Cello", "Guitar", "Bass", "Mandolin"};
                 random_item = new Strings("Cables", price, used, day, condition, typeS[type]);
             }
-
         }
 
         double rand1 = Math.random();
