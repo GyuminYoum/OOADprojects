@@ -7,11 +7,8 @@ Buyer 3 purchased MusicCD for $7.2 after a 10% discount.
 Buyer 4 purchased Guitar for $48.6 after a 10% discount.
 Buyer 5 purchased Bass for $39.6 after a 10% discount.
 Buyer 6 purchased MusicCD for $7.38 after a 10% discount.
-Value of roll: 6
 Shaggy bought a very good condition Guitar from Seller 1 for $13.0 after offering 10% more.
-Value of roll: 2
 Shaggy bought a excellent condition Vinyl from Seller 2 for $40.0.
-Value of roll: 1
 Shaggy bought a very good condition MusicCD from Seller 3 for $4.0 after offering 10% more.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -22,7 +19,6 @@ Buyer 1 purchased PaperScore for $9.9 after a 10% discount.
 Buyer 2 purchased Hats for $30.0.
 Buyer 3 purchased Harmonica for $32.4 after a 10% discount.
 Buyer 4 purchased Hats for $20.0.
-Value of roll: 3
 Shaggy bought a excellent condition CDPlayer from Seller 1 for $34.0 after offering 10% more.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -33,11 +29,8 @@ Buyer 1 purchased Vinyl for $9.0 after a 10% discount.
 Hats was too expensive, Buyer 2 left the store.
 Bandanas was too expensive, Buyer 3 left the store.
 Buyer 4 purchased Shirts for $8.0.
-Value of roll: 9
 Velma bought a very good condition Flute from Seller 1 for $10.0 after offering 10% more.
-Value of roll: 13
 Seller 2 didn't accept the price, and left the store.
-Value of roll: 16
 Velma bought a good condition Strings from Seller 3 for $7.0.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -52,11 +45,8 @@ Buyer 5 purchased Shirts for $9.0.
 Buyer 6 purchased Vinyl for $10.8 after a 10% discount.
 Buyer 7 purchased Harmonica for $38.0.
 Buyer 8 purchased CDPlayer for $21.6 after a 10% discount.
-Value of roll: 10
 Velma bought a good condition Harmonica from Seller 1 for $0.66.
-Value of roll: 13
 Velma bought a fair condition Bandanas from Seller 2 for $1.0 after offering 10% more.
-Value of roll: 6
 Velma bought a poor condition Guitar from Seller 3 for $7.8 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -71,11 +61,8 @@ Buyer 2 purchased PaperScore for $6.0.
 PaperScore out of stock, Buyer 3 left the store.
 Buyer 4 purchased MusicCD for $8.4.
 Buyer 5 purchased Harmonica for $36.0 after a 10% discount.
-Value of roll: 10
 Shaggy bought a good condition Harmonica from Seller 1 for $2.33.
-Value of roll: 6
 Shaggy bought a fair condition Guitar from Seller 2 for $10.25.
-Value of roll: 16
 Shaggy bought a good condition Strings from Seller 3 for $10.66.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -95,11 +82,8 @@ Buyer 1 purchased Mandolin for $70.0.
 PracticeAmps was too expensive, Buyer 2 left the store.
 Buyer 3 purchased Mandolin for $66.0.
 PaperScore out of stock, Buyer 4 left the store.
-Value of roll: 9
 Velma bought a excellent condition Flute from Seller 1 for $32.0.
-Value of roll: 5
 Velma bought a poor condition MP3 from Seller 2 for $9.19 after offering 10% more.
-Value of roll: 13
 Velma bought a good condition Bandanas from Seller 3 for $1.66.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -120,9 +104,7 @@ Buyer 1 purchased MusicCD for $8.0.
 Buyer 2 purchased PracticeAmps for $10.0.
 Buyer 3 purchased Bandanas for $5.4 after a 10% discount.
 Buyer 4 purchased Strings for $7.0.
-Value of roll: 2
 Velma bought a very good condition Vinyl from Seller 1 for $6.5 after offering 10% more.
-Value of roll: 7
 Velma bought a very good condition Bass from Seller 2 for $8.0 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -140,9 +122,7 @@ Buyer 1 purchased Bandanas for $10.8 after a 10% discount.
 MusicCD out of stock, Buyer 2 left the store.
 Buyer 3 purchased Mandolin for $75.11 after a 10% discount.
 MP3 was too expensive, Buyer 4 left the store.
-Value of roll: 3
 Seller 1 didn't accept the price, and left the store.
-Value of roll: 15
 Velma bought a excellent condition Cables from Seller 2 for $35.0.
 Velma damaged an item while cleaning.
 Velma went home for the day.
@@ -161,7 +141,6 @@ Bass was too expensive, Buyer 3 left the store.
 Shirts was too expensive, Buyer 4 left the store.
 Buyer 5 purchased Flute for $82.8 after a 10% discount.
 Buyer 6 purchased MP3 for $9.0 after a 10% discount.
-Value of roll: 8
 Velma bought a very good condition Mandolin from Seller 1 for $20.5.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -178,11 +157,8 @@ Buyer 1 purchased Strings for $22.0.
 MP3 was too expensive, Buyer 2 left the store.
 Buyer 3 purchased Strings for $14.0.
 Buyer 4 purchased Vinyl for $14.0.
-Value of roll: 16
 Shaggy bought a excellent condition Strings from Seller 1 for $11.0.
-Value of roll: 3
 Shaggy bought a excellent condition CDPlayer from Seller 2 for $1.0.
-Value of roll: 5
 Shaggy bought a excellent condition MP3 from Seller 3 for $2.0.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -199,7 +175,6 @@ Buyer 4 purchased Guitar for $20.5.
 Buyer 5 purchased Strings for $19.2 after a 10% discount.
 Buyer 6 purchased Vinyl for $80.0.
 Buyer 7 purchased Cables for $9.0 after a 10% discount.
-Value of roll: 11
 Shaggy bought a fair condition Hats from Seller 1 for $3.5.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -219,9 +194,7 @@ Hats was too expensive, Buyer 5 left the store.
 Vinyl was too expensive, Buyer 6 left the store.
 Buyer 7 purchased Vinyl for $11.7 after a 10% discount.
 Buyer 8 purchased Cables for $18.0 after a 10% discount.
-Value of roll: 2
 Velma bought a fair condition Vinyl from Seller 1 for $4.75 after offering 10% more.
-Value of roll: 13
 Velma bought a good condition Bandanas from Seller 2 for $11.66 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -242,11 +215,8 @@ Buyer 1 purchased Bass for $46.0.
 Buyer 2 purchased PracticeAmps for $30.0.
 Shirts out of stock, Buyer 3 left the store.
 Buyer 4 purchased Bandanas for $16.2 after a 10% discount.
-Value of roll: 13
 Velma bought a good condition Bandanas from Seller 1 for $6.66.
-Value of roll: 5
 Velma bought a excellent condition MP3 from Seller 2 for $30.0 after offering 10% more.
-Value of roll: 6
 Velma bought a good condition Guitar from Seller 3 for $5.33 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -268,11 +238,8 @@ Strings out of stock, Buyer 6 left the store.
 Buyer 7 purchased RecordPlayer for $39.6 after a 10% discount.
 Buyer 8 purchased Mandolin for $41.0.
 Vinyl out of stock, Buyer 9 left the store.
-Value of roll: 8
 Shaggy bought a poor condition Mandolin from Seller 1 for $6.2.
-Value of roll: 11
 Shaggy bought a good condition Hats from Seller 2 for $14.66 after offering 10% more.
-Value of roll: 15
 Shaggy bought a poor condition Cables from Seller 3 for $9.8.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -293,7 +260,6 @@ Buyer 4 purchased MP3 for $45.0 after a 10% discount.
 Buyer 5 purchased RecordPlayer for $22.0.
 Buyer 6 purchased PaperScore for $54.58.
 Strings was too expensive, Buyer 7 left the store.
-Value of roll: 6
 Velma bought a poor condition Guitar from Seller 1 for $8.8 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -314,7 +280,6 @@ Buyer 5 purchased PaperScore for $40.59 after a 10% discount.
 Buyer 6 purchased Bandanas for $3.33.
 Buyer 7 purchased Harmonica for $1.2 after a 10% discount.
 Buyer 8 purchased MP3 for $81.0 after a 10% discount.
-Value of roll: 1
 Shaggy bought a good condition MusicCD from Seller 1 for $6.0.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -329,11 +294,8 @@ Buyer 1 purchased MusicCD for $5.56 after a 10% discount.
 Buyer 2 purchased MP3 for $18.39.
 Buyer 3 purchased PaperScore for $94.16.
 Buyer 4 purchased Cables for $70.0.
-Value of roll: 4
 Velma bought a good condition RecordPlayer from Seller 1 for $9.0 after offering 10% more.
-Value of roll: 9
 Velma bought a poor condition Flute from Seller 2 for $8.4 after offering 10% more.
-Value of roll: 7
 Velma bought a good condition Bass from Seller 3 for $2.33 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -351,11 +313,8 @@ Buyer 3 purchased Guitar for $80.92.
 CDPlayer was too expensive, Buyer 4 left the store.
 Buyer 5 purchased CDPlayer for $61.2 after a 10% discount.
 Strings was too expensive, Buyer 6 left the store.
-Value of roll: 1
 Velma bought a fair condition MusicCD from Seller 1 for $0.75 after offering 10% more.
-Value of roll: 15
 Velma bought a fair condition Cables from Seller 2 for $7.75 after offering 10% more.
-Value of roll: 9
 Velma bought a poor condition Flute from Seller 3 for $7.8 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -373,9 +332,7 @@ PracticeAmps out of stock, Buyer 5 left the store.
 Buyer 6 purchased Hats for $66.02 after a 10% discount.
 Buyer 7 purchased Vinyl for $70.61 after a 10% discount.
 Buyer 8 purchased Shirts for $11.1 after a 10% discount.
-Value of roll: 11
 Velma bought a excellent condition Hats from Seller 1 for $31.0.
-Value of roll: 3
 Velma bought a excellent condition CDPlayer from Seller 2 for $9.0.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -396,7 +353,6 @@ Buyer 6 purchased Mandolin for $40.87 after a 10% discount.
 Buyer 7 purchased Strings for $77.18.
 Strings was too expensive, Buyer 8 left the store.
 PracticeAmps out of stock, Buyer 9 left the store.
-Value of roll: 7
 Velma bought a fair condition Bass from Seller 1 for $7.25 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -418,9 +374,7 @@ Buyer 4 purchased CDPlayer for $2.0.
 MP3 out of stock, Buyer 5 left the store.
 Buyer 6 purchased RecordPlayer for $31.32.
 PaperScore was too expensive, Buyer 7 left the store.
-Value of roll: 16
 Velma bought a excellent condition Strings from Seller 1 for $30.0 after offering 10% more.
-Value of roll: 4
 Velma bought a very good condition RecordPlayer from Seller 2 for $11.5.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
@@ -434,11 +388,8 @@ Bass was too expensive, Buyer 1 left the store.
 Buyer 2 purchased Bandanas for $13.33.
 Flute was too expensive, Buyer 3 left the store.
 Buyer 4 purchased CDPlayer for $18.0.
-Value of roll: 4
 Shaggy bought a very good condition RecordPlayer from Seller 1 for $17.5.
-Value of roll: 10
 Seller 2 didn't accept the price, and left the store.
-Value of roll: 8
 Shaggy bought a poor condition Mandolin from Seller 3 for $3.4.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -461,11 +412,8 @@ CDPlayer out of stock, Buyer 5 left the store.
 Buyer 6 purchased Strings for $20.86.
 Buyer 7 purchased Shirts for $73.44 after a 10% discount.
 Flute was too expensive, Buyer 8 left the store.
-Value of roll: 8
 Shaggy bought a excellent condition Mandolin from Seller 1 for $41.0.
-Value of roll: 9
 Shaggy bought a fair condition Flute from Seller 2 for $12.25 after offering 10% more.
-Value of roll: 15
 Shaggy bought a fair condition Cables from Seller 3 for $7.25 after offering 10% more.
 Shaggy damaged an item while cleaning.
 Shaggy went home for the day.
@@ -483,11 +431,8 @@ MusicCD was too expensive, Buyer 2 left the store.
 Buyer 3 purchased CDPlayer for $72.23.
 MP3 was too expensive, Buyer 4 left the store.
 Buyer 5 purchased Cables for $17.64 after a 10% discount.
-Value of roll: 15
 Shaggy bought a good condition Cables from Seller 1 for $14.0.
-Value of roll: 10
 Shaggy bought a very good condition Harmonica from Seller 2 for $0.5.
-Value of roll: 0
 Shaggy bought a good condition PaperScore from Seller 3 for $8.33 after offering 10% more.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -508,9 +453,7 @@ Buyer 6 purchased Bandanas for $85.36.
 Buyer 7 purchased PaperScore for $49.46.
 Buyer 8 purchased Harmonica for $4.2 after a 10% discount.
 Buyer 9 purchased RecordPlayer for $24.46.
-Value of roll: 14
 Shaggy bought a poor condition PracticeAmps from Seller 1 for $1.4.
-Value of roll: 13
 Seller 2 didn't accept the price, and left the store.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
@@ -524,9 +467,7 @@ Buyer 1 purchased MP3 for $30.84.
 Buyer 2 purchased Flute for $20.0.
 Buyer 3 purchased Harmonica for $0.9 after a 10% discount.
 Buyer 4 purchased Guitar for $35.02 after a 10% discount.
-Value of roll: 8
 Velma bought a good condition Mandolin from Seller 1 for $8.0 after offering 10% more.
-Value of roll: 15
 Velma bought a good condition Cables from Seller 2 for $16.33.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
