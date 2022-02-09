@@ -26,6 +26,7 @@ import java.util.Random;
 public class Store {
 
     public static Random Rng = new Random();
+    public static int roll;
 
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
@@ -313,7 +314,6 @@ public class Store {
 
 
     public static Items get_Item(int x){
-
         return Inventory.get(x);
     }
     public static void add_Inventory(Items item1){

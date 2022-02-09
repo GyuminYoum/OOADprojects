@@ -28,7 +28,7 @@ public class Items {
         name=name1;
     }
     public double get_purchasePrice(){
-        return purchasePrice;
+        return Math.floor(purchasePrice * 100) / 100;
     }
     public void set_purchasePrice(double price1){
         purchasePrice=price1;

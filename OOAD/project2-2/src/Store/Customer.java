@@ -20,6 +20,7 @@ import Players_Items.RecordPlayer;
 import java.util.Random;
 
 import static Store.Store.Rng;
+import static Store.Store.roll;
 
 public class Customer {
     private int num;
@@ -29,7 +30,6 @@ public class Customer {
         num = i;
     }
 
-    private int roll;
     //private Random Rng= new Random();
 
     public void Buy(){
@@ -206,13 +206,13 @@ public class Customer {
             Store.add_Inventory(random_item);
 
             if (discount == 1) {
-                System.out.printf(Store.get_OnShift().get_name() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
+                System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
             } else {
-                System.out.printf(Store.get_OnShift().get_name() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
             }
 
         } else {
-            System.out.printf(this.name + " " + this.num + "didn't accept the price, and left the store.\n");
+            System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
         }
 
 
