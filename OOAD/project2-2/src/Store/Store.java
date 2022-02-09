@@ -26,7 +26,6 @@ import java.util.Random;
 public class Store {
 
     public static Random Rng = new Random();
-    public static int roll;
 
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
