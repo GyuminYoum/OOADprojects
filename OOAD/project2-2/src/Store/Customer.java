@@ -94,7 +94,7 @@ public class Customer {
                 int price=Rng.nextInt(49)+1;
                 //Double price1=price;
                 int condition=Rng.nextInt(5);
-                Boolean used=Rng.nextBoolean();
+                boolean used=Rng.nextBoolean();
                 int names=Rng.nextInt(3);
                 //random_item= new PaperScore("PaperScore", pricef,used,day,condition,band_names[names],album_names[names]);
         }*/

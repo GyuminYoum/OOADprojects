@@ -3,15 +3,15 @@ package Items;
 //public class item, it's attributes and getters & setters
 public class Items {
     private String name;
-    private Double purchasePrice;
-    private Double listPrice;
-    private Boolean newOrUsed;
-    private Integer dayArrived;
-    private Integer condition;
-    private Double salePrice;
-    private Integer daySold;
+    private double purchasePrice;
+    private double listPrice;
+    private boolean newOrUsed;
+    private int dayArrived;
+    private int condition;
+    private double salePrice;
+    private int daySold;
 
-    public Items(String name1, Double price1, Boolean nou, Integer day1, Integer con1){
+    public Items(String name1, double price1, boolean nou, int day1, int con1){
         name=name1;
         purchasePrice=price1;
         listPrice=2*price1;
@@ -27,46 +27,46 @@ public class Items {
     public void set_name(String name1){
         name=name1;
     }
-    public Double get_purchasePrice(){
+    public double get_purchasePrice(){
         return purchasePrice;
     }
-    public void set_purchasePrice(Double price1){
+    public void set_purchasePrice(double price1){
         purchasePrice=price1;
     }
-    public Double get_listPrice(){
+    public double get_listPrice(){
         return listPrice;
     }
-    public void set_listPrice(Double price1){
+    public void set_listPrice(double price1){
         listPrice=price1;
     }
-    public Boolean get_newOrUsed(){
+    public boolean get_newOrUsed(){
         return newOrUsed;
     }
-    public void set_newOrUsed(Boolean bool1){
+    public void set_newOrUsed(boolean bool1){
         newOrUsed=bool1;
     }
-    public Integer get_dayArrived(){
+    public int get_dayArrived(){
         return dayArrived;
     }
-    public void set_dayArrived(Integer day1){
+    public void set_dayArrived(int day1){
         dayArrived=day1;
     }
-    public Integer get_condition(){
+    public int get_condition(){
         return condition;
     }
-    public void set_condition(Integer condition1){
+    public void set_condition(int condition1){
         condition=condition1;
     }
-    public Double get_salePrice(){
+    public double get_salePrice(){
         return salePrice;
     }
-    public void set_salePrice(Double price1){
+    public void set_salePrice(double price1){
         salePrice=price1;
     }
-    public Integer get_daySold(){
+    public int get_daySold(){
         return daySold;
     }
-    public void set_daySold(Integer day1){
+    public void set_daySold(int day1){
         daySold=day1;
     }
 

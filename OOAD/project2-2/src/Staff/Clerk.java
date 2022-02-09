@@ -23,16 +23,16 @@ import java.util.Random;
 
 public class Clerk extends Staff{
     
-    private Integer days_worked;
+    private int days_worked;
 
     public Clerk(String name1) {
         super(name1);
         days_worked=0;
     }
-    public void set_daysWorked(Integer days1){
+    public void set_daysWorked(int days1){
         days_worked=days1;
     }
-    public Integer get_daysWorked(){
+    public int get_daysWorked(){
         return days_worked;
     }
     public void increment_daysWorked(){
@@ -41,7 +41,7 @@ public class Clerk extends Staff{
 
     public void ArriveAtStore() {
         String name1=this.get_name();
-        Integer Curr_day=Store.get_daysPassed();
+        int Curr_day=Store.get_daysPassed();
         System.out.println(name1+ " arrives at the store on Day "+ Store.get_daysPassed());
         if(Curr_day%7!=0){
             for (int i=0; i<Store.get_orderSize(); i++){
@@ -57,7 +57,7 @@ public class Clerk extends Staff{
     }
 
     public void CheckRegister() {
-        Double register_cash=Store.get_Register();
+        double register_cash=Store.get_Register();
         if (register_cash<75){
             this.GoToBank();
         }
@@ -68,13 +68,13 @@ public class Clerk extends Staff{
 
     public void GoToBank() {
         System.out.println(this.get_name()+" went to the bank and put $1000 in the register.");
-        Double current_val=Store.get_moneyWithdrawn();
+        double current_val=Store.get_moneyWithdrawn();
         Store.set_moneyWithdrawn(current_val+1000);
         Store.add_Register(1000.0);
     }
 
     public void DoInventory() {
-        Double inven_value=Store.get_InventoryValue();
+        double inven_value=Store.get_InventoryValue();
         String[] item_names=Store.get_ItemList();
         //testrun
         //String[] item_names={"PaperScore","Soccer"};
@@ -92,24 +92,24 @@ public class Clerk extends Staff{
         String[] names1=Store.get_ItemList();
         Random rng=new Random();
         String name;
-        Double purchasePrice;
-        Boolean newOrUsed;
-        Integer condition;
+        double purchasePrice;
+        boolean newOrUsed;
+        int condition;
         String[] band_list={"band1","band2","band3"};
         String band_name;
         String[] album_list={"album1","album2","album3"};
         String album_name;
-        Integer day_arrived;
-        Boolean Electric;
+        int day_arrived;
+        boolean Electric;
         String[] type={"Standard", "Piccolo", "Plastic"};
         String Flute_Type;
         String[] key={"A","Bb","C"};
         String Harmonica_Key;
-        Double Hat_Size;
+        double Hat_Size;
         String[] size={"S","M","L"};
         String Shirt_Size;
-        Integer wattage;
-        Double length;
+        int wattage;
+        double length;
         String[] type1={"Violin", "Cello", "Guitar"};
         String string_type;
 
@@ -278,8 +278,8 @@ public class Clerk extends Staff{
         int roll;
         int Curr_condition;
         int mod_condition;
-        Double curr_listPrice;
-        Double mod_listPrice;
+        double curr_listPrice;
+        double mod_listPrice;
         Random Rng= new Random();
         roll=Rng.nextInt(Store.get_InventorySize());
         Curr_condition=Store.get_Item(roll).get_condition();

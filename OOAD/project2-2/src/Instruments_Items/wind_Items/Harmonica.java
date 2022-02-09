@@ -5,7 +5,7 @@ import Instruments_Items.wind;
 public class Harmonica extends wind {
     private String Key;
 
-    public Harmonica(String name1, Double price1,  Boolean nou, Integer day1, Integer con1, String key1) {
+    public Harmonica(String name1, double price1,  boolean nou, int day1, int con1, String key1) {
         super(name1, price1, nou, day1, con1);
         Key = key1;
     }
