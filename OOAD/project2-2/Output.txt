@@ -1,658 +1,599 @@
 Shaggy arrives at the store on Day 1
 Shaggy went to the bank and put $1000 in the register.
 All the items in the inventory are worth total of 865.79
-Buyer 0 purchased Shirts for $7.2 after a 10% discount.
-Buyer 1 purchased PracticeAmps for $9.0 after a 10% discount.
-Buyer 2 purchased PaperScore for $10.0.
-Buyer 3 purchased Cables for $10.0.
-Buyer 4 purchased PaperScore for $11.0.
-Buyer 5 purchased Vinyl for $10.0.
-Shaggy bought a good condition Strings from Seller 0 for $10.66 after offering 10% more.
+Buyer 1 purchased PaperScore for $10.0.
+Buyer 2 purchased Flute for $90.0.
+Buyer 3 purchased MusicCD for $7.2 after a 10% discount.
+Buyer 4 purchased Guitar for $48.6 after a 10% discount.
+Buyer 5 purchased Bass for $39.6 after a 10% discount.
+Buyer 6 purchased MusicCD for $7.38 after a 10% discount.
+Shaggy bought a very good condition Guitar from Seller 1 for $13.0 after offering 10% more.
+Shaggy bought a excellent condition Vinyl from Seller 2 for $40.0.
+Shaggy bought a very good condition MusicCD from Seller 3 for $4.0 after offering 10% more.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
-Velma arrives at the store on Day 2
-There is $1046.54 in the register
-All the items in the inventory are worth total of 846.95
-Buyer 0 purchased Hats for $30.0.
-Buyer 1 purchased Mandolin for $66.6 after a 10% discount.
-Flute was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bass for $44.0.
-Buyer 4 purchased PracticeAmps for $30.0.
-Buyer 5 purchased RecordPlayer for $59.4 after a 10% discount.
-Buyer 6 purchased Cables for $18.0 after a 10% discount.
-Velma bought a very good condition Strings from Seller 0 for $14.5.
-Velma bought a very good condition Strings from Seller 1 for $17.5 after offering 10% more.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
+Shaggy arrives at the store on Day 2
+There is $1145.78 in the register
+All the items in the inventory are worth total of 815.7
+Buyer 1 purchased PaperScore for $9.9 after a 10% discount.
+Buyer 2 purchased Hats for $30.0.
+Buyer 3 purchased Harmonica for $32.4 after a 10% discount.
+Buyer 4 purchased Hats for $20.0.
+Shaggy bought a excellent condition CDPlayer from Seller 1 for $34.0 after offering 10% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
 Velma arrives at the store on Day 3
-There is $1262.54 in the register
-All the items in the inventory are worth total of 746.95
-RecordPlayer was too expensive, Buyer 0 left the store.
-Buyer 1 purchased Flute for $81.0 after a 10% discount.
-Buyer 2 purchased Guitar for $54.0.
-Buyer 3 purchased Strings for $7.0.
-Buyer 4 purchased Strings for $12.6 after a 10% discount.
-Velma bought a fair condition Strings from Seller 0 for $4.75.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
-Shaggy arrives at the store on Day 4
-There is $1412.39 in the register
-All the items in the inventory are worth total of 669.2
-Buyer 0 purchased MP3 for $9.0 after a 10% discount.
-Buyer 1 purchased PaperScore for $5.4 after a 10% discount.
-Buyer 2 purchased MP3 for $50.0.
-Buyer 3 purchased RecordPlayer for $44.0.
-Buyer 4 purchased Bandanas for $5.4 after a 10% discount.
-Flute was too expensive, Buyer 5 left the store.
-Shaggy bought a poor condition Strings from Seller 0 for $9.6.
-Shaggy bought a good condition Strings from Seller 1 for $12.33 after offering 10% more.
-Shaggy bought a very good condition Strings from Seller 2 for $12.0 after offering 10% more.
-Shaggy cleaned the store without breaking anything.
-Shaggy went home for the day.
-Velma arrives at the store on Day 5
-There is $1492.26 in the register
-All the items in the inventory are worth total of 645.13
-Velma put in order for PaperScore for $26.32 on day 5
-Velma put in order for PaperScore for $43.3 on day 5
-Velma put in order for PaperScore for $45.41 on day 5
-Buyer 0 purchased Bass for $46.0.
-Buyer 1 purchased Cables for $27.0 after a 10% discount.
-Buyer 2 purchased MP3 for $90.0.
-Buyer 3 purchased Flute for $92.0.
-Buyer 4 purchased Strings for $19.8 after a 10% discount.
-Buyer 5 purchased Mandolin for $70.0.
-Buyer 6 purchased Bandanas for $12.0.
-Buyer 7 purchased MusicCD for $7.2 after a 10% discount.
-Velma bought a good condition Strings from Seller 0 for $5.66.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
-Shaggy arrives at the store on Day 6
-There is $1735.57 in the register
-All the items in the inventory are worth total of 465.79
-Shaggy put in order for PaperScore for $2.35 on day 6
-Shaggy put in order for PaperScore for $7.23 on day 6
-Shaggy put in order for PaperScore for $7.76 on day 6
-Shaggy put in order for MP3 for $10.63 on day 6
-Shaggy put in order for MP3 for $25.86 on day 6
-Shaggy put in order for MP3 for $42.6 on day 6
-Shaggy put in order for Cables for $42.16 on day 6
-Shaggy put in order for Cables for $44.55 on day 6
-Shaggy put in order for Cables for $7.75 on day 6
-Buyer 0 purchased RecordPlayer for $22.0.
-Buyer 1 purchased Strings for $19.2 after a 10% discount.
-RecordPlayer out of stock, Buyer 2 left the store.
-Guitar was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Hats for $18.0 after a 10% discount.
-Buyer 5 purchased Mandolin for $66.0.
-Buyer 6 purchased Strings for $29.0.
-Cables out of stock, Buyer 7 left the store.
-Cables out of stock, Buyer 8 left the store.
-Seller 0 didn't accept the price, and left the store.
-Shaggy bought a poor condition Strings from Seller 1 for $2.0 after offering 10% more.
-Shaggy cleaned the store without breaking anything.
-Shaggy went home for the day.
-Store is closed on Sunday.
-Shaggy arrives at the store on Day 8
-Shaggy received PaperScore on day 8
-Shaggy received PaperScore on day 8
-Shaggy received PaperScore on day 8
-Shaggy received MP3 on day 8
-Shaggy received Cables on day 8
-There is $1696.88 in the register
-All the items in the inventory are worth total of 555.27
-Shaggy put in order for RecordPlayer for $19.56 on day 8
-Shaggy put in order for RecordPlayer for $4.53 on day 8
-Shaggy put in order for RecordPlayer for $46.6 on day 8
-Shaggy put in order for Mandolin for $42.9 on day 8
-Shaggy put in order for Mandolin for $15.32 on day 8
-Shaggy put in order for Mandolin for $4.05 on day 8
-Buyer 0 purchased Flute for $96.0.
-Bandanas was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Cables for $89.1.
-Buyer 3 purchased Bandanas for $18.0.
-RecordPlayer out of stock, Buyer 4 left the store.
-Shaggy bought a excellent condition Strings from Seller 0 for $12.0 after offering 10% more.
-Shaggy cleaned the store without breaking anything.
-Shaggy went home for the day.
-Velma arrives at the store on Day 9
-Velma received PaperScore on day 9
-Velma received PaperScore on day 9
-Velma received MP3 on day 9
-Velma received Cables on day 9
-Velma received RecordPlayer on day 9
-Velma received Mandolin on day 9
-There is $1755.02 in the register
-All the items in the inventory are worth total of 597.29
-Velma put in order for Flute for $27.0 on day 9
-Velma put in order for Flute for $17.54 on day 9
-Velma put in order for Flute for $48.95 on day 9
-Velma put in order for Bandanas for $34.27 on day 9
-Velma put in order for Bandanas for $39.48 on day 9
-Velma put in order for Bandanas for $43.25 on day 9
-Buyer 0 purchased RecordPlayer for $8.15 after a 10% discount.
-Buyer 1 purchased PaperScore for $47.37 after a 10% discount.
-Buyer 2 purchased Vinyl for $12.0.
-RecordPlayer out of stock, Buyer 3 left the store.
-Buyer 4 purchased CDPlayer for $21.6 after a 10% discount.
-Seller 0 didn't accept the price, and left the store.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
-Shaggy arrives at the store on Day 10
-Shaggy received PaperScore on day 10
-Shaggy received Cables on day 10
-Shaggy received RecordPlayer on day 10
-Shaggy received Mandolin on day 10
-Shaggy received Bandanas on day 10
-There is $1633.65 in the register
-All the items in the inventory are worth total of 686.85
-Shaggy put in order for Flute for $45.27 on day 10
-Shaggy put in order for Flute for $24.98 on day 10
-Shaggy put in order for Flute for $16.91 on day 10
-Buyer 0 purchased Shirts for $8.1 after a 10% discount.
-Buyer 1 purchased Harmonica for $36.0.
-MP3 was too expensive, Buyer 2 left the store.
-Buyer 3 purchased RecordPlayer for $83.88 after a 10% discount.
-RecordPlayer out of stock, Buyer 4 left the store.
-Flute out of stock, Buyer 5 left the store.
-Buyer 6 purchased Bandanas for $86.5.
-Buyer 7 purchased Vinyl for $12.6 after a 10% discount.
-Shaggy bought a excellent condition Strings from Seller 0 for $25.0.
-Shaggy bought a poor condition Strings from Seller 1 for $4.0.
-Shaggy bought a excellent condition Strings from Seller 2 for $2.0 after offering 10% more.
-Shaggy cleaned the store without breaking anything.
-Shaggy went home for the day.
-Shaggy arrives at the store on Day 11
-Shaggy received MP3 on day 11
-Shaggy received Mandolin on day 11
-Shaggy received Bandanas on day 11
-Shaggy received Flute on day 11
-There is $1742.56 in the register
-All the items in the inventory are worth total of 703.99
-Shaggy put in order for Vinyl for $22.77 on day 11
-Shaggy put in order for Vinyl for $20.44 on day 11
-Shaggy put in order for Vinyl for $6.63 on day 11
-Shaggy put in order for RecordPlayer for $26.29 on day 11
-Shaggy put in order for RecordPlayer for $5.98 on day 11
-Shaggy put in order for RecordPlayer for $2.08 on day 11
-Buyer 0 purchased Bandanas for $61.68 after a 10% discount.
-Buyer 1 purchased Hats for $10.0.
-Mandolin was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Mandolin for $85.8.
-Shaggy bought a very good condition Strings from Seller 0 for $4.0.
-Seller 1 didn't accept the price, and left the store.
-Shaggy cleaned the store without breaking anything.
-Shaggy went home for the day.
-Velma arrives at the store on Day 12
-Velma received RecordPlayer on day 12
-Velma received Flute on day 12
-Velma received Bandanas on day 12
-Velma received Flute on day 12
-Velma received Vinyl on day 12
-Velma received RecordPlayer on day 12
-Velma received RecordPlayer on day 12
-There is $1811.84 in the register
-All the items in the inventory are worth total of 768.1
-Velma put in order for Hats for $7.73 on day 12
-Velma put in order for Hats for $31.86 on day 12
-Velma put in order for Hats for $18.13 on day 12
-Shirts was too expensive, Buyer 0 left the store.
-Buyer 1 purchased MP3 for $85.2.
-Buyer 2 purchased Mandolin for $8.1.
-Buyer 3 purchased Bandanas for $78.95.
-Buyer 4 purchased Guitar for $34.0.
-Buyer 5 purchased Guitar for $74.0.
-Buyer 6 purchased CDPlayer for $48.0.
-Buyer 7 purchased Mandolin for $30.64.
-Velma bought a very good condition Strings from Seller 0 for $20.5 after offering 10% more.
-Velma bought a excellent condition Strings from Seller 1 for $38.0.
+There is $1204.08 in the register
+All the items in the inventory are worth total of 801.2
+Buyer 1 purchased Vinyl for $9.0 after a 10% discount.
+Hats was too expensive, Buyer 2 left the store.
+Bandanas was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $8.0.
+Velma bought a very good condition Flute from Seller 1 for $10.0 after offering 10% more.
 Seller 2 didn't accept the price, and left the store.
+Velma bought a good condition Strings from Seller 3 for $7.0.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
-Shaggy arrives at the store on Day 13
-Shaggy received Flute on day 13
-Shaggy received Flute on day 13
-Shaggy received Vinyl on day 13
-Shaggy received Hats on day 13
-Shaggy received Hats on day 13
-There is $2054.5 in the register
-All the items in the inventory are worth total of 731.63
-Shaggy put in order for Guitar for $35.04 on day 13
-Shaggy put in order for Guitar for $5.98 on day 13
-Shaggy put in order for Guitar for $29.94 on day 13
-Shaggy put in order for Mandolin for $35.57 on day 13
-Shaggy put in order for Mandolin for $33.5 on day 13
-Shaggy put in order for Mandolin for $14.41 on day 13
-Shaggy put in order for Bandanas for $46.39 on day 13
-Shaggy put in order for Bandanas for $6.9 on day 13
-Shaggy put in order for Bandanas for $31.81 on day 13
-Mandolin out of stock, Buyer 0 left the store.
-Guitar out of stock, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $72.0.
-Buyer 3 purchased Vinyl for $40.88.
-Buyer 4 purchased Shirts for $9.0 after a 10% discount.
-Buyer 5 purchased Strings for $35.0.
-Shaggy bought a poor condition Strings from Seller 0 for $3.4.
-Seller 1 didn't accept the price, and left the store.
+Velma arrives at the store on Day 4
+There is $1204.08 in the register
+All the items in the inventory are worth total of 809.2
+Buyer 1 purchased Mandolin for $74.0.
+Buyer 2 purchased Hats for $9.0 after a 10% discount.
+Buyer 3 purchased Guitar for $30.6 after a 10% discount.
+Buyer 4 purchased Guitar for $74.0.
+Buyer 5 purchased Shirts for $9.0.
+Buyer 6 purchased Vinyl for $10.8 after a 10% discount.
+Buyer 7 purchased Harmonica for $38.0.
+Buyer 8 purchased CDPlayer for $21.6 after a 10% discount.
+Velma bought a good condition Harmonica from Seller 1 for $0.66.
+Velma bought a fair condition Bandanas from Seller 2 for $1.0 after offering 10% more.
+Velma bought a poor condition Guitar from Seller 3 for $7.8 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 5
+There is $1461.61 in the register
+All the items in the inventory are worth total of 681.16
+Shaggy put in order for Hats for $42.72 on day 5
+Shaggy put in order for Hats for $7.24 on day 5
+Shaggy put in order for Hats for $36.68 on day 5
+Buyer 1 purchased Shirts for $10.0.
+Buyer 2 purchased PaperScore for $6.0.
+PaperScore out of stock, Buyer 3 left the store.
+Buyer 4 purchased MusicCD for $8.4.
+Buyer 5 purchased Harmonica for $36.0 after a 10% discount.
+Shaggy bought a good condition Harmonica from Seller 1 for $2.33.
+Shaggy bought a fair condition Guitar from Seller 2 for $10.25.
+Shaggy bought a good condition Strings from Seller 3 for $10.66.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
+Velma arrives at the store on Day 6
+There is $1412.13 in the register
+All the items in the inventory are worth total of 672.2
+Velma put in order for PaperScore for $47.08 on day 6
+Velma put in order for PaperScore for $27.29 on day 6
+Velma put in order for PaperScore for $22.55 on day 6
+Velma put in order for Hats for $33.75 on day 6
+Velma put in order for Hats for $30.8 on day 6
+Velma put in order for Hats for $8.16 on day 6
+Velma put in order for Shirts for $40.99 on day 6
+Velma put in order for Shirts for $3.33 on day 6
+Velma put in order for Shirts for $20.18 on day 6
+Buyer 1 purchased Mandolin for $70.0.
+PracticeAmps was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Mandolin for $66.0.
+PaperScore out of stock, Buyer 4 left the store.
+Velma bought a excellent condition Flute from Seller 1 for $32.0.
+Velma bought a poor condition MP3 from Seller 2 for $9.19 after offering 10% more.
+Velma bought a good condition Bandanas from Seller 3 for $1.66.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
 Store is closed on Sunday.
-Shaggy arrives at the store on Day 15
-Shaggy received Flute on day 15
-Shaggy received RecordPlayer on day 15
-Shaggy received Guitar on day 15
-Shaggy received Guitar on day 15
-Shaggy received Mandolin on day 15
-Shaggy received Bandanas on day 15
-There is $1968.42 in the register
-All the items in the inventory are worth total of 841.31
-Shaggy put in order for CDPlayer for $10.64 on day 15
-Shaggy put in order for CDPlayer for $22.32 on day 15
-Shaggy put in order for CDPlayer for $42.9 on day 15
-Shaggy put in order for Shirts for $18.54 on day 15
-Shaggy put in order for Shirts for $32.0 on day 15
-Shaggy put in order for Shirts for $33.6 on day 15
-Buyer 0 purchased MP3 for $46.54 after a 10% discount.
-Buyer 1 purchased Mandolin for $67.0.
-Buyer 2 purchased Bass for $48.0.
-Buyer 3 purchased Cables for $15.5.
-Buyer 4 purchased PaperScore for $90.82.
-Hats was too expensive, Buyer 5 left the store.
-Shaggy bought a excellent condition Strings from Seller 0 for $11.0.
-Shaggy bought a excellent condition Strings from Seller 1 for $35.0 after offering 10% more.
+Velma arrives at the store on Day 8
+Velma received Hats on day 8
+Velma received Hats on day 8
+Velma received PaperScore on day 8
+Velma received Hats on day 8
+Velma received Hats on day 8
+Velma received Shirts on day 8
+There is $1271.14 in the register
+All the items in the inventory are worth total of 798.97
+Velma put in order for Mandolin for $37.55 on day 8
+Velma put in order for Mandolin for $46.84 on day 8
+Velma put in order for Mandolin for $41.73 on day 8
+Buyer 1 purchased MusicCD for $8.0.
+Buyer 2 purchased PracticeAmps for $10.0.
+Buyer 3 purchased Bandanas for $5.4 after a 10% discount.
+Buyer 4 purchased Strings for $7.0.
+Velma bought a very good condition Vinyl from Seller 1 for $6.5 after offering 10% more.
+Velma bought a very good condition Bass from Seller 2 for $8.0 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Velma arrives at the store on Day 9
+Velma received Hats on day 9
+Velma received PaperScore on day 9
+Velma received Shirts on day 9
+Velma received Mandolin on day 9
+There is $1160.92 in the register
+All the items in the inventory are worth total of 910.48
+Velma put in order for MusicCD for $16.58 on day 9
+Velma put in order for MusicCD for $34.37 on day 9
+Velma put in order for MusicCD for $3.09 on day 9
+Buyer 1 purchased Bandanas for $10.8 after a 10% discount.
+MusicCD out of stock, Buyer 2 left the store.
+Buyer 3 purchased Mandolin for $75.11 after a 10% discount.
+MP3 was too expensive, Buyer 4 left the store.
+Seller 1 didn't accept the price, and left the store.
+Velma bought a excellent condition Cables from Seller 2 for $35.0.
+Velma damaged an item while cleaning.
+Velma went home for the day.
+Velma arrives at the store on Day 10
+Velma received PaperScore on day 10
+Velma received Shirts on day 10
+Velma received MusicCD on day 10
+There is $1157.79 in the register
+All the items in the inventory are worth total of 999.37
+Velma put in order for Mandolin for $29.32 on day 10
+Velma put in order for Mandolin for $42.4 on day 10
+Velma put in order for Mandolin for $22.71 on day 10
+Buyer 1 purchased Strings for $10.08 after a 10% discount.
+Buyer 2 purchased MusicCD for $61.86 after a 10% discount.
+Bass was too expensive, Buyer 3 left the store.
+Shirts was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Flute for $82.8 after a 10% discount.
+Buyer 6 purchased MP3 for $9.0 after a 10% discount.
+Velma bought a very good condition Mandolin from Seller 1 for $20.5.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 11
+Shaggy received Hats on day 11
+Shaggy received Mandolin on day 11
+Shaggy received Mandolin on day 11
+There is $1206.58 in the register
+All the items in the inventory are worth total of 1027.86
+Shaggy put in order for MusicCD for $42.47 on day 11
+Shaggy put in order for MusicCD for $43.54 on day 11
+Shaggy put in order for MusicCD for $14.36 on day 11
+Buyer 1 purchased Strings for $22.0.
+MP3 was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Strings for $14.0.
+Buyer 4 purchased Vinyl for $14.0.
+Shaggy bought a excellent condition Strings from Seller 1 for $11.0.
+Shaggy bought a excellent condition CDPlayer from Seller 2 for $1.0.
+Shaggy bought a excellent condition MP3 from Seller 3 for $2.0.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
+Shaggy arrives at the store on Day 12
+Shaggy received Mandolin on day 12
+Shaggy received MusicCD on day 12
+Shaggy received Mandolin on day 12
+There is $1142.2 in the register
+All the items in the inventory are worth total of 1099.9
+Buyer 1 purchased Shirts for $5.99 after a 10% discount.
+Buyer 2 purchased Guitar for $23.4 after a 10% discount.
+Buyer 3 purchased Guitar for $15.6.
+Buyer 4 purchased Guitar for $20.5.
+Buyer 5 purchased Strings for $19.2 after a 10% discount.
+Buyer 6 purchased Vinyl for $80.0.
+Buyer 7 purchased Cables for $9.0 after a 10% discount.
+Shaggy bought a fair condition Hats from Seller 1 for $3.5.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 13
+Velma received MusicCD on day 13
+Velma received MusicCD on day 13
+There is $1312.39 in the register
+All the items in the inventory are worth total of 1073.46
+Velma put in order for Guitar for $33.63 on day 13
+Velma put in order for Guitar for $40.46 on day 13
+Velma put in order for Guitar for $19.46 on day 13
+Buyer 1 purchased RecordPlayer for $66.0.
+Buyer 2 purchased Shirts for $81.98.
+Buyer 3 purchased Strings for $22.0.
+Buyer 4 purchased Shirts for $40.36.
+Hats was too expensive, Buyer 5 left the store.
+Vinyl was too expensive, Buyer 6 left the store.
+Buyer 7 purchased Vinyl for $11.7 after a 10% discount.
+Buyer 8 purchased Cables for $18.0 after a 10% discount.
+Velma bought a fair condition Vinyl from Seller 1 for $4.75 after offering 10% more.
+Velma bought a good condition Bandanas from Seller 2 for $11.66 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Store is closed on Sunday.
+Velma arrives at the store on Day 15
+Velma received Mandolin on day 15
+Velma received MusicCD on day 15
+Velma received Guitar on day 15
+There is $1442.47 in the register
+All the items in the inventory are worth total of 1052.35
+Velma put in order for Shirts for $20.64 on day 15
+Velma put in order for Shirts for $6.17 on day 15
+Velma put in order for Shirts for $37.14 on day 15
+Velma put in order for Strings for $3.78 on day 15
+Velma put in order for Strings for $10.43 on day 15
+Velma put in order for Strings for $34.81 on day 15
+Buyer 1 purchased Bass for $46.0.
+Buyer 2 purchased PracticeAmps for $30.0.
+Shirts out of stock, Buyer 3 left the store.
+Buyer 4 purchased Bandanas for $16.2 after a 10% discount.
+Velma bought a good condition Bandanas from Seller 1 for $6.66.
+Velma bought a excellent condition MP3 from Seller 2 for $30.0 after offering 10% more.
+Velma bought a good condition Guitar from Seller 3 for $5.33 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
 Shaggy arrives at the store on Day 16
-Shaggy received Vinyl on day 16
+Shaggy received MusicCD on day 16
 Shaggy received Guitar on day 16
-Shaggy received Mandolin on day 16
-Shaggy received Bandanas on day 16
-Shaggy received CDPlayer on day 16
 Shaggy received Shirts on day 16
-There is $2030.28 in the register
-All the items in the inventory are worth total of 855.17
-Shaggy put in order for Bass for $18.18 on day 16
-Shaggy put in order for Bass for $23.01 on day 16
-Shaggy put in order for Bass for $23.81 on day 16
-Buyer 0 purchased MP3 for $19.13 after a 10% discount.
-MP3 out of stock, Buyer 1 left the store.
-Buyer 2 purchased RecordPlayer for $39.11.
-Buyer 3 purchased RecordPlayer for $52.58.
-Shaggy bought a very good condition Strings from Seller 0 for $21.0 after offering 10% more.
+There is $1379.71 in the register
+All the items in the inventory are worth total of 1146.41
+Shaggy put in order for Strings for $18.48 on day 16
+Shaggy put in order for Strings for $8.47 on day 16
+Shaggy put in order for Strings for $38.59 on day 16
+Buyer 1 purchased Vinyl for $9.5.
+Buyer 2 purchased Cables for $30.0.
+Vinyl out of stock, Buyer 3 left the store.
+Vinyl out of stock, Buyer 4 left the store.
+Vinyl out of stock, Buyer 5 left the store.
+Strings out of stock, Buyer 6 left the store.
+Buyer 7 purchased RecordPlayer for $39.6 after a 10% discount.
+Buyer 8 purchased Mandolin for $41.0.
+Vinyl out of stock, Buyer 9 left the store.
+Shaggy bought a poor condition Mandolin from Seller 1 for $6.2.
+Shaggy bought a good condition Hats from Seller 2 for $14.66 after offering 10% more.
+Shaggy bought a poor condition Cables from Seller 3 for $9.8.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
 Velma arrives at the store on Day 17
-Velma received Hats on day 17
-Velma received Bandanas on day 17
+Velma received Guitar on day 17
 Velma received Shirts on day 17
-There is $2055.1 in the register
-All the items in the inventory are worth total of 931.55
-Velma put in order for MP3 for $46.26 on day 17
-Velma put in order for MP3 for $23.17 on day 17
-Velma put in order for MP3 for $46.85 on day 17
-Velma put in order for Bass for $1.56 on day 17
-Velma put in order for Bass for $42.03 on day 17
-Velma put in order for Bass for $8.64 on day 17
-CDPlayer was too expensive, Buyer 0 left the store.
-Buyer 1 purchased CDPlayer for $44.64.
-Bass out of stock, Buyer 2 left the store.
-Buyer 3 purchased MusicCD for $8.19.
-Buyer 4 purchased Vinyl for $13.26.
-Buyer 5 purchased Vinyl for $40.98 after a 10% discount.
-Velma bought a excellent condition Strings from Seller 0 for $36.0.
-Velma bought a very good condition Strings from Seller 1 for $15.5.
+Velma received Strings on day 17
+Velma received Strings on day 17
+There is $1403.61 in the register
+All the items in the inventory are worth total of 1228.02
+Velma put in order for Vinyl for $48.4 on day 17
+Velma put in order for Vinyl for $39.23 on day 17
+Velma put in order for Vinyl for $48.35 on day 17
+Buyer 1 purchased Bandanas for $2.0.
+Buyer 2 purchased Strings for $62.65 after a 10% discount.
+Buyer 3 purchased CDPlayer for $43.2 after a 10% discount.
+Buyer 4 purchased MP3 for $45.0 after a 10% discount.
+Buyer 5 purchased RecordPlayer for $22.0.
+Buyer 6 purchased PaperScore for $54.58.
+Strings was too expensive, Buyer 7 left the store.
+Velma bought a poor condition Guitar from Seller 1 for $8.8 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
 Shaggy arrives at the store on Day 18
-Shaggy received Mandolin on day 18
-Shaggy received CDPlayer on day 18
-Shaggy received Bass on day 18
-Shaggy received Bass on day 18
-Shaggy received MP3 on day 18
-There is $1942.15 in the register
-All the items in the inventory are worth total of 1094.55
-Shaggy put in order for Vinyl for $22.17 on day 18
-Shaggy put in order for Vinyl for $44.97 on day 18
-Shaggy put in order for Vinyl for $26.75 on day 18
-Buyer 0 purchased Flute for $81.48 after a 10% discount.
-Buyer 1 purchased Hats for $13.91 after a 10% discount.
-Flute was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Mandolin for $25.93 after a 10% discount.
-Buyer 4 purchased Mandolin for $64.02 after a 10% discount.
-Buyer 5 purchased Strings for $8.55 after a 10% discount.
-Vinyl out of stock, Buyer 6 left the store.
-Shaggy bought a fair condition Strings from Seller 0 for $1.5 after offering 10% more.
-Shaggy bought a very good condition Strings from Seller 1 for $6.5.
-Shaggy bought a very good condition Strings from Seller 2 for $19.0.
+Shaggy received Shirts on day 18
+Shaggy received Strings on day 18
+Shaggy received Vinyl on day 18
+There is $1488.25 in the register
+All the items in the inventory are worth total of 1184.01
+Shaggy put in order for RecordPlayer for $46.21 on day 18
+Shaggy put in order for RecordPlayer for $15.66 on day 18
+Shaggy put in order for RecordPlayer for $12.23 on day 18
+Buyer 1 purchased Hats for $85.44.
+Buyer 2 purchased Flute for $86.4 after a 10% discount.
+Buyer 3 purchased CDPlayer for $64.8 after a 10% discount.
+Buyer 4 purchased Shirts for $66.85 after a 10% discount.
+Buyer 5 purchased PaperScore for $40.59 after a 10% discount.
+Buyer 6 purchased Bandanas for $3.33.
+Buyer 7 purchased Harmonica for $1.2 after a 10% discount.
+Buyer 8 purchased MP3 for $81.0 after a 10% discount.
+Shaggy bought a good condition MusicCD from Seller 1 for $6.0.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
 Velma arrives at the store on Day 19
-Velma received CDPlayer on day 19
-Velma received Bass on day 19
-Velma received Bass on day 19
-There is $2015.15 in the register
-All the items in the inventory are worth total of 1049.03
-Velma put in order for Vinyl for $22.36 on day 19
-Velma put in order for Vinyl for $44.86 on day 19
-Velma put in order for Vinyl for $26.17 on day 19
-Velma put in order for Mandolin for $40.77 on day 19
-Velma put in order for Mandolin for $34.96 on day 19
-Velma put in order for Mandolin for $11.98 on day 19
-Buyer 0 purchased Bandanas for $63.62.
-Buyer 1 purchased Cables for $75.88 after a 10% discount.
-Cables out of stock, Buyer 2 left the store.
-Buyer 3 purchased PaperScore for $15.52.
-Velma bought a very good condition Strings from Seller 0 for $14.0 after offering 10% more.
+Velma received Strings on day 19
+Velma received Strings on day 19
+Velma received Vinyl on day 19
+Velma received RecordPlayer on day 19
+There is $1837.76 in the register
+All the items in the inventory are worth total of 1032.54
+Buyer 1 purchased MusicCD for $5.56 after a 10% discount.
+Buyer 2 purchased MP3 for $18.39.
+Buyer 3 purchased PaperScore for $94.16.
+Buyer 4 purchased Cables for $70.0.
+Velma bought a good condition RecordPlayer from Seller 1 for $9.0 after offering 10% more.
+Velma bought a poor condition Flute from Seller 2 for $8.4 after offering 10% more.
+Velma bought a good condition Bass from Seller 3 for $2.33 after offering 10% more.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
-Shaggy arrives at the store on Day 20
-Shaggy received Shirts on day 20
-Shaggy received MP3 on day 20
-Shaggy received Bass on day 20
-Shaggy received Vinyl on day 20
-Shaggy received Vinyl on day 20
-Shaggy received Mandolin on day 20
-There is $1975.06 in the register
-All the items in the inventory are worth total of 1115.23
-Shaggy put in order for Cables for $1.6 on day 20
-Shaggy put in order for Cables for $20.77 on day 20
-Shaggy put in order for Cables for $11.87 on day 20
-Buyer 0 purchased PracticeAmps for $45.0 after a 10% discount.
-Buyer 1 purchased Flute for $31.57 after a 10% discount.
-Mandolin was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Hats for $32.63 after a 10% discount.
-Shaggy bought a good condition Strings from Seller 0 for $2.33.
-Shaggy bought a fair condition Strings from Seller 1 for $2.0.
-Shaggy damaged an item while cleaning.
-Shaggy went home for the day.
+Velma arrives at the store on Day 20
+Velma received Strings on day 20
+Velma received RecordPlayer on day 20
+There is $2006.13 in the register
+All the items in the inventory are worth total of 1022.6
+Velma put in order for PaperScore for $35.54 on day 20
+Velma put in order for PaperScore for $24.73 on day 20
+Velma put in order for PaperScore for $29.65 on day 20
+Buyer 1 purchased Mandolin for $93.68.
+Buyer 2 purchased MusicCD for $29.84 after a 10% discount.
+Buyer 3 purchased Guitar for $80.92.
+CDPlayer was too expensive, Buyer 4 left the store.
+Buyer 5 purchased CDPlayer for $61.2 after a 10% discount.
+Strings was too expensive, Buyer 6 left the store.
+Velma bought a fair condition MusicCD from Seller 1 for $0.75 after offering 10% more.
+Velma bought a fair condition Cables from Seller 2 for $7.75 after offering 10% more.
+Velma bought a poor condition Flute from Seller 3 for $7.8 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
 Store is closed on Sunday.
-Shaggy arrives at the store on Day 22
-Shaggy received MP3 on day 22
-Shaggy received Vinyl on day 22
-Shaggy received Vinyl on day 22
-Shaggy received Mandolin on day 22
-Shaggy received Cables on day 22
-Shaggy received Cables on day 22
-There is $2045.69 in the register
-All the items in the inventory are worth total of 1203.92
-Shaggy put in order for PracticeAmps for $14.37 on day 22
-Shaggy put in order for PracticeAmps for $4.3 on day 22
-Shaggy put in order for PracticeAmps for $14.84 on day 22
-Hats was too expensive, Buyer 0 left the store.
-Buyer 1 purchased MusicCD for $8.4.
-Buyer 2 purchased Bandanas for $13.8.
-PracticeAmps out of stock, Buyer 3 left the store.
-Shaggy bought a very good condition Strings from Seller 0 for $24.0 after offering 10% more.
-Shaggy bought a very good condition Strings from Seller 1 for $4.0.
+Velma arrives at the store on Day 22
+Velma received Vinyl on day 22
+Velma received PaperScore on day 22
+There is $2165.54 in the register
+All the items in the inventory are worth total of 974.16
+MP3 was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Guitar for $10.66.
+Buyer 3 purchased MP3 for $4.0.
+Buyer 4 purchased PracticeAmps for $50.0.
+PracticeAmps out of stock, Buyer 5 left the store.
+Buyer 6 purchased Hats for $66.02 after a 10% discount.
+Buyer 7 purchased Vinyl for $70.61 after a 10% discount.
+Buyer 8 purchased Shirts for $11.1 after a 10% discount.
+Velma bought a excellent condition Hats from Seller 1 for $31.0.
+Velma bought a excellent condition CDPlayer from Seller 2 for $9.0.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Velma arrives at the store on Day 23
+Velma received RecordPlayer on day 23
+Velma received PaperScore on day 23
+There is $2337.92 in the register
+All the items in the inventory are worth total of 941.64
+Velma put in order for PracticeAmps for $18.63 on day 23
+Velma put in order for PracticeAmps for $25.14 on day 23
+Velma put in order for PracticeAmps for $3.71 on day 23
+Buyer 1 purchased Hats for $60.75 after a 10% discount.
+Buyer 2 purchased Shirts for $37.15 after a 10% discount.
+Buyer 3 purchased MusicCD for $87.08.
+Buyer 4 purchased MP3 for $54.0 after a 10% discount.
+PracticeAmps out of stock, Buyer 5 left the store.
+Buyer 6 purchased Mandolin for $40.87 after a 10% discount.
+Buyer 7 purchased Strings for $77.18.
+Strings was too expensive, Buyer 8 left the store.
+PracticeAmps out of stock, Buyer 9 left the store.
+Velma bought a fair condition Bass from Seller 1 for $7.25 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Velma arrives at the store on Day 24
+Velma received PaperScore on day 24
+Velma received PracticeAmps on day 24
+There is $2640.22 in the register
+All the items in the inventory are worth total of 820.34
+Velma put in order for MP3 for $15.42 on day 24
+Velma put in order for MP3 for $16.78 on day 24
+Velma put in order for MP3 for $31.74 on day 24
+Velma put in order for Shirts for $14.34 on day 24
+Velma put in order for Shirts for $40.8 on day 24
+Velma put in order for Shirts for $2.62 on day 24
+Buyer 1 purchased Mandolin for $67.59 after a 10% discount.
+MusicCD was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $23.33.
+Buyer 4 purchased CDPlayer for $2.0.
+MP3 out of stock, Buyer 5 left the store.
+Buyer 6 purchased RecordPlayer for $31.32.
+PaperScore was too expensive, Buyer 7 left the store.
+Velma bought a excellent condition Strings from Seller 1 for $30.0 after offering 10% more.
+Velma bought a very good condition RecordPlayer from Seller 2 for $11.5.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 25
+Shaggy received PracticeAmps on day 25
+Shaggy received MP3 on day 25
+Shaggy received Shirts on day 25
+There is $2601.26 in the register
+All the items in the inventory are worth total of 872.17
+Bass was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Bandanas for $13.33.
+Flute was too expensive, Buyer 3 left the store.
+Buyer 4 purchased CDPlayer for $18.0.
+Shaggy bought a very good condition RecordPlayer from Seller 1 for $17.5.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a poor condition Mandolin from Seller 3 for $3.4.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
-Velma arrives at the store on Day 23
-Velma received Bass on day 23
-Velma received Vinyl on day 23
-Velma received Cables on day 23
-Velma received PracticeAmps on day 23
-There is $2006.38 in the register
-All the items in the inventory are worth total of 1314.09
-Velma put in order for MusicCD for $7.4 on day 23
-Velma put in order for MusicCD for $19.64 on day 23
-Velma put in order for MusicCD for $25.39 on day 23
-Vinyl was too expensive, Buyer 0 left the store.
-Buyer 1 purchased Flute for $33.82.
-Buyer 2 purchased MP3 for $93.7.
-MusicCD out of stock, Buyer 3 left the store.
-Velma bought a fair condition Strings from Seller 0 for $8.25.
-Seller 1 didn't accept the price, and left the store.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
-Shaggy arrives at the store on Day 24
-Shaggy received Vinyl on day 24
-Shaggy received PracticeAmps on day 24
-Shaggy received MusicCD on day 24
-There is $2073.21 in the register
-All the items in the inventory are worth total of 1337.56
-Buyer 0 purchased Bass for $36.36.
-Buyer 1 purchased RecordPlayer for $3.74 after a 10% discount.
-Buyer 2 purchased Flute for $48.6 after a 10% discount.
-Buyer 3 purchased Vinyl for $53.5.
-Buyer 4 purchased Hats for $63.72.
-Buyer 5 purchased Flute for $44.96 after a 10% discount.
-Buyer 6 purchased Flute for $97.9.
-Buyer 7 purchased Guitar for $70.08.
-Buyer 8 purchased MusicCD for $35.35 after a 10% discount.
-Shaggy bought a good condition Strings from Seller 0 for $3.66 after offering 10% more.
-Shaggy bought a poor condition Strings from Seller 1 for $2.8.
-Shaggy damaged an item while cleaning.
-Shaggy went home for the day.
-Velma arrives at the store on Day 25
-Velma received Mandolin on day 25
-Velma received MusicCD on day 25
-There is $2520.94 in the register
-All the items in the inventory are worth total of 1151.9
-Velma put in order for Flute for $36.91 on day 25
-Velma put in order for Flute for $22.93 on day 25
-Velma put in order for Flute for $7.42 on day 25
-Velma put in order for Hats for $29.01 on day 25
-Velma put in order for Hats for $48.76 on day 25
-Velma put in order for Hats for $20.77 on day 25
-Buyer 0 purchased Strings for $19.2.
-Buyer 1 purchased PaperScore for $77.94 after a 10% discount.
-Buyer 2 purchased Cables for $3.2.
-Hats out of stock, Buyer 3 left the store.
-Flute out of stock, Buyer 4 left the store.
-Buyer 5 purchased Guitar for $53.89 after a 10% discount.
-Velma bought a very good condition Strings from Seller 0 for $12.5.
-Velma bought a poor condition Strings from Seller 1 for $8.8 after offering 10% more.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
 Shaggy arrives at the store on Day 26
 Shaggy received PracticeAmps on day 26
-Shaggy received Hats on day 26
-There is $2488.04 in the register
-All the items in the inventory are worth total of 1152.36
-Shaggy put in order for Flute for $30.1 on day 26
-Shaggy put in order for Flute for $1.35 on day 26
-Shaggy put in order for Flute for $32.82 on day 26
-Buyer 0 purchased Mandolin for $23.96.
-Buyer 1 purchased PaperScore for $14.46.
-Hats was too expensive, Buyer 2 left the store.
-Bass was too expensive, Buyer 3 left the store.
-Shaggy bought a good condition Strings from Seller 0 for $6.0.
-Shaggy bought a fair condition Strings from Seller 1 for $10.0.
-Shaggy bought a very good condition Strings from Seller 2 for $23.0.
+Shaggy received MP3 on day 26
+There is $2611.69 in the register
+All the items in the inventory are worth total of 912.86
+Shaggy put in order for CDPlayer for $22.87 on day 26
+Shaggy put in order for CDPlayer for $23.82 on day 26
+Shaggy put in order for CDPlayer for $36.12 on day 26
+Shaggy put in order for Bandanas for $35.45 on day 26
+Shaggy put in order for Bandanas for $42.68 on day 26
+Shaggy put in order for Bandanas for $42.74 on day 26
+Buyer 1 purchased MP3 for $33.56.
+Buyer 2 purchased MusicCD for $28.72.
+Buyer 3 purchased PracticeAmps for $50.28.
+Buyer 4 purchased PracticeAmps for $33.53 after a 10% discount.
+CDPlayer out of stock, Buyer 5 left the store.
+Buyer 6 purchased Strings for $20.86.
+Buyer 7 purchased Shirts for $73.44 after a 10% discount.
+Flute was too expensive, Buyer 8 left the store.
+Shaggy bought a excellent condition Mandolin from Seller 1 for $41.0.
+Shaggy bought a fair condition Flute from Seller 2 for $12.25 after offering 10% more.
+Shaggy bought a fair condition Cables from Seller 3 for $7.25 after offering 10% more.
+Shaggy damaged an item while cleaning.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 27
+Shaggy received MP3 on day 27
+Shaggy received Shirts on day 27
+Shaggy received CDPlayer on day 27
+There is $2587.9 in the register
+All the items in the inventory are worth total of 901.39
+Shaggy put in order for Bandanas for $34.21 on day 27
+Shaggy put in order for Bandanas for $4.42 on day 27
+Shaggy put in order for Bandanas for $49.17 on day 27
+MP3 was too expensive, Buyer 1 left the store.
+MusicCD was too expensive, Buyer 2 left the store.
+Buyer 3 purchased CDPlayer for $72.23.
+MP3 was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Cables for $17.64 after a 10% discount.
+Shaggy bought a good condition Cables from Seller 1 for $14.0.
+Shaggy bought a very good condition Harmonica from Seller 2 for $0.5.
+Shaggy bought a good condition PaperScore from Seller 3 for $8.33 after offering 10% more.
 Shaggy cleaned the store without breaking anything.
 Shaggy went home for the day.
-Velma arrives at the store on Day 27
-Velma received MusicCD on day 27
-Velma received Hats on day 27
-Velma received Flute on day 27
-There is $2423.19 in the register
-All the items in the inventory are worth total of 1256.65
-Buyer 0 purchased Guitar for $10.76 after a 10% discount.
-Buyer 1 purchased Mandolin for $73.38 after a 10% discount.
-Buyer 2 purchased RecordPlayer for $11.96.
-Buyer 3 purchased Strings for $24.66.
-Buyer 4 purchased CDPlayer for $77.22 after a 10% discount.
-Buyer 5 purchased Hats for $87.76 after a 10% discount.
-Buyer 6 purchased Shirts for $64.0.
-Buyer 7 purchased Shirts for $67.2.
-Velma bought a poor condition Strings from Seller 0 for $1.8 after offering 10% more.
-Velma bought a good condition Strings from Seller 1 for $15.33.
-Velma bought a fair condition Strings from Seller 2 for $2.75.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
 Store is closed on Sunday.
-Velma arrives at the store on Day 29
-Velma received Flute on day 29
-Velma received Flute on day 29
-Velma received Flute on day 29
-There is $2820.25 in the register
-All the items in the inventory are worth total of 1099.88
-Velma put in order for RecordPlayer for $2.69 on day 29
-Velma put in order for RecordPlayer for $3.8 on day 29
-Velma put in order for RecordPlayer for $29.11 on day 29
-Velma put in order for Guitar for $46.4 on day 29
-Velma put in order for Guitar for $11.9 on day 29
-Velma put in order for Guitar for $32.16 on day 29
-Buyer 0 purchased Mandolin for $69.92.
-Buyer 1 purchased Strings for $24.0.
-CDPlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Vinyl for $80.74 after a 10% discount.
-Buyer 4 purchased PaperScore for $4.7.
-Buyer 5 purchased Strings for $8.16 after a 10% discount.
-Velma bought a good condition Strings from Seller 0 for $4.0.
-Velma bought a excellent condition Strings from Seller 1 for $1.0 after offering 10% more.
-Velma cleaned the store without breaking anything.
-Velma went home for the day.
+Shaggy arrives at the store on Day 29
+Shaggy received Shirts on day 29
+Shaggy received CDPlayer on day 29
+Shaggy received Bandanas on day 29
+Shaggy received Bandanas on day 29
+There is $2567.13 in the register
+All the items in the inventory are worth total of 993.36
+Buyer 1 purchased Shirts for $5.24.
+Buyer 2 purchased RecordPlayer for $18.0.
+Buyer 3 purchased RecordPlayer for $66.54 after a 10% discount.
+Buyer 4 purchased Vinyl for $96.7.
+Buyer 5 purchased MP3 for $63.48.
+Buyer 6 purchased Bandanas for $85.36.
+Buyer 7 purchased PaperScore for $49.46.
+Buyer 8 purchased Harmonica for $4.2 after a 10% discount.
+Buyer 9 purchased RecordPlayer for $24.46.
+Shaggy bought a poor condition PracticeAmps from Seller 1 for $1.4.
+Seller 2 didn't accept the price, and left the store.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
 Velma arrives at the store on Day 30
-Velma received Flute on day 30
-Velma received Flute on day 30
-Velma received Guitar on day 30
-There is $2876.7 in the register
-All the items in the inventory are worth total of 1092.95
-Velma put in order for PaperScore for $27.55 on day 30
-Velma put in order for PaperScore for $12.49 on day 30
-Velma put in order for PaperScore for $39.92 on day 30
-Velma put in order for RecordPlayer for $27.46 on day 30
-Velma put in order for RecordPlayer for $18.82 on day 30
-Velma put in order for RecordPlayer for $36.94 on day 30
-Velma put in order for Mandolin for $10.72 on day 30
-Velma put in order for Mandolin for $4.61 on day 30
-Velma put in order for Mandolin for $30.91 on day 30
-Buyer 0 purchased Strings for $4.0.
-Buyer 1 purchased Flute for $60.2.
-Mandolin out of stock, Buyer 2 left the store.
-Buyer 3 purchased MusicCD for $14.8.
-Bandanas was too expensive, Buyer 4 left the store.
-Buyer 5 purchased CDPlayer for $19.15 after a 10% discount.
-CDPlayer out of stock, Buyer 6 left the store.
-Buyer 7 purchased Bandanas for $83.5 after a 10% discount.
-Velma bought a very good condition Strings from Seller 0 for $5.0 after offering 10% more.
-Seller 1 didn't accept the price, and left the store.
-Velma bought a poor condition Strings from Seller 2 for $1.8 after offering 10% more.
+Velma received CDPlayer on day 30
+Velma received Bandanas on day 30
+Velma received Bandanas on day 30
+There is $2979.17 in the register
+All the items in the inventory are worth total of 889.65
+Buyer 1 purchased MP3 for $30.84.
+Buyer 2 purchased Flute for $20.0.
+Buyer 3 purchased Harmonica for $0.9 after a 10% discount.
+Buyer 4 purchased Guitar for $35.02 after a 10% discount.
+Velma bought a good condition Mandolin from Seller 1 for $8.0 after offering 10% more.
+Velma bought a good condition Cables from Seller 2 for $16.33.
 Velma cleaned the store without breaking anything.
 Velma went home for the day.
 In the inventory, there remains:
-Harmonica Harmonica Strings Strings Strings Strings Strings Strings Strings Strings Strings Strings Strings Strings Strings Bass Strings Strings Strings Bass Bass Strings Shirts MP3 Bass Strings Strings MP3 Vinyl Vinyl Cables Strings Strings Bass Vinyl Cables PracticeAmps Strings Vinyl PracticeAmps Strings Strings Strings Strings PracticeAmps Strings Strings Strings MusicCD Hats Strings Strings Strings Flute Flute Flute Strings Strings Flute Flute Guitar Strings Strings
-with total value of $1003.22
-Shirts was sold on Day 1 at a price of $7.2
-PracticeAmps was sold on Day 1 at a price of $9.0
+Bass Flute Hats Bass Hats Hats Mandolin Hats Mandolin MusicCD Mandolin Hats Guitar Guitar MusicCD Strings Strings Flute Bass Strings MusicCD Cables Flute Vinyl Hats PaperScore Bass PaperScore Strings RecordPlayer RecordPlayer Mandolin PracticeAmps Mandolin Flute Cables Cables PaperScore Shirts CDPlayer Bandanas PracticeAmps CDPlayer Bandanas Bandanas Mandolin Cables
+with total value of $868.6
 PaperScore was sold on Day 1 at a price of $10.0
-Cables was sold on Day 1 at a price of $10.0
-PaperScore was sold on Day 1 at a price of $11.0
-Vinyl was sold on Day 1 at a price of $10.0
+Flute was sold on Day 1 at a price of $90.0
+MusicCD was sold on Day 1 at a price of $7.2
+Guitar was sold on Day 1 at a price of $48.6
+Bass was sold on Day 1 at a price of $39.6
+MusicCD was sold on Day 1 at a price of $7.38
+PaperScore was sold on Day 2 at a price of $9.9
 Hats was sold on Day 2 at a price of $30.0
-Mandolin was sold on Day 2 at a price of $66.6
-Bass was sold on Day 2 at a price of $44.0
-PracticeAmps was sold on Day 2 at a price of $30.0
-RecordPlayer was sold on Day 2 at a price of $59.4
-Cables was sold on Day 2 at a price of $18.0
-Flute was sold on Day 3 at a price of $81.0
-Guitar was sold on Day 3 at a price of $54.0
-Strings was sold on Day 3 at a price of $7.0
-Strings was sold on Day 3 at a price of $12.6
-MP3 was sold on Day 4 at a price of $9.0
-PaperScore was sold on Day 4 at a price of $5.4
-MP3 was sold on Day 4 at a price of $50.0
-RecordPlayer was sold on Day 4 at a price of $44.0
-Bandanas was sold on Day 4 at a price of $5.4
-Bass was sold on Day 5 at a price of $46.0
-Cables was sold on Day 5 at a price of $27.0
-MP3 was sold on Day 5 at a price of $90.0
-Flute was sold on Day 5 at a price of $92.0
-Strings was sold on Day 5 at a price of $19.8
-Mandolin was sold on Day 5 at a price of $70.0
-Bandanas was sold on Day 5 at a price of $12.0
-MusicCD was sold on Day 5 at a price of $7.2
-RecordPlayer was sold on Day 6 at a price of $22.0
-Strings was sold on Day 6 at a price of $19.2
-Hats was sold on Day 6 at a price of $18.0
+Harmonica was sold on Day 2 at a price of $32.4
+Hats was sold on Day 2 at a price of $20.0
+Vinyl was sold on Day 3 at a price of $9.0
+Shirts was sold on Day 3 at a price of $8.0
+Mandolin was sold on Day 4 at a price of $74.0
+Hats was sold on Day 4 at a price of $9.0
+Guitar was sold on Day 4 at a price of $30.6
+Guitar was sold on Day 4 at a price of $74.0
+Shirts was sold on Day 4 at a price of $9.0
+Vinyl was sold on Day 4 at a price of $10.8
+Harmonica was sold on Day 4 at a price of $38.0
+CDPlayer was sold on Day 4 at a price of $21.6
+Shirts was sold on Day 5 at a price of $10.0
+PaperScore was sold on Day 5 at a price of $6.0
+MusicCD was sold on Day 5 at a price of $8.4
+Harmonica was sold on Day 5 at a price of $36.0
+Mandolin was sold on Day 6 at a price of $70.0
 Mandolin was sold on Day 6 at a price of $66.0
-Strings was sold on Day 6 at a price of $29.0
-Flute was sold on Day 8 at a price of $96.0
-Cables was sold on Day 8 at a price of $89.1
-Bandanas was sold on Day 8 at a price of $18.0
-RecordPlayer was sold on Day 9 at a price of $8.15
-PaperScore was sold on Day 9 at a price of $47.37
-Vinyl was sold on Day 9 at a price of $12.0
-CDPlayer was sold on Day 9 at a price of $21.6
-Shirts was sold on Day 10 at a price of $8.1
-Harmonica was sold on Day 10 at a price of $36.0
-RecordPlayer was sold on Day 10 at a price of $83.88
-Bandanas was sold on Day 10 at a price of $86.5
-Vinyl was sold on Day 10 at a price of $12.6
-Bandanas was sold on Day 11 at a price of $61.68
-Hats was sold on Day 11 at a price of $10.0
-Mandolin was sold on Day 11 at a price of $85.8
-MP3 was sold on Day 12 at a price of $85.2
-Mandolin was sold on Day 12 at a price of $8.1
-Bandanas was sold on Day 12 at a price of $78.95
-Guitar was sold on Day 12 at a price of $34.0
-Guitar was sold on Day 12 at a price of $74.0
-CDPlayer was sold on Day 12 at a price of $48.0
-Mandolin was sold on Day 12 at a price of $30.64
-CDPlayer was sold on Day 13 at a price of $72.0
-Vinyl was sold on Day 13 at a price of $40.88
-Shirts was sold on Day 13 at a price of $9.0
-Strings was sold on Day 13 at a price of $35.0
-MP3 was sold on Day 15 at a price of $46.54
-Mandolin was sold on Day 15 at a price of $67.0
-Bass was sold on Day 15 at a price of $48.0
-Cables was sold on Day 15 at a price of $15.5
-PaperScore was sold on Day 15 at a price of $90.82
-MP3 was sold on Day 16 at a price of $19.13
-RecordPlayer was sold on Day 16 at a price of $39.11
-RecordPlayer was sold on Day 16 at a price of $52.58
-CDPlayer was sold on Day 17 at a price of $44.64
-MusicCD was sold on Day 17 at a price of $8.19
-Vinyl was sold on Day 17 at a price of $13.26
-Vinyl was sold on Day 17 at a price of $40.98
-Flute was sold on Day 18 at a price of $81.48
-Hats was sold on Day 18 at a price of $13.91
-Mandolin was sold on Day 18 at a price of $25.93
-Mandolin was sold on Day 18 at a price of $64.02
-Strings was sold on Day 18 at a price of $8.55
-Bandanas was sold on Day 19 at a price of $63.62
-Cables was sold on Day 19 at a price of $75.88
-PaperScore was sold on Day 19 at a price of $15.52
-PracticeAmps was sold on Day 20 at a price of $45.0
-Flute was sold on Day 20 at a price of $31.57
-Hats was sold on Day 20 at a price of $32.63
-MusicCD was sold on Day 22 at a price of $8.4
-Bandanas was sold on Day 22 at a price of $13.8
-Flute was sold on Day 23 at a price of $33.82
-MP3 was sold on Day 23 at a price of $93.7
-Bass was sold on Day 24 at a price of $36.36
-RecordPlayer was sold on Day 24 at a price of $3.74
-Flute was sold on Day 24 at a price of $48.6
-Vinyl was sold on Day 24 at a price of $53.5
-Hats was sold on Day 24 at a price of $63.72
-Flute was sold on Day 24 at a price of $44.96
-Flute was sold on Day 24 at a price of $97.9
-Guitar was sold on Day 24 at a price of $70.08
-MusicCD was sold on Day 24 at a price of $35.35
-Strings was sold on Day 25 at a price of $19.2
-PaperScore was sold on Day 25 at a price of $77.94
-Cables was sold on Day 25 at a price of $3.2
-Guitar was sold on Day 25 at a price of $53.89
-Mandolin was sold on Day 26 at a price of $23.96
-PaperScore was sold on Day 26 at a price of $14.46
-Guitar was sold on Day 27 at a price of $10.76
-Mandolin was sold on Day 27 at a price of $73.38
-RecordPlayer was sold on Day 27 at a price of $11.96
-Strings was sold on Day 27 at a price of $24.66
-CDPlayer was sold on Day 27 at a price of $77.22
-Hats was sold on Day 27 at a price of $87.76
-Shirts was sold on Day 27 at a price of $64.0
-Shirts was sold on Day 27 at a price of $67.2
-Mandolin was sold on Day 29 at a price of $69.92
-Strings was sold on Day 29 at a price of $24.0
-Vinyl was sold on Day 29 at a price of $80.74
-PaperScore was sold on Day 29 at a price of $4.7
-Strings was sold on Day 29 at a price of $8.16
-Strings was sold on Day 30 at a price of $4.0
-Flute was sold on Day 30 at a price of $60.2
-MusicCD was sold on Day 30 at a price of $14.8
-CDPlayer was sold on Day 30 at a price of $19.15
-Bandanas was sold on Day 30 at a price of $83.5
-with total Sale value of $4810.89
-There is $2842.12 in the Cash Register.
+MusicCD was sold on Day 8 at a price of $8.0
+PracticeAmps was sold on Day 8 at a price of $10.0
+Bandanas was sold on Day 8 at a price of $5.4
+Strings was sold on Day 8 at a price of $7.0
+Bandanas was sold on Day 9 at a price of $10.8
+Mandolin was sold on Day 9 at a price of $75.11
+Strings was sold on Day 10 at a price of $10.08
+MusicCD was sold on Day 10 at a price of $61.86
+Flute was sold on Day 10 at a price of $82.8
+MP3 was sold on Day 10 at a price of $9.0
+Strings was sold on Day 11 at a price of $22.0
+Strings was sold on Day 11 at a price of $14.0
+Vinyl was sold on Day 11 at a price of $14.0
+Shirts was sold on Day 12 at a price of $5.99
+Guitar was sold on Day 12 at a price of $23.4
+Guitar was sold on Day 12 at a price of $15.6
+Guitar was sold on Day 12 at a price of $20.5
+Strings was sold on Day 12 at a price of $19.2
+Vinyl was sold on Day 12 at a price of $80.0
+Cables was sold on Day 12 at a price of $9.0
+RecordPlayer was sold on Day 13 at a price of $66.0
+Shirts was sold on Day 13 at a price of $81.98
+Strings was sold on Day 13 at a price of $22.0
+Shirts was sold on Day 13 at a price of $40.36
+Vinyl was sold on Day 13 at a price of $11.7
+Cables was sold on Day 13 at a price of $18.0
+Bass was sold on Day 15 at a price of $46.0
+PracticeAmps was sold on Day 15 at a price of $30.0
+Bandanas was sold on Day 15 at a price of $16.2
+Vinyl was sold on Day 16 at a price of $9.5
+Cables was sold on Day 16 at a price of $30.0
+RecordPlayer was sold on Day 16 at a price of $39.6
+Mandolin was sold on Day 16 at a price of $41.0
+Bandanas was sold on Day 17 at a price of $2.0
+Strings was sold on Day 17 at a price of $62.65
+CDPlayer was sold on Day 17 at a price of $43.2
+MP3 was sold on Day 17 at a price of $45.0
+RecordPlayer was sold on Day 17 at a price of $22.0
+PaperScore was sold on Day 17 at a price of $54.58
+Hats was sold on Day 18 at a price of $85.44
+Flute was sold on Day 18 at a price of $86.4
+CDPlayer was sold on Day 18 at a price of $64.8
+Shirts was sold on Day 18 at a price of $66.85
+PaperScore was sold on Day 18 at a price of $40.59
+Bandanas was sold on Day 18 at a price of $3.33
+Harmonica was sold on Day 18 at a price of $1.2
+MP3 was sold on Day 18 at a price of $81.0
+MusicCD was sold on Day 19 at a price of $5.56
+MP3 was sold on Day 19 at a price of $18.39
+PaperScore was sold on Day 19 at a price of $94.16
+Cables was sold on Day 19 at a price of $70.0
+Mandolin was sold on Day 20 at a price of $93.68
+MusicCD was sold on Day 20 at a price of $29.84
+Guitar was sold on Day 20 at a price of $80.92
+CDPlayer was sold on Day 20 at a price of $61.2
+Guitar was sold on Day 22 at a price of $10.66
+MP3 was sold on Day 22 at a price of $4.0
+PracticeAmps was sold on Day 22 at a price of $50.0
+Hats was sold on Day 22 at a price of $66.02
+Vinyl was sold on Day 22 at a price of $70.61
+Shirts was sold on Day 22 at a price of $11.1
+Hats was sold on Day 23 at a price of $60.75
+Shirts was sold on Day 23 at a price of $37.15
+MusicCD was sold on Day 23 at a price of $87.08
+MP3 was sold on Day 23 at a price of $54.0
+Mandolin was sold on Day 23 at a price of $40.87
+Strings was sold on Day 23 at a price of $77.18
+Mandolin was sold on Day 24 at a price of $67.59
+Bandanas was sold on Day 24 at a price of $23.33
+CDPlayer was sold on Day 24 at a price of $2.0
+RecordPlayer was sold on Day 24 at a price of $31.32
+Bandanas was sold on Day 25 at a price of $13.33
+CDPlayer was sold on Day 25 at a price of $18.0
+MP3 was sold on Day 26 at a price of $33.56
+MusicCD was sold on Day 26 at a price of $28.72
+PracticeAmps was sold on Day 26 at a price of $50.28
+PracticeAmps was sold on Day 26 at a price of $33.53
+Strings was sold on Day 26 at a price of $20.86
+Shirts was sold on Day 26 at a price of $73.44
+CDPlayer was sold on Day 27 at a price of $72.23
+Cables was sold on Day 27 at a price of $17.64
+Shirts was sold on Day 29 at a price of $5.24
+RecordPlayer was sold on Day 29 at a price of $18.0
+RecordPlayer was sold on Day 29 at a price of $66.54
+Vinyl was sold on Day 29 at a price of $96.7
+MP3 was sold on Day 29 at a price of $63.48
+Bandanas was sold on Day 29 at a price of $85.36
+PaperScore was sold on Day 29 at a price of $49.46
+Harmonica was sold on Day 29 at a price of $4.2
+RecordPlayer was sold on Day 29 at a price of $24.46
+MP3 was sold on Day 30 at a price of $30.84
+Flute was sold on Day 30 at a price of $20.0
+Harmonica was sold on Day 30 at a price of $0.9
+Guitar was sold on Day 30 at a price of $35.02
+with total Sale value of $4399.79
+There is $3041.6 in the Cash Register.
 Total of $1000.0 was withdrawn from the bank.

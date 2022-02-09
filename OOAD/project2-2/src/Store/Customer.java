@@ -98,7 +98,7 @@ public class Customer {
 
         //purchase price is based on the condition
         price = price / (5 - condition);
-        System.out.printf("Value of roll: " + roll + " \n");
+        //System.out.printf("Value of roll: " + roll + " \n");
 
         switch(roll){
             case 0: {
