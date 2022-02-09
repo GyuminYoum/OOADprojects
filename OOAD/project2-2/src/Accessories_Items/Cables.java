@@ -3,9 +3,9 @@ package Accessories_Items;
 import Items.Accessories;
 
 public class Cables extends Accessories {
-    private Double length;
+    private double length;
 
-    public Cables(String name1, Double price1,  Boolean nou, Integer day1, Integer con1,  Double len1) {
+    public Cables(String name1, double price1,  boolean nou, int day1, int con1,  double len1) {
         super(name1, price1, nou, day1, con1);
         length = len1;
     }
@@ -14,7 +14,7 @@ public class Cables extends Accessories {
         return length;
     }
 
-    public void set_length(Double wats1) {
+    public void set_length(double wats1) {
         length = wats1;
     }
 }
