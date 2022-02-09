@@ -198,9 +198,9 @@ public class Customer {
             Store.add_Inventory(random_item);
 
             if (discount == 1) {
-                System.out.printf(Store.get_OnShift() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + "from" + this.name + " " + this.num + "for $" + random_item.get_purchasePrice() + ".\n");
+                System.out.printf(Store.get_OnShift().get_name() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
             } else {
-                System.out.printf(Store.get_OnShift() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + "from" + this.name + " " + this.num + "for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                System.out.printf(Store.get_OnShift().get_name() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
             }
 
         } else {
