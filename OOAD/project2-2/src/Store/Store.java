@@ -22,7 +22,8 @@ import Staff.Clerk;
 import java.util.ArrayList;
 import java.util.Random;
 
-
+//example of encapsulation
+//most attributes are private so getters and setters are used to access them.
 public class Store {
 
     public static Random Rng = new Random();
@@ -30,10 +31,10 @@ public class Store {
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
     private static ArrayList<Items> Inventory= new ArrayList<Items>();
+    //list of clerks
     private static ArrayList<Clerk> Clerk_member=new ArrayList<Clerk>();
     //private static HashMap<String, int> Inventory_stock= new HashMap<String, int>();
     private static double Inventory_value=0.0;
-
     private static int daysPassed=1;
     private static double total_salePrice=0.0;
     private static double money_added=0.0;
@@ -47,7 +48,10 @@ public class Store {
     private static String[] staff_names={"Velma", "Shaggy"};
 
 
-
+    //setter to initialize the store
+    //$0 balance in cash register, simulation starts from day 1
+    //inventory is initialized with 3 of each item
+    //Clerk_Member is initialized with clerk objecys shaggy and velma
     public static void Build(){
         //initialize all the variables
         Cash_Register=0.0;
@@ -189,14 +193,14 @@ public class Store {
     }
 
   */
-
+    //getter for Item_list
     public static String[] get_ItemList(){
         return Item_list;
     }
 
     //makes sure no clerk works more than 3 days in a row
     //randomly rolls between clerk member and picks whos working
-    //every 7th day, no one does days passed is incremented.
+    //every 7th day, no one works, days passed is incremented.
     public static void pickOnShift() {
         int days=0;
         Random rng=new Random();
