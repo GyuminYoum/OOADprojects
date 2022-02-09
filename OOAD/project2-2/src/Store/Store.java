@@ -25,6 +25,8 @@ import java.util.Random;
 
 public class Store {
 
+    public static Random Rng = new Random();
+    public static int roll;
 
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
@@ -40,7 +42,7 @@ public class Store {
     private static ArrayList<Items> Order_list= new ArrayList<Items>();
     private static ArrayList<Items> Sold_list=new ArrayList<Items>();
     private static double money_withdrawn=0.0;
-    private static String[] Item_list={"PaperScore", "MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
+    private static String[] Item_list={"PaperScore","MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
             "Guitar","Bass","Mandolin","Flute","Harmonica","Hats","Shirts","Bandanas","PracticeAmps",
             "Cables","Strings"};
     private static String[] staff_names={"Velma", "Shaggy"};
@@ -268,6 +270,7 @@ public class Store {
 
 
 
+
     //////////////////////////
     //functions for register//
     //////////////////////////
@@ -275,6 +278,10 @@ public class Store {
     //getter
     public static double get_Register(){
         return Cash_Register;
+
+    public static Double get_Register(){
+        return Math.floor(Cash_Register * 100) /100;
+
     }
     //adds to register
     public static void add_Register(double value1){
@@ -355,7 +362,6 @@ public class Store {
 
     //Item getters
     public static Items get_Item(int x){
-
         return Inventory.get(x);
     }
 
@@ -400,13 +406,13 @@ public class Store {
 
         }
         System.out.println(" ");
-        System.out.println("with total value of "+ get_InventoryValue());
+        System.out.println("with total value of $"+ get_InventoryValue());
         for(int i=0; i<get_soldListSize(); i++){
             item_name=Sold_list.get(i).get_name();
-            System.out.println(item_name+" was sold on "+ Sold_list.get(i).get_daySold()+" at price of $"+Sold_list.get(i).get_salePrice());
+            System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
         }
-        System.out.println("with total Sale value of "+ get_soldValue());
-        System.out.println("There is $"+ Cash_Register+" in the Cash Register.");
+        System.out.println("with total Sale value of $"+ get_soldValue());
+        System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
     public static void Pay(double amount){
