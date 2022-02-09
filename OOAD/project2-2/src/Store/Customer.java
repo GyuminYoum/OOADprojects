@@ -1,6 +1,21 @@
 package Store;
 
+import Accessories_Items.Cables;
+import Accessories_Items.PracticeAmps;
+import Accessories_Items.Strings;
+import Clothing_Items.Bandanas;
+import Clothing_Items.Hats;
+import Clothing_Items.Shirts;
+import Instruments_Items.Stringed_Items.Bass;
+import Instruments_Items.Stringed_Items.Guitar;
+import Instruments_Items.Stringed_Items.Mandolin;
+import Instruments_Items.wind_Items.Flute;
+import Instruments_Items.wind_Items.Harmonica;
 import Items.Items;
+import Music_Items.PaperScore;
+import Music_Items.Vinyl;
+import Players_Items.MP3;
+import Players_Items.RecordPlayer;
 
 import java.util.Random;
 
@@ -50,6 +65,7 @@ public class Customer {
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
 
+                //print statement depending on discount
                 if (discount == 1) {
                     System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + ".\n");
                 } else {
@@ -60,44 +76,139 @@ public class Customer {
                 System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
             }
 
-
-
         } else {
             System.out.printf(wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.\n");
         }
-
-
-
-        //pick random item that customer wants
-        //if not in stock, leave
-        //else 50% chance to buy
-
-        //if not buy, offer 10% discount
-            //75% chance to buy
-
-        //if buy:
-            //update daySold and salePrice
-            //remove from store inventory
-            //add to soldItems collection
     }
 
     public void Sell(){
-        /*Items random_item;
+        Items random_item = null;
         int roll;
         Random Rng= new Random();
         roll=Rng.nextInt(17);
         int day=Store.get_daysPassed();
+
+        double price =Rng.nextInt(49)+1;
+        int condition=Rng.nextInt(5);
+        boolean used=Rng.nextBoolean();
+
+        //purchase price is based on the condition
+        price = price / (5 - condition);
+
         switch(roll){
-            case 0:
+            case 0: {
+                int names = Rng.nextInt(3);
+                int names1 = Rng.nextInt(3);
+                String[] band_names = {"band1", "band2", "band3"};
+                String[] album_names = {"album1", "album2", "album3"};
+                random_item = new PaperScore("PaperScore", price,used,day,condition, band_names[names], album_names[names1]);
+            }
+            case 1:{
+                int names=Rng.nextInt(3);
+                int names1=Rng.nextInt(3);
                 String[] band_names={"band1","band2","band3"};
                 String[] album_names={"album1","album2","album3"};
-                int price=Rng.nextInt(49)+1;
-                //Double price1=price;
-                int condition=Rng.nextInt(5);
-                Boolean used=Rng.nextBoolean();
-                int names=Rng.nextInt(3);
-                //random_item= new PaperScore("PaperScore", pricef,used,day,condition,band_names[names],album_names[names]);
-        }*/
+                random_item= new Music_Items.CD("MusicCD", price,used,day,condition,band_names[names],album_names[names1]);
+            }
+
+            case 2: {
+                int names = Rng.nextInt(3);
+                int names1 = Rng.nextInt(3);
+                String[] band_names = {"band1", "band2", "band3"};
+                String[] album_names = {"album1", "album2", "album3"};
+                random_item = new Vinyl("Vinyl", price,used,day,condition, band_names[names], album_names[names1]);
+            }
+            case 3:
+                random_item = new Players_Items.CD("CDPlayer", price,used,day,condition);
+            case 4:
+                random_item = new RecordPlayer("CDPlayer", price,used,day,condition);
+            case 5:
+                random_item = new MP3("CDPlayer", price,used,day,condition);
+            case 6: {
+                boolean electric=Rng.nextBoolean();
+                random_item = new Guitar("Guitar", price, used, day, condition, electric);
+            }
+            case 7: {
+                boolean electric=Rng.nextBoolean();
+                random_item = new Bass("Bass", price, used, day, condition, electric);
+            }
+            case 8: {
+                boolean electric=Rng.nextBoolean();
+                random_item = new Mandolin("Mandolin", price, used, day, condition, electric);
+            }
+            case 9: {
+                int type = Rng.nextInt(6);
+                String[] typeF = {"Standard", "Piccolo", "Plastic", "Wooden", "Alto", "Bass"};
+                random_item = new Flute("Flute", price, used, day, condition, typeF[type]);
+            }
+            case 10: {
+                int key = Rng.nextInt(6);
+                String[] keyH = {"A", "B", "C", "D", "E", "F", "G"};
+                random_item = new Harmonica("Harmonica", price, used, day, condition, keyH[key]);
+            }
+            case 11: {
+                double hatSize = (Rng.nextInt(4)) + 5;
+                double temp = Rng.nextInt(4);
+                temp /= 4;
+                hatSize += temp;
+                random_item = new Hats("Hats", price, used, day, condition, hatSize);
+            }
+            case 12: {
+                int size = Rng.nextInt(5);
+                String[] shirtSize = {"XS", "S", "M", "L", "XL"};
+                random_item = new Shirts("Shirts", price, used, day, condition, shirtSize[size]);
+            }
+            case 13:
+                random_item = new Bandanas("Bandanas", price, used, day, condition);
+            case 14: {
+                int wattage = (Rng.nextInt(100) + 1) * 5;
+                random_item = new PracticeAmps("PracticeAmps", price, used, day, condition, wattage);
+            }
+            case 15: {
+                double length = Rng.nextInt(25) + 1;
+                random_item = new Cables("Cables", price, used, day, condition, length);
+            }
+            case 16: {
+                int type = Rng.nextInt(5);
+                String[] typeS = {"Violin", "Cello", "Guitar", "Bass", "Mandolin"};
+                random_item = new Strings("Cables", price, used, day, condition, typeS[type]);
+            }
+
+        }
+
+        double rand1 = Math.random();
+        double rand2 = Math.random();
+        boolean bought = false;
+        double discount = 1;
+
+        if (rand1 < 0.5) {
+            bought = true;
+        }
+        else if (rand2 < 0.75) {
+            bought = true;
+            discount = 1.1;
+        }
+
+        if (bought) {
+            if (Store.get_Register() - random_item.get_purchasePrice() < 0) {
+                Store.get_OnShift().GoToBank();
+            }
+            random_item.set_dayArrived(Store.get_daysPassed());
+            Store.set_Register(Store.get_Register() - random_item.get_purchasePrice());
+
+            Store.add_Inventory(random_item);
+
+            if (discount == 1) {
+                System.out.printf(Store.get_OnShift() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + "from" + this.name + " " + this.num + "for $" + random_item.get_purchasePrice() + ".\n");
+            } else {
+                System.out.printf(Store.get_OnShift() + "bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + "from" + this.name + " " + this.num + "for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+            }
+
+        } else {
+            System.out.printf(this.name + " " + this.num + "didn't accept the price, and left the store.\n");
+        }
+
+
     }
 
 

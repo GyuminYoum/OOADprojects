@@ -251,7 +251,7 @@ public class Store {
     }
 
     public static Double get_Register(){
-        return Cash_Register;
+        return Math.floor(Cash_Register * 100) /100;
     }
     public static void add_Register(Double value1){
         Cash_Register+=value1;
@@ -349,10 +349,10 @@ public class Store {
         System.out.println("with total value of "+ get_InventoryValue());
         for(int i=0; i<get_soldListSize(); i++){
             item_name=Sold_list.get(i).get_name();
-            System.out.println(item_name+" was sold on "+ Sold_list.get(i).get_daySold()+" at price of $"+Sold_list.get(i).get_salePrice());
+            System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
         }
         System.out.println("with total Sale value of "+ get_soldValue());
-        System.out.println("There is $"+ Cash_Register+" in the Cash Register.");
+        System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
     public static void Pay(Double amount){

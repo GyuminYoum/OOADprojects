@@ -54,6 +54,10 @@ public class Items {
     public Integer get_condition(){
         return condition;
     }
+    public String get_conditionS() {
+        String[] condition = {"poor", "fair", "good", "very good", "excellent"};
+        return condition[get_condition()];
+    }
     public void set_condition(Integer condition1){
         condition=condition1;
     }
