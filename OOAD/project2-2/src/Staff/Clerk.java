@@ -230,12 +230,12 @@ public class Clerk extends Staff{
         sell_count+=1;
         for(int i=0; i<buy_count;i++){
             Customer person=new Customer();
-            person.setName(i, "Buyer");
+            person.setName(i + 1, "Buyer");
             person.Buy();
         }
         for(int j=0; j<sell_count;j++){
             Customer person=new Customer();
-            person.setName(j, "Seller");
+            person.setName(j + 1, "Seller");
             person.Sell();
         }
     }

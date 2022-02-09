@@ -28,7 +28,7 @@ public class Items {
         name=name1;
     }
     public double get_purchasePrice(){
-        return purchasePrice;
+        return Math.floor(purchasePrice * 100) / 100;
     }
     public void set_purchasePrice(double price1){
         purchasePrice=price1;
@@ -54,7 +54,11 @@ public class Items {
     public int get_condition(){
         return condition;
     }
-    public void set_condition(int condition1){
+    public String get_conditionS() {
+        String[] condition = {"poor", "fair", "good", "very good", "excellent"};
+        return condition[get_condition()];
+    }
+    public void set_condition(Integer condition1){
         condition=condition1;
     }
     public double get_salePrice(){
