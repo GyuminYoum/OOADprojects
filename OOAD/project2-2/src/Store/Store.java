@@ -26,11 +26,14 @@ import java.util.Random;
 
 public class Store {
 
+
     private static Double Cash_Register=0.0;
+
     //arraylist of Item objects to represent inventory
     private static ArrayList<Items> Inventory= new ArrayList<Items>();
     private static ArrayList<Clerk> Clerk_member=new ArrayList<Clerk>();
     private static HashMap<String, Integer> Inventory_stock= new HashMap<String, Integer>();
+
     private static Double Inventory_value=0.0;
     private static int daysPassed=1;
     private static Double total_salePrice=0.0;
@@ -243,9 +246,10 @@ public class Store {
     public static void set_daysPassed(int days1){
         daysPassed=days1;
     }
-    public static Integer get_daysPassed(){
+    public static int get_daysPassed() {
         return daysPassed;
     }
+
     public static Double get_Register(){
         return Cash_Register;
     }
@@ -259,22 +263,30 @@ public class Store {
     public static ArrayList<Items> get_orders(){
         return Order_list;
     }
+
     public static void add_orders(Items item1){
         Order_list.add(item1);
     }
     public static Integer get_orderSize(){
         return Order_list.size();
     }
+    public static double get_moneyWithdrawn(){
+        return money_withdrawn;
+    }
+    public static void add_moneyWithdrawn(float value1){
+        money_withdrawn+=value1;
+
+    }
 
     //for DoInventory function for clerk
-    public static Double get_InventoryValue(){
-        Double total_value=0.0;
+    public static double get_InventoryValue(){
+        double total_value=0.0;
         for (int i=0; i< Inventory.size(); i++){
             total_value+=Inventory.get(i).get_purchasePrice();
         }
         return total_value;
     }
-    public static Integer get_InventorySize(){
+    public static int get_InventorySize(){
         return Inventory.size();
     }
     public static Double get_soldValue(){
@@ -289,15 +301,16 @@ public class Store {
     }
 
     public static Items get_Item(Integer x){
+
         return Inventory.get(x);
     }
     public static void add_Inventory(Items item1){
         Inventory.add(item1);
     }
-    public static void remove_Inventory(Integer i){
+    public static void remove_Inventory(int i){
         Inventory.remove(i);
     }
-    public static void set_moneyWithdrawn(Double money){
+    public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
     public static Double get_moneyWithdrawn(){
