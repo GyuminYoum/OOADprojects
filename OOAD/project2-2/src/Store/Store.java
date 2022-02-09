@@ -275,7 +275,6 @@ public class Store {
     }
     public static void add_moneyWithdrawn(float value1){
         money_withdrawn+=value1;
-
     }
 
     //for DoInventory function for clerk
@@ -299,6 +298,15 @@ public class Store {
     public static Integer get_soldListSize(){
         return Sold_list.size();
     }
+    public static void add_soldItem(Items item1) {Sold_list.add(item1);}
+
+    /*public static ArrayList<String> get_Inventory() {
+        ArrayList<String> inv = new ArrayList<String>();
+        for(Items i : Inventory) {
+            inv.add(i.get_name());
+        }
+        return inv;
+    }*/
 
     public static Items get_Item(Integer x){
 
@@ -308,6 +316,9 @@ public class Store {
         Inventory.add(item1);
     }
     public static void remove_Inventory(int i){
+        Inventory.remove(i);
+    }
+    public static void remove_Inventory_buy(String i){
         Inventory.remove(i);
     }
     public static void set_moneyWithdrawn(double money){

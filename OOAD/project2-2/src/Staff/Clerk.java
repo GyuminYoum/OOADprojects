@@ -228,11 +228,14 @@ public class Clerk extends Staff{
         buy_count+=4;
         sell_count=rng.nextInt(3);
         sell_count+=1;
-        Customer person=new Customer();
         for(int i=0; i<buy_count;i++){
+            Customer person=new Customer();
+            person.setName(i, "Buyer");
             person.Buy();
         }
         for(int j=0; j<sell_count;j++){
+            Customer person=new Customer();
+            person.setName(j, "Seller");
             person.Sell();
         }
     }
