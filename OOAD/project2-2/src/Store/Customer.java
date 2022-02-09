@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 package Store;
 
 import Accessories_Items.Cables;
@@ -18,8 +17,6 @@ import Music_Items.PaperScore;
 import Music_Items.Vinyl;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
-
-import java.util.Random;
 
 import static Store.Store.Rng;
 import static Store.Store.roll;
@@ -222,4 +219,3 @@ public class Customer {
 
 
 }
->>>>>>> 7f464af455b37b04c93751ec9bc2b4631353aa15

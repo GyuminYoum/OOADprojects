@@ -82,8 +82,6 @@ public class Clerk extends Staff{
         for(int i=0; i<item_names.length; i++){
             if(Store.check_stock(item_names[i])==0){
                 this.PlaceAnOrder(item_names[i]);
-                this.PlaceAnOrder(item_names[i]);
-                this.PlaceAnOrder(item_names[i]);
             }
         }
     }
@@ -113,111 +111,116 @@ public class Clerk extends Staff{
         String[] type1={"Violin", "Cello", "Guitar"};
         String string_type;
 
-        name=name1;
-        condition=rng.nextInt(4);
-        purchasePrice= 1+(50)*rng.nextDouble();
-        purchasePrice=Math.round(purchasePrice*100)/100.0;
-        newOrUsed=rng.nextBoolean();
-        band_name=band_list[rng.nextInt(3)];
-        album_name=album_list[rng.nextInt(3)];
-        day_arrived=(rng.nextInt(3)+1+Store.get_daysPassed());
-        Electric=rng.nextBoolean();
-        Flute_Type=type[rng.nextInt(3)];
-        Harmonica_Key=key[rng.nextInt(3)];
-        Shirt_Size=size[rng.nextInt(3)];
-        Hat_Size=1+(9)*rng.nextDouble();
-        wattage=rng.nextInt(100)+1;
-        length=1+(99)*rng.nextDouble();
-        string_type=type1[rng.nextInt(3)];
-
 
         //if else statements to convert names to actual instantiated objects
-        if (name1=="PaperScore"){
-            PaperScore item1=new PaperScore(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
+        if (Store.already_ordered(name1)==false){
+            for (int i=0; i<3; i++){
+                name=name1;
+                condition=rng.nextInt(4);
+                purchasePrice= 1+(50)*rng.nextDouble();
+                purchasePrice=Math.round(purchasePrice*100)/100.0;
+                newOrUsed=rng.nextBoolean();
+                band_name=band_list[rng.nextInt(3)];
+                album_name=album_list[rng.nextInt(3)];
+                day_arrived=(rng.nextInt(3)+1+Store.get_daysPassed());
+                Electric=rng.nextBoolean();
+                Flute_Type=type[rng.nextInt(3)];
+                Harmonica_Key=key[rng.nextInt(3)];
+                Shirt_Size=size[rng.nextInt(3)];
+                Hat_Size=1+(9)*rng.nextDouble();
+                wattage=rng.nextInt(100)+1;
+                length=1+(99)*rng.nextDouble();
+                string_type=type1[rng.nextInt(3)];
+
+                if (name1=="PaperScore"){
+                    PaperScore item1=new PaperScore(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="MusicCD"){
+                    CD item1=new CD(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Vinyl"){
+                    Vinyl item1=new Vinyl(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="CDPlayer"){
+                    Players_Items.CD item1=new Players_Items.CD(name,purchasePrice,newOrUsed, day_arrived,condition);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="RecordPlayer"){
+                    RecordPlayer item1=new RecordPlayer(name,purchasePrice,newOrUsed, day_arrived,condition);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="MP3"){
+                    MP3 item1=new MP3(name,purchasePrice,newOrUsed, day_arrived,condition);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Guitar"){
+                    Guitar item1=new Guitar(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Bass"){
+                    Bass item1=new Bass(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Mandolin"){
+                    Mandolin item1=new Mandolin(name,purchasePrice,newOrUsed, day_arrived,condition, Electric);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Flute"){
+                    Flute item1=new Flute(name,purchasePrice,newOrUsed, day_arrived,condition, Flute_Type);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Harmonica"){
+                    Harmonica item1=new Harmonica(name,purchasePrice,newOrUsed, day_arrived,condition, Harmonica_Key);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Hats"){
+                    Hats item1=new Hats(name,purchasePrice,newOrUsed, day_arrived,condition, Hat_Size);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Shirts"){
+                    Shirts item1=new Shirts(name,purchasePrice,newOrUsed, day_arrived,condition, Shirt_Size);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Bandanas"){
+                    Bandanas item1=new Bandanas(name,purchasePrice,newOrUsed, day_arrived,condition);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="PracticeAmps"){
+                    PracticeAmps item1=new PracticeAmps(name,purchasePrice,newOrUsed, day_arrived,condition,wattage);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Cables"){
+                    Cables item1=new Cables(name,purchasePrice,newOrUsed, day_arrived,condition,length);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                else if (name1=="Strings"){
+                    Strings item1=new Strings(name,purchasePrice,newOrUsed, day_arrived,condition,string_type);
+                    Store.add_orders(item1);
+                    Store.Pay(purchasePrice);
+                }
+                System.out.println(this.get_name()+" put in order for "+ name +" for $"+purchasePrice+" on day "+Store.get_daysPassed());
+            }
+
         }
-        else if (name1=="MusicCD"){
-            CD item1=new CD(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Vinyl"){
-            Vinyl item1=new Vinyl(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="CDPlayer"){
-            Players_Items.CD item1=new Players_Items.CD(name,purchasePrice,newOrUsed, day_arrived,condition);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="RecordPlayer"){
-            RecordPlayer item1=new RecordPlayer(name,purchasePrice,newOrUsed, day_arrived,condition);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="MP3"){
-            MP3 item1=new MP3(name,purchasePrice,newOrUsed, day_arrived,condition);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Guitar"){
-            Guitar item1=new Guitar(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Bass"){
-            Bass item1=new Bass(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Mandolin"){
-            Mandolin item1=new Mandolin(name,purchasePrice,newOrUsed, day_arrived,condition, Electric);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Flute"){
-            Flute item1=new Flute(name,purchasePrice,newOrUsed, day_arrived,condition, Flute_Type);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Harmonica"){
-            Harmonica item1=new Harmonica(name,purchasePrice,newOrUsed, day_arrived,condition, Harmonica_Key);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Hats"){
-            Hats item1=new Hats(name,purchasePrice,newOrUsed, day_arrived,condition, Hat_Size);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Shirts"){
-            Shirts item1=new Shirts(name,purchasePrice,newOrUsed, day_arrived,condition, Shirt_Size);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Bandanas"){
-            Bandanas item1=new Bandanas(name,purchasePrice,newOrUsed, day_arrived,condition);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="PracticeAmps"){
-            PracticeAmps item1=new PracticeAmps(name,purchasePrice,newOrUsed, day_arrived,condition,wattage);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Cables"){
-            Cables item1=new Cables(name,purchasePrice,newOrUsed, day_arrived,condition,length);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        else if (name1=="Strings"){
-            Strings item1=new Strings(name,purchasePrice,newOrUsed, day_arrived,condition,string_type);
-            Store.add_orders(item1);
-            Store.Pay(purchasePrice);
-        }
-        System.out.println(this.get_name()+" put in order for "+ name +" for $"+purchasePrice+" on day "+Store.get_daysPassed());
     }
 
     public void OpenTheStore() {

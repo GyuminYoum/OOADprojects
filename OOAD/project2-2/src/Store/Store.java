@@ -191,7 +191,6 @@ public class Store {
 
   */
 
-
     public static String[] get_ItemList(){
         return Item_list;
     }
@@ -276,9 +275,6 @@ public class Store {
     //////////////////////////
 
     //getter
-    public static double get_Register(){
-        return Cash_Register;
-
     public static Double get_Register(){
         return Math.floor(Cash_Register * 100) /100;
 
@@ -290,6 +286,15 @@ public class Store {
     //setter
     public static void set_Register(double value1){
         Cash_Register=value1;
+    }
+    public static boolean already_ordered(String name1){
+        boolean status=false;
+        for (int i=0; i<Order_list.size(); i++){
+            if(Order_list.get(i).get_name()==name1){
+                status=true;
+            }
+        }
+        return status;
     }
 
     ////////////////////////////
