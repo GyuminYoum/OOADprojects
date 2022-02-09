@@ -271,9 +271,6 @@ public class Store {
     public static int get_orderSize(){
         return Order_list.size();
     }
-    public static double get_moneyWithdrawn(){
-        return money_withdrawn;
-    }
     public static void add_moneyWithdrawn(float value1){
         money_withdrawn+=value1;
 
