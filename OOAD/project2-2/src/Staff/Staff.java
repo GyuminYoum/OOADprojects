@@ -1,6 +1,7 @@
 package Staff;
 
-public class Staff {
+//example of abstraction
+abstract class Staff {
 
     private String name;
 
@@ -8,7 +9,7 @@ public class Staff {
         name = name1;
     }
 
-    public String get_name(){
+    public String get_name() {
         return name;
     }
 
