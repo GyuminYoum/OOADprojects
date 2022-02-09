@@ -271,13 +271,13 @@ public class Store {
     public static int get_orderSize(){
         return Order_list.size();
     }
-
-
+<<<<<<< HEAD
+=======
   
     public static double get_moneyWithdrawn(){
         return money_withdrawn;
     }
-
+>>>>>>> 597c6c644512582f8fc2b076e634b67c4c80899d
     public static void add_moneyWithdrawn(float value1){
         money_withdrawn+=value1;
     }
