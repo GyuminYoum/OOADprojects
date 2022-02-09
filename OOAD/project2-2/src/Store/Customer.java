@@ -55,6 +55,7 @@ public class Customer {
                 int i = 0;
                 int j = 0;
                 Items soldItem = null;
+                //loop to find index of item being sold by store
                 while (i < Store.get_InventorySize()) {
                     if (wantedItem.equals(Store.get_Item(i).get_name())) {
                         soldItem = Store.get_Item(i);
@@ -64,8 +65,10 @@ public class Customer {
                         i++;
                     }
                 }
+                //set item's daySold, salePrice
                 soldItem.set_daySold(Store.get_daysPassed());
                 soldItem.set_salePrice(Math.floor((soldItem.get_listPrice() * discount)*100)/100);
+                //remove item from inventory, add to SoldItem's list, add money to register
                 Store.remove_Inventory(j);
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
@@ -215,11 +218,9 @@ public class Customer {
         }
 
         if (bought) {
-            if (Store.get_Register() - random_item.get_purchasePrice() < 0) {
-                Store.get_OnShift().GoToBank();
-            }
+
+            Store.Pay(random_item.get_purchasePrice());
             random_item.set_dayArrived(Store.get_daysPassed());
-            Store.set_Register(Store.get_Register() - random_item.get_purchasePrice());
 
             Store.add_Inventory(random_item);
 
