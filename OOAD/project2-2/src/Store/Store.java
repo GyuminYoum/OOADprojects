@@ -313,9 +313,7 @@ public class Store {
     public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
-    public static Double get_moneyWithdrawn(){
-        return money_withdrawn;
-    }
+
     public static void add_moneyWithdrawn(Float value1){
         money_withdrawn+=value1;
     }

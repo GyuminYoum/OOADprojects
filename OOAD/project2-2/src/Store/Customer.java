@@ -2,11 +2,42 @@ package Store;
 
 import Items.Items;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Customer {
     public void Buy(){
+        ArrayList<String> items = new ArrayList<String>();
 
+        items.add("Paper Score");
+        items.add("CD");
+        items.add("Vinyl");
+        items.add("CD Player");
+        items.add("Record Player");
+        items.add("MP3");
+        items.add("Guitar");
+        items.add("Bass");
+        items.add("Mandolin");
+        items.add("Flute");
+        items.add("Harmonica");
+        items.add("Hat");
+        items.add("Shirt");
+        items.add("Bandana");
+        items.add("Practice Amp");
+        items.add("Cable");
+        items.add("String");
+
+        //pick random item that customer wants
+        //if not in stock, leave
+        //else 50% chance to buy
+
+        //if not buy, offer 10% discount
+            //75% chance to buy
+
+        //if buy:
+            //update daySold and salePrice
+            //remove from store inventory
+            //add to soldItems collection
     }
 
     public void Sell(){
