@@ -19,6 +19,8 @@ import Players_Items.RecordPlayer;
 
 import java.util.Random;
 
+import static Store.Store.Rng;
+
 public class Customer {
     private int num;
     private String name;
@@ -27,10 +29,13 @@ public class Customer {
         num = i;
     }
 
+    private int roll;
+    //private Random Rng= new Random();
+
     public void Buy(){
         //rand int from 0-16
-        int customerChoice = new Random().nextInt(17);
-        String wantedItem = Store.get_ItemList()[customerChoice];
+        roll= Rng.nextInt(17);
+        String wantedItem = Store.get_ItemList()[roll];
 
         if (Store.check_stock(wantedItem) > 0) {
             double rand1 = Math.random();
@@ -83,8 +88,7 @@ public class Customer {
 
     public void Sell(){
         Items random_item = null;
-        int roll;
-        Random Rng= new Random();
+
         roll=Rng.nextInt(17);
         int day=Store.get_daysPassed();
 
@@ -118,12 +122,15 @@ public class Customer {
                 String[] album_names = {"album1", "album2", "album3"};
                 random_item = new Vinyl("Vinyl", price,used,day,condition, band_names[names], album_names[names1]);
             }
-            case 3:
-                random_item = new Players_Items.CD("CDPlayer", price,used,day,condition);
-            case 4:
-                random_item = new RecordPlayer("CDPlayer", price,used,day,condition);
-            case 5:
-                random_item = new MP3("CDPlayer", price,used,day,condition);
+            case 3: {
+                random_item = new Players_Items.CD("CDPlayer", price, used, day, condition);
+            }
+            case 4: {
+                random_item = new RecordPlayer("RecordPlayer", price, used, day, condition);
+            }
+            case 5: {
+                random_item = new MP3("MP3", price, used, day, condition);
+            }
             case 6: {
                 boolean electric=Rng.nextBoolean();
                 random_item = new Guitar("Guitar", price, used, day, condition, electric);
@@ -158,8 +165,9 @@ public class Customer {
                 String[] shirtSize = {"XS", "S", "M", "L", "XL"};
                 random_item = new Shirts("Shirts", price, used, day, condition, shirtSize[size]);
             }
-            case 13:
+            case 13: {
                 random_item = new Bandanas("Bandanas", price, used, day, condition);
+            }
             case 14: {
                 int wattage = (Rng.nextInt(100) + 1) * 5;
                 random_item = new PracticeAmps("PracticeAmps", price, used, day, condition, wattage);
@@ -171,7 +179,7 @@ public class Customer {
             case 16: {
                 int type = Rng.nextInt(5);
                 String[] typeS = {"Violin", "Cello", "Guitar", "Bass", "Mandolin"};
-                random_item = new Strings("Cables", price, used, day, condition, typeS[type]);
+                random_item = new Strings("Strings", price, used, day, condition, typeS[type]);
             }
         }
 

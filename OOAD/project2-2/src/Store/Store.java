@@ -25,6 +25,7 @@ import java.util.Random;
 
 public class Store {
 
+    public static Random Rng = new Random();
 
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
@@ -40,7 +41,7 @@ public class Store {
     private static ArrayList<Items> Order_list= new ArrayList<Items>();
     private static ArrayList<Items> Sold_list=new ArrayList<Items>();
     private static double money_withdrawn=0.0;
-    private static String[] Item_list={"PaperScore", "MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
+    private static String[] Item_list={"PaperScore","MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
             "Guitar","Bass","Mandolin","Flute","Harmonica","Hats","Shirts","Bandanas","PracticeAmps",
             "Cables","Strings"};
     private static String[] staff_names={"Velma", "Shaggy"};
@@ -285,7 +286,7 @@ public class Store {
         for (int i=0; i< Inventory.size(); i++){
             total_value+=Inventory.get(i).get_purchasePrice();
         }
-        return total_value;
+        return Math.floor(total_value * 100) / 100;
     }
     public static int get_InventorySize(){
         return Inventory.size();
@@ -350,7 +351,7 @@ public class Store {
 
         }
         System.out.println(" ");
-        System.out.println("with total value of "+ get_InventoryValue());
+        System.out.println("with total value of $"+ get_InventoryValue());
         for(int i=0; i<get_soldListSize(); i++){
             item_name=Sold_list.get(i).get_name();
             System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
