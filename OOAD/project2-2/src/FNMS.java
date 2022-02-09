@@ -1,6 +1,10 @@
 import Staff.Clerk;
 import Store.Store;
 
+//class FNMS for simulation
+//Store.Build() to initialize inventory and staff list as well as other necessary attributes.
+//for 30days, the onshift staff is picked and staff performs all the functions below each day.
+//afterwards, report is created and printed
 public class FNMS {
 
     public static void initialize(){

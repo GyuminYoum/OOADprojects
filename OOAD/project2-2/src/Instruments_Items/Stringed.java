@@ -15,5 +15,6 @@ public class Stringed extends Instruments {
     public void set_electric(boolean bool1){
         electric=bool1;
     }
+
 }
 

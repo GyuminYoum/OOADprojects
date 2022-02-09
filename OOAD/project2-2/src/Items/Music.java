@@ -22,5 +22,17 @@ public class Music extends Items {
     public void set_album(String name2){
         album=name2;
     }
+    public void printAtts(){
+        System.out.println("name: "+get_name());
+        System.out.println("purchasePrice: "+get_purchasePrice());
+        System.out.println("listPrice: "+get_listPrice());
+        System.out.println("newOrUsed: "+get_newOrUsed());
+        System.out.println("dayArrived: "+get_dayArrived());
+        System.out.println("condition: "+get_condition());
+        System.out.println("salePrice: "+get_salePrice());
+        System.out.println("daySold: "+get_daySold());
+        System.out.println("band: "+band);
+        System.out.println("album: "+album);
+    }
 }
 
