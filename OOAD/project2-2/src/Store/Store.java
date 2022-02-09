@@ -381,18 +381,18 @@ public class Store {
     public static void remove_Inventory(int i){
         Inventory.remove(i);
     }
-    public static void remove_Inventory_buy(String i){
+    /*public static void remove_Inventory_buy(String i){
         Inventory.remove(i);
-    }
+    }*/
 
 
     //moneyWithdrawn getters and setters
     public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
-    public static void add_moneyWithdrawn(Float value1){
+    /*public static void add_moneyWithdrawn(Float value1){
         money_withdrawn+=value1;
-    }
+    }*/
     /*
     //don't need it as of now
     public void AddStaff(Staff worker) {
@@ -438,7 +438,6 @@ public class Store {
     public void RemoveStaff(Staff worker) {
         staff_member.remove((staff_member.indexOf(worker)));
     }
-
          */
     }
 }
