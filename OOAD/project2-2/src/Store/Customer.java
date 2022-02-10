@@ -238,7 +238,7 @@ public class Customer {
         if (bought) {
 
             //pay purchasePrice to customer, set dayArrived, add item to inventory
-            Store.Pay(random_item.get_purchasePrice());
+            Store.Pay(random_item.get_purchasePrice() * discount);
             random_item.set_dayArrived(Store.get_daysPassed());
             Store.add_Inventory(random_item);
 
