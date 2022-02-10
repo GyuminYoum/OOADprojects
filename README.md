@@ -9,9 +9,9 @@ Implementations/Assumptions:
 - Attributes are randomly determined when an order is placed for out-of-stock items
 - PurchasePrice is proportional to condition, however price is still determined randomly
   - Excellent: 100% of purchasePrice
-  - Very good: 80% of purchasePrice
-  - Good: 60% of purchasePrice
-  - Fair: 40% of purchasePrice
+  - Very good: 50% of purchasePrice
+  - Good: 33% of purchasePrice
+  - Fair: 25% of purchasePrice
   - Poor: 20% of purchasePrice
 
 UML diagram changes:
