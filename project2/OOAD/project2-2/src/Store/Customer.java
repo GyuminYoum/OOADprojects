@@ -18,6 +18,7 @@ import Music_Items.Vinyl;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
 
+//imported from Store so that only 1 instance of Rng exists, instead of instantiating multiple instances
 import static Store.Store.Rng;
 
 public class Customer {
@@ -34,6 +35,7 @@ public class Customer {
         //rand int from 0-16
         int roll;
         roll= Rng.nextInt(17);
+        //pick item category based on RNG
         String wantedItem = Store.get_ItemList()[roll];
 
         if (Store.check_stock(wantedItem) > 0) {
@@ -54,33 +56,37 @@ public class Customer {
                 int i = 0;
                 int j = 0;
                 Items soldItem = null;
+                //loop to find index of item being sold by store
                 while (i < Store.get_InventorySize()) {
                     if (wantedItem.equals(Store.get_Item(i).get_name())) {
                         soldItem = Store.get_Item(i);
+                        //saves index of chosen item
                         j = i;
                         i = Store.get_InventorySize();
                     } else {
                         i++;
                     }
                 }
+                //set item's daySold, salePrice
                 soldItem.set_daySold(Store.get_daysPassed());
                 soldItem.set_salePrice(Math.floor((soldItem.get_listPrice() * discount)*100)/100);
+                //remove item from inventory, add to SoldItem ArrayList, add money to register
                 Store.remove_Inventory(j);
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
 
-                //print statement depending on discount
+                //print statement depends on discount
                 if (discount == 1) {
                     System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + ".\n");
                 } else {
                     System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.\n");
                 }
-
             } else {
+                //if item is in stock but too expensive
                 System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
             }
-
         } else {
+            //if item is out of stock
             System.out.printf(wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.\n");
         }
     }
@@ -88,10 +94,11 @@ public class Customer {
     public void Sell(){
         Items random_item = null;
         int roll;
-
+        //using random.nextInt() to determine which item Customer is selling
         roll=Rng.nextInt(17);
         int day=Store.get_daysPassed();
 
+        //Clerk randomly determines item's price, condition, and new/used
         double price =Rng.nextInt(49)+1;
         int condition=Rng.nextInt(5);
         boolean used=Rng.nextBoolean();
@@ -100,8 +107,10 @@ public class Customer {
         price = price / (5 - condition);
         //System.out.printf("Value of roll: " + roll + " \n");
 
+        //match random int "roll" to each type of item
         switch(roll){
             case 0: {
+                //extra variables needed for constructor call
                 int names = Rng.nextInt(3);
                 int names1 = Rng.nextInt(3);
                 String[] band_names = {"band1", "band2", "band3"};
@@ -110,6 +119,7 @@ public class Customer {
                 break;
             }
             case 1:{
+                //extra variables needed for constructor call
                 int names=Rng.nextInt(3);
                 int names1=Rng.nextInt(3);
                 String[] band_names={"band1","band2","band3"};
@@ -118,6 +128,7 @@ public class Customer {
                 break;
             }
             case 2: {
+                //extra variables needed for constructor call
                 int names = Rng.nextInt(3);
                 int names1 = Rng.nextInt(3);
                 String[] band_names = {"band1", "band2", "band3"};
@@ -143,28 +154,33 @@ public class Customer {
                 break;
             }
             case 7: {
+                //extra variable needed for constructor call
                 boolean electric=Rng.nextBoolean();
                 random_item = new Bass("Bass", price, used, day, condition, electric);
                 break;
             }
             case 8: {
+                //extra variables needed for constructor call
                 boolean electric=Rng.nextBoolean();
                 random_item = new Mandolin("Mandolin", price, used, day, condition, electric);
                 break;
             }
             case 9: {
+                //extra variables needed for constructor call
                 int type = Rng.nextInt(6);
                 String[] typeF = {"Standard", "Piccolo", "Plastic", "Wooden", "Alto", "Bass"};
                 random_item = new Flute("Flute", price, used, day, condition, typeF[type]);
                 break;
             }
             case 10: {
+                //extra variables needed for constructor call
                 int key = Rng.nextInt(6);
                 String[] keyH = {"A", "B", "C", "D", "E", "F", "G"};
                 random_item = new Harmonica("Harmonica", price, used, day, condition, keyH[key]);
                 break;
             }
             case 11: {
+                //extra variables needed for constructor call
                 double hatSize = (Rng.nextInt(4)) + 5;
                 double temp = Rng.nextInt(4);
                 temp /= 4;
@@ -173,6 +189,7 @@ public class Customer {
                 break;
             }
             case 12: {
+                //extra variables needed for constructor call
                 int size = Rng.nextInt(5);
                 String[] shirtSize = {"XS", "S", "M", "L", "XL"};
                 random_item = new Shirts("Shirts", price, used, day, condition, shirtSize[size]);
@@ -183,16 +200,19 @@ public class Customer {
                 break;
             }
             case 14: {
+                //extra variable needed for constructor call
                 int wattage = (Rng.nextInt(100) + 1) * 5;
                 random_item = new PracticeAmps("PracticeAmps", price, used, day, condition, wattage);
                 break;
             }
             case 15: {
+                //extra variable needed for constructor call
                 double length = Rng.nextInt(25) + 1;
                 random_item = new Cables("Cables", price, used, day, condition, length);
                 break;
             }
             case 16: {
+                //extra variables needed for constructor call
                 int type = Rng.nextInt(5);
                 String[] typeS = {"Violin", "Cello", "Guitar", "Bass", "Mandolin"};
                 random_item = new Strings("Strings", price, used, day, condition, typeS[type]);
@@ -205,6 +225,7 @@ public class Customer {
         boolean bought = false;
         double discount = 1;
 
+        //determines discount and if Customer sells item
         if (rand1 < 0.5) {
             bought = true;
         }
@@ -213,22 +234,23 @@ public class Customer {
             discount = 1.1;
         }
 
+        //if Customer sells item
         if (bought) {
-            if (Store.get_Register() - random_item.get_purchasePrice() < 0) {
-                Store.get_OnShift().GoToBank();
-            }
-            random_item.set_dayArrived(Store.get_daysPassed());
-            Store.set_Register(Store.get_Register() - random_item.get_purchasePrice());
 
+            //pay purchasePrice to customer, set dayArrived, add item to inventory
+            random_item.set_purchasePrice(random_item.get_purchasePrice() * discount);
+            Store.Pay(random_item.get_purchasePrice());
+            random_item.set_dayArrived(Store.get_daysPassed());
             Store.add_Inventory(random_item);
 
+            //print statement depends on discount
             if (discount == 1) {
                 System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
             } else {
                 System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
             }
-
         } else {
+            //if Customer doesn't accept Clerk's purchasePrice
             System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
         }
 
