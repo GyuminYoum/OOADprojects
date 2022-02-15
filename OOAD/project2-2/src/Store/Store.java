@@ -22,17 +22,19 @@ import Staff.Clerk;
 import java.util.ArrayList;
 import java.util.Random;
 
-
+//example of encapsulation
+//most attributes are private so getters and setters are used to access them.
 public class Store {
 
+    public static Random Rng = new Random();
 
     private static double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
     private static ArrayList<Items> Inventory= new ArrayList<Items>();
+    //list of clerks
     private static ArrayList<Clerk> Clerk_member=new ArrayList<Clerk>();
     //private static HashMap<String, int> Inventory_stock= new HashMap<String, int>();
     private static double Inventory_value=0.0;
-
     private static int daysPassed=1;
     private static double total_salePrice=0.0;
     private static double money_added=0.0;
@@ -40,13 +42,16 @@ public class Store {
     private static ArrayList<Items> Order_list= new ArrayList<Items>();
     private static ArrayList<Items> Sold_list=new ArrayList<Items>();
     private static double money_withdrawn=0.0;
-    private static String[] Item_list={"PaperScore", "MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
+    private static String[] Item_list={"PaperScore","MusicCD","Vinyl","CDPlayer","RecordPlayer","MP3",
             "Guitar","Bass","Mandolin","Flute","Harmonica","Hats","Shirts","Bandanas","PracticeAmps",
             "Cables","Strings"};
     private static String[] staff_names={"Velma", "Shaggy"};
 
 
-
+    //setter to initialize the store
+    //$0 balance in cash register, simulation starts from day 1
+    //inventory is initialized with 3 of each item
+    //Clerk_Member is initialized with clerk objecys shaggy and velma
     public static void Build(){
         //initialize all the variables
         Cash_Register=0.0;
@@ -172,6 +177,7 @@ public class Store {
     }
 
  /*
+ //testing builds
     public static void test1(){
         Clerk Velma=new Clerk("Velma");
         Clerk Shaggy=new Clerk("Shaggy");
@@ -187,10 +193,14 @@ public class Store {
     }
 
   */
+    //getter for Item_list
     public static String[] get_ItemList(){
         return Item_list;
     }
+
     //makes sure no clerk works more than 3 days in a row
+    //randomly rolls between clerk member and picks whos working
+    //every 7th day, no one works, days passed is incremented.
     public static void pickOnShift() {
         int days=0;
         Random rng=new Random();
@@ -223,13 +233,17 @@ public class Store {
             //return OnShift;
         }
     }
+    //getter for ONShift
     public static Clerk get_OnShift(){
         return OnShift;
     }
+
+    //setter for daysPassed for testing
     public static void set_days(int int1){
         daysPassed=int1;
     }
 
+    //iterate through and check stock for all
     public static int check_stock(String name1){
         int count=0;
         for (int i=0; i< Inventory.size(); i++){
@@ -240,34 +254,64 @@ public class Store {
         return count;
     }
 
+    ////////////////////////////
+    //functions for daysPassed//
+    ///////////////////////////
+
     public static void increment_daysPassed() {
         daysPassed += 1;
     }
-
+    //setter
     public static void set_daysPassed(int days1){
         daysPassed=days1;
     }
-
+    //getter
     public static int get_daysPassed(){
         return daysPassed;
     }
-    public static double get_Register(){
-        return Cash_Register;
+
+
+
+
+    //////////////////////////
+    //functions for register//
+    //////////////////////////
+
+    //getter
+    public static Double get_Register(){
+        return Math.floor(Cash_Register * 100) /100;
+
     }
+    //adds to register
     public static void add_Register(double value1){
         Cash_Register+=value1;
     }
+    //setter
     public static void set_Register(double value1){
         Cash_Register=value1;
     }
+    public static boolean already_ordered(String name1){
+        boolean status=false;
+        for (int i=0; i<Order_list.size(); i++){
+            if(Order_list.get(i).get_name()==name1){
+                status=true;
+            }
+        }
+        return status;
+    }
 
+    ////////////////////////////
+    //functions for order_list//
+    ///////////////////////////
+    //getter for order-list
     public static ArrayList<Items> get_orders(){
         return Order_list;
     }
-
+    //adds to order_list
     public static void add_orders(Items item1){
         Order_list.add(item1);
     }
+    //returns size of order list
     public static int get_orderSize(){
         return Order_list.size();
     }
@@ -288,21 +332,31 @@ public class Store {
         for (int i=0; i< Inventory.size(); i++){
             total_value+=Inventory.get(i).get_purchasePrice();
         }
-        return total_value;
+        return Math.floor(total_value * 100) / 100;
     }
+
+    //returns invnetory size
     public static int get_InventorySize(){
         return Inventory.size();
     }
+
+    ///////////////////////////////////
+    //functions related to sold list//
+    //////////////////////////////////
+
+   //totaling up values in sold list
     public static double get_soldValue(){
         double total_value=0.0;
         for (int i=0; i< Sold_list.size(); i++){
             total_value+=Sold_list.get(i).get_salePrice();
         }
-        return total_value;
+        return Math.floor(total_value * 100) / 100;
     }
+    //get size of sold list
     public static int get_soldListSize(){
         return Sold_list.size();
     }
+    //adding to sold list
     public static void add_soldItem(Items item1) {Sold_list.add(item1);}
 
     /*public static ArrayList<String> get_Inventory() {
@@ -314,25 +368,31 @@ public class Store {
     }*/
 
 
+    //Item getters
     public static Items get_Item(int x){
-
         return Inventory.get(x);
     }
+
+    //inventory getters setters
     public static void add_Inventory(Items item1){
         Inventory.add(item1);
     }
+    //removing from inventory arraylist
     public static void remove_Inventory(int i){
         Inventory.remove(i);
     }
-    public static void remove_Inventory_buy(String i){
+    /*public static void remove_Inventory_buy(String i){
         Inventory.remove(i);
-    }
+    }*/
+
+
+    //moneyWithdrawn getters and setters
     public static void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
-    public static void add_moneyWithdrawn(Float value1){
+    /*public static void add_moneyWithdrawn(Float value1){
         money_withdrawn+=value1;
-    }
+    }*/
     /*
     //don't need it as of now
     public void AddStaff(Staff worker) {
@@ -343,6 +403,7 @@ public class Store {
     }
 
      */
+    //report function for everthing at the end.
     public static void Report(){
         System.out.println("In the inventory, there remains: ");
         String item_name;
@@ -353,13 +414,13 @@ public class Store {
 
         }
         System.out.println(" ");
-        System.out.println("with total value of "+ get_InventoryValue());
+        System.out.println("with total value of $"+ get_InventoryValue());
         for(int i=0; i<get_soldListSize(); i++){
             item_name=Sold_list.get(i).get_name();
-            System.out.println(item_name+" was sold on "+ Sold_list.get(i).get_daySold()+" at price of $"+Sold_list.get(i).get_salePrice());
+            System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
         }
-        System.out.println("with total Sale value of "+ get_soldValue());
-        System.out.println("There is $"+ Cash_Register+" in the Cash Register.");
+        System.out.println("with total Sale value of $"+ get_soldValue());
+        System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
     public static void Pay(double amount){
@@ -377,7 +438,6 @@ public class Store {
     public void RemoveStaff(Staff worker) {
         staff_member.remove((staff_member.indexOf(worker)));
     }
-
          */
     }
 }
