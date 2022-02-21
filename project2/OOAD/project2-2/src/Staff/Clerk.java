@@ -19,6 +19,7 @@ import Players_Items.RecordPlayer;
 import Store.Customer;
 import Store.Store;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Clerk extends Staff{
@@ -102,13 +103,13 @@ public class Clerk extends Staff{
     //returns N/A
     public void DoInventory() {
         double inven_value=Store.get_InventoryValue();
-        String[] item_names=Store.get_ItemList();
+        ArrayList<String> item_names=Store.get_ItemList();
         //testrun
         //String[] item_names={"PaperScore","Soccer"};
         System.out.println("All the items in the inventory are worth total of "+ inven_value);
-        for(int i=0; i<item_names.length; i++){
-            if(Store.check_stock(item_names[i])==0){
-                this.PlaceAnOrder(item_names[i]);
+        for(int i=0; i<item_names.size(); i++){
+            if(Store.check_stock(item_names.get(i))==0){
+                this.PlaceAnOrder(item_names.get(i));
             }
         }
     }
@@ -120,7 +121,7 @@ public class Clerk extends Staff{
     //item is then added to the order_list attribute and Cash_Register balance is decreased by purchasePrice
     //returns N/A
     public void PlaceAnOrder(String name1){
-        String[] names1=Store.get_ItemList();
+        ArrayList<String> names1=Store.get_ItemList();
         Random rng=new Random();
         String name;
         double purchasePrice;

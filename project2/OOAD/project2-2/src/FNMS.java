@@ -6,7 +6,6 @@ import Store.Store;
 //for 30days, the onshift staff is picked and staff performs all the functions below each day.
 //afterwards, report is created and printed
 public class FNMS {
-
     public static void initialize(){
         Store.Build();
     }
