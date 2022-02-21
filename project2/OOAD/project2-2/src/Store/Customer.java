@@ -36,7 +36,7 @@ public class Customer {
         int roll;
         roll= Rng.nextInt(17);
         //pick item category based on RNG
-        String wantedItem = Store.get_ItemList()[roll];
+        String wantedItem = Store.get_ItemList().get(roll);
 
         if (Store.check_stock(wantedItem) > 0) {
             double rand1 = Math.random();
