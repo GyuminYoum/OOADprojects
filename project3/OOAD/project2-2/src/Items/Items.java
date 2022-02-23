@@ -14,6 +14,7 @@ public class Items {
     private int condition;
     private double salePrice=0;
     private int daySold=0;
+    private boolean reorder;
 
     //example of identity, Items object require its unique attributes which makes it distinguishable
     //from others.
@@ -24,6 +25,7 @@ public class Items {
         newOrUsed=nou;
         dayArrived=day1;
         condition=con1;
+        reorder=true;
     }
 
 
@@ -81,6 +83,8 @@ public class Items {
     public void set_daySold(int day1){
         daySold=day1;
     }
+    public void set_reorder(boolean bool1){reorder=bool1;}
+    public boolean get_reorder(){return reorder;}
 
     //example of polymorphism where same named function performs differently
     // present in Items class and Music class
