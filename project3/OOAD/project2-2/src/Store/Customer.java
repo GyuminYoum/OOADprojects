@@ -88,8 +88,9 @@ public class Customer {
                 }
 
                 //if soldItem is Stringed, call SellAccessories
-                if (soldItem instanceof StringDecorator) {
-                    ((StringDecorator) soldItem).SellAccessories();
+                if (soldItem instanceof Stringed) {
+                    StringDecorator temp = new StringDecorator((Stringed) soldItem);
+                    temp.SellAccessories();
                 }
 
             } else {
