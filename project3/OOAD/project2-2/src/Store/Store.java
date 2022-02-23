@@ -548,14 +548,32 @@ public class Store {
         System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
-    public static void Pay(double amount){
-        if(get_Register()>amount){
-            set_Register(get_Register()-amount);
-        }
-        else{
+    public static void Pay(double amount) {
+        if (get_Register() > amount) {
+            set_Register(get_Register() - amount);
+        } else {
             OnShift.GoToBank();
-            set_Register(get_Register()-amount);
+            set_Register(get_Register() - amount);
         }
+    }
+    public static void Sell(String item, int quantity) {
+        int i = 0;
+        int j = 0;
+        //for number of items that get bought
+        while (i < Store.get_InventorySize() && j < quantity) {
+            if (item.equals(Store.get_Item(i).get_name())) {
+                Store.get_Item(i).set_daySold(Store.get_daysPassed());
+                Store.get_Item(i).set_salePrice(Store.get_Item(i).get_listPrice());
+                Store.add_soldItem(Store.get_Item(i));
+                Store.add_Register(Store.get_Item(i).get_salePrice());
+                System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
+                Store.remove_Inventory(i);
+                j++;
+            } else {
+                i++;
+            }
+        }
+    }
         /*
     public void AddStaff(Staff worker) {
         staff_member.add(worker);
@@ -564,7 +582,6 @@ public class Store {
         staff_member.remove((staff_member.indexOf(worker)));
     }
          */
-    }
 }
 
 

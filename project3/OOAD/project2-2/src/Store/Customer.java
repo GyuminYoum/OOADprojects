@@ -85,6 +85,10 @@ public class Customer {
                 } else {
                     System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.\n");
                 }
+
+                //decorator
+                //if soldItem is Stringed, call sellAccessories
+
             } else {
                 //if item is in stock but too expensive
                 System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
