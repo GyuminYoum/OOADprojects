@@ -12,6 +12,7 @@ import Instruments_Items.Stringed;
 import Instruments_Items.Stringed_Items.Bass;
 import Instruments_Items.Stringed_Items.Guitar;
 import Instruments_Items.Stringed_Items.Mandolin;
+import Instruments_Items.Stringed_Items.StringDecorator;
 import Instruments_Items.wind;
 import Instruments_Items.wind_Items.Flute;
 import Instruments_Items.wind_Items.Harmonica;
@@ -86,8 +87,10 @@ public class Customer {
                     System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.\n");
                 }
 
-                //decorator
-                //if soldItem is Stringed, call sellAccessories
+                //if soldItem is Stringed, call SellAccessories
+                if (soldItem instanceof StringDecorator) {
+                    ((StringDecorator) soldItem).SellAccessories();
+                }
 
             } else {
                 //if item is in stock but too expensive
