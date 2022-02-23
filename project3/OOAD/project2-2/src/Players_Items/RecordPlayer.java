@@ -1,6 +1,7 @@
 package Players_Items;
 
 import Items.Players;
+import Music_Items.Cassette;
 
 public class RecordPlayer extends Players {
 

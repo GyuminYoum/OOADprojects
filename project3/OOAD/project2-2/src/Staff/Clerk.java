@@ -6,11 +6,13 @@ import Accessories_Items.Strings;
 import Clothing_Items.Bandanas;
 import Clothing_Items.Hats;
 import Clothing_Items.Shirts;
+import Factory.RandomItem_Factory;
 import Instruments_Items.Stringed_Items.Bass;
 import Instruments_Items.Stringed_Items.Guitar;
 import Instruments_Items.Stringed_Items.Mandolin;
 import Instruments_Items.wind_Items.Flute;
 import Instruments_Items.wind_Items.Harmonica;
+import Items.Items;
 import Music_Items.CD;
 import Music_Items.PaperScore;
 import Music_Items.Vinyl;
@@ -19,12 +21,14 @@ import Players_Items.RecordPlayer;
 import Store.Customer;
 import Store.Store;
 
+
 import java.util.ArrayList;
 import java.util.Random;
 
 public class Clerk extends Staff{
     
     private int days_worked;
+    private boolean sick;
 
     //default constructor for clerk
     public Clerk(String name1) {
@@ -41,6 +45,12 @@ public class Clerk extends Staff{
     }
     public void increment_daysWorked(){
         days_worked+=1;
+    }
+    public void set_sick(boolean bool1){
+        sick=bool1;
+    }
+    public boolean get_sick(){
+        return sick;
     }
 
     //Arriveatthe store function
@@ -117,145 +127,39 @@ public class Clerk extends Staff{
     //placeanorder function
     //args:String
     //places 3 orders of an item with the argument name if it hasn't been ordered yet.
-    //all the attributes of the item are randomized and appropriate announcement message is printed
+    //utilizes RandomItem_Factory class to create a new Items object
     //item is then added to the order_list attribute and Cash_Register balance is decreased by purchasePrice
     //returns N/A
     public void PlaceAnOrder(String name1){
-        ArrayList<String> names1=Store.get_ItemList();
-        Random rng=new Random();
-        String name;
-        double purchasePrice;
-        boolean newOrUsed;
-        int condition;
-        String[] band_list={"band1","band2","band3"};
-        String band_name;
-        String[] album_list={"album1","album2","album3"};
-        String album_name;
-        int day_arrived;
-        boolean Electric;
-        String[] type={"Standard", "Piccolo", "Plastic"};
-        String Flute_Type;
-        String[] key={"A","Bb","C"};
-        String Harmonica_Key;
-        double Hat_Size;
-        String[] size={"S","M","L"};
-        String Shirt_Size;
-        int wattage;
-        double length;
-        String[] type1={"Violin", "Cello", "Guitar"};
-        String string_type;
-
-
         //if else statements to check if its already ordered
         if (Store.already_ordered(name1)==false){
             //if not do 3 orders with randomized attribute each time
-            for (int i=0; i<3; i++){
-                name=name1;
-                condition=rng.nextInt(4);
-                purchasePrice= 1+(50)*rng.nextDouble();
-                purchasePrice=Math.round(purchasePrice*100)/100.0;
-                newOrUsed=rng.nextBoolean();
-                band_name=band_list[rng.nextInt(3)];
-                album_name=album_list[rng.nextInt(3)];
-                day_arrived=(rng.nextInt(3)+1+Store.get_daysPassed());
-                Electric=rng.nextBoolean();
-                Flute_Type=type[rng.nextInt(3)];
-                Harmonica_Key=key[rng.nextInt(3)];
-                Shirt_Size=size[rng.nextInt(3)];
-                Hat_Size=1+(9)*rng.nextDouble();
-                wattage=rng.nextInt(100)+1;
-                length=1+(99)*rng.nextDouble();
-                string_type=type1[rng.nextInt(3)];
-
-                if (name1=="PaperScore"){
-                    PaperScore item1=new PaperScore(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
+            RandomItem_Factory factory1=new RandomItem_Factory();
+            Items temp_item=factory1.create_RandomItem(name1);
+            if (temp_item.get_reorder()==true){
+                for (int i=0; i<3; i++){
+                    Items new_item=factory1.create_RandomItem(name1);
+                    Store.add_orders(new_item);
+                    Store.Pay(new_item.get_purchasePrice());
+                    System.out.println(this.get_name()+" put in order for "+ new_item.get_name() +" for $"+new_item.get_purchasePrice()+" on day "+Store.get_daysPassed());
                 }
-                else if (name1=="MusicCD"){
-                    CD item1=new CD(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Vinyl"){
-                    Vinyl item1=new Vinyl(name,purchasePrice,newOrUsed, day_arrived,condition,band_name,album_name);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="CDPlayer"){
-                    Players_Items.CD item1=new Players_Items.CD(name,purchasePrice,newOrUsed, day_arrived,condition);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="RecordPlayer"){
-                    RecordPlayer item1=new RecordPlayer(name,purchasePrice,newOrUsed, day_arrived,condition);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="MP3"){
-                    MP3 item1=new MP3(name,purchasePrice,newOrUsed, day_arrived,condition);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Guitar"){
-                    Guitar item1=new Guitar(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Bass"){
-                    Bass item1=new Bass(name,purchasePrice,newOrUsed, day_arrived,condition,Electric);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Mandolin"){
-                    Mandolin item1=new Mandolin(name,purchasePrice,newOrUsed, day_arrived,condition, Electric);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Flute"){
-                    Flute item1=new Flute(name,purchasePrice,newOrUsed, day_arrived,condition, Flute_Type);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Harmonica"){
-                    Harmonica item1=new Harmonica(name,purchasePrice,newOrUsed, day_arrived,condition, Harmonica_Key);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Hats"){
-                    Hats item1=new Hats(name,purchasePrice,newOrUsed, day_arrived,condition, Hat_Size);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Shirts"){
-                    Shirts item1=new Shirts(name,purchasePrice,newOrUsed, day_arrived,condition, Shirt_Size);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Bandanas"){
-                    Bandanas item1=new Bandanas(name,purchasePrice,newOrUsed, day_arrived,condition);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="PracticeAmps"){
-                    PracticeAmps item1=new PracticeAmps(name,purchasePrice,newOrUsed, day_arrived,condition,wattage);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Cables"){
-                    Cables item1=new Cables(name,purchasePrice,newOrUsed, day_arrived,condition,length);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                else if (name1=="Strings"){
-                    Strings item1=new Strings(name,purchasePrice,newOrUsed, day_arrived,condition,string_type);
-                    Store.add_orders(item1);
-                    Store.Pay(purchasePrice);
-                }
-                System.out.println(this.get_name()+" put in order for "+ name +" for $"+purchasePrice+" on day "+Store.get_daysPassed());
             }
-
         }
+    }
+    //from stackoverflow
+    //https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
+    //just different name;
+    public double countBuyerNumber(double mean){
+        Random r = new Random();
+        double L = Math.exp(-mean);
+        int k = 0;
+        double p = 1.0;
+        do {
+            p = p * r.nextDouble();
+            k++;
+        } while (p > L);
+        //+2 at the end according to the suggested direction
+        return k - 1 + 2;
     }
 
     //OpenTheStore function
@@ -267,8 +171,12 @@ public class Clerk extends Staff{
         int buy_count;
         int sell_count;
         Random rng=new Random();
+        /*
         buy_count=rng.nextInt(6);
         buy_count+=4;
+
+        */
+        buy_count=(int)countBuyerNumber(3.0);
         sell_count=rng.nextInt(3);
         sell_count+=1;
         for(int i=0; i<buy_count;i++){
@@ -303,7 +211,7 @@ public class Clerk extends Staff{
                 System.out.println(this.get_name()+" cleaned the store without breaking anything.");
             }
         }
-        else{
+        else if (name=="Shaggy"){
             if (roll < 20){
                 damageItem();
                 System.out.println(this.get_name()+" damaged an item while cleaning.");
@@ -311,7 +219,16 @@ public class Clerk extends Staff{
             else{
                 System.out.println(this.get_name()+" cleaned the store without breaking anything.");
             }
-
+        }
+        //daphne has 10% chance of damaging item
+        else{
+            if (roll < 10){
+                damageItem();
+                System.out.println(this.get_name()+" damaged an item while cleaning.");
+            }
+            else{
+                System.out.println(this.get_name()+" cleaned the store without breaking anything.");
+            }
         }
     }
     //Leavethestore function
@@ -325,6 +242,17 @@ public class Clerk extends Staff{
         if (Store.get_daysPassed()%7!=0){
             Store.increment_daysPassed();
         }
+        for(int i=0; i<Store.get_ClerkMember().size(); i++){
+            if(Store.get_ClerkMember().get(i).get_name()!=this.get_name()){
+                Store.get_ClerkMember().get(i).set_daysWorked(0);
+            }
+        }
+        /*
+        for (int i=0; i< Store.get_ClerkMember().size(); i++){
+            System.out.println(Store.get_ClerkMember().get(i).get_name()+" "+Store.get_ClerkMember().get(i).get_sick()+" "+Store.get_ClerkMember().get(i).get_daysWorked()+" days");
+        }
+
+         */
     }
 
     //damageItem function
@@ -339,7 +267,7 @@ public class Clerk extends Staff{
         double curr_listPrice;
         double mod_listPrice;
         Random Rng= new Random();
-        roll=Rng.nextInt(Store.get_InventorySize());
+        roll=Rng.nextInt(Store.get_InventorySize()-1);
         Curr_condition=Store.get_Item(roll).get_condition();
         curr_listPrice=Store.get_Item(roll).get_listPrice();
         if (Curr_condition==0){
