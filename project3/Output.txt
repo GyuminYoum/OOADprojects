@@ -1,0 +1,776 @@
+Daphne is sick on day 1
+Shaggy arrives at the store on Day 1
+Shaggy went to the bank and put $1000 in the register.
+All the items in the inventory are worth total of 1074.08
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Mandolin.
+Shaggy tuned Mandolin.
+Shaggy tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Saxophone was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $10.0.
+Buyer 3 purchased MusicCD for $8.0.
+Buyer 4 purchased RecordPlayer for $59.4 after a 10% discount.
+Hats was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Flute for $90.0.
+Buyer 7 purchased GigBag for $11.0.
+Buyer 8 purchased Flute for $82.8 after a 10% discount.
+Buyer 9 purchased GigBag for $12.0.
+Shaggy bought a poor condition MP3 from Seller 1 for $10.21.
+Shaggy bought a very good condition Guitar from Seller 2 for $38.34.
+Shaggy has damaged a(n) Bandanas.
+Shaggy damaged an item while cleaning.
+Shaggy went home for the day.
+Velma arrives at the store on Day 2
+There is $1224.65 in the register
+All the items in the inventory are worth total of 978.13
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Buyer 1 purchased Mandolin for $74.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Strings for $7.0.
+Buyer 2 purchased Guitar for $48.6 after a 10% discount.
+Buyer also purchased GigBag for $13.0.
+Cables was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Guitar for $34.0.
+Buyer 5 purchased Cables for $18.0 after a 10% discount.
+Buyer 6 purchased MP3 for $45.0 after a 10% discount.
+Buyer 7 purchased Saxophone for $90.0.
+Velma bought a poor condition Cables from Seller 1 for $24.09 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 3
+There is $1550.16 in the register
+All the items in the inventory are worth total of 821.22
+Daphne put in order for GigBag for $49.53 on day 3
+Daphne put in order for GigBag for $10.09 on day 3
+Daphne put in order for GigBag for $11.1 on day 3
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Buyer 1 purchased Bass for $44.0.
+Buyer also purchased PracticeAmps for $30.0.
+Buyer 2 purchased Bass for $41.4 after a 10% discount.
+Buyer also purchased Cables for $30.0.
+Buyer also purchased Strings for $14.0.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased Harmonica for $32.4 after a 10% discount.
+Seller 1 didn't accept the price, and left the store.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 4
+Daphne received GigBag on day 4
+There is $1671.24 in the register
+All the items in the inventory are worth total of 770.75
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Buyer 1 purchased Cassette for $6.0.
+Strings was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Flute for $96.0.
+Buyer 4 purchased CassettePlayer for $26.0.
+Harmonica was too expensive, Buyer 5 left the store.
+PaperScore was too expensive, Buyer 6 left the store.
+Buyer 7 purchased MP3 for $81.0 after a 10% discount.
+GigBag was too expensive, Buyer 8 left the store.
+Daphne bought a very good condition Bass from Seller 1 for $43.84.
+Daphne bought a poor condition Cables from Seller 2 for $10.29.
+Daphne bought a poor condition Cassette from Seller 3 for $12.81.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 5
+Velma received GigBag on day 5
+There is $1813.3 in the register
+All the items in the inventory are worth total of 738.78
+Velma put in order for Flute for $24.78 on day 5
+Velma put in order for Flute for $43.2 on day 5
+Velma put in order for Flute for $42.94 on day 5
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Bass.
+Buyer 1 purchased GigBag for $99.06.
+Buyer 2 purchased PaperScore for $9.0 after a 10% discount.
+Buyer 3 purchased Cables for $43.8.
+Velma bought a very good condition MP3 from Seller 1 for $17.44 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 6
+Daphne received GigBag on day 6
+Daphne received Flute on day 6
+There is $1836.79 in the register
+All the items in the inventory are worth total of 731.9
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Guitar was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Hats for $30.0.
+Buyer 3 purchased Bass for $48.0.
+Buyer also purchased Strings for $22.0.
+Buyer 4 purchased MP3 for $20.42.
+Daphne bought a very good condition CassettePlayer from Seller 1 for $47.34.
+Daphne bought a very good condition Shirts from Seller 2 for $42.43 after offering 10% more.
+Seller 3 didn't accept the price, and left the store.
+Daphne has damaged a(n) CDPlayer.
+Daphne damaged an item while cleaning.
+Daphne went home for the day.
+Store is closed on Sunday.
+Daphne arrives at the store on Day 8
+Daphne received Flute on day 8
+There is $1867.43 in the register
+All the items in the inventory are worth total of 786.24
+Daphne put in order for Strings for $32.07 on day 8
+Daphne put in order for Strings for $50.74 on day 8
+Daphne put in order for Strings for $23.65 on day 8
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Buyer 1 purchased PracticeAmps for $50.0.
+Buyer 2 purchased Bandanas for $4.32 after a 10% discount.
+Buyer 3 purchased Bass for $78.91 after a 10% discount.
+Buyer 4 purchased Flute for $86.4.
+Bass out of stock, Buyer 5 left the store.
+Daphne bought a good condition Vinyl from Seller 1 for $41.49 after offering 10% more.
+Daphne bought a fair condition MusicCD from Seller 2 for $48.26.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 9
+Velma received Flute on day 9
+Velma received Strings on day 9
+There is $1890.85 in the register
+All the items in the inventory are worth total of 827.54
+Velma put in order for Bass for $38.65 on day 9
+Velma put in order for Bass for $20.92 on day 9
+Velma put in order for Bass for $42.55 on day 9
+Velma put in order for PracticeAmps for $44.43 on day 9
+Velma put in order for PracticeAmps for $4.93 on day 9
+Velma put in order for PracticeAmps for $8.53 on day 9
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Bass out of stock, Buyer 1 left the store.
+Buyer 2 purchased Bandanas for $12.0.
+Buyer 3 purchased GigBag for $18.16 after a 10% discount.
+Buyer 4 purchased Saxophone for $84.0.
+Velma bought a fair condition Bandanas from Seller 1 for $4.34 after offering 10% more.
+Velma bought a fair condition PracticeAmps from Seller 2 for $43.57 after offering 10% more.
+Velma bought a very good condition Harmonica from Seller 3 for $16.8 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Velma arrives at the store on Day 10
+Velma received Strings on day 10
+Velma received Bass on day 10
+Velma received PracticeAmps on day 10
+There is $1780.28 in the register
+All the items in the inventory are worth total of 892.08
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Buyer 1 purchased GigBag for $22.2.
+Buyer 2 purchased Harmonica for $38.0.
+Buyer 3 purchased PracticeAmps for $79.22.
+Buyer 4 purchased Cassette for $7.38 after a 10% discount.
+Buyer 5 purchased Bass for $37.65 after a 10% discount.
+Buyer also purchased PracticeAmps for $9.86.
+Buyer 6 purchased Strings for $47.3.
+Buyer 7 purchased Shirts for $8.0.
+Buyer 8 purchased Cables for $18.52 after a 10% discount.
+Velma bought a good condition PracticeAmps from Seller 1 for $49.69 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 11
+Shaggy received Strings on day 11
+Shaggy received PracticeAmps on day 11
+There is $1998.71 in the register
+All the items in the inventory are worth total of 859.49
+Shaggy put in order for Cables for $2.36 on day 11
+Shaggy put in order for Cables for $45.55 on day 11
+Shaggy put in order for Cables for $9.23 on day 11
+Shaggy put in order for GigBag for $27.36 on day 11
+Shaggy put in order for GigBag for $43.74 on day 11
+Shaggy put in order for GigBag for $18.82 on day 11
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+RecordPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Harmonica for $40.0.
+Cables out of stock, Buyer 3 left the store.
+Shaggy bought a fair condition Cassette from Seller 1 for $16.96 after offering 10% more.
+Shaggy bought a good condition CDPlayer from Seller 2 for $14.04.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 12
+Shaggy received Bass on day 12
+Shaggy received PracticeAmps on day 12
+There is $1860.65 in the register
+All the items in the inventory are worth total of 953.57
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Flute.
+Shaggy un-adjusted Flute.
+Buyer 1 purchased Vinyl for $9.0 after a 10% discount.
+PracticeAmps was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $16.2 after a 10% discount.
+Cables out of stock, Buyer 4 left the store.
+Buyer 5 purchased Hats for $20.0.
+Buyer 6 purchased MP3 for $28.54 after a 10% discount.
+Buyer 7 purchased Hats for $9.0 after a 10% discount.
+Seller 1 didn't accept the price, and left the store.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Daphne arrives at the store on Day 13
+Daphne received Bass on day 13
+Daphne received Cables on day 13
+Daphne received GigBag on day 13
+There is $1943.39 in the register
+All the items in the inventory are worth total of 1022.58
+Daphne put in order for MP3 for $46.29 on day 13
+Daphne put in order for MP3 for $28.1 on day 13
+Daphne put in order for MP3 for $50.34 on day 13
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Bass.
+MusicCD was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Bass for $69.56 after a 10% discount.
+Buyer also purchased Strings for $64.14.
+Buyer also purchased Strings for $101.48.
+MP3 out of stock, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Mandolin was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Saxophone for $86.4 after a 10% discount.
+Daphne bought a good condition PracticeAmps from Seller 1 for $18.13.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Store is closed on Sunday.
+Daphne arrives at the store on Day 15
+Daphne received Cables on day 15
+Daphne received GigBag on day 15
+Daphne received MP3 on day 15
+There is $2122.1 in the register
+All the items in the inventory are worth total of 963.64
+Daphne put in order for Strings for $46.69 on day 15
+Daphne put in order for Strings for $19.48 on day 15
+Daphne put in order for Strings for $4.4 on day 15
+Daphne put in order for Saxophone for $44.57 on day 15
+Daphne put in order for Saxophone for $50.04 on day 15
+Daphne put in order for Saxophone for $6.31 on day 15
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Saxophone out of stock, Buyer 1 left the store.
+Cables was too expensive, Buyer 2 left the store.
+Buyer 3 purchased CDPlayer for $21.6 after a 10% discount.
+Buyer 4 purchased GigBag for $54.72.
+Daphne bought a very good condition Strings from Seller 1 for $13.99.
+Daphne bought a good condition CDPlayer from Seller 2 for $15.41 after offering 10% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 16
+Velma received Cables on day 16
+Velma received MP3 on day 16
+Velma received Strings on day 16
+Velma received Saxophone on day 16
+There is $1997.52 in the register
+All the items in the inventory are worth total of 1087.74
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velmahas damaged a(n) Harmonica.Buyer 1 purchased Cables for $81.99 after a 10% discount.
+Cables was too expensive, Buyer 2 left the store.
+Shirts was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Harmonica for $30.56.
+Harmonica out of stock, Buyer 5 left the store.
+Buyer 6 purchased Shirts for $8.1 after a 10% discount.
+Buyer 7 purchased MusicCD for $8.19.
+Buyer 8 purchased RecordPlayer for $44.0.
+Velma bought a fair condition CassettePlayer from Seller 1 for $44.0.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 17
+Shaggy received GigBag on day 17
+Shaggy received Strings on day 17
+Shaggy received Saxophone on day 17
+There is $2126.35 in the register
+All the items in the inventory are worth total of 1121.67
+Shaggy put in order for Harmonica for $17.57 on day 17
+Shaggy put in order for Harmonica for $22.49 on day 17
+Shaggy put in order for Harmonica for $44.67 on day 17
+Shaggy un-tuned Guitar.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Buyer 1 purchased GigBag for $78.73 after a 10% discount.
+MusicCD was too expensive, Buyer 2 left the store.
+Harmonica out of stock, Buyer 3 left the store.
+Bass was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Bass for $76.59 after a 10% discount.
+Buyer 6 purchased MusicCD for $8.4.
+Shaggy bought a very good condition PaperScore from Seller 1 for $54.8 after offering 10% more.
+Shaggy bought a very good condition Guitar from Seller 2 for $25.42.
+Shaggy bought a fair condition Shirts from Seller 3 for $52.44 after offering 10% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 18
+Velma received MP3 on day 18
+Velma received Saxophone on day 18
+Velma received Harmonica on day 18
+There is $2072.66 in the register
+All the items in the inventory are worth total of 1242.98
+Velma put in order for Bass for $15.96 on day 18
+Velma put in order for Bass for $40.5 on day 18
+Velma put in order for Bass for $9.94 on day 18
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma adjusted Harmonica.
+Buyer 1 purchased RecordPlayer for $22.0.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased PracticeAmps for $81.32 after a 10% discount.
+Buyer 4 purchased Flute for $49.56.
+Bass out of stock, Buyer 5 left the store.
+Buyer 6 purchased Flute for $85.88.
+Velma bought a poor condition Mandolin from Seller 1 for $44.61.
+Velma bought a poor condition MP3 from Seller 2 for $5.41.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Shaggy arrives at the store on Day 19
+Shaggy received Strings on day 19
+There is $2194.99 in the register
+All the items in the inventory are worth total of 1168.99
+Shaggy put in order for RecordPlayer for $22.96 on day 19
+Shaggy put in order for RecordPlayer for $46.43 on day 19
+Shaggy put in order for RecordPlayer for $34.15 on day 19
+Shaggy put in order for Flute for $8.19 on day 19
+Shaggy put in order for Flute for $24.01 on day 19
+Shaggy put in order for Flute for $41.83 on day 19
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Saxophone.
+PaperScore was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $92.58.
+Buyer 3 purchased Shirts for $10.0.
+Buyer 4 purchased CassettePlayer for $21.6 after a 10% discount.
+Buyer 5 purchased Saxophone for $100.08.
+Shaggy bought a very good condition CDPlayer from Seller 1 for $27.99.
+Shaggy bought a good condition Saxophone from Seller 2 for $40.22.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 20
+Velma received Harmonica on day 20
+Velma received Bass on day 20
+Velma received Flute on day 20
+Velma received Flute on day 20
+There is $2173.45 in the register
+All the items in the inventory are worth total of 1231.97
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Buyer 1 purchased PaperScore for $11.0.
+Buyer 2 purchased Bass for $72.9 after a 10% discount.
+Buyer 3 purchased Flute for $14.74 after a 10% discount.
+Buyer 4 purchased GigBag for $37.64.
+RecordPlayer out of stock, Buyer 5 left the store.
+Velma bought a poor condition Shirts from Seller 1 for $21.49.
+Velma bought a very good condition Cassette from Seller 2 for $15.34.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Store is closed on Sunday.
+Velma arrives at the store on Day 22
+Velma received Harmonica on day 22
+Velma received Bass on day 22
+Velma received RecordPlayer on day 22
+Velma received Flute on day 22
+There is $2272.89 in the register
+All the items in the inventory are worth total of 1320.84
+Velma put in order for GigBag for $33.56 on day 22
+Velma put in order for GigBag for $18.68 on day 22
+Velma put in order for GigBag for $20.68 on day 22
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma has thrown away a(n) Saxophonedue to less than poor condition. Velma un-adjusted Saxophone.
+Velma adjusted Harmonica.
+Velma adjusted Flute.
+Buyer 1 purchased CassettePlayer for $42.0.
+Buyer 2 purchased Saxophone for $11.35 after a 10% discount.
+Buyer 3 purchased PaperScore for $5.4 after a 10% discount.
+Buyer 4 purchased Bandanas for $7.11 after a 10% discount.
+CDPlayer was too expensive, Buyer 5 left the store.
+Velma bought a poor condition MusicCD from Seller 2 for $23.0.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 23
+Daphne received Bass on day 23
+Daphne received RecordPlayer on day 23
+Daphne received GigBag on day 23
+There is $2242.83 in the register
+All the items in the inventory are worth total of 1335.41
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Buyer 1 purchased Strings for $25.18 after a 10% discount.
+Buyer 2 purchased GigBag for $37.22 after a 10% discount.
+Buyer 3 purchased Cassette for $3.96 after a 10% discount.
+Buyer 4 purchased CDPlayer for $48.0.
+Bandanas out of stock, Buyer 5 left the store.
+Buyer 6 purchased PracticeAmps for $17.07.
+Daphne bought a good condition Flute from Seller 1 for $7.52 after offering 10% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 24
+Velma received RecordPlayer on day 24
+Velma received GigBag on day 24
+There is $2366.73 in the register
+All the items in the inventory are worth total of 1315.17
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velmahas damaged a(n) Saxophone.Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Buyer 1 purchased Strings for $93.38.
+Hats out of stock, Buyer 2 left the store.
+MP3 was too expensive, Buyer 3 left the store.
+Buyer 4 purchased CassettePlayer for $85.21 after a 10% discount.
+Shirts was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Mandolin for $63.0 after a 10% discount.
+Buyer also purchased Cables for $4.72.
+Buyer 7 purchased Flute for $83.66.
+Buyer 8 purchased Mandolin for $66.0.
+Hats out of stock, Buyer 9 left the store.
+Bandanas out of stock, Buyer 10 left the store.
+Velma bought a fair condition CDPlayer from Seller 1 for $33.47.
+Velma bought a poor condition Cables from Seller 2 for $14.12 after offering 10% more.
+Velma bought a good condition RecordPlayer from Seller 3 for $51.53 after offering 10% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 25
+Daphne received GigBag on day 25
+There is $2663.58 in the register
+All the items in the inventory are worth total of 1241.63
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $56.2.
+Buyer 3 purchased MP3 for $90.61 after a 10% discount.
+Mandolin was too expensive, Buyer 4 left the store.
+Guitar was too expensive, Buyer 5 left the store.
+Daphne bought a fair condition CassettePlayer from Seller 1 for $19.19 after offering 10% more.
+Daphne bought a good condition CassettePlayer from Seller 2 for $50.13.
+Seller 3 didn't accept the price, and left the store.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 26
+There is $2741.07 in the register
+All the items in the inventory are worth total of 1232.51
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Buyer 1 purchased Cables for $18.46.
+Buyer 2 purchased Flute for $48.02.
+Buyer 3 purchased Strings for $35.06 after a 10% discount.
+Buyer 4 purchased RecordPlayer for $83.57 after a 10% discount.
+Buyer 5 purchased Strings for $8.8.
+Cassette was too expensive, Buyer 6 left the store.
+Mandolin was too expensive, Buyer 7 left the store.
+Buyer 8 purchased PaperScore for $89.67 after a 10% discount.
+Daphne bought a very good condition Cassette from Seller 1 for $34.52.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Shaggy arrives at the store on Day 27
+There is $2990.13 in the register
+All the items in the inventory are worth total of 1108.68
+Shaggy put in order for PaperScore for $20.91 on day 27
+Shaggy put in order for PaperScore for $39.11 on day 27
+Shaggy put in order for PaperScore for $46.46 on day 27
+Shaggy put in order for Strings for $13.98 on day 27
+Shaggy put in order for Strings for $20.14 on day 27
+Shaggy put in order for Strings for $46.2 on day 27
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Buyer 1 purchased Flute for $13.68.
+Buyer 2 purchased Harmonica for $44.98.
+Buyer 3 purchased Cassette for $25.62.
+Buyer 4 purchased Mandolin for $89.22.
+Buyer also purchased Cables for $25.68.
+Strings out of stock, Buyer 5 left the store.
+Shaggy bought a good condition Guitar from Seller 1 for $28.72 after offering 10% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Store is closed on Sunday.
+Shaggy arrives at the store on Day 29
+Shaggy received PaperScore on day 29
+Shaggy received Strings on day 29
+Shaggy received Strings on day 29
+There is $2973.77 in the register
+All the items in the inventory are worth total of 1116.94
+Shaggy put in order for Mandolin for $22.22 on day 29
+Shaggy put in order for Mandolin for $3.24 on day 29
+Shaggy put in order for Mandolin for $24.03 on day 29
+Shaggy put in order for Flute for $12.37 on day 29
+Shaggy put in order for Flute for $50.65 on day 29
+Shaggy put in order for Flute for $33.14 on day 29
+Shaggy put in order for Cables for $50.08 on day 29
+Shaggy put in order for Cables for $5.92 on day 29
+Shaggy put in order for Cables for $14.2 on day 29
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Guitar.
+Flute out of stock, Buyer 1 left the store.
+Buyer 2 purchased CassettePlayer for $79.2 after a 10% discount.
+Buyer 3 purchased CDPlayer for $57.6.
+Hats out of stock, Buyer 4 left the store.
+Shaggy bought a poor condition CDPlayer from Seller 1 for $14.82 after offering 10% more.
+Shaggy bought a good condition Shirts from Seller 2 for $29.5.
+Shaggy has damaged a(n) CDPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy went home for the day.
+Daphne is sick on day 30
+Shaggy arrives at the store on Day 30
+Shaggy received PaperScore on day 30
+Shaggy received Strings on day 30
+Shaggy received Mandolin on day 30
+Shaggy received Flute on day 30
+There is $2850.39 in the register
+All the items in the inventory are worth total of 1197.68
+Shaggy un-tuned Guitar.
+Buyer 1 purchased Shirts for $69.44 after a 10% discount.
+Bandanas out of stock, Buyer 2 left the store.
+Guitar was too expensive, Buyer 3 left the store.
+Buyer 4 purchased MusicCD for $96.52.
+Shaggy bought a fair condition Flute from Seller 1 for $6.51.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+In the inventory, there remains: 
+Vinyl Vinyl Guitar Guitar Vinyl Cassette CDPlayer PracticeAmps PracticeAmps CDPlayer Guitar Shirts MP3 CDPlayer Saxophone Harmonica Shirts Cassette Harmonica Bass MusicCD Bass RecordPlayer RecordPlayer GigBag CDPlayer RecordPlayer GigBag CassettePlayer CassettePlayer Cassette Guitar PaperScore Strings Strings CDPlayer Shirts PaperScore Strings Mandolin Flute Flute  
+with total value of $1113.5
+MP3 was sold on Day 1 at a price of $10.0
+MusicCD was sold on Day 1 at a price of $8.0
+RecordPlayer was sold on Day 1 at a price of $59.4
+Flute was sold on Day 1 at a price of $90.0
+GigBag was sold on Day 1 at a price of $11.0
+Flute was sold on Day 1 at a price of $82.8
+GigBag was sold on Day 1 at a price of $12.0
+Mandolin was sold on Day 2 at a price of $74.0
+PracticeAmps was sold on Day 2 at a price of $10.0
+Cables was sold on Day 2 at a price of $10.0
+Strings was sold on Day 2 at a price of $7.0
+Guitar was sold on Day 2 at a price of $48.6
+GigBag was sold on Day 2 at a price of $13.0
+Guitar was sold on Day 2 at a price of $34.0
+Cables was sold on Day 2 at a price of $18.0
+MP3 was sold on Day 2 at a price of $45.0
+Saxophone was sold on Day 2 at a price of $90.0
+Bass was sold on Day 3 at a price of $44.0
+PracticeAmps was sold on Day 3 at a price of $30.0
+Bass was sold on Day 3 at a price of $41.4
+Cables was sold on Day 3 at a price of $30.0
+Strings was sold on Day 3 at a price of $14.0
+Harmonica was sold on Day 3 at a price of $32.4
+Cassette was sold on Day 4 at a price of $6.0
+Flute was sold on Day 4 at a price of $96.0
+CassettePlayer was sold on Day 4 at a price of $26.0
+MP3 was sold on Day 4 at a price of $81.0
+GigBag was sold on Day 5 at a price of $99.06
+PaperScore was sold on Day 5 at a price of $9.0
+Cables was sold on Day 5 at a price of $43.8
+Hats was sold on Day 6 at a price of $30.0
+Bass was sold on Day 6 at a price of $48.0
+Strings was sold on Day 6 at a price of $22.0
+MP3 was sold on Day 6 at a price of $20.42
+PracticeAmps was sold on Day 8 at a price of $50.0
+Bandanas was sold on Day 8 at a price of $4.32
+Bass was sold on Day 8 at a price of $78.91
+Flute was sold on Day 8 at a price of $86.4
+Bandanas was sold on Day 9 at a price of $12.0
+GigBag was sold on Day 9 at a price of $18.16
+Saxophone was sold on Day 9 at a price of $84.0
+GigBag was sold on Day 10 at a price of $22.2
+Harmonica was sold on Day 10 at a price of $38.0
+PracticeAmps was sold on Day 10 at a price of $79.22
+Cassette was sold on Day 10 at a price of $7.38
+Bass was sold on Day 10 at a price of $37.65
+PracticeAmps was sold on Day 10 at a price of $9.86
+Strings was sold on Day 10 at a price of $47.3
+Shirts was sold on Day 10 at a price of $8.0
+Cables was sold on Day 10 at a price of $18.52
+Harmonica was sold on Day 11 at a price of $40.0
+Vinyl was sold on Day 12 at a price of $9.0
+Bandanas was sold on Day 12 at a price of $16.2
+Hats was sold on Day 12 at a price of $20.0
+MP3 was sold on Day 12 at a price of $28.54
+Hats was sold on Day 12 at a price of $9.0
+Bass was sold on Day 13 at a price of $69.56
+Strings was sold on Day 13 at a price of $64.14
+Strings was sold on Day 13 at a price of $101.48
+Saxophone was sold on Day 13 at a price of $86.4
+CDPlayer was sold on Day 15 at a price of $21.6
+GigBag was sold on Day 15 at a price of $54.72
+Cables was sold on Day 16 at a price of $81.99
+Harmonica was sold on Day 16 at a price of $30.56
+Shirts was sold on Day 16 at a price of $8.1
+MusicCD was sold on Day 16 at a price of $8.19
+RecordPlayer was sold on Day 16 at a price of $44.0
+GigBag was sold on Day 17 at a price of $78.73
+Bass was sold on Day 17 at a price of $76.59
+MusicCD was sold on Day 17 at a price of $8.4
+RecordPlayer was sold on Day 18 at a price of $22.0
+PracticeAmps was sold on Day 18 at a price of $81.32
+Flute was sold on Day 18 at a price of $49.56
+Flute was sold on Day 18 at a price of $85.88
+MP3 was sold on Day 19 at a price of $92.58
+Shirts was sold on Day 19 at a price of $10.0
+CassettePlayer was sold on Day 19 at a price of $21.6
+Saxophone was sold on Day 19 at a price of $100.08
+PaperScore was sold on Day 20 at a price of $11.0
+Bass was sold on Day 20 at a price of $72.9
+Flute was sold on Day 20 at a price of $14.74
+GigBag was sold on Day 20 at a price of $37.64
+CassettePlayer was sold on Day 22 at a price of $42.0
+Saxophone was sold on Day 22 at a price of $11.35
+PaperScore was sold on Day 22 at a price of $5.4
+Bandanas was sold on Day 22 at a price of $7.11
+Strings was sold on Day 23 at a price of $25.18
+GigBag was sold on Day 23 at a price of $37.22
+Cassette was sold on Day 23 at a price of $3.96
+CDPlayer was sold on Day 23 at a price of $48.0
+PracticeAmps was sold on Day 23 at a price of $17.07
+Strings was sold on Day 24 at a price of $93.38
+CassettePlayer was sold on Day 24 at a price of $85.21
+Mandolin was sold on Day 24 at a price of $63.0
+Cables was sold on Day 24 at a price of $4.72
+Flute was sold on Day 24 at a price of $83.66
+Mandolin was sold on Day 24 at a price of $66.0
+MP3 was sold on Day 25 at a price of $56.2
+MP3 was sold on Day 25 at a price of $90.61
+Cables was sold on Day 26 at a price of $18.46
+Flute was sold on Day 26 at a price of $48.02
+Strings was sold on Day 26 at a price of $35.06
+RecordPlayer was sold on Day 26 at a price of $83.57
+Strings was sold on Day 26 at a price of $8.8
+PaperScore was sold on Day 26 at a price of $89.67
+Flute was sold on Day 27 at a price of $13.68
+Harmonica was sold on Day 27 at a price of $44.98
+Cassette was sold on Day 27 at a price of $25.62
+Mandolin was sold on Day 27 at a price of $89.22
+Cables was sold on Day 27 at a price of $25.68
+CassettePlayer was sold on Day 29 at a price of $79.2
+CDPlayer was sold on Day 29 at a price of $57.6
+Shirts was sold on Day 30 at a price of $69.44
+MusicCD was sold on Day 30 at a price of $96.52
+with total Sale value of $4879.89
+There is $3009.83 in the Cash Register.
+Total of $1000.0 was withdrawn from the bank.
+
