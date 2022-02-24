@@ -15,8 +15,6 @@ public class Hats extends Clothing {
         hatSize=size1;
     }
 
-    public static void main(){
-    }
 
 }
 
