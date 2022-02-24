@@ -565,11 +565,13 @@ public class Store {
         //for number of items that get bought
         while (i < Store.get_InventorySize() && j < quantity) {
             if (item.equals(Store.get_Item(i).get_name())) {
+                //set daySold and salePrice, add to sold list and add money to register
                 Store.get_Item(i).set_daySold(Store.get_daysPassed());
                 Store.get_Item(i).set_salePrice(Store.get_Item(i).get_listPrice());
                 Store.add_soldItem(Store.get_Item(i));
                 Store.add_Register(Store.get_Item(i).get_salePrice());
                 System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
+                //remove item from inventory
                 Store.remove_Inventory(i);
                 j++;
             } else {
