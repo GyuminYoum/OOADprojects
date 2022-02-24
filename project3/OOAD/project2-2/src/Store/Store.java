@@ -22,6 +22,9 @@ import Players_Items.CassettePlayer;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
 import Staff.Clerk;
+import Staff.Electronic;
+import Staff.Haphazard;
+import Staff.Manual;
 
 
 import java.util.ArrayList;
@@ -211,9 +214,9 @@ public class Store {
         Inventory.add(GigBag3);
 
         //
-        Clerk Velma=new Clerk("Velma");
-        Clerk Shaggy=new Clerk("Shaggy");
-        Clerk Daphne=new Clerk("Daphne");
+        Clerk Velma=new Clerk("Velma", new Haphazard());
+        Clerk Shaggy=new Clerk("Shaggy", new Manual());
+        Clerk Daphne=new Clerk("Daphne", new Electronic());
         Clerk_member.add(Velma);
         Clerk_member.add(Shaggy);
         Clerk_member.add(Daphne);

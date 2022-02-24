@@ -32,12 +32,13 @@ public class Clerk extends Staff{
     
     private int days_worked;
     private boolean sick;
-    private Strategy strategy;
+    private Strategy strategy_;
 
     //default constructor for clerk
-    public Clerk(String name1) {
+    public Clerk(String name1, Strategy strategy) {
         super(name1);
         days_worked=0;
+        strategy_ = strategy;
     }
 
     //getters and setters for attribute days_worked
@@ -129,7 +130,7 @@ public class Clerk extends Staff{
         //tune each item
         for(int i=0; i < Store.get_InventorySize(); i++) {
             if (Store.get_Item(i) instanceof Stringed || Store.get_Item(i) instanceof wind) {
-                strategy.Tune(Store.get_Item(i));
+                strategy_.Tune(Store.get_Item(i));
             }
         }
 
