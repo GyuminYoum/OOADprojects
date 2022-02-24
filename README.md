@@ -23,3 +23,14 @@ UML diagram changes:
   - cash register 
 - Added FNMS class for initializing and running our simulation
 - Added name and num variables to Customer class to improve output readability
+
+Project 3:
+Assumptions:
+- Only one clerk is supposed to be sick per day, and their sick status clears the next day.
+- No clerk gets sick twice in a row.
+- when clerk buys item from customer, the item has a chance of being already tuned,equalized or adjusted. 
+
+UML diagram changes:
+- Added Sell method to Store class
+- Added Factory create random Items
+- Simplified our Decorator into a single class that extends Stringed class
