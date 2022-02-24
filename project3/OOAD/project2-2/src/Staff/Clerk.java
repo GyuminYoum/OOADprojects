@@ -7,11 +7,9 @@ import Clothing_Items.Bandanas;
 import Clothing_Items.Hats;
 import Clothing_Items.Shirts;
 import Factory.RandomItem_Factory;
-import Instruments_Items.Stringed;
 import Instruments_Items.Stringed_Items.Bass;
 import Instruments_Items.Stringed_Items.Guitar;
 import Instruments_Items.Stringed_Items.Mandolin;
-import Instruments_Items.wind;
 import Instruments_Items.wind_Items.Flute;
 import Instruments_Items.wind_Items.Harmonica;
 import Items.Items;
@@ -24,7 +22,6 @@ import Store.Customer;
 import Store.Store;
 
 
-import java.lang.instrument.Instrumentation;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -32,13 +29,11 @@ public class Clerk extends Staff{
     
     private int days_worked;
     private boolean sick;
-    private Strategy strategy_;
 
     //default constructor for clerk
-    public Clerk(String name1, Strategy strategy) {
+    public Clerk(String name1) {
         super(name1);
         days_worked=0;
-        strategy_ = strategy;
     }
 
     //getters and setters for attribute days_worked
@@ -127,13 +122,6 @@ public class Clerk extends Staff{
                 this.PlaceAnOrder(item_names.get(i));
             }
         }
-        //tune each item
-        for(int i=0; i < Store.get_InventorySize(); i++) {
-            if (Store.get_Item(i) instanceof Stringed || Store.get_Item(i) instanceof wind) {
-                strategy_.Tune(Store.get_Item(i));
-            }
-        }
-
     }
 
     //placeanorder function

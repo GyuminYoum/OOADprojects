@@ -1,4 +1,4 @@
-Names: Gyumin Youm, Freddy Rodriguez
+Names: Gyumin Youm, Freddy Rodriguez, Henock Zemenfes
 JDK: 8
 
 Implementation/Assumptions:
