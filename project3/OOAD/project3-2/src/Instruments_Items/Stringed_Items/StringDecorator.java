@@ -17,6 +17,7 @@ public class StringDecorator extends Stringed {
         double roll1;
         double electric = 0.0;
 
+        //electric modifier for selling accessories
         if (!item_.get_electric()) {
             electric = 0.1;
         }

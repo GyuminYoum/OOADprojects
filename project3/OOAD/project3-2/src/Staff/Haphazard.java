@@ -13,6 +13,7 @@ public class Haphazard implements Strategy{
         //if item is type wind
         if (item instanceof wind) {
             if (roll <0.5) {
+                //switch "adjusted" trait
                 ((wind) item).set_adjusted(!((wind) item).get_adjusted());
                 if (((wind) item).get_adjusted()) {
                     System.out.printf(Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".\n");
@@ -24,6 +25,7 @@ public class Haphazard implements Strategy{
         //if item is type Stringed
         } else if (item instanceof Stringed) {
             if (roll <0.5) {
+                //switch "tuned" trait
                 ((Stringed) item).set_tuned(!((Stringed) item).get_tuned());
                 if (((Stringed) item).get_tuned()) {
                     System.out.printf(Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".\n");
@@ -35,6 +37,7 @@ public class Haphazard implements Strategy{
         //if item is type Players
         } else if (item instanceof Players) {
             if (roll <0.5) {
+                //switch "equalized" trait
                 ((Players) item).set_equalized(!((Players) item).get_equalized());
                 if (((Players) item).get_equalized()) {
                     System.out.printf(Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".\n");
@@ -45,6 +48,7 @@ public class Haphazard implements Strategy{
             }
         }
 
+        //if an item was changed from true to false
         if (temp) {
             roll = Math.random();
             if (roll < 0.1) {
