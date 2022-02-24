@@ -23,3 +23,10 @@ UML diagram changes:
   - cash register 
 - Added FNMS class for initializing and running our simulation
 - Added name and num variables to Customer class to improve output readability
+
+Project 3:
+
+UML diagram changes:
+- Added Sell method to Store class
+- Added Factory create random Items
+- Simplified our Decorator into a single class that extends Stringed class
