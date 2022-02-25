@@ -1,9 +1,0 @@
-package Observer;
-
-public interface Writer {
-<<<<<<< HEAD
-    public void Write();
-=======
-    public void write();
->>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
-}
