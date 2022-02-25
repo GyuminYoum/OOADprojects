@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Observer/logger.java" afterDir="false" />
+>>>>>>> 5b6ce3fbff758c0607836b8eabd8dd641e933f32
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
