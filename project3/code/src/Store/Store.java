@@ -18,6 +18,7 @@ import Music_Items.CD;
 import Music_Items.Cassette;
 import Music_Items.PaperScore;
 import Music_Items.Vinyl;
+import Observer.Observer;
 import Players_Items.CassettePlayer;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
@@ -29,6 +30,8 @@ import Staff.Manual;
 
 import java.util.ArrayList;
 import java.util.Random;
+import Observer.Observer;
+
 
 //example of encapsulation
 //most attributes are private so getters and setters are used to access them.
@@ -52,6 +55,8 @@ public class Store {
     private static double money_withdrawn=0.0;
     private static ArrayList<String>Item_list= new ArrayList<String>();
     private static ArrayList<String> staff_names=new ArrayList<String>();
+    private static String statement;
+    private ArrayList<Observer> Observer_list=new ArrayList<Observer>();
 
 
     //setter to initialize the store
@@ -249,6 +254,18 @@ public class Store {
     }
 
   */
+     public void registerObserver(Observer O){
+         Observer_list.add(O);
+     }
+    public void removeObserver(Observer O){
+         Observer_list.remove(O);
+
+    }
+    public void notifyObservers(){
+        for (Observer O:Observer_list){
+            O.update(statement);
+        }
+    }
     public static void addToItemList(String name1){
         if(Item_list.contains(name1)==false){
             Item_list.add(name1);

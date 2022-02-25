@@ -18,6 +18,7 @@ import Items.Items;
 import Music_Items.CD;
 import Music_Items.PaperScore;
 import Music_Items.Vinyl;
+import Observer.Observer;
 import Players_Items.MP3;
 import Players_Items.RecordPlayer;
 import Store.Customer;
@@ -33,6 +34,8 @@ public class Clerk extends Staff{
     private int days_worked;
     private boolean sick;
     private Strategy strategy_;
+
+
 
     //default constructor for clerk
     public Clerk(String name1, Strategy strategy) {
