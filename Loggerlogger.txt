@@ -1,0 +1,375 @@
+Velma arrives at the store on Day 1
+Velma went to the bank and put $1000 in the register.
+All the items in the inventory are worth total of 1074.08
+Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased Shirts for $7.2 after a 10%% discount.
+Buyer 4 purchased Harmonica for $34.2 after a 10%% discount.
+Buyer 5 purchased RecordPlayer for $59.4 after a 10%% discount.
+Velma bought a poor condition PracticeAmps from Seller 1 for $13.64 after offering 10%% more.
+Velma bought a very good condition RecordPlayer from Seller 2 for $2.0.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 2
+There is $1202.15 in the register
+All the items in the inventory are worth total of 970.72
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
+PaperScore was too expensive, Buyer 3 left the store.
+GigBag was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Hats for $30.0.
+Buyer 6 purchased PaperScore for $9.0 after a 10%% discount.
+Buyer 7 purchased Bass for $39.6 after a 10%% discount.
+Daphne bought a good condition Harmonica from Seller 1 for $12.32.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 3
+There is $1444.03 in the register
+All the items in the inventory are worth total of 849.54
+Velma put in order for Cables for $2.39 on day 3
+Velma put in order for Cables for $42.7 on day 3
+Velma put in order for Cables for $14.9 on day 3
+Velma put in order for Strings for $46.78 on day 3
+Velma put in order for Strings for $12.94 on day 3
+Velma put in order for Strings for $13.89 on day 3
+Buyer 1 purchased Shirts for $8.1 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased GigBag for $11.0.
+Buyer 4 purchased CDPlayer for $24.0.
+Buyer 5 purchased Guitar for $54.0.
+Buyer 6 purchased Guitar for $34.0.
+Buyer 7 purchased Cassette for $8.19.
+Velma bought a poor condition Cables from Seller 1 for $38.68.
+Velma bought a poor condition Saxophone from Seller 2 for $31.55 after offering 10%% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 4
+There is $1389.38 in the register
+All the items in the inventory are worth total of 846.57
+Buyer 1 purchased MP3 for $10.0.
+Buyer 2 purchased CassettePlayer for $26.0.
+Buyer 3 purchased Flute for $81.0 after a 10%% discount.
+Daphne bought a poor condition MusicCD from Seller 1 for $29.4 after offering 10%% more.
+Daphne bought a very good condition Harmonica from Seller 2 for $30.5.
+Daphne bought a poor condition Cassette from Seller 3 for $27.08 after offering 10%% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 5
+There is $1419.4 in the register
+All the items in the inventory are worth total of 926.19
+Cassette was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Hats for $20.0.
+Buyer 3 purchased Hats for $10.0.
+Buyer 4 purchased Vinyl for $10.0.
+PaperScore was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Strings for $25.88.
+Seller 1 didn't accept the price, and left the store.
+Velma bought a very good condition MusicCD from Seller 2 for $6.94 after offering 10%% more.
+Velma bought a very good condition Bass from Seller 3 for $18.57 after offering 10%% more.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 6
+There is $1459.77 in the register
+All the items in the inventory are worth total of 916.0
+Buyer 1 purchased Guitar for $74.0.
+Buyer 2 purchased Flute for $82.8 after a 10%% discount.
+Buyer 3 purchased Mandolin for $70.0.
+Strings out of stock, Buyer 4 left the store.
+Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
+Flute was too expensive, Buyer 6 left the store.
+Daphne bought a fair condition Bandanas from Seller 1 for $33.72.
+Daphne bought a fair condition CDPlayer from Seller 2 for $25.75 after offering 10%% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 8
+There is $1780.61 in the register
+All the items in the inventory are worth total of 826.29
+Daphne put in order for Guitar for $42.07 on day 8
+Daphne put in order for Guitar for $50.74 on day 8
+Daphne put in order for Guitar for $47.71 on day 8
+Buyer 1 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 2 purchased Bandanas for $6.0.
+Buyer 3 purchased GigBag for $13.0.
+Buyer 4 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 5 purchased Cassette for $3.96 after a 10%% discount.
+Guitar out of stock, Buyer 6 left the store.
+Buyer 7 purchased Harmonica for $40.0.
+Buyer 8 purchased MP3 for $50.0.
+RecordPlayer was too expensive, Buyer 9 left the store.
+Daphne bought a fair condition Guitar from Seller 1 for $24.08.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 9
+There is $1775.77 in the register
+All the items in the inventory are worth total of 809.74
+Daphne put in order for GigBag for $30.8 on day 9
+Daphne put in order for GigBag for $31.18 on day 9
+Daphne put in order for GigBag for $42.01 on day 9
+Buyer 1 purchased Bandanas for $12.0.
+Buyer 2 purchased Guitar for $48.16.
+Buyer 3 purchased Guitar for $75.72 after a 10%% discount.
+Buyer 4 purchased Mandolin for $66.0.
+Buyer 5 purchased Vinyl for $12.0.
+Buyer 6 purchased PaperScore for $6.0.
+Daphne bought a very good condition CDPlayer from Seller 1 for $9.17 after offering 10%% more.
+Daphne bought a poor condition Saxophone from Seller 2 for $40.51 after offering 10%% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Velma arrives at the store on Day 10
+There is $1957.38 in the register
+All the items in the inventory are worth total of 738.3
+Velma put in order for PaperScore for $9.99 on day 10
+Velma put in order for PaperScore for $36.14 on day 10
+Velma put in order for PaperScore for $8.14 on day 10
+Velma put in order for Mandolin for $49.39 on day 10
+Velma put in order for Mandolin for $24.34 on day 10
+Velma put in order for Mandolin for $20.2 on day 10
+Guitar was too expensive, Buyer 1 left the store.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 4 purchased Strings for $93.56.
+Strings out of stock, Buyer 5 left the store.
+Buyer 6 purchased MusicCD for $8.19.
+Buyer 7 purchased MP3 for $81.0 after a 10%% discount.
+Hats out of stock, Buyer 8 left the store.
+PaperScore out of stock, Buyer 9 left the store.
+Velma bought a poor condition Guitar from Seller 1 for $51.1 after offering 10%% more.
+Velma bought a good condition Guitar from Seller 2 for $34.72.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 11
+There is $1915.09 in the register
+All the items in the inventory are worth total of 770.96
+Daphne put in order for MP3 for $4.34 on day 11
+Daphne put in order for MP3 for $21.55 on day 11
+Daphne put in order for MP3 for $2.0 on day 11
+Daphne put in order for Strings for $35.47 on day 11
+Daphne put in order for Strings for $40.43 on day 11
+Daphne put in order for Strings for $33.35 on day 11
+Buyer 1 purchased Cassette for $44.31 after a 10%% discount.
+Buyer 2 purchased CassettePlayer for $42.0.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased Cables for $29.8.
+Buyer 5 purchased Bass for $41.4 after a 10%% discount.
+RecordPlayer was too expensive, Buyer 6 left the store.
+CassettePlayer out of stock, Buyer 7 left the store.
+GigBag out of stock, Buyer 8 left the store.
+Daphne bought a poor condition CDPlayer from Seller 1 for $49.17.
+Seller 2 didn't accept the price, and left the store.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 12
+There is $1886.29 in the register
+All the items in the inventory are worth total of 898.83
+Daphne put in order for Cables for $33.47 on day 12
+Daphne put in order for Cables for $36.78 on day 12
+Daphne put in order for Cables for $41.38 on day 12
+Daphne put in order for Cassette for $28.89 on day 12
+Daphne put in order for Cassette for $38.21 on day 12
+Daphne put in order for Cassette for $18.61 on day 12
+Daphne put in order for CassettePlayer for $7.17 on day 12
+Daphne put in order for CassettePlayer for $11.86 on day 12
+Daphne put in order for CassettePlayer for $6.24 on day 12
+Cables out of stock, Buyer 1 left the store.
+Cables out of stock, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $84.0.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Shaggy arrives at the store on Day 13
+There is $1747.68 in the register
+All the items in the inventory are worth total of 1071.13
+Buyer 1 purchased Guitar for $101.48.
+Buyer 2 purchased CDPlayer for $43.2 after a 10%% discount.
+Shirts out of stock, Buyer 3 left the store.
+Buyer 4 purchased GigBag for $55.44 after a 10%% discount.
+Buyer 5 purchased Flute for $86.4 after a 10%% discount.
+Shaggy bought a good condition Saxophone from Seller 2 for $10.57 after offering 10%% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 15
+There is $2023.63 in the register
+All the items in the inventory are worth total of 1029.11
+Shaggy put in order for Flute for $20.14 on day 15
+Shaggy put in order for Flute for $18.52 on day 15
+Shaggy put in order for Flute for $49.44 on day 15
+Buyer 1 purchased PracticeAmps for $50.0.
+Buyer 2 purchased PaperScore for $72.28.
+Strings was too expensive, Buyer 3 left the store.
+Flute out of stock, Buyer 4 left the store.
+Shirts out of stock, Buyer 5 left the store.
+Shaggy bought a fair condition Vinyl from Seller 1 for $14.9.
+Shaggy bought a good condition CDPlayer from Seller 3 for $31.1 after offering 10%% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 16
+There is $2011.81 in the register
+All the items in the inventory are worth total of 1086.94
+Buyer 1 purchased Saxophone for $96.0.
+Saxophone was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $73.66.
+Flute out of stock, Buyer 4 left the store.
+Buyer 5 purchased Cables for $66.94.
+Buyer 6 purchased Saxophone for $19.23.
+Buyer 7 purchased Strings for $63.86 after a 10%% discount.
+Buyer 8 purchased Bass for $48.0.
+Shaggy bought a good condition Cassette from Seller 1 for $9.77.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 17
+There is $2394.53 in the register
+All the items in the inventory are worth total of 950.0
+Velma put in order for PracticeAmps for $6.1 on day 17
+Velma put in order for PracticeAmps for $45.11 on day 17
+Velma put in order for PracticeAmps for $15.64 on day 17
+Velma put in order for Saxophone for $35.02 on day 17
+Velma put in order for Saxophone for $32.18 on day 17
+Velma put in order for Saxophone for $27.0 on day 17
+Buyer 1 purchased Vinyl for $12.6 after a 10%% discount.
+Buyer 2 purchased RecordPlayer for $19.8 after a 10%% discount.
+Velma bought a good condition Saxophone from Seller 1 for $44.76.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Velma arrives at the store on Day 18
+There is $2221.1 in the register
+All the items in the inventory are worth total of 1044.82
+Buyer 1 purchased Saxophone for $80.56 after a 10%% discount.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $16.2 after a 10%% discount.
+Buyer 4 purchased MusicCD for $7.56 after a 10%% discount.
+Saxophone out of stock, Buyer 5 left the store.
+Guitar was too expensive, Buyer 6 left the store.
+Cassette was too expensive, Buyer 7 left the store.
+Velma bought a very good condition Cassette from Seller 1 for $19.91.
+Velma bought a good condition Vinyl from Seller 2 for $1.27.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 19
+There is $2304.24 in the register
+All the items in the inventory are worth total of 1060.35
+Buyer 1 purchased Bandanas for $67.45.
+Buyer 2 purchased PaperScore for $16.28.
+Daphne bought a very good condition MP3 from Seller 1 for $14.01 after offering 10%% more.
+Daphne bought a fair condition Harmonica from Seller 2 for $10.64.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Shaggy arrives at the store on Day 20
+There is $2363.31 in the register
+All the items in the inventory are worth total of 1091.88
+Buyer 1 purchased Bass for $30.42 after a 10%% discount.
+Buyer 2 purchased Cassette for $76.42.
+Bass out of stock, Buyer 3 left the store.
+Buyer 4 purchased GigBag for $56.12 after a 10%% discount.
+Cassette was too expensive, Buyer 5 left the store.
+Shaggy bought a fair condition PracticeAmps from Seller 1 for $17.42.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a poor condition Harmonica from Seller 3 for $47.02.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 22
+There is $2545.85 in the register
+All the items in the inventory are worth total of 1071.46
+Shaggy put in order for Bass for $5.14 on day 22
+Shaggy put in order for Bass for $28.55 on day 22
+Shaggy put in order for Bass for $7.61 on day 22
+Shaggy put in order for GigBag for $13.94 on day 22
+Shaggy put in order for GigBag for $12.18 on day 22
+Shaggy put in order for GigBag for $32.54 on day 22
+Buyer 1 purchased CassettePlayer for $12.48.
+Buyer 2 purchased MusicCD for $53.46.
+Buyer 3 purchased Saxophone for $57.92 after a 10%% discount.
+Buyer 4 purchased Vinyl for $29.8.
+Buyer 5 purchased Harmonica for $24.64.
+Shirts out of stock, Buyer 6 left the store.
+Cassette was too expensive, Buyer 7 left the store.
+Buyer 8 purchased Cables for $82.76.
+GigBag out of stock, Buyer 9 left the store.
+Seller 1 didn't accept the price, and left the store.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 23
+There is $2706.94 in the register
+All the items in the inventory are worth total of 1010.21
+Buyer 1 purchased Strings for $60.03 after a 10%% discount.
+Buyer 2 purchased CassettePlayer for $14.34.
+Buyer 3 purchased MP3 for $7.81 after a 10%% discount.
+Buyer 4 purchased Vinyl for $2.28 after a 10%% discount.
+Shaggy bought a poor condition CassettePlayer from Seller 1 for $47.06.
+Shaggy bought a good condition MusicCD from Seller 2 for $26.68.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 24
+There is $2717.66 in the register
+All the items in the inventory are worth total of 1051.76
+Velma put in order for Vinyl for $31.02 on day 24
+Velma put in order for Vinyl for $7.06 on day 24
+Velma put in order for Vinyl for $29.35 on day 24
+Buyer 1 purchased Cables for $66.2 after a 10%% discount.
+Buyer 2 purchased Mandolin for $98.78.
+Buyer 3 purchased RecordPlayer for $4.0.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.
+Daphne arrives at the store on Day 25
+There is $2819.21 in the register
+All the items in the inventory are worth total of 1010.26
+Daphne put in order for RecordPlayer for $22.74 on day 25
+Daphne put in order for RecordPlayer for $12.3 on day 25
+Daphne put in order for RecordPlayer for $37.14 on day 25
+Daphne put in order for Cables for $21.65 on day 25
+Daphne put in order for Cables for $24.92 on day 25
+Daphne put in order for Cables for $46.4 on day 25
+Bass was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $57.78.
+Buyer 3 purchased Cassette for $17.58 after a 10%% discount.
+Buyer 4 purchased Flute for $37.04.
+Buyer 5 purchased Harmonica for $61.0.
+Cables out of stock, Buyer 6 left the store.
+Daphne bought a poor condition Cables from Seller 1 for $19.08 after offering 10%% more.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Daphne arrives at the store on Day 26
+There is $2808.37 in the register
+All the items in the inventory are worth total of 977.27
+Buyer 1 purchased CassettePlayer for $23.72.
+Buyer 2 purchased Flute for $88.99 after a 10%% discount.
+Bandanas out of stock, Buyer 3 left the store.
+MP3 was too expensive, Buyer 4 left the store.
+Buyer 5 purchased MP3 for $4.01.
+Buyer 6 purchased Strings for $72.77 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Daphne cleaned the store without breaking anything.
+Daphne went home for the day.
+Shaggy arrives at the store on Day 27
+There is $2997.85 in the register
+All the items in the inventory are worth total of 984.91
+Shaggy put in order for Strings for $4.3 on day 27
+Shaggy put in order for Strings for $35.5 on day 27
+Shaggy put in order for Strings for $11.52 on day 27
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased Mandolin for $36.36 after a 10%% discount.
+Buyer 3 purchased Harmonica for $21.28.
+Shaggy bought a good condition Guitar from Seller 1 for $13.7 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a very good condition Guitar from Seller 3 for $2.02.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Shaggy arrives at the store on Day 29
+There is $2988.45 in the register
+All the items in the inventory are worth total of 1028.97
+Flute was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Saxophone for $48.6 after a 10%% discount.
+Bandanas out of stock, Buyer 3 left the store.
+Shaggy bought a very good condition CassettePlayer from Seller 1 for $28.12 after offering 10%% more.
+Shaggy bought a fair condition PaperScore from Seller 2 for $20.29 after offering 10%% more.
+Shaggy cleaned the store without breaking anything.
+Shaggy went home for the day.
+Velma arrives at the store on Day 30
+There is $2988.64 in the register
+All the items in the inventory are worth total of 1123.02
+Buyer 1 purchased Bass for $15.22.
+Buyer 2 purchased RecordPlayer for $24.6.
+Buyer 3 purchased GigBag for $58.59 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $40.93 after a 10%% discount.
+Velma bought a poor condition Vinyl from Seller 1 for $50.86.
+Velma bought a very good condition Mandolin from Seller 2 for $28.26.
+Velma cleaned the store without breaking anything.
+Velma went home for the day.

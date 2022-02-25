@@ -36,12 +36,14 @@ public class Customer {
 
     //private Random Rng= new Random();
 
-    public void Buy(){
+    public int Buy(){
         //rand int from 0-16
         int roll;
+        int buy_count=0;
         roll= Rng.nextInt(Store.get_ItemList().size());
         //pick item category based on RNG
         String wantedItem = Store.get_ItemList().get(roll);
+        String content;
 
         if (Store.check_stock(wantedItem) > 0) {
             double rand1 = Math.random();
@@ -82,33 +84,46 @@ public class Customer {
 
                 //print statement depends on discount
                 if (discount == 1) {
-                    System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + ".\n");
+                    //System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + ".\n");
+                    content=this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + ".";
+                    Store.notifyLoggers(content);
+                    buy_count++;
                 } else {
-                    System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.\n");
+                    //System.out.printf(this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.\n");
+                    content=this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.";
+                    Store.notifyLoggers(content);
+                    buy_count++;
                 }
 
                 //if soldItem is Stringed, call SellAccessories
                 if (soldItem instanceof Stringed) {
                     StringDecorator temp = new StringDecorator((Stringed) soldItem);
-                    temp.SellAccessories();
+                    buy_count+=temp.SellAccessories();
                 }
 
             } else {
                 //if item is in stock but too expensive
-                System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
+                //System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
+                content=wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.";
+                Store.notifyLoggers(content);
             }
         } else {
             //if item is out of stock
-            System.out.printf(wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.\n");
+            //System.out.printf(wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.\n");
+            content=wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.";
+            Store.notifyLoggers(content);
         }
+        return buy_count;
     }
 
-    public void Sell(){
+    public int Sell(){
         Items random_item = null;
         int roll;
         //using random.nextInt() to determine which item Customer is selling
         roll=Rng.nextInt(Store.get_ItemList().size()-1);
         int day=Store.get_daysPassed();
+        String content;
+        int sell_count=0;
 
         //Clerk randomly determines item's price, condition, and new/used
         double price =Rng.nextInt(49)+1;
@@ -285,13 +300,22 @@ public class Customer {
 
                 //print statement depends on discount
                 if (discount == 1) {
-                    System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
+                    content=Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".";
+                    Store.notifyLoggers(content);
+                    sell_count++;
+
                 } else {
-                    System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                    content=Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.";
+                    Store.notifyLoggers(content);
+                    sell_count++;
                 }
             } else {
                 //if Customer doesn't accept Clerk's purchasePrice
-                System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
+                //System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
+                content=this.name + " " + this.num + " didn't accept the price, and left the store.";
+                Store.notifyLoggers(content);
             }
 
         }
@@ -307,17 +331,26 @@ public class Customer {
 
                     //print statement depends on discount
                     if (discount == 1) {
-                        System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
+                        //System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".\n");
+                        content=Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + ".";
+                        Store.notifyLoggers(content);
+                        sell_count++;
                     } else {
-                        System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                        //System.out.printf(Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.\n");
+                        content=Store.get_OnShift().get_name() + " bought a " + random_item.get_conditionS() + " condition " + random_item.get_name() + " from " + this.name + " " + this.num + " for $" + random_item.get_purchasePrice() + " after offering 10%% more.";
+                        Store.notifyLoggers(content);
+                        sell_count++;
                     }
                 } else {
                     //if Customer doesn't accept Clerk's purchasePrice
-                    System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
+                    //System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.");
+                    content=this.name + " " + this.num + " didn't accept the price, and left the store.";
+                    Store.notifyLoggers(content);
                 }
 
             }
 
         }
+        return sell_count;
     }
 }

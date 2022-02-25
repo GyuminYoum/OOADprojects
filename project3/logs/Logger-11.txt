@@ -1,0 +1,36 @@
+Velma arrives at the store on Day 11
+Velma received Mandolin on day 11
+Velma received Cables on day 11
+2 items has been added to the inventory
+There is $1529.85 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of 1029.71
+Velma put in order for Harmonica for $18.19 on day 11
+Velma put in order for Harmonica for $21.35 on day 11
+Velma put in order for Harmonica for $18.1 on day 11
+Velma ordered total of 3 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $84.0.
+Mandolin was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Hats for $10.0.
+CDPlayer was too expensive, Buyer 4 left the store.
+Buyer 5 purchased PaperScore for $10.0.
+Buyer 6 purchased Bandanas for $12.0.
+Velma bought a good condition Flute from Seller 1 for $39.19.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

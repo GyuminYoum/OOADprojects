@@ -7,21 +7,27 @@ import Items.Players;
 import Store.Store;
 
 public class Manual implements Strategy{
-    public void Tune(Items item) {
+    public boolean Tune(Items item) {
         double roll = Math.random();
         boolean temp = false;
+        String content;
         if (item instanceof wind) {
             //if item is of type wind
             if (((wind) item).get_adjusted()) {
                 if (roll < 0.2) {
                     ((wind) item).set_adjusted(false);
-                    System.out.printf(Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             } else {
                 if (roll < 0.8) {
                     ((wind) item).set_adjusted(true);
-                    System.out.printf(Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
+
 
                 }
             }
@@ -30,13 +36,17 @@ public class Manual implements Strategy{
             if (((Stringed) item).get_tuned()) {
                 if (roll < 0.2) {
                     ((Stringed) item).set_tuned(false);
-                    System.out.printf(Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             } else {
                 if (roll < 0.8) {
                     ((Stringed) item).set_tuned(true);
-                    System.out.printf(Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 }
             }
         //if item is type Players
@@ -44,13 +54,17 @@ public class Manual implements Strategy{
             if (((Players) item).get_equalized()) {
                 if (roll < 0.2) {
                     ((Players) item).set_equalized(false);
-                    System.out.printf(Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             } else {
                 if (roll < 0.8) {
                     ((Players) item).set_equalized(true);
-                    System.out.printf(Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 }
             }
         }
@@ -68,13 +82,18 @@ public class Manual implements Strategy{
                         }
                         i++;
                     }
-                    System.out.printf(Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition. ");
-
+                    //System.out.printf(Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition. ");
+                    content=Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition.";
+                    Store.notifyLoggers(content);
                 } else {
                     item.set_condition(item.get_condition() - 1);
-                    System.out.printf(Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".");
+                    //System.out.printf(Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".");
+                    content=Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 }
+                return false;
             }
         }
+        return true;
     }
 }

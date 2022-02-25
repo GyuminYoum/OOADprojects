@@ -1,0 +1,35 @@
+Shaggy arrives at the store on Day 25
+Shaggy received Flute on day 25
+1 items has been added to the inventory
+There is $2707.74 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of 994.08
+Shaggy put in order for MusicCD for $2.52 on day 25
+Shaggy put in order for MusicCD for $10.8 on day 25
+Shaggy put in order for MusicCD for $10.28 on day 25
+Shaggy ordered total of 3 items
+Shaggy put in order for RecordPlayer for $41.46 on day 25
+Shaggy put in order for RecordPlayer for $34.13 on day 25
+Shaggy put in order for RecordPlayer for $30.5 on day 25
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+CassettePlayer was too expensive, Buyer 1 left the store.
+MusicCD out of stock, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $32.58 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $50.0.
+Buyer 5 purchased Mandolin for $82.0.
+Buyer also purchased Strings for $93.72.
+Buyer also purchased Strings for $55.86.
+Buyer 6 purchased Saxophone for $22.4.
+Hats out of stock, Buyer 7 left the store.
+Shaggy bought a good condition Mandolin from Seller 1 for $6.61.
+Shaggy sold 7 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

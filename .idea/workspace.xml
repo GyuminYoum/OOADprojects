@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="" />
+    <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/FNMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Observer/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Observer/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Observer/logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Clerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Clerk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Electronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Electronic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Haphazard.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Haphazard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Store/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Store/Store.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,13 +26,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Items/Items.java" root0="FORCE_HIGHLIGHTING" />

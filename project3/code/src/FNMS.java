@@ -1,5 +1,6 @@
 import Staff.Clerk;
 import Store.Store;
+import Observer.logger;
 
 //class FNMS for simulation
 //Store.Build() to initialize inventory and staff list as well as other necessary attributes.
@@ -11,6 +12,10 @@ public class FNMS {
     }
     public static void Run(){
         while(Store.get_daysPassed()<=30){
+            String text_name="project3//logs//Logger-"+Store.get_daysPassed()+".txt";
+            logger watcher=new logger();
+            Store.registerLogger(watcher);
+            watcher.makeTxt(text_name);
             Store.pickOnShift();
             Clerk staff1=Store.get_OnShift();
             if(staff1!=null){
@@ -21,6 +26,7 @@ public class FNMS {
                 staff1.CleanTheStore();
                 staff1.LeaveTheStore();
             }
+            Store.removeLogger(watcher);
         }
         Store.Report();
     }

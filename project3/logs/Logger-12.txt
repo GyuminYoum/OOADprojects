@@ -1,0 +1,36 @@
+Daphne arrives at the store on Day 12
+Daphne received Mandolin on day 12
+Daphne received GigBag on day 12
+Daphne received Strings on day 12
+3 items has been added to the inventory
+There is $1549.02 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of 1115.21
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $96.0.
+Buyer 2 purchased RecordPlayer for $22.0.
+PracticeAmps was too expensive, Buyer 3 left the store.
+Buyer 4 purchased CassettePlayer for $21.6 after a 10%% discount.
+Daphne bought a fair condition PracticeAmps from Seller 1 for $28.13.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne has damaged a(n) CDPlayer.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.

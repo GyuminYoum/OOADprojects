@@ -7,18 +7,23 @@ import Items.Players;
 import Store.Store;
 
 public class Haphazard implements Strategy{
-    public void Tune(Items item) {
+    public boolean Tune(Items item) {
         double roll = Math.random();
         boolean temp = false;
+        String content;
         //if item is type wind
         if (item instanceof wind) {
             if (roll <0.5) {
                 //switch "adjusted" trait
                 ((wind) item).set_adjusted(!((wind) item).get_adjusted());
                 if (((wind) item).get_adjusted()) {
-                    System.out.printf(Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " adjusted " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 } else {
-                    System.out.printf(Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-adjusted " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             }
@@ -28,9 +33,13 @@ public class Haphazard implements Strategy{
                 //switch "tuned" trait
                 ((Stringed) item).set_tuned(!((Stringed) item).get_tuned());
                 if (((Stringed) item).get_tuned()) {
-                    System.out.printf(Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " tuned " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 } else {
-                    System.out.printf(Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-tuned " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             }
@@ -40,9 +49,13 @@ public class Haphazard implements Strategy{
                 //switch "equalized" trait
                 ((Players) item).set_equalized(!((Players) item).get_equalized());
                 if (((Players) item).get_equalized()) {
-                    System.out.printf(Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " equalized " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 } else {
-                    System.out.printf(Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".\n");
+                    //System.out.printf(Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".\n");
+                    content=Store.get_OnShift().get_name() + " un-equalized " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                     temp = true;
                 }
             }
@@ -63,14 +76,18 @@ public class Haphazard implements Strategy{
                         }
                         i++;
                     }
-                    System.out.printf(Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition. ");
-
+                    //System.out.printf(Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition. ");
+                    content=Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition.";
+                    Store.notifyLoggers(content);
                 } else {
                     item.set_condition(item.get_condition() - 1);
-                    System.out.printf(Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".");
+                    //System.out.printf(Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".");
+                    content=Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".";
+                    Store.notifyLoggers(content);
                 }
+                return false;
             }
         }
-
+        return true;
     }
 }

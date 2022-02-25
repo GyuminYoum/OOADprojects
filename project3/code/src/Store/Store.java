@@ -26,6 +26,7 @@ import Staff.Clerk;
 import Staff.Electronic;
 import Staff.Haphazard;
 import Staff.Manual;
+import Observer.logger;
 
 
 import java.util.ArrayList;
@@ -56,7 +57,7 @@ public class Store {
     private static ArrayList<String>Item_list= new ArrayList<String>();
     private static ArrayList<String> staff_names=new ArrayList<String>();
     private static String statement;
-    private ArrayList<Observer> Observer_list=new ArrayList<Observer>();
+    private static ArrayList<logger> logger_list=new ArrayList<logger>();
 
 
     //setter to initialize the store
@@ -254,17 +255,22 @@ public class Store {
     }
 
   */
-     public void registerObserver(Observer O){
-         Observer_list.add(O);
+     public static void registerLogger(logger O){
+         logger_list.add(O);
      }
-    public void removeObserver(Observer O){
-         Observer_list.remove(O);
-
+    public static void removeLogger(logger O){
+         logger_list.remove(O);
     }
-    public void notifyObservers(){
-        for (Observer O:Observer_list){
-            O.update(statement);
+    public static void notifyLoggers(String str1){
+        for (logger O:logger_list){
+            O.update(str1);
         }
+    }
+    public static String get_Statement(){
+         return statement;
+    }
+    public static void set_Statement(String str1){
+         statement=str1;
     }
     public static void addToItemList(String name1){
         if(Item_list.contains(name1)==false){
@@ -329,6 +335,7 @@ public class Store {
         int anyonesick=0;
         int sickIndex=-1;
         Clerk picked=null;
+        String content;
         //days=picked.get_daysWorked();
         //make a deep copy of Clerk_member
 
@@ -339,7 +346,9 @@ public class Store {
                 Clerk_member.get(i).set_daysWorked(0);
                 Clerk_member.get(i).set_sick(false);
             }
-            System.out.println("Store is closed on Sunday.");
+            //System.out.println("Store is closed on Sunday.");
+            content="Store is closed on Sunday.";
+            Store.notifyLoggers(content);
             /*
             for (int i=0; i< Clerk_member.size(); i++){
                 System.out.println(Clerk_member.get(i).get_name()+" "+Clerk_member.get(i).get_sick()+" "+Clerk_member.get(i).get_daysWorked()+" days");
@@ -351,7 +360,9 @@ public class Store {
             anyonesick=rng.nextInt(100);
             if(anyonesick<10){
                 pickSick();
-                System.out.println(Clerk_member.get(findSickIndex(Clerk_member)).get_name()+" is sick on day "+get_daysPassed());
+                //System.out.println(Clerk_member.get(findSickIndex(Clerk_member)).get_name()+" is sick on day "+get_daysPassed());
+                content=Clerk_member.get(findSickIndex(Clerk_member)).get_name()+" is sick on day "+get_daysPassed();
+                Store.notifyLoggers(content);
             }
             else{
                 sickIndex=findSickIndex(Clerk_member);
@@ -579,6 +590,7 @@ public class Store {
     public static void Sell(String item, int quantity) {
         int i = 0;
         int j = 0;
+        String content;
         //for number of items that get bought
         while (i < Store.get_InventorySize() && j < quantity) {
             if (item.equals(Store.get_Item(i).get_name())) {
@@ -587,7 +599,9 @@ public class Store {
                 Store.get_Item(i).set_salePrice(Store.get_Item(i).get_listPrice());
                 Store.add_soldItem(Store.get_Item(i));
                 Store.add_Register(Store.get_Item(i).get_salePrice());
-                System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
+                //System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
+                content="Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".";
+                Store.notifyLoggers(content);
                 //remove item from inventory
                 Store.remove_Inventory(i);
                 j++;

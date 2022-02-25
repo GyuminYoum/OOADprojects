@@ -1,0 +1,30 @@
+Store is closed on Sunday.
+Shaggy arrives at the store on Day 29
+Shaggy received MusicCD on day 29
+Shaggy received RecordPlayer on day 29
+Shaggy received Strings on day 29
+Shaggy received Saxophone on day 29
+4 items has been added to the inventory
+There is $3119.31 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of 872.35
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Guitar for $52.81 after a 10%% discount.
+Buyer 2 purchased Strings for $42.0.
+Buyer 3 purchased Saxophone for $26.64 after a 10%% discount.
+Buyer 4 purchased Bass for $48.0.
+Buyer 5 purchased Bass for $66.33 after a 10%% discount.
+Buyer also purchased GigBag for $49.74.
+Buyer also purchased Cables for $9.46.
+Shaggy bought a poor condition CDPlayer from Seller 1 for $10.9.
+Shaggy sold 8 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,0 +1,19 @@
+Shaggy arrives at the store on Day 6
+Shaggy received Strings on day 6
+1 items has been added to the inventory
+There is $1368.9 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of 1041.67
+Shaggy un-tuned Bass.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $63.0 after a 10%% discount.
+Buyer 2 purchased Shirts for $10.0.
+Buyer 3 purchased MusicCD for $8.19.
+Shaggy bought a fair condition Bass from Seller 1 for $36.85.
+Seller 2 didn't accept the price, and left the store.
+Shaggy sold 3 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
