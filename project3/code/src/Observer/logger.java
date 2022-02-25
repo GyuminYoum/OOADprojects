@@ -8,5 +8,6 @@ public class logger implements Observer, Writer {
     }
     public void display(){
         //write it
+        //write to txt file kinda 
     }
 }
