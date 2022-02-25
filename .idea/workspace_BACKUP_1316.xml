@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="" />
+=======
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Store/Store.java" afterDir="false" />
     </list>
+>>>>>>> justin
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,19 +17,27 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Items/Items.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/FNMS.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Clerk.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,14 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project3" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager">
@@ -79,11 +82,6 @@
       <option name="presentableId" value="Default" />
       <updated>1645412244249</updated>
       <workItem from="1645565657326" duration="407000" />
-      <workItem from="1645688644476" duration="45000" />
-      <workItem from="1645688712192" duration="597000" />
-      <workItem from="1645738263901" duration="1041000" />
-      <workItem from="1645768782499" duration="355000" />
-      <workItem from="1645769173072" duration="23000" />
     </task>
     <servers />
   </component>
@@ -100,6 +98,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

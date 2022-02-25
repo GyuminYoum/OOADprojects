@@ -25,6 +25,7 @@ import Staff.Clerk;
 import Staff.Electronic;
 import Staff.Haphazard;
 import Staff.Manual;
+import Observer.Observer;
 
 
 import java.util.ArrayList;
@@ -52,6 +53,8 @@ public class Store {
     private static double money_withdrawn=0.0;
     private static ArrayList<String>Item_list= new ArrayList<String>();
     private static ArrayList<String> staff_names=new ArrayList<String>();
+    private static ArrayList<Observer> Observer_list=new ArrayList<Observer>();
+    private static String statement;
 
 
     //setter to initialize the store
@@ -249,6 +252,17 @@ public class Store {
     }
 
   */
+    public void registerObserver(Observer O){
+        Observer_list.add(O);
+    }
+    public void removeObserver(Observer O){
+        Observer_list.remove(O);
+    }
+    public void notifyObservers(){
+        for (Observer O : Observer_list){
+            O.update(statement);
+        }
+    }
     public static void addToItemList(String name1){
         if(Item_list.contains(name1)==false){
             Item_list.add(name1);
