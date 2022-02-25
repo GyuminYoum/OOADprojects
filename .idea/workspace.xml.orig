@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/project3/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/FNMS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project3/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project3/code/src/Observer/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Observer/Writer.java" afterDir="false" />
@@ -18,8 +18,8 @@
       <change beforePath="$PROJECT_DIR$/project3/code/src/Staff/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Staff/Strategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Store/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/Store/Store.java" afterDir="false" />
-
-
+=======
+>>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

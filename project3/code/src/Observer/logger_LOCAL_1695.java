@@ -1,6 +1,5 @@
 package Observer;
 
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -82,16 +81,4 @@ public class logger implements Observer, Writer, Display {
         System.out.println(content);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+}

@@ -1,6 +1,6 @@
 package Observer;
 
-
+<<<<<<< HEAD
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -82,16 +82,16 @@ public class logger implements Observer, Writer, Display {
         System.out.println(content);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+=======
+public class logger implements Observer, Writer {
+    private String content;
+    public void update(String content1){
+        this.content=content1;
+        display();
+    }
+    public void display(){
+        //write it
+        //write to txt file kinda 
+    }
+>>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
+}

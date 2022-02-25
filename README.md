@@ -1,7 +1,7 @@
 # OOAD Projects
 CSCI4448 Project 2
 
-Names: Gyumin Youm, Freddy Rodriguez, Henock Zemenfes
+Names: Gyumin Youm, Freddy Rodriguez
 
 JDK: 8
 
