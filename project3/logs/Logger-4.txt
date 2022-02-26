@@ -1,44 +1,21 @@
-Daphne arrives at the store on Day 4
+Shaggy arrives at the store on Day 4
 0 items has been added to the inventory
-There is $1457.91 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 872.94
-Daphne put in order for Cables for $11.51 on day 4
-Daphne put in order for Cables for $32.54 on day 4
-Daphne put in order for Cables for $2.0 on day 4
-Daphne ordered total of 3 items
-Daphne put in order for Strings for $28.27 on day 4
-Daphne put in order for Strings for $49.86 on day 4
-Daphne put in order for Strings for $22.13 on day 4
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $26.0.
-Buyer 2 purchased Cassette for $82.24.
-Buyer 3 purchased CDPlayer for $24.0.
-Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
-Buyer 5 purchased Guitar for $30.6 after a 10%% discount.
-Buyer 6 purchased Hats for $30.0.
-Cables out of stock, Buyer 7 left the store.
-Daphne bought a good condition Guitar from Seller 1 for $32.13.
-Daphne bought a very good condition CassettePlayer from Seller 2 for $43.55.
-Daphne bought a good condition CDPlayer from Seller 3 for $9.38 after offering 10%% more.
-Daphne sold 6 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1156.89 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1064.48
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased MP3 for $50.0.
+Hats was too expensive, Buyer 2 left the store.
+Buyer 3 purchased PaperScore for $9.0 after a 10%% discount.
+Cables was too expensive, Buyer 4 left the store.
+Shaggy bought a very good condition Bass from Seller 1 for $10.94.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

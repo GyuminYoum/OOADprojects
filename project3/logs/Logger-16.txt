@@ -1,31 +1,28 @@
-Daphne arrives at the store on Day 16
-Daphne received GigBag on day 16
-Daphne received PracticeAmps on day 16
+Shaggy arrives at the store on Day 16
+Shaggy received Strings on day 16
+Shaggy received PaperScore on day 16
 2 items has been added to the inventory
-There is $2463.72 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 836.06
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $6.0.
-MP3 was too expensive, Buyer 2 left the store.
-Buyer 3 purchased CassettePlayer for $78.39 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Daphne bought a good condition Bass from Seller 2 for $9.99 after offering 10%% more.
-Daphne bought a good condition Guitar from Seller 3 for $23.8.
-Daphne sold 2 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1808.04 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1128.15
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Saxophone was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $5.4 after a 10%% discount.
+Buyer 3 purchased Saxophone for $69.12 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $77.06.
+Buyer 5 purchased Bass for $72.73.
+Buyer also purchased Strings for $20.14.
+Buyer also purchased Strings for $66.62.
+Buyer 6 purchased MusicCD for $7.38 after a 10%% discount.
+Shaggy bought a very good condition Harmonica from Seller 1 for $2.02.
+Shaggy sold 7 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,39 +1,31 @@
-Daphne arrives at the store on Day 19
-Daphne received Saxophone on day 19
-Daphne received PaperScore on day 19
-Daphne received CassettePlayer on day 19
-Daphne received CassettePlayer on day 19
-Daphne received CDPlayer on day 19
-Daphne received Strings on day 19
-6 items has been added to the inventory
-There is $2683.58 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 832.54
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Cables for $74.28 after a 10%% discount.
-Cables out of stock, Buyer 2 left the store.
-Buyer 3 purchased Cassette for $41.2.
-Buyer 4 purchased CDPlayer for $21.51 after a 10%% discount.
-Buyer 5 purchased CassettePlayer for $23.09 after a 10%% discount.
-Daphne bought a poor condition Strings from Seller 1 for $5.36.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the store on Day 19
+Shaggy received Bass on day 19
+Shaggy received CassettePlayer on day 19
+2 items has been added to the inventory
+There is $2147.51 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 954.76
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Saxophone for $82.04.
+Buyer 2 purchased Saxophone for $40.26 after a 10%% discount.
+Saxophone out of stock, Buyer 3 left the store.
+Buyer 4 purchased Flute for $86.4 after a 10%% discount.
+Buyer 5 purchased Bass for $41.58.
+Buyer also purchased Cables for $53.08.
+Shaggy bought a fair condition Shirts from Seller 1 for $48.26.
+Shaggy sold 5 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

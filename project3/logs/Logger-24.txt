@@ -1,33 +1,33 @@
-Daphne is sick on day 24
-Shaggy arrives at the store on Day 24
-Shaggy received Cables on day 24
-Shaggy received RecordPlayer on day 24
+Velma arrives at the store on Day 24
+Velma received Cables on day 24
+Velma received Strings on day 24
 2 items has been added to the inventory
-There is $3105.13 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 823.18
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $45.1.
-Buyer also purchased Strings for $10.72.
-Buyer also purchased Strings for $22.24.
-Buyer 2 purchased GigBag for $13.14.
-Buyer 3 purchased Bass for $16.36 after a 10%% discount.
-Buyer also purchased PracticeAmps for $4.4.
-Buyer also purchased Strings for $12.6.
-Buyer 4 purchased Vinyl for $10.8 after a 10%% discount.
-CassettePlayer was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Mandolin for $26.82 after a 10%% discount.
-Buyer also purchased Strings for $15.76.
-Shaggy bought a fair condition MP3 from Seller 2 for $28.88 after offering 10%% more.
-Shaggy sold 10 items.
-Shaggy Bought 1 items.
-Shaggy has damaged a(n) Cables.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+There is $2417.12 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1018.9
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for GigBag for $30.61 on day 24
+Velma put in order for GigBag for $18.76 on day 24
+Velma put in order for GigBag for $10.71 on day 24
+Velma ordered total of 3 items
+Velma adjusted Harmonica.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma adjusted Flute.
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma has thrown away a(n) Saxophonedue to less than poor condition.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Strings for $33.56.
+Buyer 2 purchased Mandolin for $63.0 after a 10%% discount.
+Buyer 3 purchased Flute for $99.84.
+Buyer 4 purchased Cassette for $3.96 after a 10%% discount.
+Velma bought a good condition MP3 from Seller 1 for $11.47.
+Velma bought a very good condition PaperScore from Seller 2 for $16.08 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

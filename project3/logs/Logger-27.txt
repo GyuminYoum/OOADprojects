@@ -1,30 +1,29 @@
 Shaggy arrives at the store on Day 27
-Shaggy received Bass on day 27
-Shaggy received Vinyl on day 27
-Shaggy received Harmonica on day 27
 Shaggy received GigBag on day 27
-4 items has been added to the inventory
-There is $3142.05 in the register
-There are total of 29 items in the inventory.
-All the items in the inventory are worth total of $ 762.42
+Shaggy received Flute on day 27
+Shaggy received Cassette on day 27
+Shaggy received CDPlayer on day 27
+Shaggy received CDPlayer on day 27
+5 items has been added to the inventory
+There is $2537.9 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 953.38
 Shaggy ordered total of 0 items
 Shaggy ordered total of 0 items
-Shaggy put in order for Saxophone for $43.07 on day 27
-Shaggy put in order for Saxophone for $20.11 on day 27
-Shaggy put in order for Saxophone for $13.05 on day 27
-Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Harmonica.
 Shaggy un-tuned Mandolin.
-Shaggy adjusted Flute.
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $76.5.
-Buyer 2 purchased MP3 for $52.52.
-Bandanas out of stock, Buyer 3 left the store.
-Buyer 4 purchased Mandolin for $2.73 after a 10%% discount.
-Buyer also purchased Cables for $99.14.
-Buyer 5 purchased CDPlayer for $31.26.
-Shaggy bought a good condition CDPlayer from Seller 2 for $50.75 after offering 10%% more.
-Shaggy sold 5 items.
-Shaggy Bought 1 items.
+Saxophone out of stock, Buyer 1 left the store.
+Buyer 2 purchased Vinyl for $31.3 after a 10%% discount.
+Buyer 3 purchased Cables for $73.36.
+Buyer 4 purchased Strings for $49.18.
+Shaggy bought a good condition Cassette from Seller 1 for $22.58.
+Shaggy bought a poor condition MusicCD from Seller 2 for $1.11.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

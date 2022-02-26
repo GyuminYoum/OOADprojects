@@ -1,43 +1,33 @@
 Store is closed on Sunday.
 Daphne arrives at the store on Day 15
+Daphne received CDPlayer on day 15
 Daphne received Strings on day 15
-Daphne received GigBag on day 15
-2 items has been added to the inventory
-There is $2343.04 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 898.32
+Daphne received PaperScore on day 15
+3 items has been added to the inventory
+There is $1818.41 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1092.5
 Daphne ordered total of 0 items
-Daphne put in order for PracticeAmps for $10.54 on day 15
-Daphne put in order for PracticeAmps for $43.69 on day 15
-Daphne put in order for PracticeAmps for $2.2 on day 15
-Daphne ordered total of 3 items
-Daphne put in order for Saxophone for $41.13 on day 15
-Daphne put in order for Saxophone for $5.76 on day 15
-Daphne put in order for Saxophone for $34.13 on day 15
-Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
 Daphne adjusted Flute.
 Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
 Daphne tuned Bass.
 Daphne tuned Guitar.
+Daphne tuned Mandolin.
 Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $68.45 after a 10%% discount.
-Buyer 2 purchased CassettePlayer for $37.8 after a 10%% discount.
-Saxophone out of stock, Buyer 3 left the store.
-Buyer 4 purchased Harmonica for $38.0.
-Buyer 5 purchased CDPlayer for $17.07.
-Buyer 6 purchased Mandolin for $41.7.
-Buyer also purchased Cables for $4.0.
-Buyer also purchased Strings for $71.6.
-Daphne bought a good condition Saxophone from Seller 1 for $20.47 after offering 10%% more.
-Daphne sold 7 items.
+Vinyl was too expensive, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $12.0.
+Daphne bought a good condition Saxophone from Seller 1 for $22.37.
+Daphne sold 1 items.
 Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.

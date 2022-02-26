@@ -1,37 +1,35 @@
-Daphne arrives at the store on Day 23
-Daphne received CDPlayer on day 23
-Daphne received Cables on day 23
-Daphne received RecordPlayer on day 23
-3 items has been added to the inventory
-There is $2885.47 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 847.55
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-PracticeAmps was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Cables for $55.58.
-Buyer 3 purchased Harmonica for $40.0.
-Buyer 4 purchased CDPlayer for $25.94.
-Buyer 5 purchased Saxophone for $11.52.
-Buyer 6 purchased Saxophone for $61.43 after a 10%% discount.
-Buyer 7 purchased Cassette for $25.2.
-Daphne sold 6 items.
-Daphne Bought 0 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the store on Day 23
+Velma received CassettePlayer on day 23
+Velma received Cables on day 23
+2 items has been added to the inventory
+There is $2442.29 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 963.64
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Strings for $24.59 on day 23
+Velma put in order for Strings for $16.78 on day 23
+Velma put in order for Strings for $20.79 on day 23
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+MusicCD was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MusicCD for $8.4.
+Buyer 3 purchased Cassette for $5.9 after a 10%% discount.
+Buyer 4 purchased GigBag for $13.0.
+Buyer 5 purchased CassettePlayer for $4.55.
+Buyer 6 purchased PaperScore for $34.29 after a 10%% discount.
+Buyer 7 purchased Saxophone for $14.94.
+Velma bought a poor condition MP3 from Seller 1 for $44.07 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

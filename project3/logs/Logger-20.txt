@@ -1,44 +1,33 @@
-Daphne arrives at the store on Day 20
-Daphne received PaperScore on day 20
-Daphne received CassettePlayer on day 20
-Daphne received CDPlayer on day 20
-Daphne received Strings on day 20
-4 items has been added to the inventory
-There is $2838.3 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 821.3
-Daphne ordered total of 0 items
-Daphne put in order for Cables for $49.86 on day 20
-Daphne put in order for Cables for $49.57 on day 20
-Daphne put in order for Cables for $27.79 on day 20
-Daphne ordered total of 3 items
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Harmonica was too expensive, Buyer 2 left the store.
-Buyer 3 purchased RecordPlayer for $89.2.
-Buyer 4 purchased Bass for $10.52.
-Buyer 5 purchased Bass for $41.7 after a 10%% discount.
-Buyer also purchased PracticeAmps for $21.08.
-Buyer 6 purchased Shirts for $9.0 after a 10%% discount.
-Buyer 7 purchased PaperScore for $77.81.
-Daphne bought a fair condition PracticeAmps from Seller 1 for $17.84.
-Daphne sold 6 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the store on Day 20
+Velma received Bass on day 20
+Velma received CassettePlayer on day 20
+2 items has been added to the inventory
+There is $2402.6 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 900.93
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Cables for $46.81 on day 20
+Velma put in order for Cables for $37.99 on day 20
+Velma put in order for Cables for $36.68 on day 20
+Velma ordered total of 3 items
+Velma put in order for Saxophone for $7.47 on day 20
+Velma put in order for Saxophone for $27.77 on day 20
+Velma put in order for Saxophone for $22.99 on day 20
+Velma ordered total of 3 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Strings for $17.98 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $69.1 after a 10%% discount.
+Buyer 3 purchased MP3 for $32.15.
+Velma bought a good condition RecordPlayer from Seller 1 for $9.81.
+Velma bought a very good condition Vinyl from Seller 2 for $19.12 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

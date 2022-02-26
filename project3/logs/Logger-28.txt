@@ -1,39 +1,37 @@
 Store is closed on Sunday.
 Shaggy arrives at the store on Day 29
-Shaggy received Bass on day 29
-Shaggy received Vinyl on day 29
-Shaggy received Harmonica on day 29
 Shaggy received GigBag on day 29
+Shaggy received Flute on day 29
+Shaggy received CDPlayer on day 29
 Shaggy received Saxophone on day 29
-5 items has been added to the inventory
-There is $3277.22 in the register
-There are total of 30 items in the inventory.
-All the items in the inventory are worth total of $ 876.86
-Shaggy put in order for MP3 for $7.42 on day 29
-Shaggy put in order for MP3 for $6.91 on day 29
-Shaggy put in order for MP3 for $22.9 on day 29
+4 items has been added to the inventory
+There is $2668.05 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1026.92
+Shaggy put in order for Vinyl for $27.04 on day 29
+Shaggy put in order for Vinyl for $20.44 on day 29
+Shaggy put in order for Vinyl for $50.8 on day 29
 Shaggy ordered total of 3 items
 Shaggy ordered total of 0 items
 Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Bass.
-Shaggyhas damaged a(n) Bass.
-Shaggy un-adjusted Harmonica.
+Shaggy put in order for Strings for $47.37 on day 29
+Shaggy put in order for Strings for $20.6 on day 29
+Shaggy put in order for Strings for $42.29 on day 29
+Shaggy ordered total of 3 items
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
 Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased GigBag for $67.3 after a 10%% discount.
-Buyer 2 purchased Mandolin for $57.81 after a 10%% discount.
-Buyer also purchased PracticeAmps for $42.6.
-Buyer also purchased Cables for $79.77600000000001.
-Buyer also purchased Strings for $32.34.
-Buyer 3 purchased GigBag for $56.12.
-Shaggy bought a very good condition Bass from Seller 1 for $22.07 after offering 10%% more.
-Seller 2 didn't accept the price, and left the store.
-Shaggy bought a very good condition Cables from Seller 3 for $42.42 after offering 10%% more.
-Shaggy sold 6 items.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $74.0.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased PaperScore for $7.86 after a 10%% discount.
+Buyer 4 purchased PaperScore for $55.7.
+Shaggy bought a poor condition MusicCD from Seller 1 for $54.97 after offering 10%% more.
+Shaggy bought a poor condition Saxophone from Seller 3 for $14.77.
+Shaggy sold 3 items.
 Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
+Shaggy has damaged a(n) MP3.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.

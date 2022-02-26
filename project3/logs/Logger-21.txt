@@ -1,40 +1,32 @@
 Store is closed on Sunday.
-Daphne arrives at the store on Day 22
-Daphne received PaperScore on day 22
-Daphne received Strings on day 22
-Daphne received Cables on day 22
-3 items has been added to the inventory
-There is $2942.54 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 758.87
-Daphne put in order for RecordPlayer for $46.56 on day 22
-Daphne put in order for RecordPlayer for $37.69 on day 22
-Daphne put in order for RecordPlayer for $39.02 on day 22
-Daphne ordered total of 3 items
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $25.62.
-RecordPlayer out of stock, Buyer 2 left the store.
-Buyer 3 purchased Strings for $7.98.
-Buyer 4 purchased Hats for $78.16.
-Daphne bought a fair condition Guitar from Seller 1 for $37.68.
-Daphne bought a poor condition Strings from Seller 2 for $7.88.
-Daphne sold 3 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the store on Day 22
+Velma received Bass on day 22
+Velma received Cables on day 22
+Velma received Saxophone on day 22
+Velma received Saxophone on day 22
+4 items has been added to the inventory
+There is $2313.19 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 946.1
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma adjusted Flute.
+Velma tuned Bass.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $44.8.
+Buyer 2 purchased Flute for $52.8.
+Buyer 3 purchased MP3 for $11.21 after a 10%% discount.
+Buyer 4 purchased Strings for $26.85 after a 10%% discount.
+Velma bought a poor condition MP3 from Seller 1 for $6.56.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
