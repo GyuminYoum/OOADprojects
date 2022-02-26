@@ -36,4 +36,4 @@ UML diagram changes:
 - Added Sell method to Store class
 - Added Factory create random Items
 - Simplified our Decorator into a single class that extends Stringed class
-- Observer/Logger/Tracker completely reworked to implement interfaces more efficiently
+- Observer/Logger/Tracker completely reworked to implement interfaces more efficiently and also allow for possible expansion in the future
