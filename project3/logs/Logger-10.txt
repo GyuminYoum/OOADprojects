@@ -1,41 +1,40 @@
-Velma arrives at the store on Day 10
-Velma received Harmonica on day 10
-Velma received Strings on day 10
-Velma received Vinyl on day 10
-Velma received GigBag on day 10
-4 items has been added to the inventory
-There is $1442.36 in the register
+Daphne arrives at the store on Day 10
+Daphne received Cassette on day 10
+Daphne received Mandolin on day 10
+2 items has been added to the inventory
+There is $2097.24 in the register
 There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 965.19
-Velma ordered total of 0 items
-Velma put in order for Saxophone for $18.54 on day 10
-Velma put in order for Saxophone for $40.5 on day 10
-Velma put in order for Saxophone for $27.43 on day 10
-Velma ordered total of 3 items
-Velma put in order for Cassette for $3.94 on day 10
-Velma put in order for Cassette for $5.89 on day 10
-Velma put in order for Cassette for $11.64 on day 10
-Velma ordered total of 3 items
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $35.29.
-Buyer 2 purchased PracticeAmps for $45.0 after a 10%% discount.
-Buyer 3 purchased Bass for $41.4 after a 10%% discount.
-Buyer also purchased PracticeAmps for $31.98.
-Buyer also purchased Cables for $61.56.
-Buyer also purchased Strings for $69.48.
-Velma bought a very good condition Bass from Seller 1 for $7.0 after offering 10%% more.
-Velma bought a poor condition Bandanas from Seller 2 for $14.75.
-Velma bought a fair condition PracticeAmps from Seller 3 for $40.99 after offering 10%% more.
-Velma sold 6 items.
-Velma Bought 3 items.
-Velma has damaged a(n) MusicCD.
-Velma damaged an item while cleaning.
-Velma damaged 1 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 790.36
+Daphne ordered total of 0 items
+Daphne put in order for PracticeAmps for $33.13 on day 10
+Daphne put in order for PracticeAmps for $14.69 on day 10
+Daphne put in order for PracticeAmps for $18.97 on day 10
+Daphne ordered total of 3 items
+Daphne put in order for Strings for $35.79 on day 10
+Daphne put in order for Strings for $39.45 on day 10
+Daphne put in order for Strings for $45.93 on day 10
+Daphne ordered total of 3 items
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+CassettePlayer was too expensive, Buyer 1 left the store.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $86.4 after a 10%% discount.
+Daphne bought a poor condition Hats from Seller 1 for $38.25.
+Daphne bought a good condition RecordPlayer from Seller 2 for $49.06 after offering 10%% more.
+Daphne sold 1 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

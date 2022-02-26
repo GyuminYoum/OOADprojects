@@ -1,28 +1,40 @@
-Velma arrives at the store on Day 26
-Velma received MusicCD on day 26
-Velma received PracticeAmps on day 26
-2 items has been added to the inventory
-There is $2627.64 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1040.97
-Velma ordered total of 0 items
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $28.06 after a 10%% discount.
-Buyer 2 purchased GigBag for $68.54.
-Buyer 3 purchased CassettePlayer for $38.17 after a 10%% discount.
-Buyer 4 purchased GigBag for $12.72 after a 10%% discount.
-Buyer 5 purchased Guitar for $2.41 after a 10%% discount.
-Velma bought a poor condition Vinyl from Seller 1 for $40.9 after offering 10%% more.
-Velma bought a very good condition CassettePlayer from Seller 3 for $12.83.
-Velma sold 5 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the store on Day 26
+Shaggy received Bass on day 26
+Shaggy received Strings on day 26
+Shaggy received Strings on day 26
+3 items has been added to the inventory
+There is $3270.29 in the register
+There are total of 29 items in the inventory.
+All the items in the inventory are worth total of $ 772.82
+Shaggy put in order for Vinyl for $36.53 on day 26
+Shaggy put in order for Vinyl for $28.23 on day 26
+Shaggy put in order for Vinyl for $24.46 on day 26
+Shaggy ordered total of 3 items
+Shaggy put in order for Harmonica for $46.48 on day 26
+Shaggy put in order for Harmonica for $7.82 on day 26
+Shaggy put in order for Harmonica for $11.37 on day 26
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for GigBag for $37.39 on day 26
+Shaggy put in order for GigBag for $28.06 on day 26
+Shaggy put in order for GigBag for $40.9 on day 26
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
+Shaggy has thrown away a(n) Saxophonedue to less than poor condition.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Vinyl out of stock, Buyer 1 left the store.
+Buyer 2 purchased RecordPlayer for $67.84 after a 10%% discount.
+Buyer 3 purchased Strings for $39.7.
+Buyer 4 purchased PracticeAmps for $25.46.
+Seller 1 didn't accept the price, and left the store.
+Shaggy sold 3 items.
+Shaggy Bought 0 items.
+Shaggy has damaged a(n) Bass.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

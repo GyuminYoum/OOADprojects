@@ -1,44 +1,34 @@
-Velma is sick on day 13
 Daphne arrives at the store on Day 13
-Daphne received Vinyl on day 13
-Daphne received Saxophone on day 13
+Daphne received PracticeAmps on day 13
+Daphne received GigBag on day 13
 2 items has been added to the inventory
-There is $1881.26 in the register
+There is $2177.4 in the register
 There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 925.15
-Daphne put in order for MP3 for $46.08 on day 13
-Daphne put in order for MP3 for $3.29 on day 13
-Daphne put in order for MP3 for $11.43 on day 13
-Daphne ordered total of 3 items
+All the items in the inventory are worth total of $ 918.81
 Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
 Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne tuned Bass.
 Daphne adjusted Saxophone.
+Daphne tuned Guitar.
 Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $74.0.
-Buyer also purchased GigBag for $72.54.
-Buyer also purchased Cables for $67.2.
-Buyer also purchased Strings for $99.62.
-Buyer 2 purchased Mandolin for $66.0.
-Buyer 3 purchased PaperScore for $10.0.
-Buyer 4 purchased CassettePlayer for $24.0.
-MP3 out of stock, Buyer 5 left the store.
-Buyer 6 purchased Flute for $92.0.
-Buyer 7 purchased Harmonica for $3.94.
-Mandolin out of stock, Buyer 8 left the store.
-Buyer 9 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 10 purchased PaperScore for $9.9 after a 10%% discount.
-Shirts out of stock, Buyer 11 left the store.
-Buyer 12 purchased Hats for $9.0 after a 10%% discount.
-Daphne bought a good condition Bass from Seller 1 for $9.89.
-Daphne sold 13 items.
+Buyer 1 purchased Hats for $10.0.
+Buyer 2 purchased Strings for $82.67 after a 10%% discount.
+Buyer 3 purchased Strings for $22.32 after a 10%% discount.
+Buyer 4 purchased MP3 for $50.0.
+Harmonica was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Saxophone for $15.58.
+Buyer 7 purchased PracticeAmps for $29.38.
+Daphne bought a good condition Cassette from Seller 1 for $44.3.
+Daphne sold 6 items.
 Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.

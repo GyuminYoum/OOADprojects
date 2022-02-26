@@ -1,36 +1,37 @@
 Daphne arrives at the store on Day 6
 Daphne received Cables on day 6
 1 items has been added to the inventory
-There is $1271.82 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1025.04
-Daphne tuned Guitar.
-Daphne tuned Guitar.
+There is $1748.06 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 797.76
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
 Daphne tuned Guitar.
 Daphne tuned Bass.
 Daphne tuned Bass.
 Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
-Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
+Daphne tuned Bass.
 Daphne adjusted Saxophone.
 Daphne tuned Guitar.
-Daphne adjusted Flute.
+Daphne adjusted Harmonica.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $12.0.
-Buyer 2 purchased PracticeAmps for $10.0.
-Buyer 3 purchased Guitar for $54.0.
-Buyer also purchased PracticeAmps for $30.0.
-Buyer also purchased Strings for $22.0.
-Buyer also purchased Strings for $6.84.
-Buyer 4 purchased Shirts for $8.1 after a 10%% discount.
-Buyer 5 purchased Shirts for $10.0.
-Buyer 6 purchased Harmonica for $40.0.
-Daphne bought a poor condition CDPlayer from Seller 1 for $5.61.
-Daphne sold 9 items.
-Daphne Bought 1 items.
+Buyer 1 purchased Bass for $41.4 after a 10%% discount.
+Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
+Buyer 3 purchased GigBag for $12.0.
+Bandanas out of stock, Buyer 4 left the store.
+Shirts was too expensive, Buyer 5 left the store.
+Buyer 6 purchased CassettePlayer for $24.0.
+Daphne bought a poor condition MP3 from Seller 1 for $39.95 after offering 10%% more.
+Daphne bought a poor condition PracticeAmps from Seller 2 for $39.88 after offering 10%% more.
+Daphne sold 7 items.
+Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

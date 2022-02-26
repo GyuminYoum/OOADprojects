@@ -1,41 +1,39 @@
 Store is closed on Sunday.
-Daphne arrives at the store on Day 29
-Daphne received PracticeAmps on day 29
-1 items has been added to the inventory
-There is $3174.84 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 868.98
-Daphne put in order for Mandolin for $31.87 on day 29
-Daphne put in order for Mandolin for $50.42 on day 29
-Daphne put in order for Mandolin for $34.02 on day 29
-Daphne ordered total of 3 items
-Daphne ordered total of 0 items
-Daphne put in order for Strings for $17.48 on day 29
-Daphne put in order for Strings for $23.34 on day 29
-Daphne put in order for Strings for $30.69 on day 29
-Daphne ordered total of 3 items
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Guitar was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Cables for $5.25 after a 10%% discount.
-Buyer 3 purchased Saxophone for $3.32.
-Shirts out of stock, Buyer 4 left the store.
-Buyer 5 purchased Vinyl for $74.38.
-Buyer 6 purchased MP3 for $20.57 after a 10%% discount.
-Daphne bought a good condition Strings from Seller 1 for $45.54 after offering 10%% more.
+Shaggy arrives at the store on Day 29
+Shaggy received Bass on day 29
+Shaggy received Vinyl on day 29
+Shaggy received Harmonica on day 29
+Shaggy received GigBag on day 29
+Shaggy received Saxophone on day 29
+5 items has been added to the inventory
+There is $3277.22 in the register
+There are total of 30 items in the inventory.
+All the items in the inventory are worth total of $ 876.86
+Shaggy put in order for MP3 for $7.42 on day 29
+Shaggy put in order for MP3 for $6.91 on day 29
+Shaggy put in order for MP3 for $22.9 on day 29
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased GigBag for $67.3 after a 10%% discount.
+Buyer 2 purchased Mandolin for $57.81 after a 10%% discount.
+Buyer also purchased PracticeAmps for $42.6.
+Buyer also purchased Cables for $79.77600000000001.
+Buyer also purchased Strings for $32.34.
+Buyer 3 purchased GigBag for $56.12.
+Shaggy bought a very good condition Bass from Seller 1 for $22.07 after offering 10%% more.
 Seller 2 didn't accept the price, and left the store.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy bought a very good condition Cables from Seller 3 for $42.42 after offering 10%% more.
+Shaggy sold 6 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

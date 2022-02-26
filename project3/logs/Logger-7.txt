@@ -1,43 +1,38 @@
 Store is closed on Sunday.
 Daphne arrives at the store on Day 8
 Daphne received Cables on day 8
-1 items has been added to the inventory
-There is $1459.15 in the register
+Daphne received Cassette on day 8
+Daphne received Cassette on day 8
+3 items has been added to the inventory
+There is $1752.83 in the register
 There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 949.32
-Daphne put in order for Harmonica for $23.76 on day 8
-Daphne put in order for Harmonica for $1.97 on day 8
-Daphne put in order for Harmonica for $17.64 on day 8
-Daphne ordered total of 3 items
+All the items in the inventory are worth total of $ 877.31
 Daphne ordered total of 0 items
-Daphne put in order for Strings for $49.81 on day 8
-Daphne put in order for Strings for $34.74 on day 8
-Daphne put in order for Strings for $3.59 on day 8
-Daphne ordered total of 3 items
+Daphne ordered total of 0 items
 Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
 Daphne tuned Bass.
 Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
-Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
+Daphne tuned Bass.
 Daphne adjusted Saxophone.
 Daphne tuned Guitar.
-Daphne adjusted Flute.
+Daphne adjusted Harmonica.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $11.7 after a 10%% discount.
-Buyer 2 purchased Vinyl for $14.0.
-Buyer 3 purchased Cassette for $8.19.
-Vinyl out of stock, Buyer 4 left the store.
-MusicCD was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Bandanas for $6.0.
-Buyer 7 purchased Guitar for $30.6 after a 10%% discount.
-Buyer 8 purchased MP3 for $50.0.
-Daphne bought a good condition PaperScore from Seller 1 for $36.47.
-Daphne sold 6 items.
-Daphne Bought 1 items.
+Buyer 1 purchased Vinyl for $10.0.
+Buyer 2 purchased Mandolin for $66.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 3 purchased CDPlayer for $72.0.
+Buyer 4 purchased Harmonica for $36.0.
+Daphne bought a very good condition Bass from Seller 1 for $23.17.
+Seller 2 didn't accept the price, and left the store.
+Daphne bought a good condition Guitar from Seller 3 for $24.8 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

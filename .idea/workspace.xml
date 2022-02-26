@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Haphazard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Haphazard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Manual.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Manual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/project3/code/src/FNMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Observer/logger.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/code/src/Store/Store.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/logs/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project3/logs/Logger-1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

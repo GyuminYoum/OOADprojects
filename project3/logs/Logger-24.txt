@@ -1,25 +1,33 @@
-Velma arrives at the store on Day 24
-Velma received GigBag on day 24
-Velma received MusicCD on day 24
-Velma received Strings on day 24
-Velma received Strings on day 24
-Velma received Cassette on day 24
-5 items has been added to the inventory
-There is $2544.0 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1001.48
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma adjusted Harmonica.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-CassettePlayer was too expensive, Buyer 1 left the store.
-Buyer 2 purchased PracticeAmps for $30.78.
-Seller 1 didn't accept the price, and left the store.
-Velma bought a poor condition CassettePlayer from Seller 2 for $47.86 after offering 10%% more.
-Velma bought a good condition Flute from Seller 3 for $34.02 after offering 10%% more.
-Velma sold 1 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne is sick on day 24
+Shaggy arrives at the store on Day 24
+Shaggy received Cables on day 24
+Shaggy received RecordPlayer on day 24
+2 items has been added to the inventory
+There is $3105.13 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 823.18
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $45.1.
+Buyer also purchased Strings for $10.72.
+Buyer also purchased Strings for $22.24.
+Buyer 2 purchased GigBag for $13.14.
+Buyer 3 purchased Bass for $16.36 after a 10%% discount.
+Buyer also purchased PracticeAmps for $4.4.
+Buyer also purchased Strings for $12.6.
+Buyer 4 purchased Vinyl for $10.8 after a 10%% discount.
+CassettePlayer was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Mandolin for $26.82 after a 10%% discount.
+Buyer also purchased Strings for $15.76.
+Shaggy bought a fair condition MP3 from Seller 2 for $28.88 after offering 10%% more.
+Shaggy sold 10 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) Cables.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

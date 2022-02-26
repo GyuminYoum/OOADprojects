@@ -1,36 +1,37 @@
-Velma arrives at the store on Day 23
-Velma received GigBag on day 23
-Velma received Cables on day 23
-Velma received Cables on day 23
-Velma received Cassette on day 23
-4 items has been added to the inventory
-There is $2509.31 in the register
+Daphne arrives at the store on Day 23
+Daphne received CDPlayer on day 23
+Daphne received Cables on day 23
+Daphne received RecordPlayer on day 23
+3 items has been added to the inventory
+There is $2885.47 in the register
 There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 819.09
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma has thrown away a(n) Saxophonedue to less than poor condition.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velmahas damaged a(n) Harmonica.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma has damaged 2 items while tuning
-Buyer 1 purchased Vinyl for $73.53 after a 10%% discount.
-Cassette was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bass for $12.74.
-Buyer also purchased Cables for $28.96.
-Buyer also purchased Cables for $12.9.
-Buyer 4 purchased Saxophone for $37.08.
-Velma bought a poor condition RecordPlayer from Seller 1 for $44.68.
-Velma bought a poor condition Strings from Seller 2 for $40.38.
-Velma bought a poor condition Saxophone from Seller 3 for $45.46.
-Velma sold 5 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 847.55
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+PracticeAmps was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cables for $55.58.
+Buyer 3 purchased Harmonica for $40.0.
+Buyer 4 purchased CDPlayer for $25.94.
+Buyer 5 purchased Saxophone for $11.52.
+Buyer 6 purchased Saxophone for $61.43 after a 10%% discount.
+Buyer 7 purchased Cassette for $25.2.
+Daphne sold 6 items.
+Daphne Bought 0 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

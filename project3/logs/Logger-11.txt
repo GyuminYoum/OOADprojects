@@ -1,29 +1,28 @@
-Shaggy is sick on day 11
-Velma arrives at the store on Day 11
-Velma received Harmonica on day 11
-Velma received Strings on day 11
-Velma received GigBag on day 11
-Velma received Saxophone on day 11
-Velma received Cassette on day 11
-5 items has been added to the inventory
-There is $1556.39 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 992.62
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Flute.
-Velma adjusted Flute.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $42.76 after a 10%% discount.
-Buyer 2 purchased RecordPlayer for $66.0.
-Buyer 3 purchased CDPlayer for $21.6 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Velma sold 3 items.
-Velma Bought 0 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne is sick on day 11
+Shaggy arrives at the store on Day 11
+Shaggy received Mandolin on day 11
+Shaggy received PracticeAmps on day 11
+Shaggy received PracticeAmps on day 11
+Shaggy received Strings on day 11
+4 items has been added to the inventory
+There is $1908.35 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 942.6
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $10.0.
+Buyer 2 purchased RecordPlayer for $22.0.
+Buyer 3 purchased RecordPlayer for $66.02.
+Buyer 4 purchased GigBag for $13.0.
+Buyer 5 purchased MusicCD for $8.0.
+Buyer 6 purchased MP3 for $10.0.
+Shaggy bought a fair condition MusicCD from Seller 1 for $33.72.
+Shaggy bought a good condition Strings from Seller 2 for $12.4.
+Shaggy bought a fair condition Cables from Seller 3 for $45.39 after offering 10%% more.
+Shaggy sold 6 items.
+Shaggy Bought 3 items.
+Shaggy has damaged a(n) CDPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

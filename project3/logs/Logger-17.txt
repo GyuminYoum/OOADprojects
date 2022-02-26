@@ -1,32 +1,38 @@
-Daphne arrives at the store on Day 17
-Daphne received MP3 on day 17
-Daphne received Harmonica on day 17
-Daphne received CassettePlayer on day 17
-3 items has been added to the inventory
-There is $2247.42 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 825.94
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $23.28.
-Buyer 2 purchased Mandolin for $29.26.
-Daphne bought a very good condition Guitar from Seller 1 for $1.47 after offering 10%% more.
-Daphne bought a very good condition CDPlayer from Seller 2 for $17.48.
-Daphne bought a very good condition Saxophone from Seller 3 for $1.82 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the store on Day 17
+Velma received PracticeAmps on day 17
+Velma received Saxophone on day 17
+2 items has been added to the inventory
+There is $2514.31 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 839.59
+Velma put in order for PaperScore for $7.41 on day 17
+Velma put in order for PaperScore for $38.9 on day 17
+Velma put in order for PaperScore for $17.57 on day 17
+Velma ordered total of 3 items
+Velma ordered total of 0 items
+Velma put in order for CassettePlayer for $12.81 on day 17
+Velma put in order for CassettePlayer for $43.95 on day 17
+Velma put in order for CassettePlayer for $12.23 on day 17
+Velma ordered total of 3 items
+Velma un-adjusted Harmonica.
+Velmahas damaged a(n) Harmonica.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Cables for $23.02.
+Buyer 2 purchased CDPlayer for $47.8 after a 10%% discount.
+Bandanas out of stock, Buyer 3 left the store.
+Buyer 4 purchased Saxophone for $37.22.
+Buyer 5 purchased Shirts for $9.0.
+Buyer 6 purchased MP3 for $90.0.
+Buyer 7 purchased Strings for $71.01 after a 10%% discount.
+Velma bought a poor condition CassettePlayer from Seller 1 for $14.11 after offering 10%% more.
+Velma bought a very good condition Flute from Seller 2 for $15.29.
+Velma sold 6 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

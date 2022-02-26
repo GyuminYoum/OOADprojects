@@ -1,39 +1,30 @@
-Daphne arrives at the store on Day 27
-Daphne received Strings on day 27
-Daphne received PracticeAmps on day 27
-2 items has been added to the inventory
-There is $2723.8 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1093.0
-Daphne ordered total of 0 items
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $92.66.
-Buyer 2 purchased MusicCD for $44.52.
-Buyer 3 purchased PracticeAmps for $71.38 after a 10%% discount.
-Buyer 4 purchased Vinyl for $9.8.
-Buyer 5 purchased Mandolin for $38.28.
-Buyer also purchased Strings for $57.36.
-Buyer also purchased Strings for $98.56.
-Buyer also purchased Strings for $76.52.
-MP3 was too expensive, Buyer 6 left the store.
-Daphne bought a very good condition Cassette from Seller 1 for $38.04.
-Daphne sold 8 items.
-Daphne Bought 1 items.
-Daphne has thrown away a(n) Bass due to less than poor condition.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the store on Day 27
+Shaggy received Bass on day 27
+Shaggy received Vinyl on day 27
+Shaggy received Harmonica on day 27
+Shaggy received GigBag on day 27
+4 items has been added to the inventory
+There is $3142.05 in the register
+There are total of 29 items in the inventory.
+All the items in the inventory are worth total of $ 762.42
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for Saxophone for $43.07 on day 27
+Shaggy put in order for Saxophone for $20.11 on day 27
+Shaggy put in order for Saxophone for $13.05 on day 27
+Shaggy ordered total of 3 items
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $76.5.
+Buyer 2 purchased MP3 for $52.52.
+Bandanas out of stock, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $2.73 after a 10%% discount.
+Buyer also purchased Cables for $99.14.
+Buyer 5 purchased CDPlayer for $31.26.
+Shaggy bought a good condition CDPlayer from Seller 2 for $50.75 after offering 10%% more.
+Shaggy sold 5 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

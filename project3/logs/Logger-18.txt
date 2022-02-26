@@ -1,28 +1,43 @@
-Shaggy is sick on day 18
-Velma arrives at the store on Day 18
-Velma received Mandolin on day 18
-Velma received Harmonica on day 18
-Velma received CassettePlayer on day 18
-3 items has been added to the inventory
-There is $2279.17 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 851.02
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma un-adjusted Saxophone.
-Velma tuned Bass.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $14.56 after a 10%% discount.
-Buyer 2 purchased Flute for $86.4 after a 10%% discount.
-Buyer 3 purchased Cassette for $7.09 after a 10%% discount.
-Buyer 4 purchased MusicCD for $6.04 after a 10%% discount.
-Velma bought a very good condition Guitar from Seller 1 for $50.96 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne arrives at the store on Day 18
+Daphne received PracticeAmps on day 18
+Daphne received Saxophone on day 18
+2 items has been added to the inventory
+There is $2630.08 in the register
+There are total of 35 items in the inventory.
+All the items in the inventory are worth total of $ 751.19
+Daphne ordered total of 0 items
+Daphne put in order for CDPlayer for $15.63 on day 18
+Daphne put in order for CDPlayer for $12.97 on day 18
+Daphne put in order for CDPlayer for $11.95 on day 18
+Daphne ordered total of 3 items
+Daphne ordered total of 0 items
+Daphne put in order for Strings for $6.3 on day 18
+Daphne put in order for Strings for $11.12 on day 18
+Daphne put in order for Strings for $3.99 on day 18
+Daphne ordered total of 3 items
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $87.38.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $64.26.
+Daphne bought a very good condition PracticeAmps from Seller 1 for $12.73.
+Daphne bought a fair condition PracticeAmps from Seller 2 for $23.43 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

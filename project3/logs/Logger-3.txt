@@ -1,9 +1,8 @@
 Daphne arrives at the store on Day 3
 0 items has been added to the inventory
-There is $1112.55 in the register
+There is $1168.11 in the register
 There are total of 57 items in the inventory.
-All the items in the inventory are worth total of $ 1043.73
-Daphne tuned Guitar.
+All the items in the inventory are worth total of $ 1022.44
 Daphne tuned Guitar.
 Daphne tuned Guitar.
 Daphne tuned Bass.
@@ -13,23 +12,31 @@ Daphne tuned Mandolin.
 Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
-Daphne adjusted Flute.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
+Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Hats for $27.0 after a 10%% discount.
-Buyer 2 purchased Hats for $18.0 after a 10%% discount.
-Buyer 3 purchased Bass for $39.6 after a 10%% discount.
+Buyer 1 purchased Cassette for $7.38 after a 10%% discount.
+Bandanas was too expensive, Buyer 2 left the store.
+Buyer 3 purchased PracticeAmps for $30.0.
+Buyer 4 purchased Bandanas for $5.4 after a 10%% discount.
+Buyer 5 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 6 purchased Bass for $44.0.
 Buyer also purchased Cables for $30.0.
-Bandanas was too expensive, Buyer 4 left the store.
-Daphne bought a fair condition Guitar from Seller 1 for $2.15 after offering 10%% more.
-Daphne bought a very good condition PracticeAmps from Seller 2 for $15.99.
-Daphne bought a poor condition CDPlayer from Seller 3 for $21.8 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 3 items.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Strings out of stock, Buyer 7 left the store.
+Strings out of stock, Buyer 8 left the store.
+Buyer 9 purchased Cassette for $4.4.
+Buyer 10 purchased RecordPlayer for $59.4 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Daphne bought a fair condition Saxophone from Seller 2 for $7.79.
+Daphne sold 10 items.
+Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

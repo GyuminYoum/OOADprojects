@@ -22,13 +22,12 @@ Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $36.0.
-Buyer 2 purchased Cables for $9.0 after a 10%% discount.
-Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
-Daphne bought a very good condition Bandanas from Seller 1 for $53.32 after offering 10%% more.
-Daphne sold 3 items.
+RecordPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Flute for $81.0 after a 10%% discount.
+Buyer 3 purchased Cassette for $6.0.
+Daphne bought a good condition Cassette from Seller 1 for $41.12.
+Daphne sold 2 items.
 Daphne Bought 1 items.
-Daphne has damaged a(n) Saxophone.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
