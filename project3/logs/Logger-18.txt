@@ -1,30 +1,39 @@
 Velma arrives at the store on Day 18
-Velma received CassettePlayer on day 18
-Velma received MP3 on day 18
-2 items has been added to the inventory
-There is $2019.5 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of 1143.88
+0 items has been added to the inventory
+There is $2305.38 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 910.16
+Velma put in order for Bass for $5.03 on day 18
+Velma put in order for Bass for $25.25 on day 18
+Velma put in order for Bass for $20.79 on day 18
+Velma ordered total of 3 items
 Velma ordered total of 0 items
-Velma tuned Bass.
+Velma ordered total of 0 items
+Velma put in order for CassettePlayer for $47.51 on day 18
+Velma put in order for CassettePlayer for $21.54 on day 18
+Velma put in order for CassettePlayer for $35.47 on day 18
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
 Velma un-adjusted Flute.
 Velma un-adjusted Saxophone.
 Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
 Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $18.0.
-Buyer 2 purchased Guitar for $47.72.
-Buyer also purchased Cables for $60.92.
-Buyer also purchased Cables for $3.78.
-Buyer 3 purchased Bandanas for $85.06 after a 10%% discount.
-Buyer 4 purchased CDPlayer for $64.8 after a 10%% discount.
-Velma bought a poor condition PracticeAmps from Seller 1 for $31.76 after offering 10%% more.
-Velma bought a good condition Bass from Seller 2 for $17.3.
-Velma sold 6 items.
-Velma Bought 2 items.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma un-adjusted Flute.
+Velma has damaged 2 items while tuning
+Bass out of stock, Buyer 1 left the store.
+Bandanas out of stock, Buyer 2 left the store.
+GigBag was too expensive, Buyer 3 left the store.
+MP3 was too expensive, Buyer 4 left the store.
+Bandanas out of stock, Buyer 5 left the store.
+Velma bought a fair condition CassettePlayer from Seller 1 for $2.27.
+Velma sold 0 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

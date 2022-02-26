@@ -1,42 +1,38 @@
-Daphne arrives at the store on Day 26
-Daphne received Flute on day 26
-1 items has been added to the inventory
-There is $2907.97 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of 857.23
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne put in order for Strings for $35.36 on day 26
-Daphne put in order for Strings for $21.0 on day 26
-Daphne put in order for Strings for $28.14 on day 26
-Daphne ordered total of 3 items
-Daphne put in order for Saxophone for $5.39 on day 26
-Daphne put in order for Saxophone for $14.8 on day 26
-Daphne put in order for Saxophone for $8.74 on day 26
-Daphne ordered total of 3 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne has damaged 0 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Hats out of stock, Buyer 2 left the store.
-RecordPlayer out of stock, Buyer 3 left the store.
-Hats out of stock, Buyer 4 left the store.
-Daphne bought a very good condition MP3 from Seller 1 for $5.94.
-Daphne bought a fair condition Bass from Seller 2 for $23.41.
-Daphne sold 0 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the store on Day 26
+Shaggy received Strings on day 26
+Shaggy received GigBag on day 26
+Shaggy received Cassette on day 26
+3 items has been added to the inventory
+There is $2479.01 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 956.9
+Shaggy put in order for CDPlayer for $15.33 on day 26
+Shaggy put in order for CDPlayer for $39.47 on day 26
+Shaggy put in order for CDPlayer for $42.14 on day 26
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for Saxophone for $19.47 on day 26
+Shaggy put in order for Saxophone for $35.53 on day 26
+Shaggy put in order for Saxophone for $49.21 on day 26
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Bass.
+Shaggy has thrown away a(n) Bassdue to less than poor condition.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy has damaged 2 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased Vinyl for $90.61 after a 10%% discount.
+Buyer 3 purchased Strings for $41.58.
+Buyer 4 purchased MP3 for $13.12.
+Buyer 5 purchased GigBag for $37.52.
+Buyer 6 purchased Cables for $93.62.
+Shaggy bought a poor condition CDPlayer from Seller 1 for $16.39.
+Shaggy sold 5 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

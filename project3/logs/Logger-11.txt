@@ -1,35 +1,31 @@
 Velma arrives at the store on Day 11
-Velma received Mandolin on day 11
+Velma received PracticeAmps on day 11
+Velma received PracticeAmps on day 11
+Velma received Vinyl on day 11
+Velma received CDPlayer on day 11
 Velma received Cables on day 11
-2 items has been added to the inventory
-There is $1529.85 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of 1029.71
-Velma put in order for Harmonica for $18.19 on day 11
-Velma put in order for Harmonica for $21.35 on day 11
-Velma put in order for Harmonica for $18.1 on day 11
-Velma ordered total of 3 items
+5 items has been added to the inventory
+There is $1472.72 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1033.26
 Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Saxophone.
 Velma un-adjusted Flute.
-Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
 Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
 Velma tuned Mandolin.
-Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $84.0.
-Mandolin was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Hats for $10.0.
-CDPlayer was too expensive, Buyer 4 left the store.
-Buyer 5 purchased PaperScore for $10.0.
-Buyer 6 purchased Bandanas for $12.0.
-Velma bought a good condition Flute from Seller 1 for $39.19.
-Velma sold 4 items.
+Buyer 1 purchased Strings for $56.64.
+Buyer 2 purchased Bass for $43.2 after a 10%% discount.
+Buyer also purchased PracticeAmps for $68.5.
+Buyer 3 purchased CDPlayer for $61.9 after a 10%% discount.
+Buyer 4 purchased PaperScore for $67.22.
+Buyer 5 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 6 purchased Cables for $7.14.
+Velma bought a good condition MP3 from Seller 1 for $17.67 after offering 10%% more.
+Velma sold 8 items.
 Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.

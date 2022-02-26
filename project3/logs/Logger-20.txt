@@ -1,35 +1,33 @@
-Daphne arrives at the store on Day 20
-Daphne received MP3 on day 20
-Daphne received Cables on day 20
+Velma arrives at the store on Day 20
+Velma received Bass on day 20
+Velma received CassettePlayer on day 20
 2 items has been added to the inventory
-There is $2390.75 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of 1042.55
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-MusicCD was too expensive, Buyer 1 left the store.
-Buyer 2 purchased RecordPlayer for $90.07 after a 10%% discount.
-Buyer 3 purchased Flute for $78.38.
-Bandanas was too expensive, Buyer 4 left the store.
-Buyer 5 purchased Cables for $73.62.
-Buyer 6 purchased MP3 for $15.24 after a 10%% discount.
-Daphne bought a poor condition Cables from Seller 1 for $33.97 after offering 10%% more.
-Daphne bought a fair condition Guitar from Seller 2 for $29.34.
-Daphne sold 4 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $2402.6 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 900.93
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Cables for $46.81 on day 20
+Velma put in order for Cables for $37.99 on day 20
+Velma put in order for Cables for $36.68 on day 20
+Velma ordered total of 3 items
+Velma put in order for Saxophone for $7.47 on day 20
+Velma put in order for Saxophone for $27.77 on day 20
+Velma put in order for Saxophone for $22.99 on day 20
+Velma ordered total of 3 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Strings for $17.98 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $69.1 after a 10%% discount.
+Buyer 3 purchased MP3 for $32.15.
+Velma bought a good condition RecordPlayer from Seller 1 for $9.81.
+Velma bought a very good condition Vinyl from Seller 2 for $19.12 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

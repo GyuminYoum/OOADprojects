@@ -142,6 +142,7 @@ public class Clerk extends Staff{
         ArrayList<String> item_names=Store.get_ItemList();
         int dmg_count=0;
         String content;
+        int order_count;
         //testrun
         //String[] item_names={"PaperScore","Soccer"};
         //System.out.println("All the items in the inventory are worth total of "+ inven_value);
@@ -151,9 +152,13 @@ public class Clerk extends Staff{
         Store.notifyLoggers(content);
         for(int i=0; i<item_names.size(); i++){
             if(Store.check_stock(item_names.get(i))==0){
-                this.PlaceAnOrder(item_names.get(i));
+                order_count=this.PlaceAnOrder(item_names.get(i));
+                content=this.get_name()+" ordered total of "+ order_count+" items";
+                Store.notifyLoggers(content);
             }
         }
+
+
         //tune each item
         for(int i=0; i < Store.get_InventorySize(); i++) {
             if (Store.get_Item(i) instanceof Stringed || Store.get_Item(i) instanceof wind) {
@@ -173,7 +178,7 @@ public class Clerk extends Staff{
     //utilizes RandomItem_Factory class to create a new Items object
     //item is then added to the order_list attribute and Cash_Register balance is decreased by purchasePrice
     //returns N/A
-    public void PlaceAnOrder(String name1){
+    public int PlaceAnOrder(String name1){
         //if else statements to check if its already ordered
         String content;
         int order_count=0;
@@ -193,8 +198,7 @@ public class Clerk extends Staff{
                 }
             }
         }
-        content=this.get_name()+" ordered total of "+ order_count+" items";
-        Store.notifyLoggers(content);
+        return order_count;
     }
     //from stackoverflow
     //https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java

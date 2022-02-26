@@ -1,30 +1,34 @@
 Store is closed on Sunday.
-Velma arrives at the store on Day 15
-Velma received Strings on day 15
-Velma received Harmonica on day 15
-2 items has been added to the inventory
-There is $1723.78 in the register
+Daphne arrives at the store on Day 15
+Daphne received CDPlayer on day 15
+Daphne received Strings on day 15
+Daphne received PaperScore on day 15
+3 items has been added to the inventory
+There is $1818.41 in the register
 There are total of 46 items in the inventory.
-All the items in the inventory are worth total of 1196.39
-Velma ordered total of 0 items
-Velma put in order for CassettePlayer for $23.62 on day 15
-Velma put in order for CassettePlayer for $4.91 on day 15
-Velma put in order for CassettePlayer for $11.06 on day 15
-Velma ordered total of 3 items
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $9.9 after a 10%% discount.
-Buyer 2 purchased Flute for $86.4 after a 10%% discount.
-Buyer 3 purchased Mandolin for $34.15.
-Buyer also purchased Cables for $46.44.
-Buyer 4 purchased CDPlayer for $48.0.
-Velma bought a fair condition PaperScore from Seller 1 for $48.15 after offering 10%% more.
-Velma bought a poor condition MusicCD from Seller 2 for $37.24.
-Velma bought a fair condition Saxophone from Seller 3 for $12.32 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 1092.5
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne has damaged 0 items while tuning
+Vinyl was too expensive, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $12.0.
+Daphne bought a good condition Saxophone from Seller 1 for $22.37.
+Daphne sold 1 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

@@ -1,31 +1,35 @@
 Velma arrives at the store on Day 23
+Velma received CassettePlayer on day 23
 Velma received Cables on day 23
-1 items has been added to the inventory
-There is $2488.84 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of 1010.94
+2 items has been added to the inventory
+There is $2442.29 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 963.64
 Velma ordered total of 0 items
 Velma ordered total of 0 items
-Velma ordered total of 0 items
+Velma put in order for Strings for $24.59 on day 23
+Velma put in order for Strings for $16.78 on day 23
+Velma put in order for Strings for $20.79 on day 23
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Bass.
 Velma tuned Bass.
 Velma un-adjusted Saxophone.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma tuned Guitar.
 Velma has damaged 0 items while tuning
-Shirts out of stock, Buyer 1 left the store.
-Buyer 2 purchased Bandanas for $69.12.
-Buyer 3 purchased Cables for $55.6 after a 10%% discount.
-GigBag was too expensive, Buyer 4 left the store.
-Buyer 5 purchased Saxophone for $47.97 after a 10%% discount.
-Buyer 6 purchased Harmonica for $42.7.
-Velma bought a good condition Guitar from Seller 1 for $46.27 after offering 10%% more.
-Velma bought a good condition CDPlayer from Seller 2 for $31.47 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 2 items.
+MusicCD was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MusicCD for $8.4.
+Buyer 3 purchased Cassette for $5.9 after a 10%% discount.
+Buyer 4 purchased GigBag for $13.0.
+Buyer 5 purchased CassettePlayer for $4.55.
+Buyer 6 purchased PaperScore for $34.29 after a 10%% discount.
+Buyer 7 purchased Saxophone for $14.94.
+Velma bought a poor condition MP3 from Seller 1 for $44.07 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

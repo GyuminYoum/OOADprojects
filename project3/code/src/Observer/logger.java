@@ -77,13 +77,15 @@ public class logger implements Observer, Writer, Display {
 
          */
 
-
     }
 
     public void display() {
         System.out.println(content);
     }
 }
+
+
+
 
 
 

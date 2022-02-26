@@ -1,29 +1,30 @@
 Shaggy arrives at the store on Day 19
+Shaggy received Bass on day 19
 Shaggy received CassettePlayer on day 19
-Shaggy received MP3 on day 19
 2 items has been added to the inventory
-There is $2250.71 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of 1057.14
+There is $2147.51 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 954.76
 Shaggy ordered total of 0 items
-Shaggy put in order for Cables for $4.73 on day 19
-Shaggy put in order for Cables for $19.41 on day 19
-Shaggy put in order for Cables for $36.81 on day 19
-Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
 Shaggy adjusted Flute.
 Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
 Shaggy adjusted Saxophone.
-Shaggy un-tuned Mandolin.
-Shaggyhas damaged a(n) Mandolin.
-Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
 Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Hats for $39.86 after a 10%% discount.
-Hats out of stock, Buyer 2 left the store.
-Buyer 3 purchased Flute for $86.13 after a 10%% discount.
-Buyer 4 purchased Saxophone for $39.79.
-Buyer 5 purchased GigBag for $67.36.
-Shaggy bought a good condition CassettePlayer from Seller 1 for $32.15.
-Shaggy sold 4 items.
+Buyer 1 purchased Saxophone for $82.04.
+Buyer 2 purchased Saxophone for $40.26 after a 10%% discount.
+Saxophone out of stock, Buyer 3 left the store.
+Buyer 4 purchased Flute for $86.4 after a 10%% discount.
+Buyer 5 purchased Bass for $41.58.
+Buyer also purchased Cables for $53.08.
+Shaggy bought a fair condition Shirts from Seller 1 for $48.26.
+Shaggy sold 5 items.
 Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.

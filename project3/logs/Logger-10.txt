@@ -1,40 +1,31 @@
-Daphne arrives at the store on Day 10
-Daphne received Mandolin on day 10
-Daphne received Cables on day 10
-Daphne received Cables on day 10
-Daphne received GigBag on day 10
-4 items has been added to the inventory
-There is $1570.58 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of 961.42
-Daphne ordered total of 0 items
-Daphne put in order for Strings for $45.38 on day 10
-Daphne put in order for Strings for $43.07 on day 10
-Daphne put in order for Strings for $17.67 on day 10
-Daphne ordered total of 3 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $66.24 after a 10%% discount.
-Buyer 2 purchased Harmonica for $40.0.
-Buyer 3 purchased RecordPlayer for $44.0.
-Daphne bought a very good condition RecordPlayer from Seller 1 for $17.84.
-Daphne bought a good condition Cassette from Seller 2 for $28.82 after offering 10%% more.
-Daphne bought a poor condition PaperScore from Seller 3 for $38.17 after offering 10%% more.
-Daphne sold 3 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the store on Day 10
+Shaggy received Strings on day 10
+Shaggy received Vinyl on day 10
+2 items has been added to the inventory
+There is $1404.51 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 951.63
+Shaggy ordered total of 0 items
+Shaggy put in order for Cables for $26.54 on day 10
+Shaggy put in order for Cables for $3.57 on day 10
+Shaggy put in order for Cables for $16.57 on day 10
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy adjusted Saxophone.
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $100.38.
+Buyer 2 purchased CDPlayer for $75.54 after a 10%% discount.
+Buyer 3 purchased PaperScore for $5.4 after a 10%% discount.
+Shaggy bought a good condition MusicCD from Seller 1 for $17.32.
+Shaggy bought a fair condition Harmonica from Seller 2 for $49.11.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
