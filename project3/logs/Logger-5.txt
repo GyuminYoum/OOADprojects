@@ -1,26 +1,27 @@
 Velma arrives at the store on Day 5
-Velma received Strings on day 5
+Velma received Cables on day 5
 1 items has been added to the inventory
-There is $1410.2 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of 967.14
+There is $1253.19 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 997.07
+Velma tuned Guitar.
 Velma tuned Guitar.
 Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Harmonica.
-Velma adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $12.0.
-Buyer 2 purchased Hats for $18.0 after a 10%% discount.
-Buyer 3 purchased Shirts for $8.1 after a 10%% discount.
-Velma bought a fair condition RecordPlayer from Seller 1 for $55.04 after offering 10%% more.
-Velma bought a poor condition Hats from Seller 2 for $24.36 after offering 10%% more.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velmahas damaged a(n) Saxophone.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Vinyl for $10.0.
+Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 3 purchased Shirts for $7.2 after a 10%% discount.
+GigBag was too expensive, Buyer 4 left the store.
+Velma bought a poor condition Flute from Seller 1 for $9.37 after offering 10%% more.
 Velma sold 3 items.
-Velma Bought 2 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

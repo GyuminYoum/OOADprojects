@@ -1,42 +1,40 @@
 Daphne arrives at the store on Day 9
-0 items has been added to the inventory
-There is $1760.59 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of 888.35
-Daphne put in order for Mandolin for $17.07 on day 9
-Daphne put in order for Mandolin for $41.0 on day 9
-Daphne put in order for Mandolin for $35.28 on day 9
+Daphne received Strings on day 9
+1 items has been added to the inventory
+There is $1411.66 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 957.94
+Daphne put in order for Vinyl for $4.9 on day 9
+Daphne put in order for Vinyl for $40.85 on day 9
+Daphne put in order for Vinyl for $30.76 on day 9
 Daphne ordered total of 3 items
 Daphne ordered total of 0 items
-Daphne put in order for Cables for $23.22 on day 9
-Daphne put in order for Cables for $30.46 on day 9
-Daphne put in order for Cables for $10.54 on day 9
+Daphne ordered total of 0 items
+Daphne put in order for GigBag for $36.27 on day 9
+Daphne put in order for GigBag for $8.09 on day 9
+Daphne put in order for GigBag for $13.73 on day 9
 Daphne ordered total of 3 items
-Daphne put in order for GigBag for $24.87 on day 9
-Daphne put in order for GigBag for $33.68 on day 9
-Daphne put in order for GigBag for $25.96 on day 9
-Daphne ordered total of 3 items
+Daphne tuned Guitar.
 Daphne tuned Bass.
 Daphne tuned Bass.
-Daphne tuned Bass.
+Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
 Daphne adjusted Flute.
-Daphne tuned Bass.
 Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne tuned Guitar.
+Daphne adjusted Flute.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $50.0.
-Buyer 2 purchased Strings for $31.26.
-Shirts out of stock, Buyer 3 left the store.
-Daphne bought a very good condition Vinyl from Seller 1 for $29.19 after offering 10%% more.
-Daphne sold 2 items.
+Guitar was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 3 purchased Saxophone for $86.4 after a 10%% discount.
+Buyer 4 purchased Cassette for $4.4.
+Vinyl out of stock, Buyer 5 left the store.
+Daphne bought a poor condition Bandanas from Seller 1 for $1.1.
+Daphne sold 3 items.
 Daphne Bought 1 items.
-Daphne has damaged a(n) Flute.
+Daphne has damaged a(n) MP3.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.

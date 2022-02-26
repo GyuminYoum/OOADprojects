@@ -2,7 +2,7 @@ Daphne arrives at the store on Day 1
 0 items has been added to the inventory
 Daphne went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
-All the items in the inventory are worth total of 1074.08
+All the items in the inventory are worth total of $ 1074.08
 Daphne tuned Guitar.
 Daphne tuned Guitar.
 Daphne tuned Guitar.
@@ -22,15 +22,13 @@ Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne adjusted Saxophone.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $10.0.
-Buyer 2 purchased Guitar for $48.6 after a 10%% discount.
-Buyer also purchased Strings for $7.0.
-Buyer 3 purchased Shirts for $8.0.
-Seller 1 didn't accept the price, and left the store.
-Daphne bought a fair condition Bandanas from Seller 2 for $51.98 after offering 10%% more.
-Seller 3 didn't accept the price, and left the store.
-Daphne sold 4 items.
+Buyer 1 purchased Harmonica for $36.0.
+Buyer 2 purchased Cables for $9.0 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
+Daphne bought a very good condition Bandanas from Seller 1 for $53.32 after offering 10%% more.
+Daphne sold 3 items.
 Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
+Daphne has damaged a(n) Saxophone.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
 Daphne went home for the day.

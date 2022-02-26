@@ -1,31 +1,36 @@
 Velma arrives at the store on Day 23
+Velma received GigBag on day 23
 Velma received Cables on day 23
-1 items has been added to the inventory
-There is $2488.84 in the register
+Velma received Cables on day 23
+Velma received Cassette on day 23
+4 items has been added to the inventory
+There is $2509.31 in the register
 There are total of 42 items in the inventory.
-All the items in the inventory are worth total of 1010.94
+All the items in the inventory are worth total of $ 819.09
 Velma ordered total of 0 items
 Velma ordered total of 0 items
 Velma ordered total of 0 items
 Velma tuned Bass.
+Velma adjusted Saxophone.
 Velma un-adjusted Saxophone.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
+Velma has thrown away a(n) Saxophonedue to less than poor condition.
+Velma un-adjusted Flute.
 Velma un-adjusted Harmonica.
+Velmahas damaged a(n) Harmonica.
 Velma un-adjusted Saxophone.
 Velma tuned Guitar.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Shirts out of stock, Buyer 1 left the store.
-Buyer 2 purchased Bandanas for $69.12.
-Buyer 3 purchased Cables for $55.6 after a 10%% discount.
-GigBag was too expensive, Buyer 4 left the store.
-Buyer 5 purchased Saxophone for $47.97 after a 10%% discount.
-Buyer 6 purchased Harmonica for $42.7.
-Velma bought a good condition Guitar from Seller 1 for $46.27 after offering 10%% more.
-Velma bought a good condition CDPlayer from Seller 2 for $31.47 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 2 items.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased Vinyl for $73.53 after a 10%% discount.
+Cassette was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bass for $12.74.
+Buyer also purchased Cables for $28.96.
+Buyer also purchased Cables for $12.9.
+Buyer 4 purchased Saxophone for $37.08.
+Velma bought a poor condition RecordPlayer from Seller 1 for $44.68.
+Velma bought a poor condition Strings from Seller 2 for $40.38.
+Velma bought a poor condition Saxophone from Seller 3 for $45.46.
+Velma sold 5 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

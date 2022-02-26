@@ -1,30 +1,45 @@
-Velma arrives at the store on Day 13
-Velma received GigBag on day 13
-Velma received Strings on day 13
-Velma received Harmonica on day 13
-3 items has been added to the inventory
-There is $1660.48 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of 1136.23
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velmahas damaged a(n) Flute.
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 2 purchased Vinyl for $14.0.
-Buyer 3 purchased Vinyl for $47.77 after a 10%% discount.
-Buyer 4 purchased Bass for $39.6 after a 10%% discount.
-Velma bought a poor condition Vinyl from Seller 1 for $7.91.
-Velma bought a fair condition Bandanas from Seller 2 for $38.01 after offering 10%% more.
-Velma bought a fair condition Vinyl from Seller 3 for $29.95.
-Velma sold 4 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Velma is sick on day 13
+Daphne arrives at the store on Day 13
+Daphne received Vinyl on day 13
+Daphne received Saxophone on day 13
+2 items has been added to the inventory
+There is $1881.26 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 925.15
+Daphne put in order for MP3 for $46.08 on day 13
+Daphne put in order for MP3 for $3.29 on day 13
+Daphne put in order for MP3 for $11.43 on day 13
+Daphne ordered total of 3 items
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $74.0.
+Buyer also purchased GigBag for $72.54.
+Buyer also purchased Cables for $67.2.
+Buyer also purchased Strings for $99.62.
+Buyer 2 purchased Mandolin for $66.0.
+Buyer 3 purchased PaperScore for $10.0.
+Buyer 4 purchased CassettePlayer for $24.0.
+MP3 out of stock, Buyer 5 left the store.
+Buyer 6 purchased Flute for $92.0.
+Buyer 7 purchased Harmonica for $3.94.
+Mandolin out of stock, Buyer 8 left the store.
+Buyer 9 purchased CassettePlayer for $37.8 after a 10%% discount.
+Buyer 10 purchased PaperScore for $9.9 after a 10%% discount.
+Shirts out of stock, Buyer 11 left the store.
+Buyer 12 purchased Hats for $9.0 after a 10%% discount.
+Daphne bought a good condition Bass from Seller 1 for $9.89.
+Daphne sold 13 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

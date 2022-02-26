@@ -1,34 +1,31 @@
 Shaggy arrives at the store on Day 30
-Shaggy received RecordPlayer on day 30
-Shaggy received Saxophone on day 30
-2 items has been added to the inventory
-There is $3403.38 in the register
-There are total of 34 items in the inventory.
-All the items in the inventory are worth total of 774.51
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy put in order for Strings for $42.41 on day 30
-Shaggy put in order for Strings for $16.01 on day 30
-Shaggy put in order for Strings for $37.83 on day 30
+Shaggy received Strings on day 30
+1 items has been added to the inventory
+There is $3045.0 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 874.93
+Shaggy put in order for Vinyl for $16.43 on day 30
+Shaggy put in order for Vinyl for $42.33 on day 30
+Shaggy put in order for Vinyl for $48.74 on day 30
 Shaggy ordered total of 3 items
-Shaggy put in order for GigBag for $21.89 on day 30
-Shaggy put in order for GigBag for $20.13 on day 30
-Shaggy put in order for GigBag for $17.62 on day 30
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for Cables for $38.19 on day 30
+Shaggy put in order for Cables for $47.18 on day 30
+Shaggy put in order for Cables for $48.54 on day 30
 Shaggy ordered total of 3 items
 Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Bass.
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Bass.
-Shaggy has damaged 0 items while tuning
-MP3 was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Flute for $50.92.
-Shirts out of stock, Buyer 3 left the store.
-Buyer 4 purchased CassettePlayer for $42.51 after a 10%% discount.
-Shaggy bought a good condition Bandanas from Seller 1 for $21.07 after offering 10%% more.
-Shaggy bought a good condition Mandolin from Seller 2 for $4.74.
-Shaggy sold 2 items.
-Shaggy Bought 2 items.
-Shaggy has damaged a(n) Mandolin.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
+Shaggy un-adjusted Harmonica.
+Shaggy has thrown away a(n) Harmonicadue to less than poor condition.
+Shaggy has damaged 1 items while tuning
+Shirts out of stock, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $82.24 after a 10%% discount.
+Cassette was too expensive, Buyer 3 left the store.
+GigBag was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Guitar for $14.3.
+Shaggy bought a fair condition Mandolin from Seller 1 for $35.57 after offering 10%% more.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

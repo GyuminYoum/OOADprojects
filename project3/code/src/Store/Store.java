@@ -265,7 +265,7 @@ public class Store {
 
   */
 
-     public static void registerLogger(logger O){
+    public static void registerLogger(logger O){
          logger_list.add(O);
      }
     public static void removeLogger(logger O){

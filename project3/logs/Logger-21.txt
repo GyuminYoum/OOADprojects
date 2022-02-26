@@ -1,36 +1,43 @@
 Store is closed on Sunday.
-Daphne arrives at the store on Day 22
-Daphne received Cables on day 22
+Shaggy arrives at the store on Day 22
+Shaggy received GigBag on day 22
 1 items has been added to the inventory
-There is $2584.75 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of 971.08
-Daphne put in order for Flute for $27.28 on day 22
-Daphne put in order for Flute for $25.46 on day 22
-Daphne put in order for Flute for $30.53 on day 22
-Daphne ordered total of 3 items
-Daphne ordered total of 0 items
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Shirts out of stock, Buyer 1 left the store.
-Vinyl was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bandanas for $3.87 after a 10%% discount.
-Buyer 4 purchased Vinyl for $14.23 after a 10%% discount.
-Daphne bought a good condition Strings from Seller 1 for $30.72 after offering 10%% more.
-Daphne sold 2 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $2594.45 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 844.0
+Shaggy put in order for MusicCD for $30.1 on day 22
+Shaggy put in order for MusicCD for $20.12 on day 22
+Shaggy put in order for MusicCD for $22.26 on day 22
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy put in order for Cables for $14.48 on day 22
+Shaggy put in order for Cables for $2.92 on day 22
+Shaggy put in order for Cables for $6.45 on day 22
+Shaggy ordered total of 3 items
+Shaggy put in order for Strings for $28.68 on day 22
+Shaggy put in order for Strings for $38.26 on day 22
+Shaggy put in order for Strings for $49.28 on day 22
+Shaggy ordered total of 3 items
+Shaggy put in order for Cassette for $45.69 on day 22
+Shaggy put in order for Cassette for $19.48 on day 22
+Shaggy put in order for Cassette for $29.47 on day 22
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+CassettePlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $92.16.
+Buyer 3 purchased Mandolin for $70.12.
+Buyer also purchased PracticeAmps for $74.54.
+Buyer 4 purchased RecordPlayer for $19.8 after a 10%% discount.
+Shaggy bought a poor condition PracticeAmps from Seller 1 for $15.39.
+Shaggy bought a poor condition Mandolin from Seller 2 for $19.14.
+Seller 3 didn't accept the price, and left the store.
+Shaggy sold 4 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) Vinyl.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
