@@ -36,6 +36,7 @@ import Observer.logger;
 import java.util.ArrayList;
 import java.util.Random;
 import Observer.Observer;
+import Observer.Tracker;
 
 
 //example of encapsulation
@@ -63,6 +64,7 @@ public class Store {
 
 
     private static ArrayList<logger> logger_list=new ArrayList<logger>();
+    private static ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
 
     private static ArrayList<Observer> Observer_list=new ArrayList<Observer>();
     private static String statement;
@@ -265,7 +267,7 @@ public class Store {
 
   */
 
-     public static void registerLogger(logger O){
+    public static void registerLogger(logger O){
          logger_list.add(O);
      }
     public static void removeLogger(logger O){
@@ -276,6 +278,19 @@ public class Store {
             O.update(str1);
         }
     }
+    public static void registerTracker(Tracker t) { tracker_list.add(t); }
+    public static void removeTracker(Tracker t) { tracker_list.remove(t); }
+    public static void notifyTrackers(String str1){
+        for (Tracker t:tracker_list){
+            t.update(str1);
+        }
+    }
+    public static void printTrackers() {
+        for (Tracker t:tracker_list){
+            t.display();
+        }
+    }
+
 
 
 
@@ -624,6 +639,7 @@ public class Store {
                 //System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
                 content="Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".";
                 Store.notifyLoggers(content);
+                Store.notifyTrackers("sold");
                 //remove item from inventory
                 Store.remove_Inventory(i);
                 j++;

@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44fd216a-cb34-4831-a443-0048bf8a2663" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/Observer/logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/FNMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/Observer/Tracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/Observer/Tracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/Staff/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/Staff/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/Store/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/Store/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +96,7 @@
       <workItem from="1645836483796" duration="1000" />
       <workItem from="1645836759005" duration="95000" />
       <workItem from="1645837293836" duration="308000" />
+      <workItem from="1645837734561" duration="593000" />
     </task>
     <servers />
   </component>

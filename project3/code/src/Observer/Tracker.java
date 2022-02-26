@@ -51,7 +51,6 @@ public class Tracker implements Observer{
         for (Clerk c : Store.get_ClerkMember()) {
             //print out each value in the ArrayList mapped to that clerk
             ArrayList<Integer> output = data.get(c.get_name());
-            System.out.printf("Clerk  | Items Sold | Items Purchased | Items Damaged\n");
             System.out.printf(c.get_name() + " | " + output.get(0) + "           | " + output.get(1) + "                | " + output.get(2) + "\n");
         }
     }
