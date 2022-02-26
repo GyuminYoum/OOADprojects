@@ -47,6 +47,7 @@ public class Tracker implements Observer{
 
     public void display() {
         //print out table headers
+        System.out.println("Day: " + Store.get_daysPassed());
         System.out.println("Clerk | Items Sold | Items Purchased | Items Damaged");
         for (Clerk c : Store.get_ClerkMember()) {
             //print out each value in the ArrayList mapped to that clerk
