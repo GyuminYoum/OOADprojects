@@ -1,3 +1,4 @@
+import Observer.Tracker;
 import Staff.Clerk;
 import Store.Store;
 import Observer.logger;
@@ -11,6 +12,9 @@ public class FNMS {
         Store.Build();
     }
     public static void Run(){
+        Tracker tracker = new Tracker();
+        Store.registerTracker(tracker);
+
         while(Store.get_daysPassed()<=30){
             String text_name="project3//logs//Logger-"+Store.get_daysPassed()+".txt";
             logger watcher=new logger();
@@ -27,7 +31,10 @@ public class FNMS {
                 staff1.LeaveTheStore();
             }
             Store.removeLogger(watcher);
+            Store.printTrackers();
         }
         Store.Report();
+        Store.printTrackers();
+        Store.removeTracker(tracker);
     }
 }

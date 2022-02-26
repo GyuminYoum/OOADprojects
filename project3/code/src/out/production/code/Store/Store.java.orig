@@ -26,17 +26,16 @@ import Staff.Clerk;
 import Staff.Electronic;
 import Staff.Haphazard;
 import Staff.Manual;
-
+<<<<<<< HEAD
 import Observer.logger;
-
-
-
+=======
+import Observer.Observer;
+>>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
 
 
 import java.util.ArrayList;
 import java.util.Random;
 import Observer.Observer;
-import Observer.Tracker;
 
 
 //example of encapsulation
@@ -61,14 +60,13 @@ public class Store {
     private static double money_withdrawn=0.0;
     private static ArrayList<String>Item_list= new ArrayList<String>();
     private static ArrayList<String> staff_names=new ArrayList<String>();
-
-
+<<<<<<< HEAD
+    private static String statement;
     private static ArrayList<logger> logger_list=new ArrayList<logger>();
-    private static ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
-
+=======
     private static ArrayList<Observer> Observer_list=new ArrayList<Observer>();
     private static String statement;
-
+>>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
 
 
     //setter to initialize the store
@@ -266,8 +264,8 @@ public class Store {
     }
 
   */
-
-    public static void registerLogger(logger O){
+<<<<<<< HEAD
+     public static void registerLogger(logger O){
          logger_list.add(O);
      }
     public static void removeLogger(logger O){
@@ -278,37 +276,24 @@ public class Store {
             O.update(str1);
         }
     }
-    public static void registerTracker(Tracker t) { tracker_list.add(t); }
-    public static void removeTracker(Tracker t) { tracker_list.remove(t); }
-    public static void notifyTrackers(String str1){
-        for (Tracker t:tracker_list){
-            t.update(str1);
-        }
+    public static String get_Statement(){
+         return statement;
     }
-    public static void printTrackers() {
-        for (Tracker t:tracker_list){
-            t.display();
-        }
+    public static void set_Statement(String str1){
+         statement=str1;
+=======
+    public void registerObserver(Observer O){
+        Observer_list.add(O);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    public void removeObserver(Observer O){
+        Observer_list.remove(O);
+    }
+    public void notifyObservers(){
+        for (Observer O : Observer_list){
+            O.update(statement);
+        }
+>>>>>>> 5e83f3ce6ef383a5cc42005d7a960aa751e77eea
+    }
     public static void addToItemList(String name1){
         if(Item_list.contains(name1)==false){
             Item_list.add(name1);
@@ -639,7 +624,6 @@ public class Store {
                 //System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
                 content="Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".";
                 Store.notifyLoggers(content);
-                Store.notifyTrackers("sold");
                 //remove item from inventory
                 Store.remove_Inventory(i);
                 j++;

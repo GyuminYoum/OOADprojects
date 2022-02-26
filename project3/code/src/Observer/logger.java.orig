@@ -83,10 +83,10 @@ public class logger implements Observer, Writer, Display {
         System.out.println(content);
     }
 }
+<<<<<<< HEAD
+=======
 
-
-
-
+>>>>>>> 3a882b5c8ae02d418bd09bf710ea264c248f3096
 
 
 

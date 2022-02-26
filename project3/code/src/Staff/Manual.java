@@ -85,11 +85,13 @@ public class Manual implements Strategy{
                     //System.out.printf(Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition. ");
                     content=Store.get_OnShift().get_name() + " has thrown away a(n) " + item.get_name() + "due to less than poor condition.";
                     Store.notifyLoggers(content);
+                    Store.notifyTrackers("damaged");
                 } else {
                     item.set_condition(item.get_condition() - 1);
                     //System.out.printf(Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".");
                     content=Store.get_OnShift().get_name() + "has damaged a(n) " + item.get_name() + ".";
                     Store.notifyLoggers(content);
+                    Store.notifyTrackers("damaged");
                 }
                 return false;
             }

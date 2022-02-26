@@ -101,6 +101,8 @@ public class Customer {
                     buy_count+=temp.SellAccessories();
                 }
 
+                Store.notifyTrackers("sold");
+
             } else {
                 //if item is in stock but too expensive
                 //System.out.printf(wantedItem + " was too expensive, " + this.name + " " + this.num + " left the store.\n");
@@ -311,6 +313,7 @@ public class Customer {
                     Store.notifyLoggers(content);
                     sell_count++;
                 }
+                Store.notifyTrackers("purchased");
             } else {
                 //if Customer doesn't accept Clerk's purchasePrice
                 //System.out.printf(this.name + " " + this.num + " didn't accept the price, and left the store.\n");
