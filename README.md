@@ -28,7 +28,9 @@ Project 3:
 Assumptions:
 - Only one clerk is supposed to be sick per day, and their sick status clears the next day.
 - No clerk gets sick twice in a row.
-- when clerk buys item from customer, the item has a chance of being already tuned,equalized or adjusted. 
+- When clerk buys item from customer, the item has a chance of being already tuned,equalized or adjusted. 
+- An item being damaged and removed from inventory is also counted as an item being damaged by the tracker.
+- Items sold via SellAccessories() method are also counted towards items sold in the tracker.
 
 UML diagram changes:
 - Added Sell method to Store class
