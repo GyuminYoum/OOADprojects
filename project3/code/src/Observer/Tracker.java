@@ -5,7 +5,7 @@ import java.util.HashMap;
 
 import Staff.Clerk;
 import Store.Store;
-
+//Tracker implements the Observer to keep track of how many items each clerk has sold, purchased, and damaged
 public class Tracker implements Observer{
 
     public HashMap<String, ArrayList<Integer>> data = new HashMap<String, ArrayList<Integer>>();

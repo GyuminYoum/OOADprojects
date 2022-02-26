@@ -11,7 +11,9 @@ import java.nio.file.Paths;
 
 
 import Store.Store;
-
+//a concrete observer that
+//  1) prints the updated state
+//  2) records the updated state in a txt file.
 public class logger implements Observer, Writer, Display {
     private String content;
     private String file_name;
