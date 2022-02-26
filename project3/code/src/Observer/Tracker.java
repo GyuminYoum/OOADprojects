@@ -38,7 +38,7 @@ public class Tracker implements Observer{
                 //increment purchased value for Store.get_onShift().get_name()
                 break;
             case "damaged":
-                curr = data.get(Store.get_OnShift().get_name()).get(2);
+                curr = data.get(Store.get_OnShift().get_name()).get(2) + 1;
                 data.get(Store.get_OnShift().get_name()).set(2, curr);
                 //increment damaged value for Store.get_onShift().get_name()
                 break;

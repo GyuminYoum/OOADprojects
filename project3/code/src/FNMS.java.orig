@@ -15,10 +15,10 @@ public class FNMS {
         Tracker tracker = new Tracker();
         Store.registerTracker(tracker);
         tracker.initialize();
+<<<<<<< HEAD
+=======
 
-
-
-
+>>>>>>> d9fa6eebf39b4304bb65d80bf66ec1c37492985a
         while(Store.get_daysPassed()<=30){
             String text_name="project3//logs//Logger-"+Store.get_daysPassed()+".txt";
             logger watcher=new logger();
