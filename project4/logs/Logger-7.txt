@@ -1,0 +1,37 @@
+Store is closed on Sunday.
+Shaggy arrives at the store on Day 8
+Shaggy received Strings on day 8
+Shaggy received GigBag on day 8
+Shaggy received Flute on day 8
+Shaggy received Flute on day 8
+4 items has been added to the inventory
+There is $1518.57 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 975.19
+Shaggy put in order for Mandolin for $24.72 on day 8
+Shaggy put in order for Mandolin for $2.34 on day 8
+Shaggy put in order for Mandolin for $13.82 on day 8
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased Flute for $55.6.
+Buyer 3 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 4 purchased Cassette for $7.38 after a 10%% discount.
+Buyer 5 purchased Guitar for $48.6 after a 10%% discount.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Cables for $20.0.
+Buyer 6 purchased Bass for $41.4 after a 10%% discount.
+Buyer also purchased Cables for $30.0.
+Shaggy bought a good condition Cassette from Seller 1 for $5.44 after offering 10%% more.
+Shaggy sold 10 items.
+Shaggy Bought 1 items.
+Shaggy has thrown away a(n) Flute due to less than poor condition.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

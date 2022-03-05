@@ -1,0 +1,43 @@
+Daphne arrives at the store on Day 25
+Daphne received CassettePlayer on day 25
+Daphne received Harmonica on day 25
+Daphne received GigBag on day 25
+Daphne received Strings on day 25
+4 items has been added to the inventory
+There is $2370.79 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1186.04
+Daphne put in order for Bass for $15.16 on day 25
+Daphne put in order for Bass for $16.02 on day 25
+Daphne put in order for Bass for $39.82 on day 25
+Daphne ordered total of 3 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $81.4.
+Buyer 2 purchased PracticeAmps for $100.48.
+Bandanas out of stock, Buyer 3 left the store.
+Daphne bought a very good condition Flute from Seller 1 for $31.2 after offering 10%% more.
+Daphne bought a fair condition Shirts from Seller 2 for $11.5.
+Daphne bought a very good condition CDPlayer from Seller 3 for $15.5.
+Daphne sold 2 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

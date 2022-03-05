@@ -1,0 +1,38 @@
+Velma arrives at the store on Day 24
+Velma received MP3 on day 24
+Velma received PracticeAmps on day 24
+Velma received PracticeAmps on day 24
+Velma received Harmonica on day 24
+Velma received GigBag on day 24
+5 items has been added to the inventory
+There is $2315.89 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1111.84
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Strings for $27.21 on day 24
+Velma put in order for Strings for $39.46 on day 24
+Velma put in order for Strings for $36.38 on day 24
+Velma ordered total of 3 items
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Bass for $18.28 after a 10%% discount.
+Buyer also purchased PracticeAmps for $75.86.
+Buyer 2 purchased Vinyl for $14.0.
+Vinyl was too expensive, Buyer 3 left the store.
+CDPlayer was too expensive, Buyer 4 left the store.
+Buyer 5 purchased GigBag for $100.44.
+Velma bought a good condition Saxophone from Seller 1 for $15.7 after offering 10%% more.
+Velma bought a poor condition PaperScore from Seller 2 for $34.92.
+Velma sold 6 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

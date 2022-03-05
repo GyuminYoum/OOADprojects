@@ -1,0 +1,34 @@
+Velma arrives at the store on Day 26
+Velma received PracticeAmps on day 26
+Velma received GigBag on day 26
+Velma received Bass on day 26
+3 items has been added to the inventory
+There is $2423.46 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1217.43
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma un-adjusted Flute.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased Cables for $15.94.
+Bandanas out of stock, Buyer 2 left the store.
+Hats out of stock, Buyer 3 left the store.
+Bandanas out of stock, Buyer 4 left the store.
+Velma bought a good condition Cassette from Seller 1 for $42.59 after offering 10%% more.
+Velma bought a good condition RecordPlayer from Seller 2 for $29.5 after offering 10%% more.
+Velma bought a very good condition Strings from Seller 3 for $39.95 after offering 10%% more.
+Velma sold 1 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

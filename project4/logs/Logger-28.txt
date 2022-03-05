@@ -1,0 +1,41 @@
+Store is closed on Sunday.
+Velma arrives at the store on Day 29
+Velma received Strings on day 29
+Velma received Bass on day 29
+2 items has been added to the inventory
+There is $2600.48 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1330.31
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for PracticeAmps for $44.07 on day 29
+Velma put in order for PracticeAmps for $3.88 on day 29
+Velma put in order for PracticeAmps for $37.14 on day 29
+Velma ordered total of 3 items
+Velma put in order for Cables for $41.27 on day 29
+Velma put in order for Cables for $38.93 on day 29
+Velma put in order for Cables for $13.03 on day 29
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $76.21 after a 10%% discount.
+Buyer 2 purchased MusicCD for $31.28.
+Strings was too expensive, Buyer 3 left the store.
+Buyer 4 purchased PaperScore for $49.92.
+Buyer 5 purchased Bass for $27.28 after a 10%% discount.
+Velma bought a fair condition Shirts from Seller 1 for $4.9.
+Velma bought a fair condition PaperScore from Seller 2 for $24.07 after offering 10%% more.
+Velma sold 5 items.
+Velma Bought 2 items.
+Velma has damaged a(n) CDPlayer.
+Velma damaged an item while cleaning.
+Velma damaged 1 items while cleaning.
+Velma went home for the day.

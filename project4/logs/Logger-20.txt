@@ -1,0 +1,37 @@
+Shaggy arrives at the store on Day 20
+Shaggy received Cables on day 20
+Shaggy received Strings on day 20
+Shaggy received Strings on day 20
+3 items has been added to the inventory
+There is $2382.58 in the register
+There are total of 34 items in the inventory.
+All the items in the inventory are worth total of $ 884.67
+Shaggy put in order for MP3 for $19.73 on day 20
+Shaggy put in order for MP3 for $27.58 on day 20
+Shaggy put in order for MP3 for $22.07 on day 20
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for CassettePlayer for $32.78 on day 20
+Shaggy put in order for CassettePlayer for $25.74 on day 20
+Shaggy put in order for CassettePlayer for $11.13 on day 20
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $82.56.
+Buyer also purchased PracticeAmps for $14.48.
+Buyer 2 purchased MusicCD for $7.56 after a 10%% discount.
+Buyer 3 purchased Bass for $51.12.
+Buyer 4 purchased Strings for $63.59 after a 10%% discount.
+Cables was too expensive, Buyer 5 left the store.
+Hats out of stock, Buyer 6 left the store.
+PracticeAmps out of stock, Buyer 7 left the store.
+Buyer 8 purchased Strings for $28.04 after a 10%% discount.
+Bandanas out of stock, Buyer 9 left the store.
+Shaggy bought a very good condition MP3 from Seller 1 for $12.87.
+Shaggy bought a good condition Vinyl from Seller 2 for $45.0.
+Shaggy sold 6 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

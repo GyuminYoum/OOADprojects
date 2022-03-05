@@ -1,0 +1,37 @@
+Daphne arrives at the store on Day 18
+0 items has been added to the inventory
+There is $2185.39 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 923.28
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Strings for $15.9.
+Buyer 2 purchased Bass for $38.4.
+Buyer also purchased Cables for $80.06.
+Buyer also purchased Cables for $20.02.
+Buyer 3 purchased Cassette for $56.26 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $51.08 after a 10%% discount.
+Buyer 5 purchased Hats for $10.0.
+Bandanas out of stock, Buyer 6 left the store.
+Daphne bought a good condition Saxophone from Seller 2 for $14.85.
+Daphne sold 7 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

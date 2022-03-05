@@ -1,0 +1,25 @@
+Velma arrives at the store on Day 11
+Velma received Mandolin on day 11
+Velma received Cables on day 11
+2 items has been added to the inventory
+There is $1759.78 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 944.67
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $9.0.
+Buyer 2 purchased MP3 for $50.0.
+Buyer 3 purchased CDPlayer for $72.0.
+Velma bought a poor condition Bass from Seller 1 for $45.4 after offering 10%% more.
+Velma bought a poor condition Strings from Seller 2 for $14.09 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

@@ -1,0 +1,31 @@
+Shaggy arrives at the store on Day 6
+Shaggy received Strings on day 6
+Shaggy received GigBag on day 6
+2 items has been added to the inventory
+There is $1524.64 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 899.0
+Shaggy put in order for Flute for $27.8 on day 6
+Shaggy put in order for Flute for $24.19 on day 6
+Shaggy put in order for Flute for $45.92 on day 6
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy adjusted Harmonica.
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $10.0.
+Buyer 2 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer also purchased PracticeAmps for $30.0.
+Buyer also purchased Strings for $23.26.
+Strings out of stock, Buyer 3 left the store.
+Flute out of stock, Buyer 4 left the store.
+Buyer 5 purchased Vinyl for $10.0.
+Shaggy bought a fair condition Harmonica from Seller 1 for $40.82.
+Shaggy sold 5 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

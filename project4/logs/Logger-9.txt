@@ -1,0 +1,40 @@
+Daphne arrives at the store on Day 9
+Daphne received Strings on day 9
+Daphne received Flute on day 9
+2 items has been added to the inventory
+There is $1702.03 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 867.02
+Daphne ordered total of 0 items
+Daphne put in order for Cables for $1.86 on day 9
+Daphne put in order for Cables for $40.03 on day 9
+Daphne put in order for Cables for $19.1 on day 9
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased Strings for $19.72.
+Buyer 4 purchased CDPlayer for $21.6 after a 10%% discount.
+Daphne bought a good condition Flute from Seller 1 for $33.36.
+Daphne bought a poor condition Strings from Seller 2 for $23.55 after offering 10%% more.
+Daphne bought a very good condition Cassette from Seller 3 for $44.77 after offering 10%% more.
+Daphne sold 4 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

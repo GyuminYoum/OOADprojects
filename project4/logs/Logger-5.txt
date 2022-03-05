@@ -1,0 +1,29 @@
+Shaggy arrives at the store on Day 5
+0 items has been added to the inventory
+There is $1463.57 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 932.71
+Shaggy put in order for Strings for $9.86 on day 5
+Shaggy put in order for Strings for $11.63 on day 5
+Shaggy put in order for Strings for $4.51 on day 5
+Shaggy ordered total of 3 items
+Shaggy put in order for GigBag for $14.52 on day 5
+Shaggy put in order for GigBag for $21.42 on day 5
+Shaggy put in order for GigBag for $31.65 on day 5
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
+Buyer 2 purchased MP3 for $10.0.
+Buyer 3 purchased Flute for $86.4 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $44.0.
+Buyer 5 purchased Cassette for $6.0.
+Shaggy bought a good condition Saxophone from Seller 1 for $30.43 after offering 10%% more.
+Shaggy bought a good condition CassettePlayer from Seller 2 for $20.71.
+Shaggy sold 5 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

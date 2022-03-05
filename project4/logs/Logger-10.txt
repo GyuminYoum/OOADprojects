@@ -1,0 +1,27 @@
+Velma arrives at the store on Day 10
+Velma received GigBag on day 10
+Velma received Mandolin on day 10
+2 items has been added to the inventory
+There is $1620.64 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 972.11
+Velma ordered total of 0 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $48.0.
+Buyer 2 purchased Harmonica for $34.2 after a 10%% discount.
+Buyer 3 purchased Flute for $91.84.
+Vinyl was too expensive, Buyer 4 left the store.
+CassettePlayer was too expensive, Buyer 5 left the store.
+Velma bought a good condition Strings from Seller 1 for $34.9.
+Velma sold 3 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
