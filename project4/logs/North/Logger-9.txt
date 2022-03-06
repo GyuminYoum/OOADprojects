@@ -1,0 +1,26 @@
+Shaggy arrives at the N store on Day 9
+Shaggy received Strings on day 9
+1 items has been added to the inventory
+There is $1808.58 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 822.14
+Shaggy put in order for Flute for $8.81 on day 9
+Shaggy put in order for Flute for $39.06 on day 9
+Shaggy put in order for Flute for $14.6 on day 9
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 2 purchased Bandanas for $18.0.
+Buyer 3 purchased Bandanas for $10.8.
+Hats out of stock, Buyer 4 left the store.
+Saxophone was too expensive, Buyer 5 left the store.
+Shaggy bought a fair condition CassettePlayer from Seller 1 for $45.02 after offering 10%% more.
+Shaggy bought a good condition Bass from Seller 2 for $52.58 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

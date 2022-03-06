@@ -1,0 +1,24 @@
+Justin arrives at the S store on Day 3
+0 items has been added to the inventory
+There is $1166.81 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1043.97
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Flute for $90.0.
+Buyer 2 purchased CDPlayer for $24.0.
+Buyer 3 purchased Strings for $12.6 after a 10%% discount.
+Buyer 4 purchased Cassette for $5.4 after a 10%% discount.
+Buyer 5 purchased Strings for $22.0.
+Buyer 6 purchased Hats for $27.0 after a 10%% discount.
+Buyer 7 purchased RecordPlayer for $44.0.
+Justin bought a fair condition Harmonica from Seller 1 for $37.85.
+Justin bought a poor condition Vinyl from Seller 2 for $23.82.
+Justin bought a poor condition PracticeAmps from Seller 3 for $26.18 after offering 10%% more.
+Justin sold 7 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

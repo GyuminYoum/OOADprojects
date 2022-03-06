@@ -43,31 +43,31 @@ import Observer.Tracker;
 //most attributes are private so getters and setters are used to access them.
 public class Store {
 
-    public static Random Rng = new Random();
-
-    private static double Cash_Register=0.0;
+    public Random Rng = new Random();
+    private double Cash_Register=0.0;
     //arraylist of Item objects to represent inventory
-    private static ArrayList<Items> Inventory= new ArrayList<Items>();
+    private ArrayList<Items> Inventory= new ArrayList<Items>();
     //list of clerks
-    private static ArrayList<Clerk> Clerk_member=new ArrayList<Clerk>();
-    //private static HashMap<String, int> Inventory_stock= new HashMap<String, int>();
-    private static double Inventory_value=0.0;
-    private static int daysPassed=1;
-    private static double total_salePrice=0.0;
-    private static double money_added=0.0;
-    private static Clerk OnShift;
-    private static ArrayList<Items> Order_list= new ArrayList<Items>();
-    private static ArrayList<Items> Sold_list=new ArrayList<Items>();
-    private static double money_withdrawn=0.0;
-    private static ArrayList<String>Item_list= new ArrayList<String>();
-    private static ArrayList<String> staff_names=new ArrayList<String>();
+    private ArrayList<Clerk> Clerk_member;
+    private double Inventory_value=0.0;
+    private int daysPassed=1;
+    private double total_salePrice=0.0;
+    private double money_added=0.0;
+    private Clerk OnShift;
+    private String location;
+    private ArrayList<Items> Order_list= new ArrayList<Items>();
+    private ArrayList<Items> Sold_list=new ArrayList<Items>();
+    private double money_withdrawn=0.0;
+    private ArrayList<String>Item_list= new ArrayList<String>();
+    private ArrayList<String> staff_names=new ArrayList<String>();
+    private ArrayList<logger> logger_list=new ArrayList<logger>();
+    private ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
+    private ArrayList<Observer> Observer_list=new ArrayList<Observer>();
 
-
-    private static ArrayList<logger> logger_list=new ArrayList<logger>();
-    private static ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
-
-    private static ArrayList<Observer> Observer_list=new ArrayList<Observer>();
-    private static String statement;
+    public Store(ArrayList<Clerk> clerks, String loc1){
+        Clerk_member=clerks;
+        location=loc1;
+    }
 
 
 
@@ -75,10 +75,10 @@ public class Store {
     //$0 balance in cash register, simulation starts from day 1
     //inventory is initialized with 3 of each item
     //Clerk_Member is initialized with clerk objects shaggy and velma
-    public static void Build(){
+    public void Build(){
         //initialize all the variables
-        Cash_Register=0.0;
-        daysPassed=1;
+        this.Cash_Register=0.0;
+        this.daysPassed=1;
         //create all the objects
         PaperScore PS1=new PaperScore("PaperScore",5.0, true,0,5,"band1","album1");
         PaperScore PS2=new PaperScore("PaperScore",5.5, true,0,5,"band2","album2");
@@ -230,102 +230,52 @@ public class Store {
         Inventory.add(GigBag2);
         Inventory.add(GigBag3);
 
-        //
-        Clerk Velma=new Clerk("Velma", new Haphazard());
-        Clerk Shaggy=new Clerk("Shaggy", new Manual());
-        Clerk Daphne=new Clerk("Daphne", new Electronic());
-        Clerk_member.add(Velma);
-        Clerk_member.add(Shaggy);
-        Clerk_member.add(Daphne);
-        addToStaffNames(Velma.get_name());
-        addToStaffNames(Shaggy.get_name());
-        addToStaffNames(Daphne.get_name());
-        /*
-        for (int i=0; i<Item_list.length; i++){
-            Inventory_stock.put(Item_list[i],3);
+        for (Items i:Inventory){
+            i.set_Store(this);
         }
-
-         */
-        //System.out.println(Inventory_stock.keySet());
     }
 
- /*
- //testing builds
-    public static void test1(){
-        Clerk Velma=new Clerk("Velma");
-        Clerk Shaggy=new Clerk("Shaggy");
-        Clerk_member.add(Velma);
-        Clerk_member.add(Shaggy);
-        for (int i=0; i<Item_list.length; i++){
-            Inventory_stock.put(Item_list[i],3);
-        }
-        PracticeAmps PAMPS1=new PracticeAmps("PracticeAmps",5.0, true,4,5,30);
-        Store.add_orders(PAMPS1);
 
-        //test for Arrive At Store
-    }
-
-  */
-
-    public static void registerLogger(logger O){
+    //Logger related functions
+    public void registerLogger(logger O){
          logger_list.add(O);
      }
-    public static void removeLogger(logger O){
+    public void removeLogger(logger O){
          logger_list.remove(O);
     }
-    public static void notifyLoggers(String str1){
+    public void notifyLoggers(String str1){
         for (logger O:logger_list){
             O.update(str1);
         }
     }
-    public static void registerTracker(Tracker t) { tracker_list.add(t); }
-    public static void removeTracker(Tracker t) { tracker_list.remove(t); }
-    public static void notifyTrackers(String str1){
+
+    //Tracker related functions
+    public void registerTracker(Tracker t) { tracker_list.add(t); }
+    public void removeTracker(Tracker t) { tracker_list.remove(t); }
+    public void notifyTrackers(String str1){
         for (Tracker t:tracker_list){
             t.update(str1);
         }
     }
-    public static void printTrackers() {
+    public void printTrackers() {
         for (Tracker t:tracker_list){
             t.display();
         }
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    public static void addToItemList(String name1){
+    public void addToItemList(String name1){
         if(Item_list.contains(name1)==false){
             Item_list.add(name1);
         }
     }
-    public static void addToStaffNames(String name1){
-        if (staff_names.contains(name1)==false){
-            staff_names.add(name1);
-        }
-    }
+
     //getter for Item_list
-    public static ArrayList<String> get_ItemList(){
+    public ArrayList<String> get_ItemList(){
         return Item_list;
     }
 
     //find index of the sick person
-    public static int findSickIndex(ArrayList<Clerk>list){
+    public int findSickIndex(ArrayList<Clerk>list){
         for (int i=0; i<list.size(); i++){
             if(list.get(i).get_sick()==true){
                 return i;
@@ -333,13 +283,23 @@ public class Store {
         }
         return -1;
     }
-    public static ArrayList<Clerk> get_ClerkMember(){
+    public ArrayList<Clerk> get_ClerkMember(){
         return Clerk_member;
+    }
+    //resets all the worker's workingAt location to null
+    public void reset_ClerkStore(){
+        for(Clerk i:Clerk_member){
+            i.set_workingAt(null);
+        }
+    }
+
+    public String get_location(){
+        return location;
     }
 
     //picks sick person.
     //if the person was sick already then find someone else to get sick
-    public static void pickSick(){
+    public void pickSick(){
         Random rng=new Random();
         int sickIndex;
         int roll=-1;
@@ -364,7 +324,7 @@ public class Store {
     //randomly rolls between clerk member and picks whos working
     //if a person is sick, it finds substitute
     //every 7th day, no one works, days passed is incremented.
-    public static void pickOnShift() {
+    public Clerk pickOnShift() {
         Random rng=new Random();
         int days=0;
         //roll for whos on shift today
@@ -376,22 +336,16 @@ public class Store {
         //days=picked.get_daysWorked();
         //make a deep copy of Clerk_member
 
-
         if(get_daysPassed()%7==0){
-            Store.increment_daysPassed();
+            this.increment_daysPassed();
             for (int i=0; i< Clerk_member.size(); i++){
                 Clerk_member.get(i).set_daysWorked(0);
                 Clerk_member.get(i).set_sick(false);
             }
             //System.out.println("Store is closed on Sunday.");
             content="Store is closed on Sunday.";
-            Store.notifyLoggers(content);
-            /*
-            for (int i=0; i< Clerk_member.size(); i++){
-                System.out.println(Clerk_member.get(i).get_name()+" "+Clerk_member.get(i).get_sick()+" "+Clerk_member.get(i).get_daysWorked()+" days");
-            }
-
-             */
+            this.notifyLoggers(content);
+            return null;
         }
         else{
             anyonesick=rng.nextInt(100);
@@ -399,7 +353,7 @@ public class Store {
                 pickSick();
                 //System.out.println(Clerk_member.get(findSickIndex(Clerk_member)).get_name()+" is sick on day "+get_daysPassed());
                 content=Clerk_member.get(findSickIndex(Clerk_member)).get_name()+" is sick on day "+get_daysPassed();
-                Store.notifyLoggers(content);
+                this.notifyLoggers(content);
             }
             else{
                 sickIndex=findSickIndex(Clerk_member);
@@ -407,37 +361,30 @@ public class Store {
                     Clerk_member.get(sickIndex).set_sick(false);
                 }
             }
+
             roll=rng.nextInt(Clerk_member.size());
             picked=Clerk_member.get(roll);
-            while(picked.get_sick()==true && picked.get_daysWorked()>3){
+            while(picked.get_sick()==true || picked.get_daysWorked()>3 || picked.get_workingAt()!=null){
                 roll=rng.nextInt(Clerk_member.size());
                 picked=Clerk_member.get(roll);
             }
             OnShift=Clerk_member.get(roll);
-            //Clerk_member.get(roll).increment_daysWorked();
-            /*
-            for (int i=0; i< Clerk_member.size();i++){
-                if(i!=roll){
-                    Clerk_member.get(i).set_daysWorked(0);
-                }
-            }
-
-             */
+            OnShift.set_workingAt(this);
         }
-
+        return OnShift;
     }
     //getter for ONShift
-    public static Clerk get_OnShift(){
+    public Clerk get_OnShift(){
         return OnShift;
     }
 
     //setter for daysPassed for testing
-    public static void set_days(int int1){
+    public void set_days(int int1){
         daysPassed=int1;
     }
 
     //iterate through and check stock for all
-    public static int check_stock(String name1){
+    public int check_stock(String name1){
         int count=0;
         for (int i=0; i< Inventory.size(); i++){
             if(Inventory.get(i).get_name()==name1){
@@ -451,15 +398,15 @@ public class Store {
     //functions for daysPassed//
     ///////////////////////////
 
-    public static void increment_daysPassed() {
+    public void increment_daysPassed() {
         daysPassed += 1;
     }
     //setter
-    public static void set_daysPassed(int days1){
+    public void set_daysPassed(int days1){
         daysPassed=days1;
     }
     //getter
-    public static int get_daysPassed(){
+    public int get_daysPassed(){
         return daysPassed;
     }
 
@@ -471,19 +418,19 @@ public class Store {
     //////////////////////////
 
     //getter
-    public static Double get_Register(){
+    public Double get_Register(){
         return Math.floor(Cash_Register * 100) /100;
 
     }
     //adds to register
-    public static void add_Register(double value1){
+    public void add_Register(double value1){
         Cash_Register+=value1;
     }
     //setter
-    public static void set_Register(double value1){
+    public void set_Register(double value1){
         Cash_Register=value1;
     }
-    public static boolean already_ordered(String name1){
+    public boolean already_ordered(String name1){
         boolean status=false;
         for (int i=0; i<Order_list.size(); i++){
             if(Order_list.get(i).get_name()==name1){
@@ -497,30 +444,30 @@ public class Store {
     //functions for order_list//
     ///////////////////////////
     //getter for order-list
-    public static ArrayList<Items> get_orders(){
+    public ArrayList<Items> get_orders(){
         return Order_list;
     }
     //adds to order_list
-    public static void add_orders(Items item1){
+    public void add_orders(Items item1){
         Order_list.add(item1);
     }
     //returns size of order list
-    public static int get_orderSize(){
+    public int get_orderSize(){
         return Order_list.size();
     }
 
 
   
-    public static double get_moneyWithdrawn(){
+    public double get_moneyWithdrawn(){
         return money_withdrawn;
     }
 
-    public static void add_moneyWithdrawn(float value1){
+    public void add_moneyWithdrawn(float value1){
         money_withdrawn+=value1;
     }
 
     //for DoInventory function for clerk
-    public static double get_InventoryValue(){
+    public double get_InventoryValue(){
         double total_value=0.0;
         for (int i=0; i< Inventory.size(); i++){
             total_value+=Inventory.get(i).get_purchasePrice();
@@ -529,7 +476,7 @@ public class Store {
     }
 
     //returns invnetory size
-    public static int get_InventorySize(){
+    public int get_InventorySize(){
         return Inventory.size();
     }
 
@@ -538,7 +485,7 @@ public class Store {
     //////////////////////////////////
 
    //totaling up values in sold list
-    public static double get_soldValue(){
+    public double get_soldValue(){
         double total_value=0.0;
         for (int i=0; i< Sold_list.size(); i++){
             total_value+=Sold_list.get(i).get_salePrice();
@@ -546,11 +493,11 @@ public class Store {
         return Math.floor(total_value * 100) / 100;
     }
     //get size of sold list
-    public static int get_soldListSize(){
+    public int get_soldListSize(){
         return Sold_list.size();
     }
     //adding to sold list
-    public static void add_soldItem(Items item1) {Sold_list.add(item1);}
+    public void add_soldItem(Items item1) {Sold_list.add(item1);}
 
     /*public static ArrayList<String> get_Inventory() {
         ArrayList<String> inv = new ArrayList<String>();
@@ -562,16 +509,16 @@ public class Store {
 
 
     //Item getters
-    public static Items get_Item(int x){
+    public Items get_Item(int x){
         return Inventory.get(x);
     }
 
     //inventory getters setters
-    public static void add_Inventory(Items item1){
+    public void add_Inventory(Items item1){
         Inventory.add(item1);
     }
     //removing from inventory arraylist
-    public static void remove_Inventory(int i){
+    public void remove_Inventory(int i){
         Inventory.remove(i);
     }
     /*public static void remove_Inventory_buy(String i){
@@ -580,24 +527,12 @@ public class Store {
 
 
     //moneyWithdrawn getters and setters
-    public static void set_moneyWithdrawn(double money){
+    public void set_moneyWithdrawn(double money){
         money_withdrawn=money;
     }
-    /*public static void add_moneyWithdrawn(Float value1){
-        money_withdrawn+=value1;
-    }*/
-    /*
-    //don't need it as of now
-    public void AddStaff(Staff worker) {
-        staf_member.add(worker);
-    }
-    public void RemoveStaff(Staff worker) {
-        staff_member.remove((staff_member.indexOf(worker)));
-    }
 
-     */
     //report function for everthing at the end.
-    public static void Report(){
+    public void Report(){
         System.out.println("In the inventory, there remains: ");
         String item_name;
         double price;
@@ -613,10 +548,10 @@ public class Store {
             System.out.println(item_name+" was sold on Day "+ Sold_list.get(i).get_daySold()+" at a price of $"+Sold_list.get(i).get_salePrice());
         }
         System.out.println("with total Sale value of $"+ get_soldValue());
-        System.out.println("There is $"+ Store.get_Register() +" in the Cash Register.");
+        System.out.println("There is $"+ get_Register() +" in the Cash Register.");
         System.out.println("Total of $"+get_moneyWithdrawn()+" was withdrawn from the bank.");
     }
-    public static void Pay(double amount) {
+    public void Pay(double amount) {
         if (get_Register() > amount) {
             set_Register(get_Register() - amount);
         } else {
@@ -624,38 +559,30 @@ public class Store {
             set_Register(get_Register() - amount);
         }
     }
-    public static void Sell(String item, int quantity) {
+    public void Sell(String item, int quantity) {
         int i = 0;
         int j = 0;
         String content;
         //for number of items that get bought
-        while (i < Store.get_InventorySize() && j < quantity) {
-            if (item.equals(Store.get_Item(i).get_name())) {
+        while (i < this.get_InventorySize() && j < quantity) {
+            if (item.equals(this.get_Item(i).get_name())) {
                 //set daySold and salePrice, add to sold list and add money to register
-                Store.get_Item(i).set_daySold(Store.get_daysPassed());
-                Store.get_Item(i).set_salePrice(Store.get_Item(i).get_listPrice());
-                Store.add_soldItem(Store.get_Item(i));
-                Store.add_Register(Store.get_Item(i).get_salePrice());
+                this.get_Item(i).set_daySold(this.get_daysPassed());
+                this.get_Item(i).set_salePrice(this.get_Item(i).get_listPrice());
+                this.add_soldItem(this.get_Item(i));
+                this.add_Register(this.get_Item(i).get_salePrice());
                 //System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
-                content="Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".";
-                Store.notifyLoggers(content);
-                Store.notifyTrackers("sold");
+                content="Buyer also purchased " + this.get_Item(i).get_name() + " for $" + this.get_Item(i).get_salePrice() + ".";
+                this.notifyLoggers(content);
+                this.notifyTrackers("sold");
                 //remove item from inventory
-                Store.remove_Inventory(i);
+                this.remove_Inventory(i);
                 j++;
             } else {
                 i++;
             }
         }
     }
-        /*
-    public void AddStaff(Staff worker) {
-        staff_member.add(worker);
-    }
-    public void RemoveStaff(Staff worker) {
-        staff_member.remove((staff_member.indexOf(worker)));
-    }
-         */
 }
 
 

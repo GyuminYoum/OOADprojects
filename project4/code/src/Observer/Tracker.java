@@ -9,9 +9,14 @@ import Store.Store;
 public class Tracker implements Observer{
 
     public HashMap<String, ArrayList<Integer>> data = new HashMap<String, ArrayList<Integer>>();
+    private Store location;
+    public Tracker(Store store1){
+        location=store1;
+    }
 
     //initialize HashMap at the beginning of simulation
     public void initialize() {
+        Store Store=location;
         //for every clerk
         for (Clerk c: Store.get_ClerkMember()) {
             ArrayList<Integer> intList = new ArrayList<Integer>();
@@ -24,6 +29,7 @@ public class Tracker implements Observer{
     }
 
     public void update(String s) {
+        Store Store=location;
         int curr;
         switch(s) {
             case "sold":
@@ -46,8 +52,10 @@ public class Tracker implements Observer{
     }
 
     public void display() {
+        Store Store=location;
         //print out table headers
-        System.out.println("Day: " + Store.get_daysPassed());
+        int days1=Store.get_daysPassed()-1;
+        System.out.println("Day: " + days1);
         System.out.println("Clerk | Items Sold | Items Purchased | Items Damaged");
         for (Clerk c : Store.get_ClerkMember()) {
             //print out each value in the ArrayList mapped to that clerk

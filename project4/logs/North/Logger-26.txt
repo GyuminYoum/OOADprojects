@@ -1,0 +1,30 @@
+Shaggy is sick on day 26
+Justin arrives at the N store on Day 26
+Justin received CDPlayer on day 26
+Justin received Saxophone on day 26
+Justin received MusicCD on day 26
+Justin received Cables on day 26
+4 items has been added to the inventory
+There is $2314.74 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1300.15
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin un-tuned Bass.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $62.08.
+Buyer 2 purchased Bass for $43.57 after a 10%% discount.
+Buyer also purchased Strings for $55.06.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Justin bought a fair condition Mandolin from Seller 1 for $16.7.
+Justin sold 6 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -1,0 +1,34 @@
+Justin arrives at the S store on Day 24
+Justin received GigBag on day 24
+Justin received RecordPlayer on day 24
+Justin received Bass on day 24
+Justin received Guitar on day 24
+4 items has been added to the inventory
+There is $2678.89 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 927.51
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin put in order for PracticeAmps for $10.53 on day 24
+Justin put in order for PracticeAmps for $4.05 on day 24
+Justin put in order for PracticeAmps for $49.41 on day 24
+Justin ordered total of 3 items
+Justin put in order for Cables for $18.04 on day 24
+Justin put in order for Cables for $34.9 on day 24
+Justin put in order for Cables for $1.75 on day 24
+Justin ordered total of 3 items
+Justin has damaged 0 items while tuning
+GigBag was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $73.8.
+Buyer 3 purchased Guitar for $32.5.
+Buyer 4 purchased Harmonica for $27.95 after a 10%% discount.
+Buyer 5 purchased Vinyl for $9.6.
+Guitar out of stock, Buyer 6 left the store.
+Justin bought a fair condition RecordPlayer from Seller 1 for $13.54.
+Justin sold 4 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

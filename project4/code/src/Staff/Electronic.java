@@ -9,6 +9,7 @@ import Store.Store;
 public class Electronic implements Strategy{
     public boolean Tune(Items item) {
         boolean temp = false;
+        Store Store=item.get_Store();
         String content;
         if (item instanceof wind) {
             ((wind) item).set_adjusted(true);

@@ -3,8 +3,6 @@ package Instruments_Items.Stringed_Items;
 import Instruments_Items.Stringed;
 import Store.Store;
 
-import static Store.Store.Rng;
-
 //decorator for stringed items
 //wraps the stringed item to modify its attributes at run time
 public class StringDecorator extends Stringed {
@@ -19,6 +17,7 @@ public class StringDecorator extends Stringed {
         double roll1;
         double electric = 0.0;
         int item_count=0;
+        Store Store=item_.get_Store();
 
         //electric modifier for selling accessories
         if (!item_.get_electric()) {

@@ -1,0 +1,33 @@
+Velma arrives at the S store on Day 8
+Velma received Strings on day 8
+Velma received RecordPlayer on day 8
+2 items has been added to the inventory
+There is $1308.15 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1141.21
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma adjusted Harmonica.
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased MusicCD for $7.56 after a 10%% discount.
+Guitar was too expensive, Buyer 2 left the store.
+Buyer 3 purchased CDPlayer for $57.6.
+Buyer 4 purchased PracticeAmps for $27.0 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $50.0.
+Velma bought a fair condition Saxophone from Seller 1 for $49.54.
+Velma bought a very good condition Strings from Seller 2 for $1.61 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

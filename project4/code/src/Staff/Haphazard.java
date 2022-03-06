@@ -10,6 +10,7 @@ public class Haphazard implements Strategy{
     public boolean Tune(Items item) {
         double roll = Math.random();
         boolean temp = false;
+        Store Store=item.get_Store();
         String content;
         //if item is type wind
         if (item instanceof wind) {

@@ -1,0 +1,22 @@
+Justin arrives at the S store on Day 6
+Justin received Strings on day 6
+Justin received RecordPlayer on day 6
+2 items has been added to the inventory
+There is $1315.23 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1049.27
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $48.0.
+CassettePlayer was too expensive, Buyer 2 left the store.
+Mandolin was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Cassette for $8.19.
+Justin bought a very good condition Saxophone from Seller 1 for $30.48 after offering 10%% more.
+Justin bought a fair condition Flute from Seller 2 for $32.79.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
