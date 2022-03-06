@@ -1,0 +1,23 @@
+Justin arrives at the N store on Day 2
+0 items has been added to the inventory
+There is $1176.59 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 988.48
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin un-adjusted Flute.
+Justin has damaged 0 items while tuning
+GigBag was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $10.0.
+Buyer 3 purchased RecordPlayer for $59.4 after a 10%% discount.
+Mandolin was too expensive, Buyer 4 left the store.
+Bass was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Bandanas for $5.4 after a 10%% discount.
+Justin bought a very good condition MusicCD from Seller 1 for $1.27.
+Justin bought a poor condition CassettePlayer from Seller 2 for $34.41 after offering 10%% more.
+Justin bought a good condition Cassette from Seller 3 for $47.88.
+Justin sold 3 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

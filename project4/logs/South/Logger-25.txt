@@ -1,0 +1,38 @@
+Daphne arrives at the S store on Day 25
+Daphne received Strings on day 25
+Daphne received Bass on day 25
+Daphne received Flute on day 25
+Daphne received Flute on day 25
+Daphne received Cables on day 25
+5 items has been added to the inventory
+There is $2690.5 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 998.87
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Saxophone was too expensive, Buyer 1 left the store.
+Buyer 2 purchased CDPlayer for $22.62.
+Buyer 3 purchased MP3 for $56.73 after a 10%% discount.
+Daphne bought a fair condition PracticeAmps from Seller 1 for $48.56.
+Daphne sold 2 items.
+Daphne Bought 1 items.
+Daphne has damaged a(n) Saxophone.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.

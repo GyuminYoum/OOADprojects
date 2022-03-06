@@ -1,0 +1,24 @@
+Shaggy arrives at the N store on Day 10
+0 items has been added to the inventory
+There is $1687.21 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 899.84
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy adjusted Saxophone.
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $84.0.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased RecordPlayer for $22.0.
+Flute out of stock, Buyer 4 left the store.
+Shaggy bought a very good condition Harmonica from Seller 1 for $55.74 after offering 10%% more.
+Shaggy bought a poor condition Cassette from Seller 2 for $43.84 after offering 10%% more.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) Saxophone.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

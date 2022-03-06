@@ -5,6 +5,8 @@ package Items;
 //and is only responsible its objects
 //example of low coupling to Clerk class, since modifying attributes wouldn't affect clerk class majorly
 
+import Store.Store;
+
 public class Items {
     private String name;
     private double purchasePrice;
@@ -15,6 +17,7 @@ public class Items {
     private double salePrice=0;
     private int daySold=0;
     private boolean reorder;
+    private Store location;
 
     //example of identity, Items object require its unique attributes which makes it distinguishable
     //from others.
@@ -26,6 +29,7 @@ public class Items {
         dayArrived=day1;
         condition=con1;
         reorder=true;
+        location=null;
     }
 
 
@@ -67,6 +71,12 @@ public class Items {
     public String get_conditionS() {
         String[] condition = {"poor", "fair", "good", "very good", "excellent"};
         return condition[get_condition()];
+    }
+    public Store get_Store(){
+        return location;
+    }
+    public void set_Store(Store store1){
+        location=store1;
     }
     public void set_condition(Integer condition1){
         condition=condition1;

@@ -35,14 +35,14 @@ public class Clerk extends Staff{
     private int days_worked;
     private boolean sick;
     private Strategy strategy_;
-
-
+    private Store workingAt;
 
     //default constructor for clerk
     public Clerk(String name1, Strategy strategy) {
         super(name1);
         days_worked=0;
         strategy_ = strategy;
+        workingAt=null;
     }
 
     //getters and setters for attribute days_worked
@@ -61,20 +61,26 @@ public class Clerk extends Staff{
     public boolean get_sick(){
         return sick;
     }
+    public void set_workingAt(Store store1){
+        workingAt=store1;
+    }
+    public Store get_workingAt(){
+        return workingAt;
+    }
 
-    //Arriveatthe store function
+    //Arrive atthe store function
     //args:none
     //announces appropriate msg including name and day
     //receives order that has dayArrived value=day and announces it
     //returns N/A
 
     public void ArriveAtStore() {
-
         String name1=this.get_name();
         String content;
+        Store Store=workingAt;
         int Curr_day=Store.get_daysPassed();
         int item_count=0;
-        content=name1+ " arrives at the store on Day "+ Store.get_daysPassed();
+        content=name1+ " arrives at the "+Store.get_location()+" store on Day "+ Store.get_daysPassed();
         Store.notifyLoggers(content);
         //System.out.println(name1+ " arrives at the store on Day "+ Store.get_daysPassed());
         if(Curr_day%7!=0){
@@ -103,6 +109,7 @@ public class Clerk extends Staff{
     //returns N/A
     public void CheckRegister() {
         String content;
+        Store Store=workingAt;
         double register_cash=Store.get_Register();
         if (register_cash<75){
             this.GoToBank();
@@ -122,6 +129,7 @@ public class Clerk extends Staff{
     //returns N/A
     public void GoToBank() {
         String content;
+        Store Store=workingAt;
         //System.out.println(this.get_name()+" went to the bank and put $1000 in the register.");
 
         double current_val=Store.get_moneyWithdrawn();
@@ -138,6 +146,7 @@ public class Clerk extends Staff{
     //orders if its at 0  stock.
     //returns N/A
     public void DoInventory() {
+        Store Store=workingAt;
         double inven_value=Store.get_InventoryValue();
         ArrayList<String> item_names=Store.get_ItemList();
         int dmg_count=0;
@@ -182,10 +191,11 @@ public class Clerk extends Staff{
     public int PlaceAnOrder(String name1){
         //if else statements to check if its already ordered
         String content;
+        Store Store=workingAt;
         int order_count=0;
         if (Store.already_ordered(name1)==false){
             //if not do 3 orders with randomized attribute each time
-            RandomItem_Factory factory1=new RandomItem_Factory();
+            RandomItem_Factory factory1=new RandomItem_Factory(workingAt);
             Items temp_item=factory1.create_RandomItem(name1);
             if (temp_item.get_reorder()==true){
                 for (int i=0; i<3; i++){
@@ -204,7 +214,7 @@ public class Clerk extends Staff{
     //from stackoverflow
     //https://stackoverflow.com/questions/9832919/generate-poisson-arrival-in-java
     //just different name;
-    public double countBuyerNumber(double mean){
+    public static double countBuyerNumber(double mean){
         Random r = new Random();
         double L = Math.exp(-mean);
         int k = 0;
@@ -229,6 +239,7 @@ public class Clerk extends Staff{
         int ClerkBoughtItems=0;
         String content;
         Random rng=new Random();
+        Store Store=workingAt;
         /*
         buy_count=rng.nextInt(6);
         buy_count+=4;
@@ -238,12 +249,12 @@ public class Clerk extends Staff{
         sell_count=rng.nextInt(3);
         sell_count+=1;
         for(int i=0; i<buy_count;i++){
-            Customer person=new Customer();
+            Customer person=new Customer(workingAt);
             person.setName(i + 1, "Buyer");
             ClerkSoldItems+=person.Buy();
         }
         for(int j=0; j<sell_count;j++){
-            Customer person=new Customer();
+            Customer person=new Customer(workingAt);
             person.setName(j + 1, "Seller");
             ClerkBoughtItems+=person.Sell();
         }
@@ -266,6 +277,7 @@ public class Clerk extends Staff{
         String content;
         int dmg_count=0;
         roll=Rng.nextInt(100);
+        Store Store=workingAt;
         if (name=="Velma"){
             if (roll<5){
                 damageItem();
@@ -319,18 +331,22 @@ public class Clerk extends Staff{
     //returns: N/A
     public void LeaveTheStore() {
         String content;
+        Store Store=workingAt;
         //System.out.println(this.get_name() + " went home for the day.");
         content=this.get_name() + " went home for the day.";
         Store.notifyLoggers(content);
         this.days_worked+=1;
-        if (Store.get_daysPassed()%7!=0){
-            Store.increment_daysPassed();
+
+        if (workingAt.get_daysPassed()%7!=0){
+            workingAt.increment_daysPassed();
         }
-        for(int i=0; i<Store.get_ClerkMember().size(); i++){
-            if(Store.get_ClerkMember().get(i).get_name()!=this.get_name()){
-                Store.get_ClerkMember().get(i).set_daysWorked(0);
+
+        for(int i=0; i<workingAt.get_ClerkMember().size(); i++){
+            if(workingAt.get_ClerkMember().get(i).get_workingAt()==null){
+                workingAt.get_ClerkMember().get(i).set_daysWorked(0);
             }
         }
+        System.out.println(this.get_name()+" worked "+this.get_daysWorked()+" days");
         /*
         for (int i=0; i< Store.get_ClerkMember().size(); i++){
             System.out.println(Store.get_ClerkMember().get(i).get_name()+" "+Store.get_ClerkMember().get(i).get_sick()+" "+Store.get_ClerkMember().get(i).get_daysWorked()+" days");
@@ -350,6 +366,7 @@ public class Clerk extends Staff{
         double curr_listPrice;
         double mod_listPrice;
         String content;
+        Store Store=workingAt;
         Random Rng= new Random();
         roll=Rng.nextInt(Store.get_InventorySize()-1);
         Curr_condition=Store.get_Item(roll).get_condition();

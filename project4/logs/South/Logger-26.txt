@@ -1,0 +1,32 @@
+Velma arrives at the S store on Day 26
+Velma received RecordPlayer on day 26
+Velma received Guitar on day 26
+Velma received Flute on day 26
+Velma received PracticeAmps on day 26
+Velma received Cables on day 26
+5 items has been added to the inventory
+There is $2721.29 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1116.94
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Hats out of stock, Buyer 2 left the store.
+Harmonica was too expensive, Buyer 3 left the store.
+Bandanas out of stock, Buyer 4 left the store.
+Buyer 5 purchased Strings for $56.43 after a 10%% discount.
+Velma bought a fair condition MP3 from Seller 2 for $31.0 after offering 10%% more.
+Velma sold 1 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

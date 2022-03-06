@@ -1,0 +1,31 @@
+Justin arrives at the N store on Day 19
+Justin received GigBag on day 19
+Justin received Mandolin on day 19
+Justin received Strings on day 19
+3 items has been added to the inventory
+There is $2289.64 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 922.86
+Justin put in order for Vinyl for $42.94 on day 19
+Justin put in order for Vinyl for $27.17 on day 19
+Justin put in order for Vinyl for $39.59 on day 19
+Justin ordered total of 3 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+CDPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased CassettePlayer for $21.6 after a 10%% discount.
+Buyer 3 purchased CDPlayer for $91.64.
+Buyer 4 purchased Cables for $89.74.
+PracticeAmps out of stock, Buyer 5 left the store.
+Buyer 6 purchased MP3 for $100.72.
+Vinyl out of stock, Buyer 7 left the store.
+Vinyl out of stock, Buyer 8 left the store.
+Seller 1 didn't accept the price, and left the store.
+Justin sold 4 items.
+Justin Bought 0 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

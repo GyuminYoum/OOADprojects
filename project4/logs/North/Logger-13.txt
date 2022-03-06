@@ -1,0 +1,35 @@
+Shaggy arrives at the N store on Day 13
+Shaggy received Flute on day 13
+Shaggy received MP3 on day 13
+Shaggy received Cables on day 13
+3 items has been added to the inventory
+There is $1907.86 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 908.41
+Shaggy put in order for CDPlayer for $45.09 on day 13
+Shaggy put in order for CDPlayer for $21.98 on day 13
+Shaggy put in order for CDPlayer for $45.14 on day 13
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $13.0.
+Buyer 2 purchased MP3 for $88.34.
+Buyer 3 purchased CassettePlayer for $26.0.
+Hats out of stock, Buyer 4 left the store.
+Buyer 5 purchased MusicCD for $8.19.
+Shaggy bought a poor condition Shirts from Seller 1 for $1.71 after offering 10%% more.
+Shaggy bought a fair condition Vinyl from Seller 2 for $50.86.
+Shaggy sold 4 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) Shirts.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

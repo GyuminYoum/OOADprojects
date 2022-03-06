@@ -1,0 +1,35 @@
+Freddy arrives at the N store on Day 3
+0 items has been added to the inventory
+There is $1167.83 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1031.04
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $12.6 after a 10%% discount.
+Buyer 2 purchased PaperScore for $10.0.
+Buyer 3 purchased Shirts for $8.0.
+Cassette was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 6 purchased Hats for $27.0 after a 10%% discount.
+Buyer 7 purchased Hats for $20.0.
+Freddy bought a good condition Harmonica from Seller 1 for $8.0 after offering 10%% more.
+Freddy sold 6 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

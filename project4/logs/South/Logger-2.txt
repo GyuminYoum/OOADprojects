@@ -1,0 +1,29 @@
+Shaggy arrives at the S store on Day 2
+0 items has been added to the inventory
+There is $1074.83 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1079.44
+Shaggy tuned Bass.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy un-tuned Bass.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Strings for $7.0.
+Buyer 2 purchased CassettePlayer for $26.0.
+Buyer 3 purchased Shirts for $8.0.
+Buyer 4 purchased Guitar for $54.0.
+Buyer also purchased Cables for $10.0.
+CDPlayer was too expensive, Buyer 5 left the store.
+Buyer 6 purchased MusicCD for $8.0.
+Seller 1 didn't accept the price, and left the store.
+Shaggy bought a good condition Saxophone from Seller 2 for $21.02 after offering 10%% more.
+Shaggy sold 6 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) Cables.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

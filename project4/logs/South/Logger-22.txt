@@ -1,0 +1,43 @@
+Velma arrives at the S store on Day 22
+Velma received CassettePlayer on day 22
+Velma received GigBag on day 22
+Velma received GigBag on day 22
+3 items has been added to the inventory
+There is $2521.31 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 949.69
+Velma put in order for RecordPlayer for $1.66 on day 22
+Velma put in order for RecordPlayer for $42.84 on day 22
+Velma put in order for RecordPlayer for $4.09 on day 22
+Velma ordered total of 3 items
+Velma put in order for Bass for $31.92 on day 22
+Velma put in order for Bass for $6.92 on day 22
+Velma put in order for Bass for $14.77 on day 22
+Velma ordered total of 3 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Flute.
+Velma adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $43.12.
+Buyer also purchased GigBag for $75.76.
+Buyer 2 purchased Flute for $65.58.
+Harmonica was too expensive, Buyer 3 left the store.
+Buyer 4 purchased PaperScore for $35.36.
+Velma bought a fair condition CassettePlayer from Seller 1 for $30.09 after offering 10%% more.
+Velma bought a poor condition Cassette from Seller 2 for $8.55 after offering 10%% more.
+Velma bought a very good condition Strings from Seller 3 for $34.48 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

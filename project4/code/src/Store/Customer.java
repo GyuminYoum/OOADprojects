@@ -23,21 +23,29 @@ import Players_Items.MP3;
 import Players_Items.RecordPlayer;
 import Items.Players;
 
+import java.util.*;
+
 //imported from Store so that only 1 instance of Rng exists, instead of instantiating multiple instances
-import static Store.Store.Rng;
+
 
 public class Customer {
     private int num;
     private String name;
+    private Store location;
+    private Random Rng=new Random();
     public void setName(int i, String s) {
         name = s;
         num = i;
+    }
+    public Customer(Store store1){
+        location=store1;
     }
 
     //private Random Rng= new Random();
 
     public int Buy(){
         //rand int from 0-16
+        Store Store=location;
         int roll;
         int buy_count=0;
         roll= Rng.nextInt(Store.get_ItemList().size());
@@ -119,6 +127,7 @@ public class Customer {
     }
 
     public int Sell(){
+        Store Store=location;
         Items random_item = null;
         int roll;
         //using random.nextInt() to determine which item Customer is selling
@@ -136,7 +145,7 @@ public class Customer {
         //purchase price is based on the condition
         price = price / (5 - condition);
         //System.out.printf("Value of roll: " + roll + " \n");
-        RandomItem_Factory factory1=new RandomItem_Factory();
+        RandomItem_Factory factory1=new RandomItem_Factory(location);
         //match random int "roll" to each type of item
         switch(roll){
             case 0: {
@@ -250,8 +259,8 @@ public class Customer {
                 random_item=factory1.create_RandomItem(name1);
                 break;
             }
-
         }
+        //System.out.println(random_item.get_name()+" has been created for "+random_item.get_Store().get_location());
 
         double rand1 = Math.random();
         double rand2 = Math.random();

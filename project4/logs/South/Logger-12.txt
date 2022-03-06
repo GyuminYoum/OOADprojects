@@ -1,0 +1,40 @@
+Freddy arrives at the S store on Day 12
+Freddy received MusicCD on day 12
+Freddy received PracticeAmps on day 12
+Freddy received PracticeAmps on day 12
+Freddy received MP3 on day 12
+4 items has been added to the inventory
+There is $1438.08 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1154.68
+Freddy put in order for Harmonica for $15.53 on day 12
+Freddy put in order for Harmonica for $15.97 on day 12
+Freddy put in order for Harmonica for $15.28 on day 12
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $10.0.
+Buyer 2 purchased Guitar for $34.0.
+Buyer 3 purchased Shirts for $10.0.
+Freddy bought a poor condition Vinyl from Seller 1 for $41.87.
+Freddy sold 3 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

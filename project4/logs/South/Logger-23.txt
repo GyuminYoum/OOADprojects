@@ -1,0 +1,38 @@
+Justin arrives at the S store on Day 23
+Justin received CassettePlayer on day 23
+Justin received Strings on day 23
+Justin received Strings on day 23
+Justin received RecordPlayer on day 23
+4 items has been added to the inventory
+There is $2565.79 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 997.79
+Justin put in order for Guitar for $18.21 on day 23
+Justin put in order for Guitar for $16.25 on day 23
+Justin put in order for Guitar for $40.72 on day 23
+Justin ordered total of 3 items
+Justin ordered total of 0 items
+Justin put in order for Flute for $23.59 on day 23
+Justin put in order for Flute for $15.48 on day 23
+Justin put in order for Flute for $47.04 on day 23
+Justin ordered total of 3 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $65.58.
+Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 3 purchased CassettePlayer for $85.33 after a 10%% discount.
+Buyer 4 purchased Cables for $63.82.
+Justin bought a very good condition Cassette from Seller 1 for $11.44.
+Justin bought a poor condition MusicCD from Seller 2 for $4.5.
+Justin sold 4 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
