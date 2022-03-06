@@ -1,44 +1,31 @@
-Daphne arrives at the store on Day 3
+Velma arrives at the store on Day 3
 0 items has been added to the inventory
-There is $968.62 in the register
-There are total of 63 items in the inventory.
-All the items in the inventory are worth total of $ 1138.45
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Hats was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased Strings for $7.0.
-Buyer also purchased Strings for $14.0.
-Buyer 3 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 4 purchased Vinyl for $9.0 after a 10%% discount.
-Buyer 5 purchased MP3 for $10.0.
-Buyer 6 purchased Guitar for $54.0.
-Buyer also purchased PracticeAmps for $30.0.
-Buyer also purchased Cables for $10.0.
-Buyer also purchased Strings for $22.0.
-Daphne bought a poor condition Saxophone from Seller 1 for $45.12 after offering 10%% more.
-Daphne bought a poor condition Strings from Seller 2 for $5.4.
-Daphne sold 10 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1055.26 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1106.32
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Bass for $44.0.
+Buyer also purchased GigBag for $12.0.
+Buyer 2 purchased Strings for $7.0.
+Buyer 3 purchased Shirts for $10.0.
+Shirts out of stock, Buyer 4 left the store.
+Buyer 5 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 6 purchased MusicCD for $7.2 after a 10%% discount.
+Velma bought a very good condition CassettePlayer from Seller 1 for $13.4.
+Velma bought a poor condition Saxophone from Seller 2 for $45.3.
+Velma bought a poor condition CDPlayer from Seller 3 for $21.52 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

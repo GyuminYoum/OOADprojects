@@ -1,29 +1,43 @@
-Shaggy arrives at the store on Day 27
-Shaggy received GigBag on day 27
-Shaggy received Flute on day 27
-Shaggy received Cassette on day 27
-Shaggy received CDPlayer on day 27
-Shaggy received CDPlayer on day 27
-5 items has been added to the inventory
-There is $2537.9 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 953.38
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Saxophone out of stock, Buyer 1 left the store.
-Buyer 2 purchased Vinyl for $31.3 after a 10%% discount.
-Buyer 3 purchased Cables for $73.36.
-Buyer 4 purchased Strings for $49.18.
-Shaggy bought a good condition Cassette from Seller 1 for $22.58.
-Shaggy bought a poor condition MusicCD from Seller 2 for $1.11.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the store on Day 27
+Velma received Cassette on day 27
+Velma received Cables on day 27
+Velma received Guitar on day 27
+Velma received Guitar on day 27
+4 items has been added to the inventory
+There is $2844.73 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1271.71
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Strings for $46.03 on day 27
+Velma put in order for Strings for $36.54 on day 27
+Velma put in order for Strings for $42.07 on day 27
+Velma ordered total of 3 items
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Guitar for $38.68.
+Strings out of stock, Buyer 2 left the store.
+Cables was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Cables for $94.88.
+Bass out of stock, Buyer 5 left the store.
+Velma bought a very good condition Harmonica from Seller 1 for $21.63 after offering 10%% more.
+Velma bought a good condition MusicCD from Seller 2 for $15.6 after offering 10%% more.
+Velma bought a fair condition Strings from Seller 3 for $44.94 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

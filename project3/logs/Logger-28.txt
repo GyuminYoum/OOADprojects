@@ -1,37 +1,39 @@
 Store is closed on Sunday.
-Shaggy arrives at the store on Day 29
-Shaggy received GigBag on day 29
-Shaggy received Flute on day 29
-Shaggy received CDPlayer on day 29
-Shaggy received Saxophone on day 29
+Velma arrives at the store on Day 29
+Velma received Cables on day 29
+Velma received Guitar on day 29
+Velma received Bass on day 29
+Velma received Strings on day 29
 4 items has been added to the inventory
-There is $2668.05 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1026.92
-Shaggy put in order for Vinyl for $27.04 on day 29
-Shaggy put in order for Vinyl for $20.44 on day 29
-Shaggy put in order for Vinyl for $50.8 on day 29
-Shaggy ordered total of 3 items
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy put in order for Strings for $47.37 on day 29
-Shaggy put in order for Strings for $20.6 on day 29
-Shaggy put in order for Strings for $42.29 on day 29
-Shaggy ordered total of 3 items
-Shaggy adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $74.0.
-Hats out of stock, Buyer 2 left the store.
-Buyer 3 purchased PaperScore for $7.86 after a 10%% discount.
-Buyer 4 purchased PaperScore for $55.7.
-Shaggy bought a poor condition MusicCD from Seller 1 for $54.97 after offering 10%% more.
-Shaggy bought a poor condition Saxophone from Seller 3 for $14.77.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy has damaged a(n) MP3.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+There is $2771.47 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1410.42
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma adjusted Flute.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Flute.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Shirts out of stock, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $75.85 after a 10%% discount.
+Buyer 3 purchased CassettePlayer for $26.8.
+Buyer 4 purchased Saxophone for $57.5.
+Buyer 5 purchased Cables for $90.61 after a 10%% discount.
+Buyer 6 purchased Vinyl for $70.42.
+Velma bought a good condition Cassette from Seller 1 for $38.81.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

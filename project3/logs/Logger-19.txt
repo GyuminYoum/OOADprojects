@@ -1,31 +1,35 @@
-Shaggy arrives at the store on Day 19
-Shaggy received Bass on day 19
-Shaggy received CassettePlayer on day 19
-2 items has been added to the inventory
-There is $2147.51 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 954.76
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy un-tuned Guitar.
-Shaggyhas damaged a(n) Guitar.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Saxophone for $82.04.
-Buyer 2 purchased Saxophone for $40.26 after a 10%% discount.
-Saxophone out of stock, Buyer 3 left the store.
-Buyer 4 purchased Flute for $86.4 after a 10%% discount.
-Buyer 5 purchased Bass for $41.58.
-Buyer also purchased Cables for $53.08.
-Shaggy bought a fair condition Shirts from Seller 1 for $48.26.
-Shaggy sold 5 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Daphne arrives at the store on Day 19
+Daphne received GigBag on day 19
+1 items has been added to the inventory
+There is $2293.94 in the register
+There are total of 35 items in the inventory.
+All the items in the inventory are worth total of $ 1112.06
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $11.5.
+Buyer 2 purchased MusicCD for $87.84.
+Buyer 3 purchased RecordPlayer for $96.0.
+Bandanas out of stock, Buyer 4 left the store.
+Daphne bought a very good condition Mandolin from Seller 1 for $31.22 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
