@@ -1,0 +1,37 @@
+Velma arrives at the store on Day 17
+Velma received RecordPlayer on day 17
+Velma received GigBag on day 17
+2 items has been added to the inventory
+There is $2041.26 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1137.94
+Velma put in order for Mandolin for $27.28 on day 17
+Velma put in order for Mandolin for $3.43 on day 17
+Velma put in order for Mandolin for $43.68 on day 17
+Velma ordered total of 3 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Strings for $77.59.
+Buyer 2 purchased Guitar for $30.6 after a 10%% discount.
+Buyer also purchased Strings for $68.0.
+Hats out of stock, Buyer 3 left the store.
+Buyer 4 purchased Harmonica for $31.24 after a 10%% discount.
+Buyer 5 purchased RecordPlayer for $56.42.
+Buyer 6 purchased RecordPlayer for $46.5.
+Buyer 7 purchased Guitar for $66.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $7.6.
+Velma bought a fair condition PracticeAmps from Seller 1 for $48.42.
+Velma bought a fair condition RecordPlayer from Seller 2 for $52.8 after offering 10%% more.
+Velma sold 11 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

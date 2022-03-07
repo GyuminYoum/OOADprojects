@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+Justin arrives at the South store on Day 11
+Justin received Mandolin on day 11
+Justin received CDPlayer on day 11
+2 items has been added to the inventory
+There is $1581.51 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1162.05
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justin un-tuned Mandolin.
+Justin un-tuned Mandolin.
+Justinhas damaged a(n) Mandolin.
+Justin has damaged 1 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Velma arrives at the South store on Day 11
 Velma received Cables on day 11
 Velma received PracticeAmps on day 11
@@ -29,3 +48,4 @@ Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

@@ -1,0 +1,40 @@
+Store is closed on Sunday.
+Shaggy arrives at the store on Day 22
+Shaggy received Mandolin on day 22
+Shaggy received Strings on day 22
+2 items has been added to the inventory
+There is $2477.13 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 1202.67
+Shaggy put in order for Harmonica for $43.82 on day 22
+Shaggy put in order for Harmonica for $35.15 on day 22
+Shaggy put in order for Harmonica for $5.47 on day 22
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bass for $48.0.
+Buyer also purchased GigBag for $20.96.
+Buyer 2 purchased Strings for $60.48 after a 10%% discount.
+Buyer 3 purchased Vinyl for $24.75 after a 10%% discount.
+Buyer 4 purchased Cassette for $82.15 after a 10%% discount.
+Cables was too expensive, Buyer 5 left the store.
+Buyer 6 purchased GigBag for $37.98 after a 10%% discount.
+MP3 was too expensive, Buyer 7 left the store.
+Shaggy bought a good condition Flute from Seller 1 for $27.61.
+Shaggy bought a poor condition RecordPlayer from Seller 2 for $21.19.
+Shaggy bought a poor condition MP3 from Seller 3 for $39.11.
+Shaggy sold 6 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

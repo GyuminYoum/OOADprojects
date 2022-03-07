@@ -1,5 +1,5 @@
 # OOAD Projects
-CSCI4448 Project 2
+CSCI4448 Project 2/3/4
 
 Names: Gyumin Youm, Freddy Rodriguez
 
@@ -25,6 +25,7 @@ UML diagram changes:
 - Added name and num variables to Customer class to improve output readability
 
 Project 3:
+
 Assumptions:
 - Only one clerk is supposed to be sick per day, and their sick status clears the next day.
 - No clerk gets sick twice in a row.
@@ -37,3 +38,9 @@ UML diagram changes:
 - Added Factory create random Items
 - Simplified our Decorator into a single class that extends Stringed class
 - Observer/Logger/Tracker completely reworked to implement interfaces more efficiently and also allow for possible expansion in the future
+
+Project 4:
+
+Assumptions:
+
+UML diagram changes:

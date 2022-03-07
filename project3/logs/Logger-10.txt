@@ -1,0 +1,45 @@
+Daphne arrives at the store on Day 10
+Daphne received Flute on day 10
+Daphne received Mandolin on day 10
+2 items has been added to the inventory
+There is $1431.83 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1083.01
+Daphne put in order for MusicCD for $43.92 on day 10
+Daphne put in order for MusicCD for $18.18 on day 10
+Daphne put in order for MusicCD for $42.44 on day 10
+Daphne ordered total of 3 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Shirts out of stock, Buyer 1 left the store.
+Buyer 2 purchased Mandolin for $92.3.
+Buyer also purchased Strings for $22.0.
+GigBag was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Harmonica for $24.04.
+Daphne bought a poor condition Cables from Seller 1 for $48.37.
+Daphne bought a fair condition Harmonica from Seller 2 for $20.11.
+Daphne sold 4 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

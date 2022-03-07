@@ -1,0 +1,29 @@
+Shaggy is sick on day 20
+Shaggy arrives at the store on Day 20
+Shaggy received Mandolin on day 20
+Shaggy received Mandolin on day 20
+Shaggy received Strings on day 20
+3 items has been added to the inventory
+There is $2458.07 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1145.36
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $6.96.
+MusicCD was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $40.22.
+Hats out of stock, Buyer 4 left the store.
+Hats out of stock, Buyer 5 left the store.
+Shaggy bought a poor condition MP3 from Seller 1 for $13.0 after offering 10%% more.
+Shaggy bought a fair condition Vinyl from Seller 2 for $15.12 after offering 10%% more.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

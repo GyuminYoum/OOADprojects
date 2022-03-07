@@ -1,0 +1,29 @@
+Velma arrives at the store on Day 6
+Velma received Harmonica on day 6
+1 items has been added to the inventory
+There is $1407.84 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 952.76
+Velma put in order for Flute for $11.8 on day 6
+Velma put in order for Flute for $50.35 on day 6
+Velma put in order for Flute for $21.87 on day 6
+Velma ordered total of 3 items
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $10.0.
+Buyer 2 purchased Strings for $14.0.
+Buyer 3 purchased Saxophone for $90.0.
+Buyer 4 purchased MusicCD for $8.19.
+Buyer 5 purchased GigBag for $11.7 after a 10%% discount.
+Velma bought a very good condition Flute from Seller 1 for $23.59 after offering 10%% more.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

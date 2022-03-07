@@ -1,3 +1,33 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 2
+0 items has been added to the inventory
+There is $940.69 in the register
+There are total of 63 items in the inventory.
+All the items in the inventory are worth total of $ 1148.38
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 2 purchased Strings for $7.0.
+Buyer 3 purchased Harmonica for $36.0.
+Buyer 4 purchased Harmonica for $38.0.
+Buyer 5 purchased Strings for $14.0.
+Hats was too expensive, Buyer 6 left the store.
+Buyer 7 purchased Cables for $18.0 after a 10%% discount.
+Velma bought a good condition Guitar from Seller 1 for $5.87.
+Velma sold 6 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Justin arrives at the North store on Day 2
 0 items has been added to the inventory
 There is $1101.75 in the register
@@ -22,3 +52,4 @@ Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

@@ -1,25 +1,54 @@
-Velma arrives at the North store on Day 16
-Velma received Flute on day 16
-1 items has been added to the inventory
-There is $2320.11 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 789.64
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Harmonica.
-Velma tuned Mandolin.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma has damaged 0 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Buyer 2 purchased PaperScore for $5.85 after a 10%% discount.
-Buyer 3 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased Cables for $47.66.
-Velma bought a fair condition Bandanas from Seller 1 for $16.94.
-Velma sold 3 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+<<<<<<< HEAD
+Justin arrives at the North store on Day 16
+Justin received MP3 on day 16
+Justin received PaperScore on day 16
+Justin received Bass on day 16
+3 items has been added to the inventory
+There is $1650.2 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1221.76
+Justin ordered total of 0 items
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin un-tuned Bass.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $94.46.
+Buyer 2 purchased Cables for $65.58.
+Buyer 3 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 4 purchased Saxophone for $86.4 after a 10%% discount.
+Buyer 5 purchased Flute for $96.0.
+Seller 1 didn't accept the price, and left the store.
+Justin sold 5 items.
+Justin Bought 0 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
+Shaggy arrives at the North store on Day 16
+Shaggy received Cables on day 16
+Shaggy received Strings on day 16
+Shaggy received MusicCD on day 16
+3 items has been added to the inventory
+There is $1675.58 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1125.5
+Shaggy put in order for Cassette for $23.62 on day 16
+Shaggy put in order for Cassette for $43.55 on day 16
+Shaggy put in order for Cassette for $31.98 on day 16
+Shaggy ordered total of 3 items
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
+Saxophone out of stock, Buyer 2 left the store.
+Buyer 3 purchased PaperScore for $22.98 after a 10%% discount.
+Shaggy bought a fair condition Bass from Seller 1 for $41.52 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a poor condition Cables from Seller 3 for $26.03.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) PaperScore.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
