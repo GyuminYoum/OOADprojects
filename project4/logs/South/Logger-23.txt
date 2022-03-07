@@ -1,44 +1,20 @@
-Freddy arrives at the South store on Day 23
-Freddy received Mandolin on day 23
-1 items has been added to the inventory
-There is $1777.28 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1412.72
-Freddy put in order for Harmonica for $14.92 on day 23
-Freddy put in order for Harmonica for $1.08 on day 23
-Freddy put in order for Harmonica for $12.21 on day 23
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $6.64.
-Buyer 2 purchased Cassette for $64.8.
-Harmonica out of stock, Buyer 3 left the store.
-Buyer 4 purchased PaperScore for $50.8.
-Shirts out of stock, Buyer 5 left the store.
-Buyer 6 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 7 purchased GigBag for $73.04 after a 10%% discount.
-Freddy bought a very good condition CassettePlayer from Seller 1 for $8.36.
-Freddy sold 5 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Velma arrives at the South store on Day 23
+Velma received PaperScore on day 23
+Velma received Cassette on day 23
+Velma received CassettePlayer on day 23
+Velma received CassettePlayer on day 23
+4 items has been added to the inventory
+There is $2425.37 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 959.62
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma adjusted Flute.
+Velma tuned Guitar.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

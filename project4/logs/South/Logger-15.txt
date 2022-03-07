@@ -1,22 +1,37 @@
-Justin arrives at the South store on Day 15
-Justin received Strings on day 15
-1 items has been added to the inventory
-There is $1410.19 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1322.1
-Justin ordered total of 0 items
-Justin adjusted Flute.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Harmonica was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Bandanas for $12.0.
-Buyer 3 purchased Bandanas for $18.0.
-Buyer 4 purchased PaperScore for $5.4 after a 10%% discount.
-Justin bought a good condition Mandolin from Seller 1 for $32.16 after offering 10%% more.
-Justin bought a very good condition PaperScore from Seller 2 for $3.12.
-Justin sold 3 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Shaggy arrives at the South store on Day 15
+Shaggy received PaperScore on day 15
+Shaggy received GigBag on day 15
+Shaggy received GigBag on day 15
+Shaggy received CassettePlayer on day 15
+4 items has been added to the inventory
+There is $1794.93 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 908.46
+Shaggy put in order for Strings for $42.08 on day 15
+Shaggy put in order for Strings for $34.72 on day 15
+Shaggy put in order for Strings for $39.14 on day 15
+Shaggy ordered total of 3 items
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $12.0.
+Buyer 2 purchased Cassette for $7.38 after a 10%% discount.
+Buyer 3 purchased Bass for $39.6 after a 10%% discount.
+Buyer also purchased GigBag for $15.5.
+Buyer also purchased PracticeAmps for $16.36.
+Buyer 4 purchased Mandolin for $70.0.
+Buyer also purchased GigBag for $28.04.
+Buyer 5 purchased Hats for $20.0.
+Buyer 6 purchased CassettePlayer for $10.9 after a 10%% discount.
+Buyer 7 purchased Hats for $9.0 after a 10%% discount.
+Shaggy bought a fair condition Guitar from Seller 1 for $18.14.
+Seller 2 didn't accept the price, and left the store.
+Shaggy sold 10 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) CDPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

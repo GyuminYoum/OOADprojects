@@ -1,42 +1,28 @@
-Freddy arrives at the North store on Day 8
-Freddy received Strings on day 8
-Freddy received Strings on day 8
-Freddy received GigBag on day 8
-3 items has been added to the inventory
-There is $1231.57 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1040.58
-Freddy put in order for PracticeAmps for $7.23 on day 8
-Freddy put in order for PracticeAmps for $2.23 on day 8
-Freddy put in order for PracticeAmps for $20.43 on day 8
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $74.0.
-Buyer 2 purchased CassettePlayer for $24.0.
-Buyer 3 purchased Mandolin for $63.0 after a 10%% discount.
-Buyer 4 purchased MP3 for $50.0.
-Buyer 5 purchased CassettePlayer for $42.0.
-Buyer 6 purchased Harmonica for $34.2 after a 10%% discount.
-Freddy bought a poor condition Mandolin from Seller 1 for $8.96.
-Freddy bought a good condition Bass from Seller 2 for $26.38 after offering 10%% more.
-Freddy sold 6 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the North store on Day 8
+Shaggy received Cassette on day 8
+1 items has been added to the inventory
+There is $1143.88 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1143.33
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $30.0.
+Buyer 2 purchased GigBag for $9.9 after a 10%% discount.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 4 purchased Harmonica for $38.0.
+PaperScore was too expensive, Buyer 5 left the store.
+Shaggy bought a fair condition Flute from Seller 1 for $28.22.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a very good condition Bass from Seller 3 for $48.58.
+Shaggy sold 4 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

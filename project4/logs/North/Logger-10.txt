@@ -1,28 +1,21 @@
-Shaggy arrives at the North store on Day 10
-Shaggy received GigBag on day 10
-Shaggy received PracticeAmps on day 10
-2 items has been added to the inventory
-There is $1578.43 in the register
+Justin arrives at the North store on Day 10
+0 items has been added to the inventory
+There is $1325.18 in the register
 There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 986.32
-Shaggy put in order for MP3 for $2.17 on day 10
-Shaggy put in order for MP3 for $20.23 on day 10
-Shaggy put in order for MP3 for $14.8 on day 10
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Flute.
-Shaggyhas damaged a(n) Flute.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Bass.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
-Buyer 2 purchased Bass for $3.04.
-Flute was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Shirts for $8.1 after a 10%% discount.
-Buyer 5 purchased Cassette for $6.0.
-Shaggy bought a poor condition Guitar from Seller 1 for $9.99 after offering 10%% more.
-Shaggy bought a very good condition Saxophone from Seller 2 for $11.78.
-Shaggy sold 4 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+All the items in the inventory are worth total of $ 1084.63
+Justin ordered total of 0 items
+Justin un-adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin un-adjusted Harmonica.
+Justinhas damaged a(n) Harmonica.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased CDPlayer for $43.2 after a 10%% discount.
+Buyer 2 purchased Mandolin for $74.0.
+Buyer 3 purchased Bandanas for $12.0.
+Vinyl was too expensive, Buyer 4 left the store.
+Justin bought a good condition Hats from Seller 1 for $51.63 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

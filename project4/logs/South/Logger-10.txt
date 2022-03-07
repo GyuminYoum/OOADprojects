@@ -1,24 +1,25 @@
-Justin arrives at the South store on Day 10
-Justin received Cables on day 10
+Shaggy arrives at the South store on Day 10
+Shaggy received Strings on day 10
 1 items has been added to the inventory
-There is $1393.35 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 988.39
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin un-adjusted Flute.
-Justin adjusted Saxophone.
-Justin adjusted Harmonica.
-Justin has damaged 0 items while tuning
-Vinyl out of stock, Buyer 1 left the store.
-Buyer 2 purchased GigBag for $13.0.
-Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 4 purchased Bass for $43.2 after a 10%% discount.
-Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
-Justin bought a poor condition Cables from Seller 1 for $50.51 after offering 10%% more.
-Justin bought a fair condition Mandolin from Seller 2 for $43.65.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1614.7 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 938.4
+Shaggy put in order for MP3 for $50.88 on day 10
+Shaggy put in order for MP3 for $28.02 on day 10
+Shaggy put in order for MP3 for $26.94 on day 10
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased CDPlayer for $72.0.
+Shaggy bought a poor condition MP3 from Seller 1 for $21.85 after offering 10%% more.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

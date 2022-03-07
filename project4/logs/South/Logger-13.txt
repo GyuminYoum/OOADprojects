@@ -1,27 +1,31 @@
-Justin arrives at the South store on Day 13
-Justin received Vinyl on day 13
-Justin received GigBag on day 13
+Velma arrives at the South store on Day 13
+Velma received MP3 on day 13
+Velma received PaperScore on day 13
 2 items has been added to the inventory
-There is $1394.9 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1274.05
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Harmonica was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Vinyl for $29.61 after a 10%% discount.
-Buyer 3 purchased Cassette for $5.4 after a 10%% discount.
-Buyer 4 purchased Mandolin for $59.4 after a 10%% discount.
-Justin bought a very good condition Shirts from Seller 1 for $51.68 after offering 10%% more.
-Justin bought a fair condition Cassette from Seller 2 for $26.35 after offering 10%% more.
-Justin bought a very good condition Strings from Seller 3 for $1.09.
-Justin sold 3 items.
-Justin Bought 3 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1780.14 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 885.19
+Velma put in order for CassettePlayer for $28.2 on day 13
+Velma put in order for CassettePlayer for $6.06 on day 13
+Velma put in order for CassettePlayer for $17.7 on day 13
+Velma ordered total of 3 items
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Strings for $2.01 after a 10%% discount.
+Strings out of stock, Buyer 2 left the store.
+Buyer 3 purchased MP3 for $39.74.
+Buyer 4 purchased PracticeAmps for $50.0.
+CassettePlayer out of stock, Buyer 5 left the store.
+RecordPlayer was too expensive, Buyer 6 left the store.
+GigBag out of stock, Buyer 7 left the store.
+Velma bought a very good condition Guitar from Seller 1 for $14.18.
+Velma bought a good condition Flute from Seller 2 for $10.82.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

@@ -1,35 +1,34 @@
-Daphne arrives at the North store on Day 17
-0 items has been added to the inventory
-There is $2107.8 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 937.49
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $30.6 after a 10%% discount.
-Buyer 2 purchased GigBag for $38.66 after a 10%% discount.
-Buyer 3 purchased GigBag for $82.98.
-MP3 was too expensive, Buyer 4 left the store.
-Harmonica was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Shirts for $63.36 after a 10%% discount.
-Buyer 7 purchased CassettePlayer for $50.72.
-Buyer 8 purchased RecordPlayer for $44.0.
-Buyer 9 purchased Vinyl for $14.0.
-Seller 1 didn't accept the price, and left the store.
-Daphne bought a good condition Hats from Seller 2 for $21.25 after offering 10%% more.
-Daphne bought a poor condition Flute from Seller 3 for $31.49.
-Daphne sold 7 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the North store on Day 17
+Velma received PracticeAmps on day 17
+Velma received Saxophone on day 17
+Velma received PaperScore on day 17
+Velma received CDPlayer on day 17
+4 items has been added to the inventory
+There is $1650.04 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1203.94
+Velma put in order for MP3 for $28.66 on day 17
+Velma put in order for MP3 for $43.87 on day 17
+Velma put in order for MP3 for $33.96 on day 17
+Velma ordered total of 3 items
+Velma adjusted Harmonica.
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+PaperScore was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Hats for $9.0 after a 10%% discount.
+Buyer 3 purchased Strings for $39.25 after a 10%% discount.
+MP3 out of stock, Buyer 4 left the store.
+Buyer 5 purchased PaperScore for $17.89.
+Buyer 6 purchased Hats for $93.88.
+Velma bought a poor condition Flute from Seller 1 for $23.07.
+Velma bought a very good condition Mandolin from Seller 3 for $15.2.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

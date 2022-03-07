@@ -1,25 +1,26 @@
-Velma arrives at the South store on Day 17
-0 items has been added to the inventory
-There is $1482.14 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1339.55
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Vinyl for $21.96 after a 10%% discount.
-CDPlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Harmonica for $36.0 after a 10%% discount.
-Buyer 4 purchased Cassette for $7.38 after a 10%% discount.
-Buyer 5 purchased RecordPlayer for $67.98.
-Buyer 6 purchased Cables for $65.76.
-Velma bought a very good condition PracticeAmps from Seller 1 for $18.6 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the South store on Day 17
+Shaggy received GigBag on day 17
+Shaggy received Strings on day 17
+2 items has been added to the inventory
+There is $1927.88 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 1025.32
+Shaggy put in order for PracticeAmps for $15.4 on day 17
+Shaggy put in order for PracticeAmps for $26.65 on day 17
+Shaggy put in order for PracticeAmps for $8.65 on day 17
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $54.59 after a 10%% discount.
+Buyer 2 purchased Harmonica for $20.44 after a 10%% discount.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 4 purchased PaperScore for $33.15 after a 10%% discount.
+Buyer 5 purchased MusicCD for $86.64.
+Buyer 6 purchased PaperScore for $40.88.
+Shaggy bought a very good condition MusicCD from Seller 1 for $29.51.
+Shaggy sold 6 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

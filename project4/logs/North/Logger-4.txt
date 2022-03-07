@@ -1,37 +1,35 @@
-Daphne arrives at the North store on Day 4
+Freddy arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1117.13 in the register
-There are total of 60 items in the inventory.
-All the items in the inventory are worth total of $ 1062.13
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bass for $41.4 after a 10%% discount.
-Buyer also purchased PracticeAmps for $30.0.
-Buyer also purchased Strings for $14.0.
-Buyer 2 purchased CassettePlayer for $23.4 after a 10%% discount.
-Buyer 3 purchased Hats for $27.0 after a 10%% discount.
-Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
-Daphne bought a fair condition RecordPlayer from Seller 1 for $36.91 after offering 10%% more.
-Daphne sold 6 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1128.45 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1065.18
+Freddy put in order for Cassette for $24.57 on day 4
+Freddy put in order for Cassette for $10.97 on day 4
+Freddy put in order for Cassette for $26.87 on day 4
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 2 purchased Bandanas for $5.4 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $9.0 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 3 items.
+Freddy Bought 0 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

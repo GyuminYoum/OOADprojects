@@ -1,28 +1,26 @@
-Shaggy arrives at the North store on Day 11
-Shaggy received PracticeAmps on day 11
-Shaggy received CassettePlayer on day 11
-Shaggy received MP3 on day 11
-3 items has been added to the inventory
-There is $1596.0 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 996.26
-Shaggy ordered total of 0 items
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-PaperScore was too expensive, Buyer 1 left the store.
-Bass was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Strings for $44.1.
-Buyer 4 purchased Cables for $30.0.
-Bass was too expensive, Buyer 5 left the store.
-Buyer 6 purchased PracticeAmps for $4.46.
-Buyer 7 purchased Mandolin for $59.4 after a 10%% discount.
-Cables was too expensive, Buyer 8 left the store.
-Seller 1 didn't accept the price, and left the store.
-Shaggy bought a fair condition CassettePlayer from Seller 2 for $25.36.
-Shaggy bought a good condition Cables from Seller 3 for $23.78 after offering 10%% more.
-Shaggy sold 4 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the North store on Day 11
+0 items has been added to the inventory
+There is $1402.75 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1069.26
+Justin ordered total of 0 items
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer 2 purchased MP3 for $50.0.
+Buyer 3 purchased Flute for $92.0.
+Buyer 4 purchased Mandolin for $66.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Buyer 5 purchased Bass for $39.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 6 purchased Bandanas for $18.0.
+Justin bought a very good condition Shirts from Seller 1 for $11.79.
+Justin bought a good condition CassettePlayer from Seller 2 for $14.46 after offering 10%% more.
+Justin bought a fair condition Vinyl from Seller 3 for $48.07.
+Justin sold 10 items.
+Justin Bought 3 items.
+Justin has damaged a(n) Shirts.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.

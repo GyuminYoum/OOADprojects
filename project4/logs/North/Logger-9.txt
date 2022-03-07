@@ -1,41 +1,35 @@
 Daphne arrives at the North store on Day 9
-Daphne received Strings on day 9
-Daphne received GigBag on day 9
-Daphne received PracticeAmps on day 9
-3 items has been added to the inventory
-There is $1453.52 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1017.58
-Daphne put in order for CassettePlayer for $36.27 on day 9
-Daphne put in order for CassettePlayer for $40.5 on day 9
-Daphne put in order for CassettePlayer for $2.73 on day 9
-Daphne ordered total of 3 items
+0 items has been added to the inventory
+There is $1220.58 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1138.62
+Daphne ordered total of 0 items
 Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
 Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
 Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
 Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Cables for $20.0.
-Buyer 2 purchased PracticeAmps for $40.86.
-Buyer 3 purchased MP3 for $90.0.
-Buyer 4 purchased CDPlayer for $24.0.
-Buyer 5 purchased Saxophone for $84.0.
-Daphne bought a fair condition RecordPlayer from Seller 1 for $7.41.
-Daphne bought a good condition CDPlayer from Seller 2 for $6.33.
-Daphne bought a very good condition PaperScore from Seller 3 for $40.71 after offering 10%% more.
-Daphne sold 5 items.
-Daphne Bought 3 items.
+Buyer 1 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $21.6 after a 10%% discount.
+PaperScore was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Guitar for $74.0.
+Seller 1 didn't accept the price, and left the store.
+Seller 2 didn't accept the price, and left the store.
+Seller 3 didn't accept the price, and left the store.
+Daphne sold 3 items.
+Daphne Bought 0 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

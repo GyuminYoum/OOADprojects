@@ -1,28 +1,33 @@
-Justin arrives at the North store on Day 2
+Daphne arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $919.66 in the register
-There are total of 64 items in the inventory.
-All the items in the inventory are worth total of $ 1158.42
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-tuned Bass.
-Justin tuned Bass.
-Justin tuned Mandolin.
-Justin tuned Mandolin.
-Justin tuned Mandolin.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $9.9 after a 10%% discount.
-Buyer 2 purchased PracticeAmps for $10.0.
-Buyer 3 purchased PaperScore for $9.0 after a 10%% discount.
-Buyer 4 purchased Saxophone for $90.0.
-Justin bought a fair condition Bass from Seller 1 for $1.52.
-Justin bought a poor condition Strings from Seller 2 for $3.72 after offering 10%% more.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1072.43 in the register
+There are total of 60 items in the inventory.
+All the items in the inventory are worth total of $ 1063.15
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Shirts was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $6.0.
+Buyer 3 purchased PaperScore for $10.0.
+Buyer 4 purchased Flute for $90.0.
+Daphne bought a fair condition Guitar from Seller 1 for $12.76 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

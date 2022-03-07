@@ -1,25 +1,23 @@
 Velma arrives at the South store on Day 2
 0 items has been added to the inventory
-There is $1065.83 in the register
-There are total of 61 items in the inventory.
-All the items in the inventory are worth total of $ 1066.82
+There is $1251.25 in the register
+There are total of 59 items in the inventory.
+All the items in the inventory are worth total of $ 966.92
 Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
 Velma tuned Bass.
 Velma tuned Mandolin.
 Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
 Velma un-adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $6.0.
-Hats was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Saxophone for $90.0.
-Buyer 4 purchased PaperScore for $9.0 after a 10%% discount.
-Velma bought a very good condition PracticeAmps from Seller 1 for $8.73 after offering 10%% more.
-Velma bought a fair condition Saxophone from Seller 2 for $32.03.
-Velma sold 3 items.
-Velma Bought 2 items.
+Buyer 1 purchased MP3 for $10.0.
+Buyer 2 purchased Flute for $92.0.
+Velma bought a very good condition Harmonica from Seller 1 for $11.36.
+Velma sold 2 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

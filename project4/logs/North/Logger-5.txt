@@ -1,39 +1,26 @@
-Daphne arrives at the North store on Day 5
-0 items has been added to the inventory
-There is $1226.83 in the register
+Velma arrives at the North store on Day 5
+Velma received Cassette on day 5
+1 items has been added to the inventory
+There is $1161.44 in the register
 There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1020.04
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $10.0.
-Buyer 2 purchased Flute for $81.0 after a 10%% discount.
-Buyer 3 purchased Vinyl for $10.0.
-Buyer 4 purchased Strings for $19.8 after a 10%% discount.
-Buyer 5 purchased PracticeAmps for $45.0 after a 10%% discount.
-Buyer 6 purchased Bass for $48.0.
-Buyer also purchased GigBag for $13.0.
-Buyer also purchased Cables for $10.0.
-Buyer also purchased Strings for $6.78.
-Daphne bought a very good condition Cables from Seller 1 for $7.11.
-Daphne sold 9 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 1023.15
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $27.0 after a 10%% discount.
+Buyer 2 purchased Cables for $10.0.
+Shirts was too expensive, Buyer 3 left the store.
+Velma bought a poor condition Bandanas from Seller 1 for $30.04.
+Velma sold 2 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

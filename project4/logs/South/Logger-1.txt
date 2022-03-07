@@ -23,16 +23,14 @@ Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
-Buyer 2 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 4 purchased PracticeAmps for $9.0 after a 10%% discount.
-Freddy bought a fair condition MP3 from Seller 1 for $49.5.
-Seller 2 didn't accept the price, and left the store.
-Freddy bought a very good condition MP3 from Seller 3 for $8.24.
-Freddy sold 4 items.
-Freddy Bought 2 items.
-Freddy has damaged a(n) Strings.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
+Buyer 1 purchased Saxophone for $90.0.
+Buyer 2 purchased Flute for $90.0.
+Buyer 3 purchased RecordPlayer for $66.0.
+Buyer 4 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 5 purchased Strings for $7.0.
+Freddy bought a very good condition Cables from Seller 1 for $41.34 after offering 10%% more.
+Freddy sold 5 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

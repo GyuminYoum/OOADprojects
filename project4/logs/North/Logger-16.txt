@@ -1,25 +1,33 @@
-Velma arrives at the North store on Day 16
-0 items has been added to the inventory
-There is $2145.21 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 893.92
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma tuned Bass.
-Velma tuned Guitar.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Cables was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CassettePlayer for $4.91 after a 10%% discount.
-Buyer 3 purchased MusicCD for $8.0.
-Velma bought a very good condition PracticeAmps from Seller 1 for $47.86 after offering 10%% more.
-Velma bought a good condition Vinyl from Seller 2 for $2.45.
-Velma sold 2 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the North store on Day 16
+Justin received Mandolin on day 16
+Justin received PracticeAmps on day 16
+Justin received Saxophone on day 16
+Justin received MusicCD on day 16
+4 items has been added to the inventory
+There is $1714.53 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1087.93
+Justin put in order for PaperScore for $8.94 on day 16
+Justin put in order for PaperScore for $41.57 on day 16
+Justin put in order for PaperScore for $24.38 on day 16
+Justin put in order for CDPlayer for $12.58 on day 16
+Justin put in order for CDPlayer for $12.16 on day 16
+Justin put in order for CDPlayer for $15.93 on day 16
+Justin ordered total of 6 items
+Justin un-tuned Bass.
+Justin adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased MP3 for $90.0.
+Saxophone was too expensive, Buyer 4 left the store.
+Justin bought a fair condition Guitar from Seller 1 for $44.2 after offering 10%% more.
+Justin bought a fair condition Shirts from Seller 2 for $54.12 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

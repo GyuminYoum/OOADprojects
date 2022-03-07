@@ -1,37 +1,32 @@
-Freddy arrives at the North store on Day 3
+Daphne arrives at the North store on Day 3
 0 items has been added to the inventory
-There is $1033.32 in the register
-There are total of 62 items in the inventory.
-All the items in the inventory are worth total of $ 1103.16
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $36.0.
-Buyer 2 purchased Strings for $6.3 after a 10%% discount.
-Buyer 3 purchased Bass for $44.0.
+There is $1165.67 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1022.91
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $7.38 after a 10%% discount.
+Buyer 2 purchased Cassette for $3.96 after a 10%% discount.
 Seller 1 didn't accept the price, and left the store.
-Freddy bought a fair condition PracticeAmps from Seller 2 for $2.47 after offering 10%% more.
-Freddy sold 3 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Daphne bought a poor condition Cables from Seller 2 for $48.56.
+Daphne sold 2 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

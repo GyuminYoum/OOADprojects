@@ -1,47 +1,31 @@
-Daphne arrives at the South store on Day 19
-Daphne received GigBag on day 19
-Daphne received MusicCD on day 19
-Daphne received Mandolin on day 19
-Daphne received Strings on day 19
-Daphne received Cassette on day 19
-5 items has been added to the inventory
-There is $2099.82 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1132.94
-Daphne put in order for CDPlayer for $26.36 on day 19
-Daphne put in order for CDPlayer for $2.59 on day 19
-Daphne put in order for CDPlayer for $9.9 on day 19
-Daphne put in order for Bass for $48.28 on day 19
-Daphne put in order for Bass for $41.93 on day 19
-Daphne put in order for Bass for $26.11 on day 19
-Daphne put in order for PracticeAmps for $20.42 on day 19
-Daphne put in order for PracticeAmps for $22.94 on day 19
-Daphne put in order for PracticeAmps for $9.52 on day 19
-Daphne ordered total of 9 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Bass out of stock, Buyer 1 left the store.
-Bass out of stock, Buyer 2 left the store.
-Buyer 3 purchased Vinyl for $83.32 after a 10%% discount.
-Buyer 4 purchased GigBag for $81.09 after a 10%% discount.
-Daphne bought a very good condition Vinyl from Seller 2 for $11.96 after offering 10%% more.
-Seller 3 didn't accept the price, and left the store.
-Daphne sold 2 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the South store on Day 19
+Velma received PracticeAmps on day 19
+Velma received PracticeAmps on day 19
+2 items has been added to the inventory
+There is $1944.99 in the register
+There are total of 34 items in the inventory.
+All the items in the inventory are worth total of $ 908.18
+Velma put in order for Cassette for $16.72 on day 19
+Velma put in order for Cassette for $21.66 on day 19
+Velma put in order for Cassette for $32.04 on day 19
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Harmonica was too expensive, Buyer 1 left the store.
+Bandanas was too expensive, Buyer 2 left the store.
+MP3 was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer also purchased GigBag for $81.7.
+Buyer 5 purchased RecordPlayer for $30.16.
+Velma bought a good condition Cassette from Seller 1 for $17.79 after offering 10%% more.
+Velma bought a very good condition Cables from Seller 2 for $48.12.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

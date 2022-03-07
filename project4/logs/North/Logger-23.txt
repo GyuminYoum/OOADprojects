@@ -1,35 +1,18 @@
-Shaggy arrives at the North store on Day 23
-Shaggy received Strings on day 23
-Shaggy received Vinyl on day 23
+Justin arrives at the North store on Day 23
+Justin received GigBag on day 23
+Justin received GigBag on day 23
 2 items has been added to the inventory
-There is $2540.04 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1038.6
-Shaggy put in order for MP3 for $42.36 on day 23
-Shaggy put in order for MP3 for $11.03 on day 23
-Shaggy put in order for MP3 for $3.24 on day 23
-Shaggy put in order for Cables for $41.23 on day 23
-Shaggy put in order for Cables for $31.72 on day 23
-Shaggy put in order for Cables for $6.36 on day 23
-Shaggy ordered total of 6 items
-Shaggy un-tuned Guitar.
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Saxophone.
-Shaggyhas damaged a(n) Saxophone.
-Shaggy un-adjusted Flute.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Flute for $92.0.
-Buyer 2 purchased Harmonica for $32.4 after a 10%% discount.
-Buyer 3 purchased Strings for $18.01 after a 10%% discount.
-Cables out of stock, Buyer 4 left the store.
-Buyer 5 purchased Saxophone for $69.88.
-Buyer 6 purchased Mandolin for $42.24.
-Buyer also purchased PracticeAmps for $88.72.
-Buyer also purchased Strings for $97.12.
-Buyer 7 purchased Hats for $7.05 after a 10%% discount.
-Shaggy bought a poor condition Guitar from Seller 1 for $34.0 after offering 10%% more.
-Shaggy sold 9 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $2040.97 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1316.66
+Justin put in order for Guitar for $15.59 on day 23
+Justin put in order for Guitar for $10.66 on day 23
+Justin put in order for Guitar for $11.08 on day 23
+Justin ordered total of 3 items
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

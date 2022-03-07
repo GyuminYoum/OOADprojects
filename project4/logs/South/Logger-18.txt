@@ -1,20 +1,29 @@
-Daphne arrives at the South store on Day 18
-0 items has been added to the inventory
-There is $1662.62 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1254.99
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the South store on Day 18
+Shaggy received CassettePlayer on day 18
+1 items has been added to the inventory
+There is $2158.95 in the register
+There are total of 33 items in the inventory.
+All the items in the inventory are worth total of $ 906.66
+Shaggy put in order for PaperScore for $22.19 on day 18
+Shaggy put in order for PaperScore for $37.24 on day 18
+Shaggy put in order for PaperScore for $46.39 on day 18
+Shaggy put in order for Harmonica for $44.28 on day 18
+Shaggy put in order for Harmonica for $15.18 on day 18
+Shaggy put in order for Harmonica for $46.46 on day 18
+Shaggy ordered total of 6 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $4.4.
+Harmonica out of stock, Buyer 2 left the store.
+Shirts out of stock, Buyer 3 left the store.
+PracticeAmps out of stock, Buyer 4 left the store.
+Bandanas was too expensive, Buyer 5 left the store.
+Shaggy bought a very good condition Harmonica from Seller 1 for $6.61.
+Shaggy sold 1 items.
+Shaggy Bought 1 items.
+Shaggy has thrown away a(n) MP3 due to less than poor condition.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

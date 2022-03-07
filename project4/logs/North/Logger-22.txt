@@ -1,36 +1,25 @@
-Shaggy arrives at the North store on Day 22
-Shaggy received Bass on day 22
-Shaggy received Cassette on day 22
-Shaggy received GigBag on day 22
-3 items has been added to the inventory
-There is $2213.02 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1148.34
-Shaggy put in order for Vinyl for $23.03 on day 22
-Shaggy put in order for Vinyl for $33.08 on day 22
-Shaggy put in order for Vinyl for $4.99 on day 22
-Shaggy ordered total of 3 items
-Shaggy adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggyhas damaged a(n) Mandolin.
-Shaggy adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Bandanas for $12.0.
-Buyer 2 purchased MP3 for $11.46.
-Buyer 3 purchased RecordPlayer for $46.24 after a 10%% discount.
-Buyer 4 purchased Mandolin for $59.4 after a 10%% discount.
-Buyer also purchased GigBag for $32.38.
-Buyer also purchased Cables for $30.0.
-Buyer also purchased Strings for $65.16.
-Buyer also purchased Strings for $92.62.
-Buyer 5 purchased CassettePlayer for $19.9 after a 10%% discount.
-Buyer 6 purchased Hats for $64.92.
-Shaggy bought a good condition PaperScore from Seller 1 for $39.54.
-Shaggy bought a fair condition Cassette from Seller 2 for $2.04.
-Shaggy bought a fair condition Flute from Seller 3 for $4.36 after offering 10%% more.
-Shaggy sold 11 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the North store on Day 22
+Justin received MP3 on day 22
+1 items has been added to the inventory
+There is $1823.66 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1365.44
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin un-tuned Bass.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Vinyl was too expensive, Buyer 1 left the store.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $72.34 after a 10%% discount.
+Buyer also purchased Cables for $98.2.
+Buyer 4 purchased MP3 for $87.74.
+Justin bought a fair condition Cables from Seller 1 for $14.71 after offering 10%% more.
+Justin bought a poor condition Mandolin from Seller 2 for $26.24.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

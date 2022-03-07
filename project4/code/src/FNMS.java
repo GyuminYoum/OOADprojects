@@ -88,27 +88,23 @@ public class FNMS {
              */
 
 
-            if(staff1!=null) {
+            if(staff1!=null && staff2!=null) {
                 //System.out.println(staff1.get_name());
                 //System.out.println(staff1.get_workingAt().get_location());
                 staff1.ArriveAtStore();
-                staff1.CheckRegister();
-                staff1.DoInventory();
-                staff1.OpenTheStore();
-                staff1.CleanTheStore();
-                staff1.LeaveTheStore();
-            }
-            if (staff2!=null){
-                //System.out.println(staff2.get_name());
-                //System.out.println(staff2.get_daysWorked());
-                //System.out.println(staff2.get_workingAt().get_location());
                 staff2.ArriveAtStore();
+                staff1.CheckRegister();
                 staff2.CheckRegister();
+                staff1.DoInventory();
                 staff2.DoInventory();
+                staff1.OpenTheStore();
                 staff2.OpenTheStore();
+                staff1.CleanTheStore();
                 staff2.CleanTheStore();
+                staff1.LeaveTheStore();
                 staff2.LeaveTheStore();
             }
+
             North_store.removeLogger(watcher1);
             North_store.printTrackers();
             South_store.removeLogger(watcher2);
