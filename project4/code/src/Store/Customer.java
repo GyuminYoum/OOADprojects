@@ -150,7 +150,7 @@ public class Customer {
                     soldItem = i;
                 }
             }
-            System.out.println("Would you like to buy " + wantedItem + "for $" + soldItem.get_salePrice() + "? (Y/N)");
+            System.out.println("Would you like to buy " + wantedItem + "for $" + soldItem.get_listPrice() + "? (Y/N)");
             response = reader.next().charAt(0);
             if (response == 'Y') {
                 soldItem.set_daySold(Store.get_daysPassed());
@@ -576,10 +576,11 @@ public class Customer {
         if (random_item.get_reorder() == true) {
             //determines discount and if Customer sells item
             //if Customer sells item
+            price1=Math.floor(price1)*100/100;
             System.out.println("Would you like to sell " + name1 + " at the price of $" + price1 + "? (Y/N)");
             response = reader.next().charAt(0);
             if (response == 'Y') {
-                random_item.set_purchasePrice(random_item.get_purchasePrice());
+                random_item.set_purchasePrice(Math.floor(random_item.get_purchasePrice())*100/100);
                 Store.Pay(random_item.get_purchasePrice());
                 random_item.set_dayArrived(Store.get_daysPassed());
                 Store.add_Inventory(random_item);
@@ -588,6 +589,7 @@ public class Customer {
             } else if (response == 'N') {
                 double temp2;
                 temp2 = price1 * 1.1;
+                temp2=Math.floor(temp2)*100/100;
                 System.out.println("Would you like to sell " + name1 + " at the price of $" + temp2 + "? (Y/N)");
                 response = reader.next().charAt(0);
                 if (response == 'Y') {

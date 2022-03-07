@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 13
 Justin received MP3 on day 13
 Justin received Cassette on day 13
@@ -30,3 +31,40 @@ Justin has damaged a(n) RecordPlayer.
 Justin damaged an item while cleaning.
 Justin damaged 1 items while cleaning.
 Justin went home for the day.
+=======
+Velma arrives at the South store on Day 13
+Velma received Saxophone on day 13
+Velma received Cassette on day 13
+2 items has been added to the inventory
+There is $1898.08 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 946.59
+Velma put in order for Guitar for $4.13 on day 13
+Velma put in order for Guitar for $44.14 on day 13
+Velma put in order for Guitar for $38.56 on day 13
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $25.06.
+PracticeAmps out of stock, Buyer 2 left the store.
+Buyer 3 purchased Bass for $41.4 after a 10%% discount.
+Buyer also purchased Strings for $60.0.
+Buyer 4 purchased Vinyl for $41.8.
+Harmonica was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 7 purchased PaperScore for $10.0.
+Velma bought a very good condition Flute from Seller 1 for $7.5.
+Velma bought a poor condition Bass from Seller 2 for $42.47 after offering 10%% more.
+Velma bought a poor condition Bandanas from Seller 3 for $20.92 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

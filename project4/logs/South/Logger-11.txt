@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 11
 Justin received Mandolin on day 11
 Justin received CDPlayer on day 11
@@ -15,3 +16,33 @@ Justin has damaged 1 items while tuning
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Velma arrives at the South store on Day 11
+Velma received Vinyl on day 11
+Velma received Vinyl on day 11
+Velma received Saxophone on day 11
+Velma received Strings on day 11
+4 items has been added to the inventory
+There is $1599.17 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1079.48
+Velma ordered total of 0 items
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma adjusted Harmonica.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $34.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 2 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 3 purchased MP3 for $81.0 after a 10%% discount.
+Buyer 4 purchased GigBag for $11.0.
+Buyer 5 purchased RecordPlayer for $19.8 after a 10%% discount.
+Velma bought a poor condition Cables from Seller 1 for $15.15 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

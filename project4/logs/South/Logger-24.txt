@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 24
 Justin received Harmonica on day 24
 1 items has been added to the inventory
@@ -22,3 +23,41 @@ Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Daphne arrives at the South store on Day 24
+Daphne received GigBag on day 24
+1 items has been added to the inventory
+There is $2228.75 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1237.47
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $66.16 after a 10%% discount.
+Buyer also purchased Cables for $26.88.
+Buyer 2 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 3 purchased MP3 for $87.18.
+Bass was too expensive, Buyer 4 left the store.
+Shirts out of stock, Buyer 5 left the store.
+Buyer 6 purchased GigBag for $41.3.
+Buyer 7 purchased CDPlayer for $52.12.
+Buyer 8 purchased Saxophone for $62.89 after a 10%% discount.
+Daphne bought a poor condition CDPlayer from Seller 1 for $44.65.
+Daphne sold 7 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

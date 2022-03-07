@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shaggy arrives at the South store on Day 22
 Shaggy received Bass on day 22
 Shaggy received Mandolin on day 22
@@ -30,3 +31,45 @@ Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+=======
+Daphne arrives at the South store on Day 22
+Daphne received Saxophone on day 22
+Daphne received GigBag on day 22
+Daphne received MP3 on day 22
+Daphne received MP3 on day 22
+4 items has been added to the inventory
+There is $2211.41 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1216.2
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $88.32 after a 10%% discount.
+Buyer 2 purchased Flute for $25.86.
+Buyer 3 purchased RecordPlayer for $22.08 after a 10%% discount.
+MusicCD was too expensive, Buyer 4 left the store.
+Daphne bought a good condition Cables from Seller 1 for $34.8 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Daphne bought a fair condition CDPlayer from Seller 3 for $28.66 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 2 items.
+Daphne has thrown away a(n) Vinyl due to less than poor condition.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

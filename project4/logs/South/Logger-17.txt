@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 17
 Justin received PracticeAmps on day 17
 Justin received Harmonica on day 17
@@ -17,3 +18,24 @@ Justin Bought 0 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Velma arrives at the South store on Day 17
+Velma received PracticeAmps on day 17
+Velma received Mandolin on day 17
+2 items has been added to the inventory
+There is $2244.07 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 995.62
+Velma put in order for Saxophone for $34.08 on day 17
+Velma put in order for Saxophone for $26.54 on day 17
+Velma put in order for Saxophone for $41.07 on day 17
+Velma ordered total of 3 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

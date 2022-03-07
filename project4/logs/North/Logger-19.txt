@@ -1,4 +1,5 @@
 Freddy arrives at the North store on Day 19
+<<<<<<< HEAD
 Freddy received RecordPlayer on day 19
 Freddy received RecordPlayer on day 19
 Freddy received Harmonica on day 19
@@ -34,3 +35,23 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Freddy received Flute on day 19
+Freddy received CDPlayer on day 19
+Freddy received GigBag on day 19
+3 items has been added to the inventory
+There is $2681.15 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 874.72
+Freddy ordered total of 0 items
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

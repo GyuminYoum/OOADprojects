@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the North store on Day 25
 Justin received PracticeAmps on day 25
 1 items has been added to the inventory
@@ -28,3 +29,50 @@ Justin Bought 3 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Daphne arrives at the North store on Day 25
+Daphne received Strings on day 25
+Daphne received CDPlayer on day 25
+Daphne received GigBag on day 25
+3 items has been added to the inventory
+There is $2222.62 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1280.42
+Daphne ordered total of 0 items
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $47.1.
+Buyer 2 purchased GigBag for $83.48 after a 10%% discount.
+Buyer 3 purchased MP3 for $90.0.
+Buyer 4 purchased Saxophone for $41.2 after a 10%% discount.
+Daphne bought a poor condition CDPlayer from Seller 1 for $23.87.
+Daphne bought a fair condition Bandanas from Seller 2 for $48.98.
+Daphne bought a fair condition PracticeAmps from Seller 3 for $29.32.
+Daphne sold 4 items.
+Daphne Bought 3 items.
+Daphne has damaged a(n) Guitar.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

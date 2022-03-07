@@ -1,4 +1,6 @@
+Shaggy is sick on day 26
 Freddy arrives at the North store on Day 26
+<<<<<<< HEAD
 Freddy received PracticeAmps on day 26
 Freddy received Strings on day 26
 2 items has been added to the inventory
@@ -24,6 +26,46 @@ Freddy tuned Bass.
 Freddy adjusted Flute.
 Freddy adjusted Flute.
 Freddy has damaged 0 items while tuning
+=======
+Freddy received CDPlayer on day 26
+Freddy received GigBag on day 26
+2 items has been added to the inventory
+There is $2382.21 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1294.42
+Freddy ordered total of 0 items
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Harmonica was too expensive, Buyer 1 left the store.
+Buyer 2 purchased CDPlayer for $22.87 after a 10%% discount.
+Buyer 3 purchased PaperScore for $21.02.
+PaperScore out of stock, Buyer 4 left the store.
+PaperScore out of stock, Buyer 5 left the store.
+Buyer 6 purchased MP3 for $94.9.
+Freddy bought a good condition Mandolin from Seller 1 for $44.12 after offering 10%% more.
+Freddy sold 3 items.
+Freddy Bought 1 items.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

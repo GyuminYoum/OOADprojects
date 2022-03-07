@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Velma arrives at the South store on Day 19
 Velma received Harmonica on day 19
 Velma received GigBag on day 19
@@ -33,3 +34,37 @@ Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+=======
+Daphne arrives at the South store on Day 19
+Daphne received MusicCD on day 19
+1 items has been added to the inventory
+There is $2516.4 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 957.58
+Daphne put in order for Mandolin for $45.99 on day 19
+Daphne put in order for Mandolin for $37.31 on day 19
+Daphne put in order for Mandolin for $43.87 on day 19
+Daphne put in order for PracticeAmps for $14.9 on day 19
+Daphne put in order for PracticeAmps for $21.51 on day 19
+Daphne put in order for PracticeAmps for $17.48 on day 19
+Daphne put in order for Strings for $31.19 on day 19
+Daphne put in order for Strings for $23.13 on day 19
+Daphne put in order for Strings for $27.98 on day 19
+Daphne ordered total of 9 items
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

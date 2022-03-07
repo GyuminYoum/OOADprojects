@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the North store on Day 20
 Freddy received RecordPlayer on day 20
 Freddy received Saxophone on day 20
@@ -26,3 +27,34 @@ Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
 Freddy adjusted Harmonica.
 Freddy has damaged 0 items while tuning
+=======
+Justin arrives at the North store on Day 20
+Justin received Bass on day 20
+Justin received Cables on day 20
+2 items has been added to the inventory
+There is $1638.43 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1454.86
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin un-tuned Mandolin.
+Justin un-adjusted Saxophone.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Strings for $64.16.
+Buyer 2 purchased Bass for $34.7 after a 10%% discount.
+Buyer 3 purchased Guitar for $74.0.
+Buyer also purchased PracticeAmps for $5.088000000000001.
+Buyer also purchased Cables for $20.68.
+Justin bought a very good condition MP3 from Seller 1 for $31.91.
+Justin bought a poor condition Saxophone from Seller 2 for $6.97 after offering 10%% more.
+Justin sold 5 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

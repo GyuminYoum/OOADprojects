@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne arrives at the South store on Day 9
 Daphne received PaperScore on day 9
 Daphne received Mandolin on day 9
@@ -37,3 +38,32 @@ Daphne has damaged a(n) Mandolin.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
+=======
+Justin arrives at the South store on Day 9
+0 items has been added to the inventory
+There is $1717.0 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 917.16
+Justin put in order for Vinyl for $20.9 on day 9
+Justin put in order for Vinyl for $3.54 on day 9
+Justin put in order for Vinyl for $35.97 on day 9
+Justin put in order for Saxophone for $25.94 on day 9
+Justin put in order for Saxophone for $24.72 on day 9
+Justin put in order for Saxophone for $16.75 on day 9
+Justin ordered total of 6 items
+Justin un-adjusted Flute.
+Justin has damaged 0 items while tuning
+Saxophone out of stock, Buyer 1 left the store.
+Buyer 2 purchased Strings for $36.25 after a 10%% discount.
+Buyer 3 purchased RecordPlayer for $66.0.
+Buyer 4 purchased RecordPlayer for $44.0.
+Buyer 5 purchased Shirts for $10.0.
+Justin bought a poor condition PaperScore from Seller 1 for $13.14.
+Justin bought a good condition CassettePlayer from Seller 2 for $33.4.
+Justin bought a very good condition Flute from Seller 3 for $42.03.
+Justin sold 4 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

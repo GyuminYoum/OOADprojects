@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 8
 Justin received PaperScore on day 8
 Justin received Cables on day 8
@@ -27,3 +28,38 @@ Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Freddy arrives at the South store on Day 8
+Freddy received Cables on day 8
+1 items has been added to the inventory
+There is $1649.56 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 927.73
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $96.0.
+Buyer 2 purchased Vinyl for $14.0.
+Buyer 3 purchased Cables for $3.76.
+Bandanas was too expensive, Buyer 4 left the store.
+Freddy bought a good condition CDPlayer from Seller 1 for $26.43.
+Freddy bought a poor condition Bass from Seller 2 for $19.89.
+Freddy sold 3 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

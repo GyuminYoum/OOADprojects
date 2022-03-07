@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the North store on Day 8
 Freddy received Strings on day 8
 Freddy received Harmonica on day 8
@@ -36,3 +37,45 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Daphne arrives at the North store on Day 8
+0 items has been added to the inventory
+There is $1669.33 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 873.23
+Daphne put in order for RecordPlayer for $9.44 on day 8
+Daphne put in order for RecordPlayer for $9.77 on day 8
+Daphne put in order for RecordPlayer for $11.72 on day 8
+Daphne put in order for Bass for $13.35 on day 8
+Daphne put in order for Bass for $25.85 on day 8
+Daphne put in order for Bass for $18.86 on day 8
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $38.0.
+Buyer 2 purchased Cassette for $6.0.
+Buyer 3 purchased Guitar for $34.0.
+Buyer also purchased GigBag for $12.0.
+Buyer also purchased Cables for $30.0.
+Buyer also purchased Strings for $30.02.
+Buyer also purchased Strings for $97.6.
+Cables was too expensive, Buyer 4 left the store.
+Saxophone was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Bandanas for $16.2 after a 10%% discount.
+Daphne bought a good condition CassettePlayer from Seller 1 for $19.07 after offering 10%% more.
+Daphne sold 8 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

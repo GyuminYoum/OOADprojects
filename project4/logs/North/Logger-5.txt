@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the North store on Day 5
 0 items has been added to the inventory
 There is $1386.77 in the register
@@ -32,3 +33,30 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Freddy is sick on day 5
+Velma arrives at the North store on Day 5
+Velma received Strings on day 5
+1 items has been added to the inventory
+There is $1525.91 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 913.98
+Velma ordered total of 0 items
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Saxophone.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Saxophone for $96.0.
+Buyer 2 purchased Vinyl for $10.0.
+Saxophone was too expensive, Buyer 3 left the store.
+Velma bought a poor condition Cables from Seller 1 for $31.03 after offering 10%% more.
+Velma sold 2 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
