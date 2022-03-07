@@ -1,25 +1,38 @@
-Freddy is sick on day 5
-Velma arrives at the North store on Day 5
-Velma received Strings on day 5
+Freddy arrives at the North store on Day 5
+Freddy received Cables on day 5
 1 items has been added to the inventory
-There is $1525.91 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 913.98
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma has damaged a(n) Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Saxophone for $96.0.
-Buyer 2 purchased Vinyl for $10.0.
-Saxophone was too expensive, Buyer 3 left the store.
-Velma bought a poor condition Cables from Seller 1 for $31.03 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $1278.67 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 968.46
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer 2 purchased Harmonica for $36.0.
+MP3 was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Harmonica for $34.2 after a 10%% discount.
+Buyer 5 purchased CDPlayer for $24.0.
+Strings out of stock, Buyer 6 left the store.
+Freddy bought a fair condition Shirts from Seller 1 for $44.47 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a poor condition Bandanas from Seller 3 for $24.66 after offering 10%% more.
+Freddy sold 5 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

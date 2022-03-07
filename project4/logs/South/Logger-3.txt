@@ -1,31 +1,29 @@
-Justin arrives at the South store on Day 3
+Velma arrives at the South store on Day 3
 0 items has been added to the inventory
-There is $1333.53 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 934.05
-Justin put in order for Mandolin for $40.24 on day 3
-Justin put in order for Mandolin for $9.66 on day 3
-Justin put in order for Mandolin for $12.53 on day 3
-Justin put in order for Cables for $1.88 on day 3
-Justin put in order for Cables for $40.15 on day 3
-Justin put in order for Cables for $4.46 on day 3
-Justin put in order for Strings for $20.14 on day 3
-Justin put in order for Strings for $29.45 on day 3
-Justin put in order for Strings for $43.62 on day 3
-Justin ordered total of 9 items
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin adjusted Harmonica.
-Justin un-adjusted Harmonica.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $10.0.
-Buyer 2 purchased Hats for $30.0.
-Buyer 3 purchased Cassette for $5.4 after a 10%% discount.
-Justin bought a very good condition PaperScore from Seller 1 for $11.85 after offering 10%% more.
-Justin sold 3 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1288.42 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 960.85
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased CassettePlayer for $26.0.
+Buyer 3 purchased Saxophone for $84.0.
+Buyer 4 purchased MusicCD for $8.4.
+Velma bought a good condition Hats from Seller 1 for $47.77.
+Velma bought a fair condition Mandolin from Seller 2 for $25.7.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

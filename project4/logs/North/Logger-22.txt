@@ -1,32 +1,26 @@
-Shaggy arrives at the North store on Day 22
-Shaggy received MusicCD on day 22
-1 items has been added to the inventory
-There is $1798.18 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1437.53
-Shaggy put in order for Strings for $24.22 on day 22
-Shaggy put in order for Strings for $37.14 on day 22
-Shaggy put in order for Strings for $20.32 on day 22
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggyhas damaged a(n) Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $90.98.
-Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $81.59 after a 10%% discount.
-Buyer 4 purchased Cassette for $78.62.
-Buyer 5 purchased GigBag for $47.38.
-Buyer 6 purchased Saxophone for $86.4 after a 10%% discount.
-Shaggy bought a good condition Bandanas from Seller 1 for $17.13.
-Shaggy bought a very good condition RecordPlayer from Seller 2 for $14.88 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the North store on Day 22
+Velma received Mandolin on day 22
+Velma received PracticeAmps on day 22
+Velma received PracticeAmps on day 22
+Velma received CDPlayer on day 22
+Velma received GigBag on day 22
+5 items has been added to the inventory
+There is $2558.48 in the register
+There are total of 34 items in the inventory.
+All the items in the inventory are worth total of $ 876.46
+Velma ordered total of 0 items
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $16.25 after a 10%% discount.
+Buyer also purchased Strings for $52.06.
+Buyer 2 purchased MP3 for $56.56.
+Shirts out of stock, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Velma bought a good condition MusicCD from Seller 1 for $15.08.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

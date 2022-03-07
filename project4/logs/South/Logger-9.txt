@@ -1,27 +1,36 @@
 Justin arrives at the South store on Day 9
-0 items has been added to the inventory
-There is $1717.0 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 917.16
-Justin put in order for Vinyl for $20.9 on day 9
-Justin put in order for Vinyl for $3.54 on day 9
-Justin put in order for Vinyl for $35.97 on day 9
-Justin put in order for Saxophone for $25.94 on day 9
-Justin put in order for Saxophone for $24.72 on day 9
-Justin put in order for Saxophone for $16.75 on day 9
-Justin ordered total of 6 items
-Justin un-adjusted Flute.
+Justin received Flute on day 9
+Justin received Cables on day 9
+2 items has been added to the inventory
+There is $2074.76 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 768.98
+Justin put in order for PracticeAmps for $35.58 on day 9
+Justin put in order for PracticeAmps for $34.4 on day 9
+Justin put in order for PracticeAmps for $27.47 on day 9
+Justin put in order for Strings for $45.01 on day 9
+Justin put in order for Strings for $46.45 on day 9
+Justin put in order for Strings for $20.96 on day 9
+Justin put in order for GigBag for $40.08 on day 9
+Justin put in order for GigBag for $19.01 on day 9
+Justin put in order for GigBag for $45.87 on day 9
+Justin ordered total of 9 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin adjusted Saxophone.
+Justin adjusted Flute.
 Justin has damaged 0 items while tuning
-Saxophone out of stock, Buyer 1 left the store.
-Buyer 2 purchased Strings for $36.25 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $66.0.
-Buyer 4 purchased RecordPlayer for $44.0.
-Buyer 5 purchased Shirts for $10.0.
-Justin bought a poor condition PaperScore from Seller 1 for $13.14.
-Justin bought a good condition CassettePlayer from Seller 2 for $33.4.
-Justin bought a very good condition Flute from Seller 3 for $42.03.
-Justin sold 4 items.
-Justin Bought 3 items.
+Buyer 1 purchased Flute for $22.71 after a 10%% discount.
+Buyer 2 purchased Flute for $40.05 after a 10%% discount.
+Buyer 3 purchased Mandolin for $97.16.
+Flute out of stock, Buyer 4 left the store.
+Buyer 5 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 6 purchased Mandolin for $101.82.
+Strings out of stock, Buyer 7 left the store.
+Justin bought a good condition MP3 from Seller 1 for $12.9 after offering 10%% more.
+Justin bought a poor condition Harmonica from Seller 2 for $35.4.
+Justin sold 6 items.
+Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

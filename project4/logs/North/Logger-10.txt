@@ -1,30 +1,33 @@
-Shaggy arrives at the North store on Day 10
-Shaggy received Bass on day 10
-Shaggy received Bass on day 10
-2 items has been added to the inventory
-There is $2032.61 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 700.84
-Shaggy put in order for Flute for $41.49 on day 10
-Shaggy put in order for Flute for $31.64 on day 10
-Shaggy put in order for Flute for $28.94 on day 10
-Shaggy put in order for Cables for $10.92 on day 10
-Shaggy put in order for Cables for $28.77 on day 10
-Shaggy put in order for Cables for $48.22 on day 10
-Shaggy ordered total of 6 items
-Shaggy un-tuned Mandolin.
-Shaggyhas damaged a(n) Mandolin.
-Shaggy un-tuned Mandolin.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased PaperScore for $5.4 after a 10%% discount.
-Harmonica was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Vinyl for $12.0.
-Shaggy bought a poor condition Vinyl from Seller 1 for $40.85 after offering 10%% more.
-Seller 2 didn't accept the price, and left the store.
-Shaggy bought a fair condition Bass from Seller 3 for $29.61.
-Shaggy sold 2 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the North store on Day 10
+Velma received PracticeAmps on day 10
+1 items has been added to the inventory
+There is $1673.66 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 977.53
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma has damaged a(n) Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased Hats for $18.0 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased Shirts for $10.0.
+Buyer 4 purchased Guitar for $74.0.
+Buyer also purchased Strings for $43.02.
+Buyer 5 purchased Shirts for $72.77 after a 10%% discount.
+Mandolin was too expensive, Buyer 6 left the store.
+Buyer 7 purchased PaperScore for $6.0.
+Velma bought a very good condition Cassette from Seller 1 for $3.63.
+Velma bought a fair condition Cassette from Seller 2 for $5.78.
+Velma bought a fair condition Mandolin from Seller 3 for $25.2.
+Velma sold 7 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

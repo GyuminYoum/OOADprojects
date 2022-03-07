@@ -1,31 +1,21 @@
 Justin arrives at the South store on Day 16
-Justin received PracticeAmps on day 16
-Justin received Cassette on day 16
-Justin received Guitar on day 16
-3 items has been added to the inventory
-There is $2093.96 in the register
+Justin received Mandolin on day 16
+Justin received Bass on day 16
+2 items has been added to the inventory
+There is $1988.79 in the register
 There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1081.33
-Justin put in order for Mandolin for $6.18 on day 16
-Justin put in order for Mandolin for $18.09 on day 16
-Justin put in order for Mandolin for $24.83 on day 16
-Justin put in order for GigBag for $11.51 on day 16
-Justin put in order for GigBag for $24.73 on day 16
-Justin put in order for GigBag for $34.4 on day 16
-Justin ordered total of 6 items
-Justin adjusted Flute.
-Justin adjusted Saxophone.
-Justin adjusted Harmonica.
-Justin un-tuned Guitar.
+All the items in the inventory are worth total of $ 1202.42
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justin un-adjusted Saxophone.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $51.88.
-Buyer 2 purchased PracticeAmps for $75.79 after a 10%% discount.
-PaperScore was too expensive, Buyer 3 left the store.
-PaperScore was too expensive, Buyer 4 left the store.
-Buyer 5 purchased Flute for $86.4 after a 10%% discount.
-Buyer 6 purchased PracticeAmps for $85.46.
-Justin bought a very good condition Bandanas from Seller 2 for $29.68.
-Justin sold 4 items.
+Buyer 1 purchased Cables for $47.78.
+Guitar was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $70.81.
+Buyer 4 purchased Flute for $37.11.
+Justin bought a fair condition MusicCD from Seller 1 for $10.11.
+Justin sold 3 items.
 Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.

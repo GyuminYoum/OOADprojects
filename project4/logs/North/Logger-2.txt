@@ -1,28 +1,24 @@
 Justin arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1263.0 in the register
-There are total of 60 items in the inventory.
-All the items in the inventory are worth total of $ 938.08
+There is $1101.75 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1024.83
 Justin ordered total of 0 items
-Justin un-tuned Guitar.
 Justin un-tuned Mandolin.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $10.0.
-Buyer 2 purchased Guitar for $54.0.
+Buyer 1 purchased Mandolin for $74.0.
 Buyer also purchased PracticeAmps for $10.0.
-Buyer also purchased Strings for $7.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Cables for $20.0.
+Buyer 2 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 3 purchased Guitar for $54.0.
+Buyer also purchased Cables for $30.0.
 Buyer also purchased Strings for $14.0.
-Buyer also purchased Strings for $22.0.
-Buyer 3 purchased Bass for $44.0.
-Buyer 4 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 5 purchased RecordPlayer for $66.0.
-Buyer 6 purchased Shirts for $7.2 after a 10%% discount.
-Strings out of stock, Buyer 7 left the store.
-Justin bought a fair condition Cassette from Seller 1 for $47.91.
-Seller 2 didn't accept the price, and left the store.
+Justin bought a very good condition Harmonica from Seller 1 for $1.89.
+Justin bought a good condition PaperScore from Seller 2 for $23.92.
 Seller 3 didn't accept the price, and left the store.
-Justin sold 10 items.
-Justin Bought 1 items.
+Justin sold 9 items.
+Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

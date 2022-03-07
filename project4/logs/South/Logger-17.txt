@@ -1,19 +1,34 @@
-Velma arrives at the South store on Day 17
-Velma received PracticeAmps on day 17
-Velma received Mandolin on day 17
-2 items has been added to the inventory
-There is $2244.07 in the register
+Shaggy arrives at the South store on Day 17
+Shaggy received Saxophone on day 17
+1 items has been added to the inventory
+There is $2134.37 in the register
 There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 995.62
-Velma put in order for Saxophone for $34.08 on day 17
-Velma put in order for Saxophone for $26.54 on day 17
-Velma put in order for Saxophone for $41.07 on day 17
-Velma ordered total of 3 items
-Velma un-adjusted Harmonica.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 1166.08
+Shaggy put in order for Harmonica for $40.44 on day 17
+Shaggy put in order for Harmonica for $46.15 on day 17
+Shaggy put in order for Harmonica for $32.57 on day 17
+Shaggy put in order for Cables for $34.99 on day 17
+Shaggy put in order for Cables for $23.42 on day 17
+Shaggy put in order for Cables for $9.58 on day 17
+Shaggy ordered total of 6 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy has thrown away a(n) Flutedue to less than poor condition.
+Shaggy adjusted Saxophone.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Bass.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased CDPlayer for $48.0.
+Cassette was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Strings for $92.9.
+Harmonica out of stock, Buyer 4 left the store.
+Buyer 5 purchased Strings for $41.92.
+Shaggy bought a good condition Strings from Seller 1 for $43.5.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a poor condition Bass from Seller 3 for $36.48 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
