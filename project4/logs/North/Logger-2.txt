@@ -1,59 +1,33 @@
-<<<<<<< HEAD
 Velma arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $940.69 in the register
-There are total of 63 items in the inventory.
-All the items in the inventory are worth total of $ 1148.38
+There is $1097.33 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1051.75
 Velma ordered total of 0 items
+Velma tuned Guitar.
 Velma tuned Guitar.
 Velma tuned Guitar.
 Velma tuned Bass.
 Velma tuned Mandolin.
-Velma un-adjusted Flute.
+Velma tuned Mandolin.
 Velma un-adjusted Flute.
 Velma un-adjusted Harmonica.
-Velma adjusted Harmonica.
+Velma un-adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 2 purchased Strings for $7.0.
-Buyer 3 purchased Harmonica for $36.0.
-Buyer 4 purchased Harmonica for $38.0.
-Buyer 5 purchased Strings for $14.0.
-Hats was too expensive, Buyer 6 left the store.
-Buyer 7 purchased Cables for $18.0 after a 10%% discount.
-Velma bought a good condition Guitar from Seller 1 for $5.87.
-Velma sold 6 items.
-Velma Bought 1 items.
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased Bass for $46.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer also purchased Strings for $22.0.
+Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 4 purchased Guitar for $48.6 after a 10%% discount.
+Buyer also purchased GigBag for $12.0.
+Buyer 5 purchased MP3 for $10.0.
+Buyer 6 purchased Saxophone for $90.0.
+Velma bought a good condition CassettePlayer from Seller 1 for $18.8.
+Seller 2 didn't accept the price, and left the store.
+Velma bought a poor condition Guitar from Seller 3 for $36.67 after offering 10%% more.
+Velma sold 13 items.
+Velma Bought 2 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
-=======
-Justin arrives at the North store on Day 2
-0 items has been added to the inventory
-There is $1263.0 in the register
-There are total of 60 items in the inventory.
-All the items in the inventory are worth total of $ 938.08
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $10.0.
-Buyer 2 purchased Guitar for $54.0.
-Buyer also purchased PracticeAmps for $10.0.
-Buyer also purchased Strings for $7.0.
-Buyer also purchased Strings for $14.0.
-Buyer also purchased Strings for $22.0.
-Buyer 3 purchased Bass for $44.0.
-Buyer 4 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 5 purchased RecordPlayer for $66.0.
-Buyer 6 purchased Shirts for $7.2 after a 10%% discount.
-Strings out of stock, Buyer 7 left the store.
-Justin bought a fair condition Cassette from Seller 1 for $47.91.
-Seller 2 didn't accept the price, and left the store.
-Seller 3 didn't accept the price, and left the store.
-Justin sold 10 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

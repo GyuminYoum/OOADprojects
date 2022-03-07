@@ -1,84 +1,25 @@
-Freddy arrives at the North store on Day 18
-<<<<<<< HEAD
-Freddy received Bass on day 18
-Freddy received Saxophone on day 18
-2 items has been added to the inventory
-There is $2065.27 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1084.75
-Freddy put in order for Harmonica for $33.5 on day 18
-Freddy put in order for Harmonica for $7.92 on day 18
-Freddy put in order for Harmonica for $43.9 on day 18
-Freddy put in order for GigBag for $24.8 on day 18
-Freddy put in order for GigBag for $28.84 on day 18
-Freddy put in order for GigBag for $2.38 on day 18
-Freddy ordered total of 6 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Flute for $17.34.
-Harmonica out of stock, Buyer 2 left the store.
-Harmonica out of stock, Buyer 3 left the store.
-Harmonica out of stock, Buyer 4 left the store.
-Buyer 5 purchased Bandanas for $12.0.
-Freddy bought a poor condition Bandanas from Seller 1 for $33.26 after offering 10%% more.
-Freddy bought a good condition Hats from Seller 2 for $3.1.
-Freddy bought a fair condition Bandanas from Seller 3 for $8.73.
-Freddy sold 2 items.
-Freddy Bought 3 items.
-Freddy has damaged a(n) Guitar.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-=======
-Freddy received RecordPlayer on day 18
-Freddy received Flute on day 18
-2 items has been added to the inventory
-There is $2683.6 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 906.7
-Freddy put in order for CDPlayer for $33.13 on day 18
-Freddy put in order for CDPlayer for $8.27 on day 18
-Freddy put in order for CDPlayer for $42.2 on day 18
-Freddy put in order for Bass for $36.31 on day 18
-Freddy put in order for Bass for $23.29 on day 18
-Freddy put in order for Bass for $20.32 on day 18
-Freddy put in order for GigBag for $27.01 on day 18
-Freddy put in order for GigBag for $32.52 on day 18
-Freddy put in order for GigBag for $7.52 on day 18
-Freddy ordered total of 9 items
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Bass out of stock, Buyer 1 left the store.
-Buyer 2 purchased Strings for $78.66.
-Buyer 3 purchased Saxophone for $17.07.
-Buyer 4 purchased Saxophone for $71.6 after a 10%% discount.
-Buyer 5 purchased Guitar for $17.38.
-Buyer 6 purchased RecordPlayer for $86.7.
-Freddy bought a fair condition Strings from Seller 1 for $4.34.
-Freddy bought a poor condition CDPlayer from Seller 2 for $2.75 after offering 10%% more.
-Freddy bought a good condition Saxophone from Seller 3 for $36.18.
-Freddy sold 5 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
-Freddy went home for the day.
+Justin arrives at the North store on Day 18
+Justin received PaperScore on day 18
+Justin received MusicCD on day 18
+Justin received Flute on day 18
+Justin received Cables on day 18
+4 items has been added to the inventory
+There is $2574.81 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 824.39
+Justin ordered total of 0 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cables for $51.16.
+Buyer 2 purchased Harmonica for $49.75 after a 10%% discount.
+Buyer 3 purchased Bandanas for $29.01 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $50.0.
+Buyer 5 purchased Saxophone for $74.08.
+Justin bought a very good condition Flute from Seller 1 for $40.31.
+Justin sold 5 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -1,62 +1,35 @@
-<<<<<<< HEAD
-Freddy arrives at the North store on Day 5
+Daphne arrives at the North store on Day 5
 0 items has been added to the inventory
-There is $1386.77 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 906.91
-Freddy put in order for Harmonica for $26.6 on day 5
-Freddy put in order for Harmonica for $34.14 on day 5
-Freddy put in order for Harmonica for $12.32 on day 5
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Flute for $90.0.
-MP3 was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $34.0.
-Freddy bought a fair condition Saxophone from Seller 1 for $41.08 after offering 10%% more.
-Freddy bought a fair condition Flute from Seller 2 for $3.89.
-Freddy sold 2 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Freddy is sick on day 5
-Velma arrives at the North store on Day 5
-Velma received Strings on day 5
-1 items has been added to the inventory
-There is $1525.91 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 913.98
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma has damaged a(n) Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Saxophone for $96.0.
-Buyer 2 purchased Vinyl for $10.0.
-Saxophone was too expensive, Buyer 3 left the store.
-Velma bought a poor condition Cables from Seller 1 for $31.03 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+There is $1376.05 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 972.73
+Daphne put in order for GigBag for $32.81 on day 5
+Daphne put in order for GigBag for $28.43 on day 5
+Daphne put in order for GigBag for $15.82 on day 5
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $9.0 after a 10%% discount.
+Buyer 2 purchased Flute for $86.4 after a 10%% discount.
+Buyer 3 purchased Bandanas for $12.0.
+Buyer 4 purchased Saxophone for $96.0.
+Daphne bought a poor condition CDPlayer from Seller 1 for $43.83.
+Daphne bought a good condition CDPlayer from Seller 2 for $4.79 after offering 10%% more.
+Daphne sold 4 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

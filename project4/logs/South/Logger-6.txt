@@ -1,73 +1,41 @@
-<<<<<<< HEAD
-Freddy is sick on day 6
 Daphne arrives at the South store on Day 6
-Daphne received PaperScore on day 6
-Daphne received Cables on day 6
-2 items has been added to the inventory
-There is $1178.95 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1075.73
-Daphne put in order for Mandolin for $27.02 on day 6
-Daphne put in order for Mandolin for $28.87 on day 6
-Daphne put in order for Mandolin for $40.75 on day 6
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-=======
-Daphne arrives at the South store on Day 6
-Daphne received Cables on day 6
-Daphne received Strings on day 6
-2 items has been added to the inventory
-There is $1614.45 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 897.37
+0 items has been added to the inventory
+There is $1287.58 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1058.44
 Daphne ordered total of 0 items
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
 Daphne tuned Guitar.
 Daphne tuned Guitar.
+Daphne tuned Guitar.
 Daphne tuned Bass.
 Daphne tuned Bass.
 Daphne tuned Bass.
-<<<<<<< HEAD
-=======
-Daphne adjusted Flute.
-Daphne adjusted Flute.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
-Daphne adjusted Flute.
+Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
-<<<<<<< HEAD
+Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
 Daphne adjusted Saxophone.
 Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $12.0.
-Bass was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Strings for $7.0.
-Buyer 4 purchased Shirts for $8.0.
-Buyer 5 purchased MP3 for $9.0 after a 10%% discount.
-Daphne bought a fair condition PracticeAmps from Seller 1 for $10.38.
-Seller 2 didn't accept the price, and left the store.
-Daphne sold 4 items.
+Buyer 1 purchased Cassette for $4.4.
+Harmonica was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Vinyl for $12.6 after a 10%% discount.
+Strings out of stock, Buyer 4 left the store.
+Vinyl out of stock, Buyer 5 left the store.
+Buyer 6 purchased PracticeAmps for $50.0.
+Buyer 7 purchased Cables for $30.0.
+Buyer 8 purchased Hats for $20.0.
+Daphne bought a poor condition Strings from Seller 1 for $54.2 after offering 10%% more.
+Daphne sold 5 items.
 Daphne Bought 1 items.
-=======
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $81.0 after a 10%% discount.
-Guitar was too expensive, Buyer 2 left the store.
-Buyer 3 purchased MP3 for $50.0.
-Daphne bought a poor condition Cables from Seller 1 for $33.24 after offering 10%% more.
-Daphne bought a very good condition RecordPlayer from Seller 2 for $15.09.
-Daphne bought a poor condition MP3 from Seller 3 for $47.56.
-Daphne sold 2 items.
-Daphne Bought 3 items.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
+Daphne has damaged a(n) CassettePlayer.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
 Daphne went home for the day.

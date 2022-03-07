@@ -1,65 +1,38 @@
-<<<<<<< HEAD
 Justin arrives at the South store on Day 8
-Justin received PaperScore on day 8
-Justin received Cables on day 8
-Justin received Mandolin on day 8
-3 items has been added to the inventory
-There is $1107.92 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1154.85
-Justin ordered total of 0 items
+Justin received Strings on day 8
+Justin received Strings on day 8
+2 items has been added to the inventory
+There is $1350.39 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1092.13
+Justin put in order for Vinyl for $25.62 on day 8
+Justin put in order for Vinyl for $47.98 on day 8
+Justin put in order for Vinyl for $45.84 on day 8
+Justin put in order for PracticeAmps for $28.31 on day 8
+Justin put in order for PracticeAmps for $2.36 on day 8
+Justin put in order for PracticeAmps for $50.86 on day 8
+Justin put in order for Cables for $28.28 on day 8
+Justin put in order for Cables for $41.77 on day 8
+Justin put in order for Cables for $37.93 on day 8
+Justin ordered total of 9 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
 Justin un-tuned Bass.
-Justin un-adjusted Flute.
-Justin un-adjusted Flute.
-Justin un-adjusted Flute.
-Justinhas damaged a(n) Flute.
 Justin un-adjusted Saxophone.
-Justin un-tuned Mandolin.
-Justinhas damaged a(n) Mandolin.
-Justin has damaged 2 items while tuning
-Buyer 1 purchased Strings for $12.6 after a 10%% discount.
-Buyer 2 purchased PracticeAmps for $30.0.
-Buyer 3 purchased Vinyl for $10.0.
-Buyer 4 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 5 purchased Cassette for $6.0.
-Justin bought a fair condition Flute from Seller 1 for $42.1.
-Justin sold 5 items.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Flute for $92.0.
+Buyer 2 purchased RecordPlayer for $66.0.
+Buyer 3 purchased Mandolin for $66.0.
+Buyer also purchased GigBag for $13.0.
+Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
+Flute was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 7 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 8 purchased PaperScore for $6.0.
+Justin bought a good condition Cassette from Seller 1 for $25.24.
+Justin sold 8 items.
 Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
-=======
-Freddy arrives at the South store on Day 8
-Freddy received Cables on day 8
-1 items has been added to the inventory
-There is $1649.56 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 927.73
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $96.0.
-Buyer 2 purchased Vinyl for $14.0.
-Buyer 3 purchased Cables for $3.76.
-Bandanas was too expensive, Buyer 4 left the store.
-Freddy bought a good condition CDPlayer from Seller 1 for $26.43.
-Freddy bought a poor condition Bass from Seller 2 for $19.89.
-Freddy sold 3 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

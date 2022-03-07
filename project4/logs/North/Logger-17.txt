@@ -1,69 +1,38 @@
-<<<<<<< HEAD
-Velma arrives at the North store on Day 17
-Velma received PaperScore on day 17
-Velma received Bass on day 17
+Justin is sick on day 17
+Freddy arrives at the North store on Day 17
+Freddy received PaperScore on day 17
+Freddy received MusicCD on day 17
 2 items has been added to the inventory
-There is $2057.44 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1094.75
-Velma put in order for RecordPlayer for $13.21 on day 17
-Velma put in order for RecordPlayer for $34.54 on day 17
-Velma put in order for RecordPlayer for $39.56 on day 17
-Velma put in order for Saxophone for $14.29 on day 17
-Velma put in order for Saxophone for $36.9 on day 17
-Velma put in order for Saxophone for $5.31 on day 17
-Velma ordered total of 6 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-MP3 was too expensive, Buyer 1 left the store.
-Cassette was too expensive, Buyer 2 left the store.
-Buyer 3 purchased GigBag for $44.5.
-Buyer 4 purchased Cables for $70.03 after a 10%% discount.
-Buyer 5 purchased Harmonica for $40.0.
-Buyer 6 purchased CDPlayer for $58.28 after a 10%% discount.
-Velma bought a poor condition Bandanas from Seller 1 for $46.52.
-Velma bought a good condition MP3 from Seller 2 for $13.09 after offering 10%% more.
-Velma bought a very good condition Cassette from Seller 3 for $1.53.
-Velma sold 4 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
-=======
-Freddy is sick on day 17
-Daphne arrives at the North store on Day 17
-Daphne received Strings on day 17
-Daphne received MusicCD on day 17
-Daphne received GigBag on day 17
-Daphne received GigBag on day 17
-4 items has been added to the inventory
-There is $1596.66 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1197.28
-Daphne put in order for CDPlayer for $25.77 on day 17
-Daphne put in order for CDPlayer for $31.38 on day 17
-Daphne put in order for CDPlayer for $9.48 on day 17
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+There is $2639.13 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 785.72
+Freddy put in order for Flute for $19.98 on day 17
+Freddy put in order for Flute for $4.38 on day 17
+Freddy put in order for Flute for $44.36 on day 17
+Freddy put in order for Cables for $8.14 on day 17
+Freddy put in order for Cables for $25.58 on day 17
+Freddy put in order for Cables for $23.3 on day 17
+Freddy ordered total of 6 items
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Cables out of stock, Buyer 1 left the store.
+Buyer 2 purchased PaperScore for $51.04 after a 10%% discount.
+Buyer 3 purchased MP3 for $10.38 after a 10%% discount.
+Flute out of stock, Buyer 4 left the store.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 2 items.
+Freddy Bought 0 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

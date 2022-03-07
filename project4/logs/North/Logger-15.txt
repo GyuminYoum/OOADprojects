@@ -1,77 +1,46 @@
-<<<<<<< HEAD
-Velma arrives at the North store on Day 15
-Velma received MP3 on day 15
-Velma received Cables on day 15
-Velma received PaperScore on day 15
-3 items has been added to the inventory
-There is $1677.75 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1145.4
-Velma put in order for Bass for $40.32 on day 15
-Velma put in order for Bass for $45.47 on day 15
-Velma put in order for Bass for $8.5 on day 15
-Velma ordered total of 3 items
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Hats for $10.0.
-Buyer 2 purchased Strings for $2.25.
-Buyer 3 purchased PaperScore for $47.44.
-Buyer 4 purchased RecordPlayer for $19.8 after a 10%% discount.
-Buyer 5 purchased PracticeAmps for $63.98 after a 10%% discount.
-Velma bought a poor condition RecordPlayer from Seller 1 for $47.23.
-Velma bought a poor condition MusicCD from Seller 2 for $29.5 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
-=======
-Freddy arrives at the North store on Day 15
-Freddy received Flute on day 15
-Freddy received PaperScore on day 15
-Freddy received Strings on day 15
-3 items has been added to the inventory
-There is $1727.32 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1080.53
-Freddy put in order for MusicCD for $19.22 on day 15
-Freddy put in order for MusicCD for $39.78 on day 15
-Freddy put in order for MusicCD for $2.34 on day 15
-Freddy put in order for Saxophone for $27.47 on day 15
-Freddy put in order for Saxophone for $31.84 on day 15
-Freddy put in order for Saxophone for $17.32 on day 15
-Freddy put in order for GigBag for $9.66 on day 15
-Freddy put in order for GigBag for $22.23 on day 15
-Freddy put in order for GigBag for $27.69 on day 15
-Freddy ordered total of 9 items
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Strings for $55.74.
-Buyer 2 purchased Cassette for $95.82.
-Buyer 3 purchased Bass for $33.94 after a 10%% discount.
-Saxophone out of stock, Buyer 4 left the store.
-Freddy bought a good condition RecordPlayer from Seller 1 for $39.68.
-Freddy sold 3 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+Daphne arrives at the North store on Day 15
+Daphne received Strings on day 15
+Daphne received Strings on day 15
+2 items has been added to the inventory
+There is $2117.1 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 967.66
+Daphne put in order for PaperScore for $28.36 on day 15
+Daphne put in order for PaperScore for $29.34 on day 15
+Daphne put in order for PaperScore for $5.71 on day 15
+Daphne put in order for MusicCD for $12.27 on day 15
+Daphne put in order for MusicCD for $36.88 on day 15
+Daphne put in order for MusicCD for $14.07 on day 15
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne has damaged 0 items while tuning
+PaperScore out of stock, Buyer 1 left the store.
+Strings was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Vinyl for $14.0.
+Buyer 4 purchased Cables for $30.0.
+Buyer 5 purchased Bass for $58.35 after a 10%% discount.
+Buyer also purchased GigBag for $82.08.
+Buyer also purchased Strings for $84.34.
+Buyer 6 purchased CassettePlayer for $21.6 after a 10%% discount.
+Daphne bought a poor condition Mandolin from Seller 1 for $8.62 after offering 10%% more.
+Daphne bought a very good condition MP3 from Seller 2 for $21.02.
+Daphne sold 6 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

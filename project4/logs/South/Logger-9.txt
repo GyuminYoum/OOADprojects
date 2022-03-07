@@ -1,69 +1,34 @@
-<<<<<<< HEAD
-Daphne arrives at the South store on Day 9
-Daphne received PaperScore on day 9
-Daphne received Mandolin on day 9
-2 items has been added to the inventory
-There is $1164.02 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1214.98
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $72.0.
-Buyer 2 purchased PracticeAmps for $50.0.
-Buyer 3 purchased MP3 for $45.0 after a 10%% discount.
-Buyer 4 purchased RecordPlayer for $19.8 after a 10%% discount.
-Daphne bought a very good condition MP3 from Seller 1 for $45.34.
-Daphne bought a fair condition Mandolin from Seller 2 for $52.06 after offering 10%% more.
-Daphne bought a fair condition Guitar from Seller 3 for $34.84.
-Daphne sold 4 items.
-Daphne Bought 3 items.
-Daphne has damaged a(n) Mandolin.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
-=======
 Justin arrives at the South store on Day 9
-0 items has been added to the inventory
-There is $1717.0 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 917.16
-Justin put in order for Vinyl for $20.9 on day 9
-Justin put in order for Vinyl for $3.54 on day 9
-Justin put in order for Vinyl for $35.97 on day 9
-Justin put in order for Saxophone for $25.94 on day 9
-Justin put in order for Saxophone for $24.72 on day 9
-Justin put in order for Saxophone for $16.75 on day 9
-Justin ordered total of 6 items
+Justin received Strings on day 9
+Justin received PracticeAmps on day 9
+Justin received Cables on day 9
+3 items has been added to the inventory
+There is $1453.6 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 997.15
+Justin put in order for MP3 for $36.69 on day 9
+Justin put in order for MP3 for $50.77 on day 9
+Justin put in order for MP3 for $10.19 on day 9
+Justin put in order for Mandolin for $3.04 on day 9
+Justin put in order for Mandolin for $43.91 on day 9
+Justin put in order for Mandolin for $33.36 on day 9
+Justin put in order for GigBag for $31.03 on day 9
+Justin put in order for GigBag for $11.95 on day 9
+Justin put in order for GigBag for $6.69 on day 9
+Justin ordered total of 9 items
 Justin un-adjusted Flute.
-Justin has damaged 0 items while tuning
-Saxophone out of stock, Buyer 1 left the store.
-Buyer 2 purchased Strings for $36.25 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $66.0.
-Buyer 4 purchased RecordPlayer for $44.0.
-Buyer 5 purchased Shirts for $10.0.
-Justin bought a poor condition PaperScore from Seller 1 for $13.14.
-Justin bought a good condition CassettePlayer from Seller 2 for $33.4.
-Justin bought a very good condition Flute from Seller 3 for $42.03.
+Justinhas damaged a(n) Flute.
+Justin un-adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 2 purchased Cassette for $14.12.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased Strings for $88.7 after a 10%% discount.
+Buyer 5 purchased PaperScore for $76.02.
+Justin bought a very good condition Mandolin from Seller 1 for $50.16.
 Justin sold 4 items.
-Justin Bought 3 items.
+Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

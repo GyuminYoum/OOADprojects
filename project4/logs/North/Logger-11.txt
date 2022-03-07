@@ -1,64 +1,30 @@
-<<<<<<< HEAD
-Freddy arrives at the North store on Day 11
-Freddy received Cables on day 11
-1 items has been added to the inventory
-There is $1537.68 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1103.86
-Freddy ordered total of 0 items
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Daphne arrives at the North store on Day 11
-Daphne received RecordPlayer on day 11
-Daphne received Bass on day 11
-2 items has been added to the inventory
-There is $1789.56 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 797.59
-Daphne put in order for PaperScore for $31.32 on day 11
-Daphne put in order for PaperScore for $12.77 on day 11
-Daphne put in order for PaperScore for $30.42 on day 11
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $48.0.
-Daphne bought a very good condition Vinyl from Seller 1 for $33.44.
-Daphne bought a very good condition MusicCD from Seller 2 for $4.97.
-Daphne sold 1 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+Shaggy arrives at the North store on Day 11
+Shaggy received Saxophone on day 11
+Shaggy received Bass on day 11
+Shaggy received GigBag on day 11
+3 items has been added to the inventory
+There is $1722.54 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1062.09
+Shaggy ordered total of 0 items
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $50.0.
+Buyer 2 purchased Hats for $9.0 after a 10%% discount.
+GigBag was too expensive, Buyer 3 left the store.
+Flute was too expensive, Buyer 4 left the store.
+Buyer 5 purchased CDPlayer for $48.0.
+Buyer 6 purchased Hats for $4.2.
+Buyer 7 purchased Strings for $66.86.
+Buyer 8 purchased PaperScore for $9.9 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Shaggy bought a poor condition Hats from Seller 2 for $17.1.
+Shaggy bought a poor condition Mandolin from Seller 3 for $12.43.
+Shaggy sold 6 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
