@@ -1,33 +1,28 @@
-Daphne arrives at the North store on Day 2
+Justin arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1072.43 in the register
+There is $1263.0 in the register
 There are total of 60 items in the inventory.
-All the items in the inventory are worth total of $ 1063.15
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Shirts was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Cassette for $6.0.
-Buyer 3 purchased PaperScore for $10.0.
-Buyer 4 purchased Flute for $90.0.
-Daphne bought a fair condition Guitar from Seller 1 for $12.76 after offering 10%% more.
-Daphne sold 3 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 938.08
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $10.0.
+Buyer 2 purchased Guitar for $54.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer also purchased Strings for $7.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Buyer 3 purchased Bass for $44.0.
+Buyer 4 purchased Bandanas for $5.4 after a 10%% discount.
+Buyer 5 purchased RecordPlayer for $66.0.
+Buyer 6 purchased Shirts for $7.2 after a 10%% discount.
+Strings out of stock, Buyer 7 left the store.
+Justin bought a fair condition Cassette from Seller 1 for $47.91.
+Seller 2 didn't accept the price, and left the store.
+Seller 3 didn't accept the price, and left the store.
+Justin sold 10 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

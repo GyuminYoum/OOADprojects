@@ -1,33 +1,39 @@
-Justin arrives at the South store on Day 12
-Justin received MP3 on day 12
-1 items has been added to the inventory
-There is $1750.57 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 875.44
-Justin put in order for PaperScore for $18.42 on day 12
-Justin put in order for PaperScore for $30.33 on day 12
-Justin put in order for PaperScore for $20.44 on day 12
-Justin put in order for GigBag for $7.75 on day 12
-Justin put in order for GigBag for $40.85 on day 12
-Justin put in order for GigBag for $14.02 on day 12
-Justin ordered total of 6 items
-Justin un-tuned Guitar.
-Justin un-tuned Bass.
-Justin un-tuned Mandolin.
-Justin un-tuned Mandolin.
-Justin un-adjusted Harmonica.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $30.6 after a 10%% discount.
-Buyer also purchased Strings for $6.64.
-Buyer 2 purchased CassettePlayer for $42.0.
-Shirts out of stock, Buyer 3 left the store.
+Shaggy arrives at the South store on Day 12
+Shaggy received Vinyl on day 12
+Shaggy received Strings on day 12
+2 items has been added to the inventory
+There is $1783.78 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1010.88
+Shaggy put in order for PracticeAmps for $42.73 on day 12
+Shaggy put in order for PracticeAmps for $34.65 on day 12
+Shaggy put in order for PracticeAmps for $18.57 on day 12
+Shaggy put in order for Cassette for $27.41 on day 12
+Shaggy put in order for Cassette for $36.47 on day 12
+Shaggy put in order for Cassette for $1.33 on day 12
+Shaggy ordered total of 6 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Flute for $92.0.
+Buyer 2 purchased Saxophone for $44.49 after a 10%% discount.
+Buyer 3 purchased CDPlayer for $38.4.
 Buyer 4 purchased Guitar for $74.0.
-Buyer also purchased PracticeAmps for $30.0.
-Justin bought a poor condition PracticeAmps from Seller 1 for $1.05.
-Justin bought a good condition Guitar from Seller 2 for $9.02.
-Justin bought a fair condition Bass from Seller 3 for $11.79 after offering 10%% more.
-Justin sold 5 items.
-Justin Bought 3 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Buyer also purchased GigBag for $12.0.
+Shirts out of stock, Buyer 5 left the store.
+Flute was too expensive, Buyer 6 left the store.
+Buyer 7 purchased Bass for $39.6 after a 10%% discount.
+Buyer 8 purchased Hats for $18.0 after a 10%% discount.
+Shaggy bought a good condition PaperScore from Seller 1 for $43.02 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Shaggy sold 7 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) CassettePlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

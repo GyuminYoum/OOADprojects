@@ -1,30 +1,34 @@
-Shaggy arrives at the North store on Day 1
+Freddy arrives at the North store on Day 1
 0 items has been added to the inventory
-Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-Shaggy ordered total of 0 items
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Bass.
-Shaggy tuned Bass.
-Shaggy tuned Bass.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $54.0.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased CassettePlayer for $26.0.
-Buyer 4 purchased Strings for $7.0.
-Shaggy bought a very good condition Shirts from Seller 1 for $50.57.
-Shaggy sold 4 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Flute for $81.0 after a 10%% discount.
+Buyer 2 purchased Flute for $92.0.
+Buyer 3 purchased Saxophone for $90.0.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 3 items.
+Freddy Bought 0 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

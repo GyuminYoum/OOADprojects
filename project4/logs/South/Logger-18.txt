@@ -1,29 +1,40 @@
-Shaggy arrives at the South store on Day 18
-Shaggy received CassettePlayer on day 18
-1 items has been added to the inventory
-There is $2158.95 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 906.66
-Shaggy put in order for PaperScore for $22.19 on day 18
-Shaggy put in order for PaperScore for $37.24 on day 18
-Shaggy put in order for PaperScore for $46.39 on day 18
-Shaggy put in order for Harmonica for $44.28 on day 18
-Shaggy put in order for Harmonica for $15.18 on day 18
-Shaggy put in order for Harmonica for $46.46 on day 18
-Shaggy ordered total of 6 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Guitar.
-Shaggyhas damaged a(n) Guitar.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Cassette for $4.4.
-Harmonica out of stock, Buyer 2 left the store.
-Shirts out of stock, Buyer 3 left the store.
-PracticeAmps out of stock, Buyer 4 left the store.
-Bandanas was too expensive, Buyer 5 left the store.
-Shaggy bought a very good condition Harmonica from Seller 1 for $6.61.
-Shaggy sold 1 items.
-Shaggy Bought 1 items.
-Shaggy has thrown away a(n) MP3 due to less than poor condition.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the South store on Day 18
+Velma received Cables on day 18
+Velma received MusicCD on day 18
+2 items has been added to the inventory
+There is $2094.79 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1174.27
+Velma put in order for Saxophone for $2.72 on day 18
+Velma put in order for Saxophone for $38.61 on day 18
+Velma put in order for Saxophone for $8.69 on day 18
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $20.37 after a 10%% discount.
+Buyer 2 purchased Cables for $24.32.
+Buyer 3 purchased Mandolin for $30.48.
+Buyer also purchased PracticeAmps for $41.94.
+Buyer also purchased Strings for $100.08.
+Strings out of stock, Buyer 4 left the store.
+Buyer 5 purchased Guitar for $66.6 after a 10%% discount.
+Buyer also purchased GigBag for $72.36.
+Buyer also purchased PracticeAmps for $57.36.
+Strings out of stock, Buyer 6 left the store.
+Buyer 7 purchased MP3 for $77.58.
+Strings out of stock, Buyer 8 left the store.
+Velma bought a poor condition Guitar from Seller 1 for $4.13 after offering 10%% more.
+Velma bought a good condition CDPlayer from Seller 2 for $6.72.
+Velma bought a very good condition Guitar from Seller 3 for $8.61.
+Velma sold 12 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

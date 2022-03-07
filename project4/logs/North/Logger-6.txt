@@ -1,37 +1,27 @@
-Freddy arrives at the North store on Day 6
-Freddy received Cassette on day 6
+Velma arrives at the North store on Day 6
+Velma received Strings on day 6
 1 items has been added to the inventory
-There is $1168.4 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1060.06
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.2 after a 10%% discount.
-RecordPlayer was too expensive, Buyer 2 left the store.
-Cables was too expensive, Buyer 3 left the store.
-Buyer 4 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 5 purchased Guitar for $34.0.
-Buyer also purchased Cables for $20.0.
-Freddy bought a fair condition Flute from Seller 1 for $3.23.
-Freddy bought a good condition Harmonica from Seller 2 for $40.89.
-Freddy bought a good condition RecordPlayer from Seller 3 for $50.58 after offering 10%% more.
-Freddy sold 4 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1600.88 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 897.18
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Bass for $48.0.
+Buyer 2 purchased GigBag for $11.0.
+Buyer 3 purchased RecordPlayer for $22.0.
+Buyer 4 purchased MusicCD for $8.0.
+Velma bought a good condition Mandolin from Seller 1 for $8.86.
+Velma bought a very good condition MP3 from Seller 2 for $11.69.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
