@@ -1,35 +1,29 @@
-Justin is sick on day 18
-Velma arrives at the S store on Day 18
-Velma received Guitar on day 18
-Velma received Strings on day 18
-Velma received Strings on day 18
-3 items has been added to the inventory
-There is $2197.35 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 992.31
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased CassettePlayer for $21.6 after a 10%% discount.
-Buyer 2 purchased Guitar for $86.2.
-Buyer also purchased Strings for $62.1.
-Buyer also purchased Strings for $52.02.
-Buyer 3 purchased GigBag for $13.0.
-Buyer 4 purchased CassettePlayer for $42.0.
-PracticeAmps was too expensive, Buyer 5 left the store.
-Velma bought a poor condition MP3 from Seller 1 for $25.92 after offering 10%% more.
-Velma sold 7 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the South store on Day 18
+Shaggy received CassettePlayer on day 18
+1 items has been added to the inventory
+There is $2158.95 in the register
+There are total of 33 items in the inventory.
+All the items in the inventory are worth total of $ 906.66
+Shaggy put in order for PaperScore for $22.19 on day 18
+Shaggy put in order for PaperScore for $37.24 on day 18
+Shaggy put in order for PaperScore for $46.39 on day 18
+Shaggy put in order for Harmonica for $44.28 on day 18
+Shaggy put in order for Harmonica for $15.18 on day 18
+Shaggy put in order for Harmonica for $46.46 on day 18
+Shaggy ordered total of 6 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $4.4.
+Harmonica out of stock, Buyer 2 left the store.
+Shirts out of stock, Buyer 3 left the store.
+PracticeAmps out of stock, Buyer 4 left the store.
+Bandanas was too expensive, Buyer 5 left the store.
+Shaggy bought a very good condition Harmonica from Seller 1 for $6.61.
+Shaggy sold 1 items.
+Shaggy Bought 1 items.
+Shaggy has thrown away a(n) MP3 due to less than poor condition.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

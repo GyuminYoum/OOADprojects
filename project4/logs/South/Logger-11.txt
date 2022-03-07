@@ -1,33 +1,34 @@
-Velma arrives at the S store on Day 11
-Velma received CDPlayer on day 11
+Freddy arrives at the South store on Day 11
+Freddy received MP3 on day 11
 1 items has been added to the inventory
-There is $1414.32 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1135.32
-Velma put in order for MP3 for $31.04 on day 11
-Velma put in order for MP3 for $43.06 on day 11
-Velma put in order for MP3 for $22.84 on day 11
-Velma ordered total of 3 items
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma has damaged 1 items while tuning
-PracticeAmps out of stock, Buyer 1 left the store.
-Buyer 2 purchased Harmonica for $36.0 after a 10%% discount.
-Buyer 3 purchased Harmonica for $75.7.
-MP3 out of stock, Buyer 4 left the store.
-Buyer 5 purchased Shirts for $9.0.
-PracticeAmps out of stock, Buyer 6 left the store.
+There is $1565.01 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 948.19
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $45.96.
+Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer also purchased GigBag for $12.0.
+Buyer 3 purchased Bandanas for $12.0.
+Buyer 4 purchased Harmonica for $36.0 after a 10%% discount.
+Buyer 5 purchased GigBag for $13.0.
 Seller 1 didn't accept the price, and left the store.
-Velma sold 3 items.
-Velma Bought 0 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Freddy sold 6 items.
+Freddy Bought 0 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

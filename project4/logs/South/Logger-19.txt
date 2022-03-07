@@ -1,42 +1,31 @@
-Shaggy arrives at the S store on Day 19
-Shaggy received Guitar on day 19
-Shaggy received Strings on day 19
+Velma arrives at the South store on Day 19
+Velma received PracticeAmps on day 19
+Velma received PracticeAmps on day 19
 2 items has been added to the inventory
-There is $2448.35 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 946.45
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy put in order for CassettePlayer for $37.82 on day 19
-Shaggy put in order for CassettePlayer for $10.43 on day 19
-Shaggy put in order for CassettePlayer for $35.49 on day 19
-Shaggy ordered total of 3 items
-Shaggy put in order for GigBag for $37.88 on day 19
-Shaggy put in order for GigBag for $47.17 on day 19
-Shaggy put in order for GigBag for $3.99 on day 19
-Shaggy ordered total of 3 items
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Flute.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased Guitar for $46.99 after a 10%% discount.
-Buyer also purchased PracticeAmps for $25.08.
-Buyer also purchased Strings for $83.54.
-Shirts out of stock, Buyer 3 left the store.
-Buyer 4 purchased RecordPlayer for $3.51 after a 10%% discount.
-Cables was too expensive, Buyer 5 left the store.
-CDPlayer was too expensive, Buyer 6 left the store.
-Buyer 7 purchased PaperScore for $11.0.
-Shaggy bought a fair condition RecordPlayer from Seller 1 for $50.19.
-Shaggy bought a fair condition CassettePlayer from Seller 2 for $47.41.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy has damaged a(n) Vinyl.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+There is $1944.99 in the register
+There are total of 34 items in the inventory.
+All the items in the inventory are worth total of $ 908.18
+Velma put in order for Cassette for $16.72 on day 19
+Velma put in order for Cassette for $21.66 on day 19
+Velma put in order for Cassette for $32.04 on day 19
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Harmonica was too expensive, Buyer 1 left the store.
+Bandanas was too expensive, Buyer 2 left the store.
+MP3 was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer also purchased GigBag for $81.7.
+Buyer 5 purchased RecordPlayer for $30.16.
+Velma bought a good condition Cassette from Seller 1 for $17.79 after offering 10%% more.
+Velma bought a very good condition Cables from Seller 2 for $48.12.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

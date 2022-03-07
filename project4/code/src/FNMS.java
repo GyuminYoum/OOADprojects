@@ -15,8 +15,14 @@ import java.util.*;
 public class FNMS {
     Store North_store;
     Store South_store;
+    int duration=0;
     ArrayList<Clerk> members= new ArrayList<Clerk>();
+
     public void initialize(){
+        Random rng= new Random();
+        while(duration%7==0){
+            duration=rng.nextInt(20)+10;
+        }
         Clerk Velma=new Clerk("Velma", new Haphazard());
         Clerk Shaggy=new Clerk("Shaggy", new Manual());
         Clerk Daphne=new Clerk("Daphne", new Electronic());
@@ -27,8 +33,8 @@ public class FNMS {
         members.add(Daphne);
         members.add(Justin);
         members.add(Freddy);
-        Store store1= new Store(members,"N");
-        Store store2= new Store(members, "S");
+        Store store1= new Store(members,"North",duration);
+        Store store2= new Store(members, "South",duration);
         North_store=store1;
         South_store=store2;
         North_store.Build();
@@ -43,7 +49,8 @@ public class FNMS {
         South_store.registerTracker(tracker2);
         tracker1.initialize();
         tracker2.initialize();
-        while(North_store.get_daysPassed()<=30 && South_store.get_daysPassed()<=30 ){
+
+        while(North_store.get_daysPassed()<=duration && South_store.get_daysPassed()<=duration){
             //this is done to avoid the daysWorked from resetting at the end
             //ran only once for north_store since if i were to reset it at the end with leaveTheStore function,
             //it would reset the daysWorked for the workers.
@@ -81,27 +88,23 @@ public class FNMS {
              */
 
 
-            if(staff1!=null) {
+            if(staff1!=null && staff2!=null) {
                 //System.out.println(staff1.get_name());
                 //System.out.println(staff1.get_workingAt().get_location());
                 staff1.ArriveAtStore();
-                staff1.CheckRegister();
-                staff1.DoInventory();
-                staff1.OpenTheStore();
-                staff1.CleanTheStore();
-                staff1.LeaveTheStore();
-            }
-            if (staff2!=null){
-                //System.out.println(staff2.get_name());
-                //System.out.println(staff2.get_daysWorked());
-                //System.out.println(staff2.get_workingAt().get_location());
                 staff2.ArriveAtStore();
+                staff1.CheckRegister();
                 staff2.CheckRegister();
+                staff1.DoInventory();
                 staff2.DoInventory();
+                staff1.OpenTheStore();
                 staff2.OpenTheStore();
+                staff1.CleanTheStore();
                 staff2.CleanTheStore();
+                staff1.LeaveTheStore();
                 staff2.LeaveTheStore();
             }
+
             North_store.removeLogger(watcher1);
             North_store.printTrackers();
             South_store.removeLogger(watcher2);

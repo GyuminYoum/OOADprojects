@@ -1,46 +1,33 @@
-Freddy arrives at the N store on Day 27
-Freddy received Saxophone on day 27
-Freddy received MusicCD on day 27
-Freddy received Cables on day 27
+Freddy arrives at the North store on Day 27
+Freddy received MP3 on day 27
+Freddy received PracticeAmps on day 27
+Freddy received Strings on day 27
 3 items has been added to the inventory
-There is $2534.35 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1252.57
+There is $3167.97 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 914.67
 Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy put in order for Strings for $15.98 on day 27
-Freddy put in order for Strings for $36.47 on day 27
-Freddy put in order for Strings for $32.25 on day 27
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
 Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
+Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy tuned Guitar.
 Freddy adjusted Harmonica.
 Freddy adjusted Flute.
 Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
 Freddy tuned Mandolin.
 Freddy adjusted Flute.
-Freddy tuned Mandolin.
+Freddy tuned Guitar.
 Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy adjusted Saxophone.
+Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $62.58.
-Buyer 2 purchased PaperScore for $6.0.
-Mandolin was too expensive, Buyer 3 left the store.
-Buyer 4 purchased MP3 for $69.12.
-Buyer 5 purchased Cables for $18.46.
-Freddy bought a fair condition MP3 from Seller 1 for $15.87.
-Freddy sold 4 items.
+Buyer 1 purchased PaperScore for $42.54.
+Buyer 2 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 3 purchased Bandanas for $58.84 after a 10%% discount.
+Bass out of stock, Buyer 4 left the store.
+Freddy bought a very good condition Mandolin from Seller 1 for $22.52 after offering 10%% more.
+Freddy sold 3 items.
 Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.

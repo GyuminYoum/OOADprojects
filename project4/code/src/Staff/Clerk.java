@@ -1,34 +1,20 @@
 package Staff;
+import Store.User;
+import java.util.*;
 
-import Accessories_Items.Cables;
-import Accessories_Items.PracticeAmps;
-import Accessories_Items.Strings;
-import Clothing_Items.Bandanas;
-import Clothing_Items.Hats;
-import Clothing_Items.Shirts;
+import Command.*;
+import Factory.NGuitarKitFactory;
 import Factory.RandomItem_Factory;
+import Factory.SGuitarKitFactory;
 import Instruments_Items.Stringed;
-import Instruments_Items.Stringed_Items.Bass;
-import Instruments_Items.Stringed_Items.Guitar;
-import Instruments_Items.Stringed_Items.Mandolin;
 import Instruments_Items.wind;
-import Instruments_Items.wind_Items.Flute;
-import Instruments_Items.wind_Items.Harmonica;
 import Items.Items;
-import Music_Items.CD;
-import Music_Items.PaperScore;
-import Music_Items.Vinyl;
-import Observer.Observer;
-import Players_Items.MP3;
-import Players_Items.RecordPlayer;
 import Store.Customer;
 import Store.Store;
 
 
-import java.lang.instrument.Instrumentation;
 import java.util.ArrayList;
 import java.util.Random;
-import Observer.logger;
 
 public class Clerk extends Staff{
     
@@ -36,6 +22,10 @@ public class Clerk extends Staff{
     private boolean sick;
     private Strategy strategy_;
     private Store workingAt;
+    private Store userStore;
+    private int sold_count;
+    private int buy_count;
+    private int dmg_count;
 
     //default constructor for clerk
     public Clerk(String name1, Strategy strategy) {
@@ -43,6 +33,10 @@ public class Clerk extends Staff{
         days_worked=0;
         strategy_ = strategy;
         workingAt=null;
+        userStore=null;
+        sold_count=0;
+        buy_count=0;
+        dmg_count=0;
     }
 
     //getters and setters for attribute days_worked
@@ -66,6 +60,31 @@ public class Clerk extends Staff{
     }
     public Store get_workingAt(){
         return workingAt;
+    }
+    public void set_userStore(Store store1){
+        userStore=store1;
+    }
+    public Store get_userStore(){
+        return userStore;
+    }
+    public int sell_GuitarKit(){
+        Store Store=workingAt;
+        Items soldItem=null;
+        if(workingAt.get_location()=="North"){
+            NGuitarKitFactory NG1= new NGuitarKitFactory();
+            soldItem=NG1.createGuitarKit();
+        }
+        else if(workingAt.get_location()=="South"){
+            SGuitarKitFactory SG1=new SGuitarKitFactory();
+            soldItem=SG1.createGuitarKit();
+        }
+        soldItem.set_daySold(Store.get_daysPassed());
+        soldItem.set_salePrice(Math.floor((soldItem.get_listPrice() ) * 100) / 100);
+        //remove item from inventory, add to SoldItem ArrayList, add money to register
+        Store.add_soldItem(soldItem);
+        Store.add_Register(soldItem.get_salePrice());
+        sold_count++;
+        return 1;
     }
 
     //Arrive atthe store function
@@ -149,9 +168,9 @@ public class Clerk extends Staff{
         Store Store=workingAt;
         double inven_value=Store.get_InventoryValue();
         ArrayList<String> item_names=Store.get_ItemList();
-        int dmg_count=0;
         String content;
-        int order_count;
+        int order_count=0;
+        int day_dmgCount=0;
         //testrun
         //String[] item_names={"PaperScore","Soccer"};
         //System.out.println("All the items in the inventory are worth total of "+ inven_value);
@@ -161,25 +180,24 @@ public class Clerk extends Staff{
         Store.notifyLoggers(content);
         for(int i=0; i<item_names.size(); i++){
             if(Store.check_stock(item_names.get(i))==0){
-                order_count=this.PlaceAnOrder(item_names.get(i));
-                content=this.get_name()+" ordered total of "+ order_count+" items";
-                Store.notifyLoggers(content);
+                order_count+=this.PlaceAnOrder(item_names.get(i));
             }
         }
+        content=this.get_name()+" ordered total of "+ order_count+" items";
+        Store.notifyLoggers(content);
 
 
         //tune each item
         for(int i=0; i < Store.get_InventorySize(); i++) {
             if (Store.get_Item(i) instanceof Stringed || Store.get_Item(i) instanceof wind) {
                 if(strategy_.Tune(Store.get_Item(i))==false){
-                    dmg_count++;
+                    day_dmgCount++;
                 }
             }
         }
-        content=this.get_name()+" has damaged "+ dmg_count+" items while tuning";
+        dmg_count+=day_dmgCount;
+        content=this.get_name()+" has damaged "+ day_dmgCount+" items while tuning";
         Store.notifyLoggers(content);
-
-
     }
 
     //placeanorder function
@@ -227,41 +245,130 @@ public class Clerk extends Staff{
         return k - 1 + 2;
     }
 
+    public Store find_Store(String loc){
+        Store store=null;
+        for(Clerk i: this.get_workingAt().get_ClerkMember()){
+            if(i.get_workingAt()!=null){
+                if(i.get_workingAt().get_location()==loc){
+                    store=i.get_workingAt();
+                }
+            }
+        }
+        return store;
+    }
+
     //OpenTheStore function
     //args:none
     //random amount of buyers between 4 to 10 and random amount of sellers between 1 to 4 are set
     //each buyer/seller has unique name and uses buy/sell function from customer class
     //returns N/A
     public void OpenTheStore() {
-        int buy_count;
-        int sell_count;
+        int buy_count=0;
+        int sell_count=0;
         int ClerkSoldItems=0;
         int ClerkBoughtItems=0;
         String content;
         Random rng=new Random();
         Store Store=workingAt;
+        Scanner reader=new Scanner(System.in);
+        String input;
+        int option=-1;
+        Store chosen_store=null;
         /*
         buy_count=rng.nextInt(6);
         buy_count+=4;
 
         */
-        buy_count=(int)countBuyerNumber(3.0);
-        sell_count=rng.nextInt(3);
-        sell_count+=1;
-        for(int i=0; i<buy_count;i++){
-            Customer person=new Customer(workingAt);
-            person.setName(i + 1, "Buyer");
-            ClerkSoldItems+=person.Buy();
+        if(workingAt.get_daysPassed()!=workingAt.get_duration()){
+            buy_count=(int)countBuyerNumber(3.0);
+            sell_count=rng.nextInt(3);
+            sell_count+=1;
+            for(int i=0; i<buy_count;i++){
+                Customer person=new Customer(workingAt);
+                person.setName(i + 1, "Buyer");
+                ClerkSoldItems+=person.Buy();
+            }
+            for(int j=0; j<sell_count;j++){
+                Customer person=new Customer(workingAt);
+                person.setName(j + 1, "Seller");
+                ClerkBoughtItems+=person.Sell();
+            }
+            sell_count+=ClerkSoldItems;
+            content=this.get_name()+" sold "+ClerkSoldItems+" items.";
+            Store.notifyLoggers(content);
+            buy_count+=ClerkBoughtItems;
+            content=this.get_name()+" Bought "+ClerkBoughtItems+" items.";
+            Store.notifyLoggers(content);
         }
-        for(int j=0; j<sell_count;j++){
-            Customer person=new Customer(workingAt);
-            person.setName(j + 1, "Seller");
-            ClerkBoughtItems+=person.Sell();
+        else{
+            Invoker IV=new Invoker();
+            /*
+            System.out.println(this.get_name()+" working at "+this.get_workingAt().get_location());
+
+            for(Clerk i:this.get_workingAt().get_ClerkMember()){
+                if(i.get_workingAt()!=null) {
+                    System.out.println(i.get_name() + " working at " + i.get_workingAt().get_location());
+                }
+            }
+
+             */
+            User user1=new User();
+
+            while(option!=7){
+                System.out.println("Select one of the possible options: (1-7)");
+                System.out.println("1. Select a store to issue commands to: (North or South)");
+                System.out.println("2. Ask Clerk their name");
+                System.out.println("3. Ask the Clerk what time it is");
+                System.out.println("4. Sell a normal inventory item to clerk");
+                System.out.println("5. Buy a normal inventory item from Clerk");
+                System.out.println("6. Buy a custom guitar kit from the clerk");
+                System.out.println("7. end interaction");
+                option=reader.nextInt();
+                if(option>7 || option< 1){
+                    if(option!=-1) {
+                        System.out.println("Invalid input");
+                    }
+                }
+                else if(option==1){
+                    selectStore ss1=new selectStore(this,user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==2){
+                    askName ss1=new askName(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==3){
+                    askTime ss1=new askTime(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==4){
+                    Sell ss1=new Sell(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==5){
+                    buyItem ss1=new buyItem(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==6){
+                    buyKit ss1=new buyKit(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else if(option==7){
+                    end ss1=new end(user1);
+                    IV.setCommand(ss1);
+                    IV.Perform();
+                }
+                else{
+                    System.out.println("Invalid input");
+                }
+            }
         }
-        content=this.get_name()+" sold "+ClerkSoldItems+" items.";
-        Store.notifyLoggers(content);
-        content=this.get_name()+" Bought "+ClerkBoughtItems+" items.";
-        Store.notifyLoggers(content);
     }
 
     //clean the store function
@@ -275,7 +382,7 @@ public class Clerk extends Staff{
         Random Rng=new Random();
         name=this.get_name();
         String content;
-        int dmg_count=0;
+        int day_dmgCount=0;
         roll=Rng.nextInt(100);
         Store Store=workingAt;
         if (name=="Velma"){
@@ -284,7 +391,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
-                dmg_count++;
+                day_dmgCount++;
             }
             else{
                 //System.out.println(this.get_name()+" cleaned the store without breaking anything.");
@@ -298,7 +405,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
-                dmg_count++;
+                day_dmgCount++;
             }
             else{
                 //System.out.println(this.get_name()+" cleaned the store without breaking anything.");
@@ -313,7 +420,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
-                dmg_count++;
+                day_dmgCount++;
             }
             else{
                 //System.out.println(this.get_name()+" cleaned the store without breaking anything.");
@@ -321,7 +428,8 @@ public class Clerk extends Staff{
                 Store.notifyLoggers(content);
             }
         }
-        content=this.get_name()+" damaged "+dmg_count+" items while cleaning.";
+        dmg_count+=day_dmgCount;
+        content=this.get_name()+" damaged "+day_dmgCount+" items while cleaning.";
         Store.notifyLoggers(content);
     }
     //Leavethestore function
@@ -346,7 +454,7 @@ public class Clerk extends Staff{
                 workingAt.get_ClerkMember().get(i).set_daysWorked(0);
             }
         }
-        System.out.println(this.get_name()+" worked "+this.get_daysWorked()+" days");
+        //System.out.println(this.get_name()+" worked "+this.get_daysWorked()+" days");
         /*
         for (int i=0; i< Store.get_ClerkMember().size(); i++){
             System.out.println(Store.get_ClerkMember().get(i).get_name()+" "+Store.get_ClerkMember().get(i).get_sick()+" "+Store.get_ClerkMember().get(i).get_daysWorked()+" days");

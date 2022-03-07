@@ -1,40 +1,14 @@
-Daphne is sick on day 29
-Freddy arrives at the N store on Day 29
-Freddy received MusicCD on day 29
-Freddy received Strings on day 29
-2 items has been added to the inventory
-There is $2589.94 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1228.77
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy tuned Mandolin.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased GigBag for $3.38.
-Buyer 3 purchased Vinyl for $77.29 after a 10%% discount.
-Freddy sold 2 items.
-Freddy Bought 0 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the North store on Day 29
+Justin received PaperScore on day 29
+1 items has been added to the inventory
+There is $2532.25 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1411.3
+Justin put in order for GigBag for $34.2 on day 29
+Justin put in order for GigBag for $33.25 on day 29
+Justin put in order for GigBag for $33.35 on day 29
+Justin ordered total of 3 items
+Justin un-adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning

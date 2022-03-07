@@ -1,38 +1,35 @@
-Velma arrives at the N store on Day 15
-Velma received RecordPlayer on day 15
-Velma received MP3 on day 15
-Velma received Cables on day 15
-Velma received CDPlayer on day 15
-4 items has been added to the inventory
-There is $1878.6 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1000.75
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma put in order for GigBag for $1.69 on day 15
-Velma put in order for GigBag for $31.04 on day 15
-Velma put in order for GigBag for $4.8 on day 15
+Velma arrives at the North store on Day 15
+Velma received Mandolin on day 15
+Velma received Mandolin on day 15
+Velma received PracticeAmps on day 15
+Velma received Strings on day 15
+Velma received Strings on day 15
+Velma received Saxophone on day 15
+6 items has been added to the inventory
+There is $1706.28 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 931.5
+Velma put in order for MusicCD for $9.75 on day 15
+Velma put in order for MusicCD for $44.1 on day 15
+Velma put in order for MusicCD for $2.52 on day 15
 Velma ordered total of 3 items
 Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma tuned Guitar.
 Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $81.16 after a 10%% discount.
-Buyer 2 purchased Vinyl for $14.0.
-Buyer 3 purchased Shirts for $7.2 after a 10%% discount.
-Buyer 4 purchased Harmonica for $36.0.
-Buyer 5 purchased Flute for $15.85 after a 10%% discount.
-Hats out of stock, Buyer 6 left the store.
-Bandanas out of stock, Buyer 7 left the store.
-Velma bought a good condition MusicCD from Seller 3 for $10.19 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 1 items.
-Velma has damaged a(n) Flute.
-Velma damaged an item while cleaning.
-Velma damaged 1 items while cleaning.
+Buyer 1 purchased Hats for $20.0.
+Buyer 2 purchased PaperScore for $6.0.
+Buyer 3 purchased CDPlayer for $72.0.
+Buyer 4 purchased Flute for $5.81 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $22.62.
+Buyer 6 purchased Vinyl for $10.8 after a 10%% discount.
+Velma bought a very good condition Bass from Seller 1 for $23.51 after offering 10%% more.
+Velma bought a poor condition Cables from Seller 2 for $49.1.
+Seller 3 didn't accept the price, and left the store.
+Velma sold 6 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
 Velma went home for the day.

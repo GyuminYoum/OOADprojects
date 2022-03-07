@@ -1,40 +1,39 @@
-Velma arrives at the N store on Day 12
-Velma received Flute on day 12
-Velma received RecordPlayer on day 12
-2 items has been added to the inventory
-There is $1939.23 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 875.8
-Velma put in order for MP3 for $44.17 on day 12
-Velma put in order for MP3 for $14.56 on day 12
-Velma put in order for MP3 for $50.36 on day 12
-Velma ordered total of 3 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma put in order for Cables for $16.01 on day 12
-Velma put in order for Cables for $44.87 on day 12
-Velma put in order for Cables for $7.63 on day 12
-Velma ordered total of 3 items
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma tuned Bass.
-Velma tuned Guitar.
-Velma adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 2 purchased MusicCD for $8.0.
-Buyer 3 purchased Guitar for $54.0.
-Buyer 4 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 5 purchased Vinyl for $10.8 after a 10%% discount.
-Buyer 6 purchased RecordPlayer for $34.39 after a 10%% discount.
-Buyer 7 purchased PracticeAmps for $10.0.
-Velma bought a fair condition Flute from Seller 1 for $9.9.
-Velma bought a good condition Saxophone from Seller 2 for $40.17.
-Velma bought a good condition Harmonica from Seller 3 for $28.88 after offering 10%% more.
-Velma sold 7 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Freddy arrives at the North store on Day 12
+0 items has been added to the inventory
+There is $1750.03 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 930.58
+Freddy put in order for Mandolin for $17.07 on day 12
+Freddy put in order for Mandolin for $25.07 on day 12
+Freddy put in order for Mandolin for $19.19 on day 12
+Freddy put in order for PracticeAmps for $24.99 on day 12
+Freddy put in order for PracticeAmps for $11.31 on day 12
+Freddy put in order for PracticeAmps for $45.79 on day 12
+Freddy put in order for Strings for $21.81 on day 12
+Freddy put in order for Strings for $31.38 on day 12
+Freddy put in order for Strings for $19.28 on day 12
+Freddy ordered total of 9 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Cables for $30.0.
+Bandanas was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Shirts for $7.2 after a 10%% discount.
+Buyer 4 purchased Bandanas for $60.08.
+Buyer 5 purchased Saxophone for $96.0.
+Buyer 6 purchased MusicCD for $8.19.
+Mandolin out of stock, Buyer 7 left the store.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 5 items.
+Freddy Bought 0 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

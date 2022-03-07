@@ -1,49 +1,23 @@
-Freddy arrives at the S store on Day 9
-Freddy received RecordPlayer on day 9
+Velma arrives at the South store on Day 9
+Velma received Strings on day 9
 1 items has been added to the inventory
-There is $1399.16 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1114.11
-Freddy put in order for MusicCD for $35.28 on day 9
-Freddy put in order for MusicCD for $8.86 on day 9
-Freddy put in order for MusicCD for $47.91 on day 9
-Freddy ordered total of 3 items
-Freddy put in order for CDPlayer for $49.67 on day 9
-Freddy put in order for CDPlayer for $27.68 on day 9
-Freddy put in order for CDPlayer for $11.31 on day 9
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $38.0.
-Buyer 2 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 3 purchased MP3 for $45.0 after a 10%% discount.
-Buyer 4 purchased Mandolin for $74.0.
-Buyer also purchased PracticeAmps for $47.6.
-CDPlayer out of stock, Buyer 5 left the store.
-Buyer 6 purchased Hats for $18.0 after a 10%% discount.
-Freddy bought a poor condition CDPlayer from Seller 1 for $46.1 after offering 10%% more.
-Freddy bought a good condition Saxophone from Seller 2 for $7.94 after offering 10%% more.
-Freddy bought a fair condition Hats from Seller 3 for $7.28.
-Freddy sold 6 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1540.05 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 967.17
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased PaperScore for $5.4 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
+Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
+Velma bought a fair condition CDPlayer from Seller 1 for $25.31.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

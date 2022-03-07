@@ -1,35 +1,26 @@
-Velma arrives at the S store on Day 17
-Velma received Harmonica on day 17
-1 items has been added to the inventory
-There is $2250.37 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 906.79
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma put in order for Strings for $31.05 on day 17
-Velma put in order for Strings for $41.77 on day 17
-Velma put in order for Strings for $26.01 on day 17
-Velma ordered total of 3 items
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
-Velma un-adjusted Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Cassette for $4.4.
-MP3 was too expensive, Buyer 2 left the store.
-Guitar out of stock, Buyer 3 left the store.
-Buyer 4 purchased Bass for $48.0.
-Guitar out of stock, Buyer 5 left the store.
-Buyer 6 purchased Vinyl for $10.0.
-CassettePlayer was too expensive, Buyer 7 left the store.
-Velma bought a good condition Vinyl from Seller 1 for $12.01 after offering 10%% more.
-Velma bought a poor condition Cassette from Seller 2 for $4.55.
-Seller 3 didn't accept the price, and left the store.
-Velma sold 5 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the South store on Day 17
+Shaggy received GigBag on day 17
+Shaggy received Strings on day 17
+2 items has been added to the inventory
+There is $1927.88 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 1025.32
+Shaggy put in order for PracticeAmps for $15.4 on day 17
+Shaggy put in order for PracticeAmps for $26.65 on day 17
+Shaggy put in order for PracticeAmps for $8.65 on day 17
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $54.59 after a 10%% discount.
+Buyer 2 purchased Harmonica for $20.44 after a 10%% discount.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 4 purchased PaperScore for $33.15 after a 10%% discount.
+Buyer 5 purchased MusicCD for $86.64.
+Buyer 6 purchased PaperScore for $40.88.
+Shaggy bought a very good condition MusicCD from Seller 1 for $29.51.
+Shaggy sold 6 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

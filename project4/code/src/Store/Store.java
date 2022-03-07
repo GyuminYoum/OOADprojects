@@ -63,10 +63,12 @@ public class Store {
     private ArrayList<logger> logger_list=new ArrayList<logger>();
     private ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
     private ArrayList<Observer> Observer_list=new ArrayList<Observer>();
+    private int duration;
 
-    public Store(ArrayList<Clerk> clerks, String loc1){
+    public Store(ArrayList<Clerk> clerks, String loc1, int dur1){
         Clerk_member=clerks;
         location=loc1;
+        duration=dur1;
     }
 
 
@@ -408,6 +410,15 @@ public class Store {
     //getter
     public int get_daysPassed(){
         return daysPassed;
+    }
+    public int get_duration(){
+        return duration;
+    }
+    public void set_duration(int day1){
+        duration=day1;
+    }
+    public ArrayList<Items> get_Inventory(){
+        return Inventory;
     }
 
 

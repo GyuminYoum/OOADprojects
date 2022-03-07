@@ -1,41 +1,25 @@
-Freddy arrives at the S store on Day 10
-Freddy received MusicCD on day 10
-Freddy received CDPlayer on day 10
-Freddy received CDPlayer on day 10
-3 items has been added to the inventory
-There is $1388.71 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1123.09
-Freddy put in order for PracticeAmps for $12.54 on day 10
-Freddy put in order for PracticeAmps for $32.79 on day 10
-Freddy put in order for PracticeAmps for $11.05 on day 10
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Strings was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Strings for $61.08.
-Buyer 3 purchased MP3 for $81.0 after a 10%% discount.
-Freddy bought a poor condition Strings from Seller 1 for $23.32 after offering 10%% more.
-Freddy bought a good condition Bass from Seller 2 for $36.77.
-Freddy sold 2 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the South store on Day 10
+Shaggy received Strings on day 10
+1 items has been added to the inventory
+There is $1614.7 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 938.4
+Shaggy put in order for MP3 for $50.88 on day 10
+Shaggy put in order for MP3 for $28.02 on day 10
+Shaggy put in order for MP3 for $26.94 on day 10
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased CDPlayer for $72.0.
+Shaggy bought a poor condition MP3 from Seller 1 for $21.85 after offering 10%% more.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

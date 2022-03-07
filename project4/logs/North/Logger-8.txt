@@ -1,31 +1,28 @@
-Daphne arrives at the N store on Day 8
-Daphne received Cables on day 8
-Daphne received Strings on day 8
-2 items has been added to the inventory
-There is $1736.79 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 841.01
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Mandolin was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Flute for $96.0.
-Daphne bought a good condition Bass from Seller 1 for $24.21.
-Daphne sold 1 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the North store on Day 8
+Shaggy received Cassette on day 8
+1 items has been added to the inventory
+There is $1143.88 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1143.33
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $30.0.
+Buyer 2 purchased GigBag for $9.9 after a 10%% discount.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 4 purchased Harmonica for $38.0.
+PaperScore was too expensive, Buyer 5 left the store.
+Shaggy bought a fair condition Flute from Seller 1 for $28.22.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a very good condition Bass from Seller 3 for $48.58.
+Shaggy sold 4 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

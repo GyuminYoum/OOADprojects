@@ -1,29 +1,24 @@
-Justin arrives at the N store on Day 22
-Justin received Mandolin on day 22
-Justin received PracticeAmps on day 22
-Justin received Strings on day 22
-Justin received Vinyl on day 22
-Justin received Vinyl on day 22
-5 items has been added to the inventory
-There is $2442.42 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 933.3
-Justin put in order for CDPlayer for $50.15 on day 22
-Justin put in order for CDPlayer for $23.66 on day 22
-Justin put in order for CDPlayer for $26.25 on day 22
-Justin ordered total of 3 items
+Justin arrives at the North store on Day 22
+Justin received MP3 on day 22
+1 items has been added to the inventory
+There is $1823.66 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1365.44
 Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-adjusted Harmonica.
-Justin un-adjusted Harmonica.
+Justin un-tuned Bass.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin un-tuned Bass.
+Justin adjusted Flute.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $80.34.
-Buyer 2 purchased Harmonica for $38.0.
-Justin bought a fair condition PaperScore from Seller 1 for $34.45 after offering 10%% more.
-Justin bought a fair condition Bass from Seller 2 for $44.2.
-Justin sold 2 items.
+Vinyl was too expensive, Buyer 1 left the store.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $72.34 after a 10%% discount.
+Buyer also purchased Cables for $98.2.
+Buyer 4 purchased MP3 for $87.74.
+Justin bought a fair condition Cables from Seller 1 for $14.71 after offering 10%% more.
+Justin bought a poor condition Mandolin from Seller 2 for $26.24.
+Justin sold 3 items.
 Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.

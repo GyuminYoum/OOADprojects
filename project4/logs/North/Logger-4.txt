@@ -1,39 +1,35 @@
-Freddy arrives at the N store on Day 4
+Freddy arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1246.43 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 993.04
-Freddy tuned Guitar.
+There is $1128.45 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1065.18
+Freddy put in order for Cassette for $24.57 on day 4
+Freddy put in order for Cassette for $10.97 on day 4
+Freddy put in order for Cassette for $26.87 on day 4
+Freddy ordered total of 3 items
 Freddy tuned Guitar.
 Freddy tuned Guitar.
 Freddy tuned Bass.
 Freddy tuned Bass.
+Freddy tuned Bass.
 Freddy tuned Mandolin.
 Freddy tuned Mandolin.
 Freddy tuned Mandolin.
 Freddy adjusted Flute.
 Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $10.0.
-Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
-Vinyl was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Shirts for $9.0.
-Buyer 5 purchased Mandolin for $70.0.
-Hats out of stock, Buyer 6 left the store.
-Buyer 7 purchased Strings for $19.8 after a 10%% discount.
-Hats out of stock, Buyer 8 left the store.
-Buyer 9 purchased Cables for $30.0.
-Hats out of stock, Buyer 10 left the store.
-Freddy bought a good condition Guitar from Seller 1 for $31.87.
-Freddy sold 6 items.
-Freddy Bought 1 items.
+Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
+Buyer 2 purchased Bandanas for $5.4 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $9.0 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 3 items.
+Freddy Bought 0 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
