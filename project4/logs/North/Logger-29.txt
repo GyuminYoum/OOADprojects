@@ -1,14 +1,13 @@
-Justin arrives at the North store on Day 29
-Justin received PaperScore on day 29
-1 items has been added to the inventory
-There is $2532.25 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1411.3
-Justin put in order for GigBag for $34.2 on day 29
-Justin put in order for GigBag for $33.25 on day 29
-Justin put in order for GigBag for $33.35 on day 29
-Justin ordered total of 3 items
-Justin un-adjusted Saxophone.
-Justin un-adjusted Flute.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
+Justin is sick on day 29
+Shaggy arrives at the North store on Day 29
+Shaggy received GigBag on day 29
+Shaggy received PaperScore on day 29
+2 items has been added to the inventory
+There is $2696.16 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1216.84
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning

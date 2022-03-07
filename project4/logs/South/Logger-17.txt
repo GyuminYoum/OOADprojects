@@ -1,26 +1,19 @@
-Shaggy arrives at the South store on Day 17
-Shaggy received GigBag on day 17
-Shaggy received Strings on day 17
+Velma arrives at the South store on Day 17
+Velma received PracticeAmps on day 17
+Velma received Mandolin on day 17
 2 items has been added to the inventory
-There is $1927.88 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 1025.32
-Shaggy put in order for PracticeAmps for $15.4 on day 17
-Shaggy put in order for PracticeAmps for $26.65 on day 17
-Shaggy put in order for PracticeAmps for $8.65 on day 17
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Saxophone.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $54.59 after a 10%% discount.
-Buyer 2 purchased Harmonica for $20.44 after a 10%% discount.
-Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 4 purchased PaperScore for $33.15 after a 10%% discount.
-Buyer 5 purchased MusicCD for $86.64.
-Buyer 6 purchased PaperScore for $40.88.
-Shaggy bought a very good condition MusicCD from Seller 1 for $29.51.
-Shaggy sold 6 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $2244.07 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 995.62
+Velma put in order for Saxophone for $34.08 on day 17
+Velma put in order for Saxophone for $26.54 on day 17
+Velma put in order for Saxophone for $41.07 on day 17
+Velma ordered total of 3 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

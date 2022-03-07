@@ -1,31 +1,35 @@
 Velma arrives at the South store on Day 13
-Velma received MP3 on day 13
-Velma received PaperScore on day 13
+Velma received Saxophone on day 13
+Velma received Cassette on day 13
 2 items has been added to the inventory
-There is $1780.14 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 885.19
-Velma put in order for CassettePlayer for $28.2 on day 13
-Velma put in order for CassettePlayer for $6.06 on day 13
-Velma put in order for CassettePlayer for $17.7 on day 13
+There is $1898.08 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 946.59
+Velma put in order for Guitar for $4.13 on day 13
+Velma put in order for Guitar for $44.14 on day 13
+Velma put in order for Guitar for $38.56 on day 13
 Velma ordered total of 3 items
+Velma tuned Bass.
+Velma adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
 Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
 Velma tuned Mandolin.
-Velma tuned Guitar.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Strings for $2.01 after a 10%% discount.
-Strings out of stock, Buyer 2 left the store.
-Buyer 3 purchased MP3 for $39.74.
-Buyer 4 purchased PracticeAmps for $50.0.
-CassettePlayer out of stock, Buyer 5 left the store.
-RecordPlayer was too expensive, Buyer 6 left the store.
-GigBag out of stock, Buyer 7 left the store.
-Velma bought a very good condition Guitar from Seller 1 for $14.18.
-Velma bought a good condition Flute from Seller 2 for $10.82.
-Velma sold 3 items.
-Velma Bought 2 items.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $25.06.
+PracticeAmps out of stock, Buyer 2 left the store.
+Buyer 3 purchased Bass for $41.4 after a 10%% discount.
+Buyer also purchased Strings for $60.0.
+Buyer 4 purchased Vinyl for $41.8.
+Harmonica was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 7 purchased PaperScore for $10.0.
+Velma bought a very good condition Flute from Seller 1 for $7.5.
+Velma bought a poor condition Bass from Seller 2 for $42.47 after offering 10%% more.
+Velma bought a poor condition Bandanas from Seller 3 for $20.92 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

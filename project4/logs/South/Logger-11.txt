@@ -1,34 +1,28 @@
-Freddy arrives at the South store on Day 11
-Freddy received MP3 on day 11
-1 items has been added to the inventory
-There is $1565.01 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 948.19
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $45.96.
-Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer also purchased GigBag for $12.0.
-Buyer 3 purchased Bandanas for $12.0.
-Buyer 4 purchased Harmonica for $36.0 after a 10%% discount.
-Buyer 5 purchased GigBag for $13.0.
-Seller 1 didn't accept the price, and left the store.
-Freddy sold 6 items.
-Freddy Bought 0 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Velma arrives at the South store on Day 11
+Velma received Vinyl on day 11
+Velma received Vinyl on day 11
+Velma received Saxophone on day 11
+Velma received Strings on day 11
+4 items has been added to the inventory
+There is $1599.17 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1079.48
+Velma ordered total of 0 items
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma adjusted Harmonica.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $34.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 2 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 3 purchased MP3 for $81.0 after a 10%% discount.
+Buyer 4 purchased GigBag for $11.0.
+Buyer 5 purchased RecordPlayer for $19.8 after a 10%% discount.
+Velma bought a poor condition Cables from Seller 1 for $15.15 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

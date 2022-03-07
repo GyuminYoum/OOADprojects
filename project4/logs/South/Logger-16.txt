@@ -1,29 +1,32 @@
-Shaggy arrives at the South store on Day 16
-Shaggy received PaperScore on day 16
-Shaggy received CassettePlayer on day 16
-Shaggy received Strings on day 16
-Shaggy received Strings on day 16
-4 items has been added to the inventory
-There is $1889.63 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 938.36
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $18.07.
-Buyer also purchased PracticeAmps for $2.1.
-GigBag out of stock, Buyer 2 left the store.
-Buyer 3 purchased CassettePlayer for $56.4.
-Buyer 4 purchased Guitar for $25.52 after a 10%% discount.
-CassettePlayer out of stock, Buyer 5 left the store.
-Shirts out of stock, Buyer 6 left the store.
-CassettePlayer out of stock, Buyer 7 left the store.
-Shaggy bought a very good condition Strings from Seller 1 for $19.3 after offering 10%% more.
-Shaggy bought a fair condition Bass from Seller 2 for $44.53 after offering 10%% more.
-Shaggy sold 4 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 16
+Justin received PracticeAmps on day 16
+Justin received Cassette on day 16
+Justin received Guitar on day 16
+3 items has been added to the inventory
+There is $2093.96 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1081.33
+Justin put in order for Mandolin for $6.18 on day 16
+Justin put in order for Mandolin for $18.09 on day 16
+Justin put in order for Mandolin for $24.83 on day 16
+Justin put in order for GigBag for $11.51 on day 16
+Justin put in order for GigBag for $24.73 on day 16
+Justin put in order for GigBag for $34.4 on day 16
+Justin ordered total of 6 items
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $51.88.
+Buyer 2 purchased PracticeAmps for $75.79 after a 10%% discount.
+PaperScore was too expensive, Buyer 3 left the store.
+PaperScore was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Flute for $86.4 after a 10%% discount.
+Buyer 6 purchased PracticeAmps for $85.46.
+Justin bought a very good condition Bandanas from Seller 2 for $29.68.
+Justin sold 4 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

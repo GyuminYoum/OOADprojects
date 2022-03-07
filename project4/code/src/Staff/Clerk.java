@@ -83,11 +83,12 @@ public class Clerk extends Staff{
         //remove item from inventory, add to SoldItem ArrayList, add money to register
         Store.add_soldItem(soldItem);
         Store.add_Register(soldItem.get_salePrice());
+        System.out.println("You bought a custom Guitar kit for $"+soldItem.get_salePrice());
         sold_count++;
         return 1;
     }
 
-    //Arrive atthe store function
+    //Arrive at the store function
     //args:none
     //announces appropriate msg including name and day
     //receives order that has dayArrived value=day and announces it
@@ -272,7 +273,7 @@ public class Clerk extends Staff{
         Store Store=workingAt;
         Scanner reader=new Scanner(System.in);
         String input;
-        int option=-1;
+        String option="";
         Store chosen_store=null;
         /*
         buy_count=rng.nextInt(6);
@@ -314,8 +315,8 @@ public class Clerk extends Staff{
              */
             User user1=new User();
 
-            while(option!=7){
-                System.out.println("Select one of the possible options: (1-7)");
+            while(option.matches("7")==false){
+                System.out.println("Select one of the possible options for "+workingAt.get_location()+" store: (1-7)");
                 System.out.println("1. Select a store to issue commands to: (North or South)");
                 System.out.println("2. Ask Clerk their name");
                 System.out.println("3. Ask the Clerk what time it is");
@@ -323,43 +324,41 @@ public class Clerk extends Staff{
                 System.out.println("5. Buy a normal inventory item from Clerk");
                 System.out.println("6. Buy a custom guitar kit from the clerk");
                 System.out.println("7. end interaction");
-                option=reader.nextInt();
-                if(option>7 || option< 1){
-                    if(option!=-1) {
-                        System.out.println("Invalid input");
-                    }
+                option=reader.nextLine();
+                if(option.matches("1")==false && option.matches("2")==false && option.matches("3")==false && option.matches("4")==false && option.matches("5")==false && option.matches("6")==false && option.matches("7")==false ){
+                    System.out.println("Invalid input");
                 }
-                else if(option==1){
+                else if(option.matches("1")==true){
                     selectStore ss1=new selectStore(this,user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==2){
+                else if(option.matches("2")==true){
                     askName ss1=new askName(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==3){
+                else if(option.matches("3")==true){
                     askTime ss1=new askTime(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==4){
+                else if(option.matches("4")==true){
                     Sell ss1=new Sell(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==5){
+                else if(option.matches("5")==true){
                     buyItem ss1=new buyItem(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==6){
+                else if(option.matches("6")==true){
                     buyKit ss1=new buyKit(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
                 }
-                else if(option==7){
+                else if(option.matches("7")==true){
                     end ss1=new end(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
