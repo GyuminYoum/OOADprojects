@@ -1,27 +1,28 @@
-Shaggy arrives at the North store on Day 20
-Shaggy received PaperScore on day 20
-1 items has been added to the inventory
-There is $1892.68 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1319.87
-Shaggy put in order for GigBag for $31.58 on day 20
-Shaggy put in order for GigBag for $50.06 on day 20
-Shaggy put in order for GigBag for $15.86 on day 20
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 0 items while tuning
-Cassette was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Saxophone for $2.58.
-CassettePlayer was too expensive, Buyer 3 left the store.
-Buyer 4 purchased MusicCD for $88.2.
-Shaggy bought a very good condition Mandolin from Seller 1 for $15.97.
-Shaggy bought a good condition Bass from Seller 2 for $11.37.
-Shaggy bought a fair condition Harmonica from Seller 3 for $34.96.
-Shaggy sold 2 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy arrives at the North store on Day 20
+Freddy received RecordPlayer on day 20
+Freddy received Saxophone on day 20
+Freddy received Harmonica on day 20
+Freddy received GigBag on day 20
+4 items has been added to the inventory
+There is $1788.22 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1368.14
+Freddy put in order for Strings for $23.78 on day 20
+Freddy put in order for Strings for $37.54 on day 20
+Freddy put in order for Strings for $12.4 on day 20
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning

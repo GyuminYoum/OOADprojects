@@ -1,32 +1,25 @@
 Shaggy arrives at the South store on Day 25
-Shaggy received Harmonica on day 25
-Shaggy received Harmonica on day 25
 Shaggy received GigBag on day 25
-3 items has been added to the inventory
-There is $1893.39 in the register
+1 items has been added to the inventory
+There is $2576.08 in the register
 There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1353.84
+All the items in the inventory are worth total of $ 1348.73
 Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy un-tuned Bass.
-Shaggy un-tuned Guitar.
+Shaggy adjusted Saxophone.
 Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
 Shaggy un-tuned Guitar.
-Shaggy adjusted Flute.
 Shaggy un-adjusted Harmonica.
+Shaggy adjusted Flute.
 Shaggy has damaged 0 items while tuning
-Guitar was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Harmonica for $26.85 after a 10%% discount.
+Hats out of stock, Buyer 1 left the store.
+Hats out of stock, Buyer 2 left the store.
 Shirts out of stock, Buyer 3 left the store.
-Hats out of stock, Buyer 4 left the store.
-Buyer 5 purchased PracticeAmps for $36.72.
-Buyer 6 purchased CassettePlayer for $42.0.
-Shaggy bought a very good condition Mandolin from Seller 1 for $44.4.
-Shaggy sold 3 items.
+Bass was too expensive, Buyer 4 left the store.
+Shaggy bought a very good condition Strings from Seller 1 for $36.32.
+Shaggy sold 0 items.
 Shaggy Bought 1 items.
-Shaggy has thrown away a(n) GigBag due to less than poor condition.
+Shaggy has damaged a(n) MusicCD.
 Shaggy damaged an item while cleaning.
 Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.

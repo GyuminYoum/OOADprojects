@@ -1,28 +1,38 @@
-Shaggy arrives at the North store on Day 8
-Shaggy received Cassette on day 8
-1 items has been added to the inventory
-There is $1143.88 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1143.33
-Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Bass.
-Shaggy un-tuned Mandolin.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $30.0.
-Buyer 2 purchased GigBag for $9.9 after a 10%% discount.
-Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 4 purchased Harmonica for $38.0.
-PaperScore was too expensive, Buyer 5 left the store.
-Shaggy bought a fair condition Flute from Seller 1 for $28.22.
-Seller 2 didn't accept the price, and left the store.
-Shaggy bought a very good condition Bass from Seller 3 for $48.58.
-Shaggy sold 4 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy arrives at the North store on Day 8
+Freddy received Strings on day 8
+Freddy received Harmonica on day 8
+Freddy received Harmonica on day 8
+3 items has been added to the inventory
+There is $1465.99 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 932.67
+Freddy put in order for Cables for $18.3 on day 8
+Freddy put in order for Cables for $25.86 on day 8
+Freddy put in order for Cables for $39.33 on day 8
+Freddy ordered total of 3 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $8.1 after a 10%% discount.
+Buyer 2 purchased Hats for $10.0.
+Buyer 3 purchased Bandanas for $5.4 after a 10%% discount.
+Freddy bought a good condition Vinyl from Seller 1 for $41.59.
+Freddy bought a fair condition Guitar from Seller 2 for $40.61.
+Freddy sold 3 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

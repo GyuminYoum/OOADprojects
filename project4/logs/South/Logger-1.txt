@@ -23,14 +23,18 @@ Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $90.0.
-Buyer 2 purchased Flute for $90.0.
-Buyer 3 purchased RecordPlayer for $66.0.
-Buyer 4 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 5 purchased Strings for $7.0.
-Freddy bought a very good condition Cables from Seller 1 for $41.34 after offering 10%% more.
-Freddy sold 5 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
+Buyer 1 purchased Mandolin for $74.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Cables for $20.0.
+Vinyl was too expensive, Buyer 2 left the store.
+Buyer 3 purchased PaperScore for $10.0.
+Mandolin was too expensive, Buyer 4 left the store.
+Freddy bought a poor condition Shirts from Seller 1 for $14.01.
+Freddy bought a good condition CassettePlayer from Seller 2 for $27.12.
+Freddy bought a good condition Cables from Seller 3 for $21.38.
+Freddy sold 4 items.
+Freddy Bought 3 items.
+Freddy has damaged a(n) Guitar.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
 Freddy went home for the day.

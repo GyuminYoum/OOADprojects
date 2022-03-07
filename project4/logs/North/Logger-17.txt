@@ -1,34 +1,34 @@
 Velma arrives at the North store on Day 17
-Velma received PracticeAmps on day 17
-Velma received Saxophone on day 17
 Velma received PaperScore on day 17
-Velma received CDPlayer on day 17
-4 items has been added to the inventory
-There is $1650.04 in the register
+Velma received Bass on day 17
+2 items has been added to the inventory
+There is $2057.44 in the register
 There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1203.94
-Velma put in order for MP3 for $28.66 on day 17
-Velma put in order for MP3 for $43.87 on day 17
-Velma put in order for MP3 for $33.96 on day 17
-Velma ordered total of 3 items
-Velma adjusted Harmonica.
-Velma tuned Bass.
+All the items in the inventory are worth total of $ 1094.75
+Velma put in order for RecordPlayer for $13.21 on day 17
+Velma put in order for RecordPlayer for $34.54 on day 17
+Velma put in order for RecordPlayer for $39.56 on day 17
+Velma put in order for Saxophone for $14.29 on day 17
+Velma put in order for Saxophone for $36.9 on day 17
+Velma put in order for Saxophone for $5.31 on day 17
+Velma ordered total of 6 items
+Velma tuned Guitar.
 Velma tuned Guitar.
 Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma tuned Bass.
 Velma has damaged 0 items while tuning
-PaperScore was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Hats for $9.0 after a 10%% discount.
-Buyer 3 purchased Strings for $39.25 after a 10%% discount.
-MP3 out of stock, Buyer 4 left the store.
-Buyer 5 purchased PaperScore for $17.89.
-Buyer 6 purchased Hats for $93.88.
-Velma bought a poor condition Flute from Seller 1 for $23.07.
-Velma bought a very good condition Mandolin from Seller 3 for $15.2.
+MP3 was too expensive, Buyer 1 left the store.
+Cassette was too expensive, Buyer 2 left the store.
+Buyer 3 purchased GigBag for $44.5.
+Buyer 4 purchased Cables for $70.03 after a 10%% discount.
+Buyer 5 purchased Harmonica for $40.0.
+Buyer 6 purchased CDPlayer for $58.28 after a 10%% discount.
+Velma bought a poor condition Bandanas from Seller 1 for $46.52.
+Velma bought a good condition MP3 from Seller 2 for $13.09 after offering 10%% more.
+Velma bought a very good condition Cassette from Seller 3 for $1.53.
 Velma sold 4 items.
-Velma Bought 2 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

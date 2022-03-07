@@ -1,25 +1,29 @@
 Justin arrives at the North store on Day 22
-Justin received MP3 on day 22
-1 items has been added to the inventory
-There is $1823.66 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1365.44
-Justin ordered total of 0 items
-Justin un-tuned Bass.
-Justin adjusted Harmonica.
-Justin adjusted Harmonica.
-Justin un-tuned Bass.
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $72.34 after a 10%% discount.
-Buyer also purchased Cables for $98.2.
-Buyer 4 purchased MP3 for $87.74.
-Justin bought a fair condition Cables from Seller 1 for $14.71 after offering 10%% more.
-Justin bought a poor condition Mandolin from Seller 2 for $26.24.
-Justin sold 3 items.
-Justin Bought 2 items.
+Justin received RecordPlayer on day 22
+Justin received Bass on day 22
+Justin received Strings on day 22
+3 items has been added to the inventory
+There is $2395.86 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1134.5
+Justin put in order for PracticeAmps for $37.6 on day 22
+Justin put in order for PracticeAmps for $23.24 on day 22
+Justin put in order for PracticeAmps for $15.09 on day 22
+Justin ordered total of 3 items
+Justin un-tuned Guitar.
+Justinhas damaged a(n) Guitar.
+Justin un-adjusted Saxophone.
+Justin un-tuned Mandolin.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased Vinyl for $12.6 after a 10%% discount.
+Buyer 2 purchased MusicCD for $71.06 after a 10%% discount.
+Buyer 3 purchased Mandolin for $66.0.
+Buyer 4 purchased Strings for $29.72.
+Justin bought a good condition CDPlayer from Seller 1 for $35.78.
+Seller 2 didn't accept the price, and left the store.
+Seller 3 didn't accept the price, and left the store.
+Justin sold 4 items.
+Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

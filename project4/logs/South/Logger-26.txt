@@ -1,38 +1,15 @@
-Velma arrives at the South store on Day 26
-Velma received Harmonica on day 26
-Velma received GigBag on day 26
-2 items has been added to the inventory
-There is $1954.56 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1373.95
-Velma put in order for PracticeAmps for $18.23 on day 26
-Velma put in order for PracticeAmps for $41.18 on day 26
-Velma put in order for PracticeAmps for $41.9 on day 26
-Velma ordered total of 3 items
-Velma tuned Bass.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $89.08.
-Buyer 2 purchased CDPlayer for $64.8 after a 10%% discount.
-PracticeAmps out of stock, Buyer 3 left the store.
-Buyer 4 purchased Guitar for $66.6 after a 10%% discount.
-Buyer also purchased Strings for $101.36.
-Buyer also purchased Strings for $53.36.
-Velma bought a good condition CassettePlayer from Seller 2 for $4.89 after offering 10%% more.
-Velma bought a very good condition Mandolin from Seller 3 for $29.55 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the South store on Day 26
+0 items has been added to the inventory
+There is $2539.75 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1385.05
+Shaggy ordered total of 0 items
+Shaggy adjusted Flute.
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Harmonica.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

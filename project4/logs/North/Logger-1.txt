@@ -6,25 +6,28 @@ All the items in the inventory are worth total of $ 1074.08
 Shaggy ordered total of 0 items
 Shaggy tuned Guitar.
 Shaggy tuned Guitar.
+Shaggy tuned Guitar.
 Shaggy tuned Bass.
 Shaggy tuned Bass.
 Shaggy tuned Bass.
 Shaggy tuned Mandolin.
 Shaggy tuned Mandolin.
-Shaggy adjusted Flute.
+Shaggy tuned Mandolin.
 Shaggy adjusted Flute.
 Shaggy adjusted Flute.
 Shaggy adjusted Harmonica.
 Shaggy adjusted Harmonica.
 Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $54.0.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased CassettePlayer for $26.0.
-Buyer 4 purchased Strings for $7.0.
-Shaggy bought a very good condition Shirts from Seller 1 for $50.57.
-Shaggy sold 4 items.
-Shaggy Bought 1 items.
+Buyer 1 purchased Vinyl for $10.0.
+Buyer 2 purchased PracticeAmps for $10.0.
+Buyer 3 purchased Cables for $10.0.
+Shaggy bought a poor condition PracticeAmps from Seller 1 for $24.03.
+Shaggy bought a very good condition RecordPlayer from Seller 2 for $40.72.
+Shaggy bought a poor condition Cables from Seller 3 for $24.56.
+Shaggy sold 3 items.
+Shaggy Bought 3 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

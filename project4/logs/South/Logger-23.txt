@@ -1,20 +1,38 @@
-Velma arrives at the South store on Day 23
-Velma received PaperScore on day 23
-Velma received Cassette on day 23
-Velma received CassettePlayer on day 23
-Velma received CassettePlayer on day 23
-4 items has been added to the inventory
-There is $2425.37 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 959.62
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma adjusted Flute.
-Velma tuned Guitar.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne arrives at the South store on Day 23
+Daphne received RecordPlayer on day 23
+Daphne received GigBag on day 23
+Daphne received GigBag on day 23
+3 items has been added to the inventory
+There is $2305.98 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1425.1
+Daphne ordered total of 0 items
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $67.53 after a 10%% discount.
+Buyer 2 purchased Flute for $96.0.
+Harmonica out of stock, Buyer 3 left the store.
+Buyer 4 purchased Cables for $51.62 after a 10%% discount.
+Daphne bought a fair condition Guitar from Seller 1 for $28.78 after offering 10%% more.
+Daphne bought a very good condition Cassette from Seller 2 for $39.24.
+Daphne sold 3 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

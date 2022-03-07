@@ -1,21 +1,26 @@
-Justin arrives at the North store on Day 10
-0 items has been added to the inventory
-There is $1325.18 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1084.63
-Justin ordered total of 0 items
-Justin un-adjusted Harmonica.
-Justin un-tuned Guitar.
-Justin un-adjusted Harmonica.
-Justinhas damaged a(n) Harmonica.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 2 purchased Mandolin for $74.0.
-Buyer 3 purchased Bandanas for $12.0.
-Vinyl was too expensive, Buyer 4 left the store.
-Justin bought a good condition Hats from Seller 1 for $51.63 after offering 10%% more.
-Justin sold 3 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Velma arrives at the North store on Day 10
+Velma received Harmonica on day 10
+1 items has been added to the inventory
+There is $1447.28 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1123.2
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Cables was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Guitar for $11.74.
+Buyer also purchased Cables for $78.66.
+Seller 1 didn't accept the price, and left the store.
+Velma sold 2 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

@@ -1,13 +1,14 @@
-Velma is sick on day 6
+Freddy is sick on day 6
 Daphne arrives at the South store on Day 6
-Daphne received RecordPlayer on day 6
-1 items has been added to the inventory
-There is $1423.62 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 950.14
-Daphne put in order for Strings for $3.32 on day 6
-Daphne put in order for Strings for $20.57 on day 6
-Daphne put in order for Strings for $1.12 on day 6
+Daphne received PaperScore on day 6
+Daphne received Cables on day 6
+2 items has been added to the inventory
+There is $1178.95 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1075.73
+Daphne put in order for Mandolin for $27.02 on day 6
+Daphne put in order for Mandolin for $28.87 on day 6
+Daphne put in order for Mandolin for $40.75 on day 6
 Daphne ordered total of 3 items
 Daphne tuned Guitar.
 Daphne tuned Guitar.
@@ -15,23 +16,23 @@ Daphne tuned Guitar.
 Daphne tuned Bass.
 Daphne tuned Bass.
 Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
 Daphne adjusted Flute.
 Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
 Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $21.6 after a 10%% discount.
-Buyer 2 purchased CDPlayer for $48.0.
-Buyer 3 purchased Shirts for $9.0.
-Buyer 4 purchased Shirts for $9.0 after a 10%% discount.
-Buyer 5 purchased MusicCD for $7.2 after a 10%% discount.
-Buyer 6 purchased Cables for $10.0.
-Daphne bought a poor condition Mandolin from Seller 1 for $43.66.
-Daphne sold 6 items.
+Buyer 1 purchased Bandanas for $12.0.
+Bass was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Strings for $7.0.
+Buyer 4 purchased Shirts for $8.0.
+Buyer 5 purchased MP3 for $9.0 after a 10%% discount.
+Daphne bought a fair condition PracticeAmps from Seller 1 for $10.38.
+Seller 2 didn't accept the price, and left the store.
+Daphne sold 4 items.
 Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.

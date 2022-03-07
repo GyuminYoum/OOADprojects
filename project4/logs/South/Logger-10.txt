@@ -1,25 +1,46 @@
-Shaggy arrives at the South store on Day 10
-Shaggy received Strings on day 10
+Freddy arrives at the South store on Day 10
+Freddy received Cables on day 10
 1 items has been added to the inventory
-There is $1614.7 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 938.4
-Shaggy put in order for MP3 for $50.88 on day 10
-Shaggy put in order for MP3 for $28.02 on day 10
-Shaggy put in order for MP3 for $26.94 on day 10
-Shaggy ordered total of 3 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Mandolin.
-Shaggyhas damaged a(n) Mandolin.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Bandanas for $6.0.
-Buyer 2 purchased CDPlayer for $72.0.
-Shaggy bought a poor condition MP3 from Seller 1 for $21.85 after offering 10%% more.
-Shaggy sold 2 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1218.58 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1276.7
+Freddy put in order for CDPlayer for $14.73 on day 10
+Freddy put in order for CDPlayer for $42.54 on day 10
+Freddy put in order for CDPlayer for $17.57 on day 10
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $78.58.
+Buyer 2 purchased RecordPlayer for $41.1.
+Cables was too expensive, Buyer 3 left the store.
+Buyer 4 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 5 purchased PaperScore for $18.1.
+Buyer 6 purchased Saxophone for $84.0.
+Buyer 7 purchased Guitar for $54.0.
+Buyer also purchased Cables for $99.86.
+Buyer also purchased Cables for $101.56.
+Freddy bought a good condition MP3 from Seller 1 for $31.54.
+Freddy bought a poor condition Flute from Seller 2 for $15.25 after offering 10%% more.
+Freddy sold 8 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

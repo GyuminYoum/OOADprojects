@@ -1,29 +1,24 @@
-Velma arrives at the South store on Day 24
-0 items has been added to the inventory
-There is $1979.19 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1295.38
-Velma put in order for GigBag for $43.52 on day 24
-Velma put in order for GigBag for $21.14 on day 24
-Velma put in order for GigBag for $41.12 on day 24
-Velma ordered total of 3 items
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma has damaged 1 items while tuning
-Harmonica out of stock, Buyer 1 left the store.
-Buyer 2 purchased MusicCD for $47.04.
-Buyer 3 purchased MusicCD for $13.3.
-Velma bought a fair condition Flute from Seller 1 for $9.59 after offering 10%% more.
-Velma bought a poor condition PaperScore from Seller 2 for $30.77 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the South store on Day 24
+Justin received Harmonica on day 24
+1 items has been added to the inventory
+There is $2453.11 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1403.36
+Justin ordered total of 0 items
+Justin un-adjusted Saxophone.
+Justinhas damaged a(n) Saxophone.
+Justin un-adjusted Flute.
+Justin has thrown away a(n) Flutedue to less than poor condition.
+Justin has damaged 2 items while tuning
+Buyer 1 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 2 purchased Cassette for $35.18.
+Hats out of stock, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $41.2 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Justin bought a good condition Flute from Seller 2 for $24.25 after offering 10%% more.
+Justin bought a fair condition Vinyl from Seller 3 for $4.75.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

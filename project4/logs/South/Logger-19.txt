@@ -1,31 +1,35 @@
 Velma arrives at the South store on Day 19
-Velma received PracticeAmps on day 19
-Velma received PracticeAmps on day 19
-2 items has been added to the inventory
-There is $1944.99 in the register
-There are total of 34 items in the inventory.
-All the items in the inventory are worth total of $ 908.18
-Velma put in order for Cassette for $16.72 on day 19
-Velma put in order for Cassette for $21.66 on day 19
-Velma put in order for Cassette for $32.04 on day 19
+Velma received Harmonica on day 19
+Velma received GigBag on day 19
+Velma received Strings on day 19
+3 items has been added to the inventory
+There is $2418.5 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 979.39
+Velma put in order for Bass for $9.43 on day 19
+Velma put in order for Bass for $36.1 on day 19
+Velma put in order for Bass for $50.43 on day 19
 Velma ordered total of 3 items
-Velma tuned Bass.
-Velma un-adjusted Saxophone.
 Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Flute.
 Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
 Velma tuned Guitar.
 Velma un-adjusted Harmonica.
 Velma has damaged 0 items while tuning
-Harmonica was too expensive, Buyer 1 left the store.
-Bandanas was too expensive, Buyer 2 left the store.
-MP3 was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Mandolin for $59.4 after a 10%% discount.
-Buyer also purchased GigBag for $81.7.
-Buyer 5 purchased RecordPlayer for $30.16.
-Velma bought a good condition Cassette from Seller 1 for $17.79 after offering 10%% more.
-Velma bought a very good condition Cables from Seller 2 for $48.12.
-Velma sold 3 items.
-Velma Bought 2 items.
+Bass out of stock, Buyer 1 left the store.
+Flute was too expensive, Buyer 2 left the store.
+Flute was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Flute for $92.0.
+Shirts out of stock, Buyer 5 left the store.
+Velma bought a good condition RecordPlayer from Seller 1 for $18.29.
+Velma bought a poor condition MusicCD from Seller 2 for $28.19 after offering 10%% more.
+Velma bought a fair condition Vinyl from Seller 3 for $39.13.
+Velma sold 1 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

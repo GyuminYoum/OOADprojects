@@ -30,7 +30,7 @@ public class logger implements Observer, Writer, Display {
 
     }
 
-    public void update(String content1) {
+    public void update(String content1, Store Store) {
         this.content = content1;
         display();
         Write();

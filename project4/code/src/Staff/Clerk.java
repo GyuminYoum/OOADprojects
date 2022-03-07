@@ -391,6 +391,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
+                Store.notifyTrackers("damaged");
                 day_dmgCount++;
             }
             else{
@@ -405,6 +406,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
+                Store.notifyTrackers("damaged");
                 day_dmgCount++;
             }
             else{
@@ -420,6 +422,7 @@ public class Clerk extends Staff{
                 //System.out.println(this.get_name()+" damaged an item while cleaning.");
                 content=this.get_name()+" damaged an item while cleaning.";
                 Store.notifyLoggers(content);
+                Store.notifyTrackers("damaged");
                 day_dmgCount++;
             }
             else{

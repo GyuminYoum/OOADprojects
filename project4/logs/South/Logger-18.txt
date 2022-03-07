@@ -1,29 +1,28 @@
 Shaggy arrives at the South store on Day 18
-Shaggy received CassettePlayer on day 18
-1 items has been added to the inventory
-There is $2158.95 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 906.66
-Shaggy put in order for PaperScore for $22.19 on day 18
-Shaggy put in order for PaperScore for $37.24 on day 18
-Shaggy put in order for PaperScore for $46.39 on day 18
-Shaggy put in order for Harmonica for $44.28 on day 18
-Shaggy put in order for Harmonica for $15.18 on day 18
-Shaggy put in order for Harmonica for $46.46 on day 18
+Shaggy received CDPlayer on day 18
+Shaggy received Harmonica on day 18
+Shaggy received GigBag on day 18
+3 items has been added to the inventory
+There is $2584.86 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 890.29
+Shaggy put in order for Vinyl for $46.59 on day 18
+Shaggy put in order for Vinyl for $35.81 on day 18
+Shaggy put in order for Vinyl for $15.86 on day 18
+Shaggy put in order for Strings for $12.19 on day 18
+Shaggy put in order for Strings for $7.79 on day 18
+Shaggy put in order for Strings for $25.38 on day 18
 Shaggy ordered total of 6 items
+Shaggy un-adjusted Flute.
 Shaggy un-tuned Bass.
-Shaggy un-tuned Guitar.
-Shaggyhas damaged a(n) Guitar.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Cassette for $4.4.
-Harmonica out of stock, Buyer 2 left the store.
-Shirts out of stock, Buyer 3 left the store.
-PracticeAmps out of stock, Buyer 4 left the store.
-Bandanas was too expensive, Buyer 5 left the store.
-Shaggy bought a very good condition Harmonica from Seller 1 for $6.61.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $32.38 after a 10%% discount.
+Bandanas was too expensive, Buyer 2 left the store.
+Vinyl out of stock, Buyer 3 left the store.
+Shaggy bought a fair condition Guitar from Seller 1 for $55.11 after offering 10%% more.
 Shaggy sold 1 items.
 Shaggy Bought 1 items.
-Shaggy has thrown away a(n) MP3 due to less than poor condition.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

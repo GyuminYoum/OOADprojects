@@ -1,37 +1,34 @@
-Shaggy arrives at the South store on Day 15
-Shaggy received PaperScore on day 15
-Shaggy received GigBag on day 15
-Shaggy received GigBag on day 15
-Shaggy received CassettePlayer on day 15
-4 items has been added to the inventory
-There is $1794.93 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 908.46
-Shaggy put in order for Strings for $42.08 on day 15
-Shaggy put in order for Strings for $34.72 on day 15
-Shaggy put in order for Strings for $39.14 on day 15
-Shaggy ordered total of 3 items
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $12.0.
-Buyer 2 purchased Cassette for $7.38 after a 10%% discount.
-Buyer 3 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased GigBag for $15.5.
-Buyer also purchased PracticeAmps for $16.36.
-Buyer 4 purchased Mandolin for $70.0.
-Buyer also purchased GigBag for $28.04.
-Buyer 5 purchased Hats for $20.0.
-Buyer 6 purchased CassettePlayer for $10.9 after a 10%% discount.
-Buyer 7 purchased Hats for $9.0 after a 10%% discount.
-Shaggy bought a fair condition Guitar from Seller 1 for $18.14.
-Seller 2 didn't accept the price, and left the store.
-Shaggy sold 10 items.
-Shaggy Bought 1 items.
-Shaggy has damaged a(n) CDPlayer.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 15
+Justin received Strings on day 15
+Justin received PracticeAmps on day 15
+Justin received PracticeAmps on day 15
+Justin received CDPlayer on day 15
+Justin received Guitar on day 15
+Justin received Guitar on day 15
+6 items has been added to the inventory
+There is $2142.54 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 949.65
+Justin put in order for Harmonica for $5.86 on day 15
+Justin put in order for Harmonica for $10.02 on day 15
+Justin put in order for Harmonica for $27.59 on day 15
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $70.0.
+Harmonica out of stock, Buyer 2 left the store.
+Buyer 3 purchased Cassette for $49.98.
+Buyer 4 purchased MusicCD for $8.4.
+Cables was too expensive, Buyer 5 left the store.
+Buyer 6 purchased PaperScore for $11.0.
+Buyer 7 purchased Bass for $30.36.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased Cables for $6.18.
+Justin bought a very good condition PaperScore from Seller 1 for $34.69.
+Justin bought a poor condition MP3 from Seller 2 for $49.45.
+Justin sold 7 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
