@@ -1,0 +1,45 @@
+Daphne arrives at the North store on Day 24
+Daphne received GigBag on day 24
+Daphne received Cables on day 24
+2 items has been added to the inventory
+There is $2817.51 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 886.87
+Daphne put in order for PracticeAmps for $15.36 on day 24
+Daphne put in order for PracticeAmps for $27.61 on day 24
+Daphne put in order for PracticeAmps for $11.91 on day 24
+Daphne put in order for Strings for $24.63 on day 24
+Daphne put in order for Strings for $22.97 on day 24
+Daphne put in order for Strings for $14.73 on day 24
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $68.44.
+PracticeAmps out of stock, Buyer 2 left the store.
+Buyer 3 purchased MusicCD for $35.19 after a 10%% discount.
+Cables was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Flute for $86.4 after a 10%% discount.
+Daphne bought a very good condition Cables from Seller 1 for $10.53 after offering 10%% more.
+Daphne bought a poor condition MusicCD from Seller 2 for $56.01 after offering 10%% more.
+Daphne bought a very good condition Saxophone from Seller 3 for $30.97 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

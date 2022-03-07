@@ -1,0 +1,26 @@
+Justin arrives at the North store on Day 11
+0 items has been added to the inventory
+There is $1402.75 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1069.26
+Justin ordered total of 0 items
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer 2 purchased MP3 for $50.0.
+Buyer 3 purchased Flute for $92.0.
+Buyer 4 purchased Mandolin for $66.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Buyer 5 purchased Bass for $39.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 6 purchased Bandanas for $18.0.
+Justin bought a very good condition Shirts from Seller 1 for $11.79.
+Justin bought a good condition CassettePlayer from Seller 2 for $14.46 after offering 10%% more.
+Justin bought a fair condition Vinyl from Seller 3 for $48.07.
+Justin sold 10 items.
+Justin Bought 3 items.
+Justin has damaged a(n) Shirts.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.

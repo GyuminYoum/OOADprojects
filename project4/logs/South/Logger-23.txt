@@ -1,0 +1,20 @@
+Velma arrives at the South store on Day 23
+Velma received PaperScore on day 23
+Velma received Cassette on day 23
+Velma received CassettePlayer on day 23
+Velma received CassettePlayer on day 23
+4 items has been added to the inventory
+There is $2425.37 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 959.62
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma adjusted Flute.
+Velma tuned Guitar.
+Velma adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

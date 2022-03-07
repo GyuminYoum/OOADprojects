@@ -1,0 +1,33 @@
+Daphne arrives at the North store on Day 2
+0 items has been added to the inventory
+There is $1072.43 in the register
+There are total of 60 items in the inventory.
+All the items in the inventory are worth total of $ 1063.15
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Shirts was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Cassette for $6.0.
+Buyer 3 purchased PaperScore for $10.0.
+Buyer 4 purchased Flute for $90.0.
+Daphne bought a fair condition Guitar from Seller 1 for $12.76 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

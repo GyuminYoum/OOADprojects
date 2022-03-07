@@ -1,0 +1,23 @@
+Velma arrives at the South store on Day 9
+Velma received Strings on day 9
+1 items has been added to the inventory
+There is $1540.05 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 967.17
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased PaperScore for $5.4 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
+Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
+Velma bought a fair condition CDPlayer from Seller 1 for $25.31.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

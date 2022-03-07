@@ -1,0 +1,26 @@
+Velma arrives at the North store on Day 5
+Velma received Cassette on day 5
+1 items has been added to the inventory
+There is $1161.44 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1023.15
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $27.0 after a 10%% discount.
+Buyer 2 purchased Cables for $10.0.
+Shirts was too expensive, Buyer 3 left the store.
+Velma bought a poor condition Bandanas from Seller 1 for $30.04.
+Velma sold 2 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

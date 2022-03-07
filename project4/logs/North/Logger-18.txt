@@ -1,0 +1,31 @@
+Velma arrives at the North store on Day 18
+Velma received Strings on day 18
+Velma received MusicCD on day 18
+Velma received PaperScore on day 18
+Velma received CDPlayer on day 18
+Velma received MP3 on day 18
+5 items has been added to the inventory
+There is $1665.3 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1272.91
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Cables for $87.4 after a 10%% discount.
+Buyer 2 purchased Guitar for $23.2.
+Buyer 3 purchased RecordPlayer for $44.0.
+Velma bought a fair condition CDPlayer from Seller 1 for $44.51.
+Velma sold 3 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

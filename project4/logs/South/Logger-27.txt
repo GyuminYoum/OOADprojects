@@ -1,0 +1,26 @@
+Justin arrives at the South store on Day 27
+Justin received GigBag on day 27
+1 items has been added to the inventory
+There is $2194.0 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1252.56
+Justin put in order for Strings for $18.03 on day 27
+Justin put in order for Strings for $45.01 on day 27
+Justin put in order for Strings for $39.5 on day 27
+Justin ordered total of 3 items
+Justin un-tuned Bass.
+Justin un-tuned Guitar.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cables for $90.44.
+Shirts out of stock, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $2.16.
+Buyer 4 purchased Flute for $76.8.
+Buyer 5 purchased Vinyl for $47.5.
+Justin bought a poor condition Cassette from Seller 1 for $6.53 after offering 10%% more.
+Justin sold 4 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

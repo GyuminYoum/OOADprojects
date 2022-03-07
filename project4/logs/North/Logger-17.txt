@@ -1,0 +1,34 @@
+Velma arrives at the North store on Day 17
+Velma received PracticeAmps on day 17
+Velma received Saxophone on day 17
+Velma received PaperScore on day 17
+Velma received CDPlayer on day 17
+4 items has been added to the inventory
+There is $1650.04 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1203.94
+Velma put in order for MP3 for $28.66 on day 17
+Velma put in order for MP3 for $43.87 on day 17
+Velma put in order for MP3 for $33.96 on day 17
+Velma ordered total of 3 items
+Velma adjusted Harmonica.
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+PaperScore was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Hats for $9.0 after a 10%% discount.
+Buyer 3 purchased Strings for $39.25 after a 10%% discount.
+MP3 out of stock, Buyer 4 left the store.
+Buyer 5 purchased PaperScore for $17.89.
+Buyer 6 purchased Hats for $93.88.
+Velma bought a poor condition Flute from Seller 1 for $23.07.
+Velma bought a very good condition Mandolin from Seller 3 for $15.2.
+Velma sold 4 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

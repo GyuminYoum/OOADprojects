@@ -1,0 +1,30 @@
+Shaggy arrives at the North store on Day 1
+0 items has been added to the inventory
+Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+There are total of 63 items in the inventory.
+All the items in the inventory are worth total of $ 1074.08
+Shaggy ordered total of 0 items
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Mandolin.
+Shaggy tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $54.0.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased CassettePlayer for $26.0.
+Buyer 4 purchased Strings for $7.0.
+Shaggy bought a very good condition Shirts from Seller 1 for $50.57.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

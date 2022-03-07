@@ -1,0 +1,40 @@
+Daphne arrives at the North store on Day 19
+Daphne received MusicCD on day 19
+Daphne received CDPlayer on day 19
+Daphne received MP3 on day 19
+3 items has been added to the inventory
+There is $1775.39 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1289.97
+Daphne ordered total of 0 items
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $14.0.
+Buyer 2 purchased PaperScore for $48.76.
+Buyer 3 purchased PracticeAmps for $91.58.
+Buyer 4 purchased GigBag for $11.7 after a 10%% discount.
+Buyer 5 purchased Guitar for $59.79 after a 10%% discount.
+Daphne bought a poor condition Cables from Seller 1 for $16.24 after offering 10%% more.
+Daphne bought a poor condition Harmonica from Seller 2 for $49.29.
+Daphne bought a poor condition Cassette from Seller 3 for $43.01.
+Daphne sold 5 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

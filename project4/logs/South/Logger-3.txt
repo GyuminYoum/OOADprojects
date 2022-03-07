@@ -1,0 +1,23 @@
+Shaggy arrives at the South store on Day 3
+0 items has been added to the inventory
+There is $1341.89 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 927.28
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 2 purchased Harmonica for $34.2 after a 10%% discount.
+Buyer 3 purchased PaperScore for $10.0.
+Buyer 4 purchased Shirts for $8.0.
+Buyer 5 purchased RecordPlayer for $22.0.
+Shaggy bought a good condition PaperScore from Seller 1 for $25.27 after offering 10%% more.
+Shaggy sold 5 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,0 +1,44 @@
+Shaggy is sick on day 30
+Daphne arrives at the N store on Day 30
+Daphne received Cables on day 30
+Daphne received Strings on day 30
+2 items has been added to the inventory
+There is $2670.61 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1223.43
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $30.46.
+Buyer 3 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 4 purchased MusicCD for $76.44 after a 10%% discount.
+Buyer 5 purchased Flute for $21.02 after a 10%% discount.
+Bandanas out of stock, Buyer 6 left the store.
+Daphne bought a very good condition MP3 from Seller 1 for $34.71.
+Daphne sold 4 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

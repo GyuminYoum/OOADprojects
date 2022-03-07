@@ -1,0 +1,25 @@
+Shaggy arrives at the South store on Day 10
+Shaggy received Strings on day 10
+1 items has been added to the inventory
+There is $1614.7 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 938.4
+Shaggy put in order for MP3 for $50.88 on day 10
+Shaggy put in order for MP3 for $28.02 on day 10
+Shaggy put in order for MP3 for $26.94 on day 10
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bandanas for $6.0.
+Buyer 2 purchased CDPlayer for $72.0.
+Shaggy bought a poor condition MP3 from Seller 1 for $21.85 after offering 10%% more.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
