@@ -1,41 +1,24 @@
-Freddy arrives at the S store on Day 10
-Freddy received MusicCD on day 10
-Freddy received CDPlayer on day 10
-Freddy received CDPlayer on day 10
-3 items has been added to the inventory
-There is $1388.71 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1123.09
-Freddy put in order for PracticeAmps for $12.54 on day 10
-Freddy put in order for PracticeAmps for $32.79 on day 10
-Freddy put in order for PracticeAmps for $11.05 on day 10
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Strings was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Strings for $61.08.
-Buyer 3 purchased MP3 for $81.0 after a 10%% discount.
-Freddy bought a poor condition Strings from Seller 1 for $23.32 after offering 10%% more.
-Freddy bought a good condition Bass from Seller 2 for $36.77.
-Freddy sold 2 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the South store on Day 10
+Justin received Cables on day 10
+1 items has been added to the inventory
+There is $1393.35 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 988.39
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Vinyl out of stock, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $13.0.
+Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 4 purchased Bass for $43.2 after a 10%% discount.
+Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
+Justin bought a poor condition Cables from Seller 1 for $50.51 after offering 10%% more.
+Justin bought a fair condition Mandolin from Seller 2 for $43.65.
+Justin sold 4 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

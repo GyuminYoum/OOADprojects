@@ -1,38 +1,44 @@
-Justin arrives at the S store on Day 23
-Justin received CassettePlayer on day 23
-Justin received Strings on day 23
-Justin received Strings on day 23
-Justin received RecordPlayer on day 23
-4 items has been added to the inventory
-There is $2565.79 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 997.79
-Justin put in order for Guitar for $18.21 on day 23
-Justin put in order for Guitar for $16.25 on day 23
-Justin put in order for Guitar for $40.72 on day 23
-Justin ordered total of 3 items
-Justin ordered total of 0 items
-Justin put in order for Flute for $23.59 on day 23
-Justin put in order for Flute for $15.48 on day 23
-Justin put in order for Flute for $47.04 on day 23
-Justin ordered total of 3 items
-Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $65.58.
-Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 3 purchased CassettePlayer for $85.33 after a 10%% discount.
-Buyer 4 purchased Cables for $63.82.
-Justin bought a very good condition Cassette from Seller 1 for $11.44.
-Justin bought a poor condition MusicCD from Seller 2 for $4.5.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Freddy arrives at the South store on Day 23
+Freddy received Mandolin on day 23
+1 items has been added to the inventory
+There is $1777.28 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1412.72
+Freddy put in order for Harmonica for $14.92 on day 23
+Freddy put in order for Harmonica for $1.08 on day 23
+Freddy put in order for Harmonica for $12.21 on day 23
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $6.64.
+Buyer 2 purchased Cassette for $64.8.
+Harmonica out of stock, Buyer 3 left the store.
+Buyer 4 purchased PaperScore for $50.8.
+Shirts out of stock, Buyer 5 left the store.
+Buyer 6 purchased CDPlayer for $43.2 after a 10%% discount.
+Buyer 7 purchased GigBag for $73.04 after a 10%% discount.
+Freddy bought a very good condition CassettePlayer from Seller 1 for $8.36.
+Freddy sold 5 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

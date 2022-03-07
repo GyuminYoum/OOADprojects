@@ -1,24 +1,28 @@
-Shaggy arrives at the N store on Day 10
-0 items has been added to the inventory
-There is $1687.21 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 899.84
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $84.0.
-Hats out of stock, Buyer 2 left the store.
-Buyer 3 purchased RecordPlayer for $22.0.
-Flute out of stock, Buyer 4 left the store.
-Shaggy bought a very good condition Harmonica from Seller 1 for $55.74 after offering 10%% more.
-Shaggy bought a poor condition Cassette from Seller 2 for $43.84 after offering 10%% more.
-Shaggy sold 2 items.
+Shaggy arrives at the North store on Day 10
+Shaggy received GigBag on day 10
+Shaggy received PracticeAmps on day 10
+2 items has been added to the inventory
+There is $1578.43 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 986.32
+Shaggy put in order for MP3 for $2.17 on day 10
+Shaggy put in order for MP3 for $20.23 on day 10
+Shaggy put in order for MP3 for $14.8 on day 10
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
+Buyer 2 purchased Bass for $3.04.
+Flute was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $8.1 after a 10%% discount.
+Buyer 5 purchased Cassette for $6.0.
+Shaggy bought a poor condition Guitar from Seller 1 for $9.99 after offering 10%% more.
+Shaggy bought a very good condition Saxophone from Seller 2 for $11.78.
+Shaggy sold 4 items.
 Shaggy Bought 2 items.
-Shaggy has damaged a(n) Saxophone.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

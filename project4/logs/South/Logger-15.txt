@@ -1,41 +1,22 @@
-Freddy arrives at the S store on Day 15
-Freddy received PracticeAmps on day 15
-Freddy received Harmonica on day 15
-2 items has been added to the inventory
-There is $1597.54 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1230.1
-Freddy ordered total of 0 items
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $76.9.
-Buyer also purchased GigBag for $12.0.
-Buyer 2 purchased CDPlayer for $83.82.
-Cassette was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Hats for $13.1 after a 10%% discount.
-Buyer 5 purchased MP3 for $62.08.
-Buyer 6 purchased RecordPlayer for $88.78.
-Buyer 7 purchased Harmonica for $27.5 after a 10%% discount.
-Buyer 8 purchased Mandolin for $70.0.
-Freddy bought a very good condition Saxophone from Seller 1 for $45.42.
-Freddy sold 8 items.
-Freddy Bought 1 items.
-Freddy has thrown away a(n) MusicCD due to less than poor condition.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the South store on Day 15
+Justin received Strings on day 15
+1 items has been added to the inventory
+There is $1410.19 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1322.1
+Justin ordered total of 0 items
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Harmonica was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Bandanas for $12.0.
+Buyer 3 purchased Bandanas for $18.0.
+Buyer 4 purchased PaperScore for $5.4 after a 10%% discount.
+Justin bought a good condition Mandolin from Seller 1 for $32.16 after offering 10%% more.
+Justin bought a very good condition PaperScore from Seller 2 for $3.12.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

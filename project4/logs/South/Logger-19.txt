@@ -1,42 +1,47 @@
-Shaggy arrives at the S store on Day 19
-Shaggy received Guitar on day 19
-Shaggy received Strings on day 19
-2 items has been added to the inventory
-There is $2448.35 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 946.45
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy ordered total of 0 items
-Shaggy put in order for CassettePlayer for $37.82 on day 19
-Shaggy put in order for CassettePlayer for $10.43 on day 19
-Shaggy put in order for CassettePlayer for $35.49 on day 19
-Shaggy ordered total of 3 items
-Shaggy put in order for GigBag for $37.88 on day 19
-Shaggy put in order for GigBag for $47.17 on day 19
-Shaggy put in order for GigBag for $3.99 on day 19
-Shaggy ordered total of 3 items
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Flute.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased Guitar for $46.99 after a 10%% discount.
-Buyer also purchased PracticeAmps for $25.08.
-Buyer also purchased Strings for $83.54.
-Shirts out of stock, Buyer 3 left the store.
-Buyer 4 purchased RecordPlayer for $3.51 after a 10%% discount.
-Cables was too expensive, Buyer 5 left the store.
-CDPlayer was too expensive, Buyer 6 left the store.
-Buyer 7 purchased PaperScore for $11.0.
-Shaggy bought a fair condition RecordPlayer from Seller 1 for $50.19.
-Shaggy bought a fair condition CassettePlayer from Seller 2 for $47.41.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy has damaged a(n) Vinyl.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+Daphne arrives at the South store on Day 19
+Daphne received GigBag on day 19
+Daphne received MusicCD on day 19
+Daphne received Mandolin on day 19
+Daphne received Strings on day 19
+Daphne received Cassette on day 19
+5 items has been added to the inventory
+There is $2099.82 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1132.94
+Daphne put in order for CDPlayer for $26.36 on day 19
+Daphne put in order for CDPlayer for $2.59 on day 19
+Daphne put in order for CDPlayer for $9.9 on day 19
+Daphne put in order for Bass for $48.28 on day 19
+Daphne put in order for Bass for $41.93 on day 19
+Daphne put in order for Bass for $26.11 on day 19
+Daphne put in order for PracticeAmps for $20.42 on day 19
+Daphne put in order for PracticeAmps for $22.94 on day 19
+Daphne put in order for PracticeAmps for $9.52 on day 19
+Daphne ordered total of 9 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Bass out of stock, Buyer 1 left the store.
+Bass out of stock, Buyer 2 left the store.
+Buyer 3 purchased Vinyl for $83.32 after a 10%% discount.
+Buyer 4 purchased GigBag for $81.09 after a 10%% discount.
+Daphne bought a very good condition Vinyl from Seller 2 for $11.96 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Daphne sold 2 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

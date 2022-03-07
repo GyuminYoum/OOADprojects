@@ -1,45 +1,35 @@
-Freddy arrives at the N store on Day 17
-Freddy received MP3 on day 17
-1 items has been added to the inventory
-There is $1957.36 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1112.75
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $59.4 after a 10%% discount.
-Buyer also purchased PracticeAmps for $40.0.
-Buyer also purchased Strings for $44.66.
-Buyer also purchased Strings for $9.84.
-Buyer 2 purchased Saxophone for $76.8.
-MP3 was too expensive, Buyer 3 left the store.
-Buyer 4 purchased MusicCD for $2.54.
-PracticeAmps out of stock, Buyer 5 left the store.
-Harmonica was too expensive, Buyer 6 left the store.
-Buyer 7 purchased MP3 for $26.2 after a 10%% discount.
+Daphne arrives at the North store on Day 17
+0 items has been added to the inventory
+There is $2107.8 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 937.49
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $30.6 after a 10%% discount.
+Buyer 2 purchased GigBag for $38.66 after a 10%% discount.
+Buyer 3 purchased GigBag for $82.98.
+MP3 was too expensive, Buyer 4 left the store.
+Harmonica was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Shirts for $63.36 after a 10%% discount.
+Buyer 7 purchased CassettePlayer for $50.72.
+Buyer 8 purchased RecordPlayer for $44.0.
+Buyer 9 purchased Vinyl for $14.0.
 Seller 1 didn't accept the price, and left the store.
-Seller 2 didn't accept the price, and left the store.
-Freddy sold 7 items.
-Freddy Bought 0 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Daphne bought a good condition Hats from Seller 2 for $21.25 after offering 10%% more.
+Daphne bought a poor condition Flute from Seller 3 for $31.49.
+Daphne sold 7 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

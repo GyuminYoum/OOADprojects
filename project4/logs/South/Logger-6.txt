@@ -1,22 +1,27 @@
-Justin arrives at the S store on Day 6
-Justin received Strings on day 6
-Justin received RecordPlayer on day 6
-2 items has been added to the inventory
-There is $1315.23 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1049.27
-Justin un-adjusted Flute.
-Justin un-adjusted Harmonica.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $48.0.
-CassettePlayer was too expensive, Buyer 2 left the store.
-Mandolin was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Cassette for $8.19.
-Justin bought a very good condition Saxophone from Seller 1 for $30.48 after offering 10%% more.
-Justin bought a fair condition Flute from Seller 2 for $32.79.
-Justin sold 2 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Shaggy arrives at the South store on Day 6
+Shaggy received RecordPlayer on day 6
+1 items has been added to the inventory
+There is $1196.71 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1103.39
+Shaggy ordered total of 0 items
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $41.4 after a 10%% discount.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer also purchased Strings for $14.0.
+Buyer 2 purchased Hats for $18.0 after a 10%% discount.
+Buyer 3 purchased Guitar for $54.0.
+Buyer also purchased GigBag for $12.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Cables for $20.0.
+Buyer 4 purchased Vinyl for $10.8 after a 10%% discount.
+Cassette was too expensive, Buyer 5 left the store.
+Shaggy bought a very good condition Bass from Seller 1 for $11.04.
+Shaggy bought a poor condition RecordPlayer from Seller 2 for $33.99.
+Shaggy sold 9 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

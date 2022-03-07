@@ -1,44 +1,35 @@
-Freddy arrives at the N store on Day 23
-Freddy received Mandolin on day 23
-Freddy received Strings on day 23
-Freddy received MP3 on day 23
-Freddy received MP3 on day 23
-Freddy received CDPlayer on day 23
-5 items has been added to the inventory
-There is $2382.05 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 1063.85
-Freddy ordered total of 0 items
-Freddy ordered total of 0 items
-Freddy put in order for Saxophone for $2.98 on day 23
-Freddy put in order for Saxophone for $28.79 on day 23
-Freddy put in order for Saxophone for $42.0 on day 23
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-RecordPlayer was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Guitar for $34.0.
-Buyer 3 purchased Harmonica for $36.0 after a 10%% discount.
-Freddy bought a very good condition PaperScore from Seller 2 for $44.78.
-Freddy sold 2 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the North store on Day 23
+Shaggy received Strings on day 23
+Shaggy received Vinyl on day 23
+2 items has been added to the inventory
+There is $2540.04 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1038.6
+Shaggy put in order for MP3 for $42.36 on day 23
+Shaggy put in order for MP3 for $11.03 on day 23
+Shaggy put in order for MP3 for $3.24 on day 23
+Shaggy put in order for Cables for $41.23 on day 23
+Shaggy put in order for Cables for $31.72 on day 23
+Shaggy put in order for Cables for $6.36 on day 23
+Shaggy ordered total of 6 items
+Shaggy un-tuned Guitar.
+Shaggy adjusted Saxophone.
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Flute for $92.0.
+Buyer 2 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 3 purchased Strings for $18.01 after a 10%% discount.
+Cables out of stock, Buyer 4 left the store.
+Buyer 5 purchased Saxophone for $69.88.
+Buyer 6 purchased Mandolin for $42.24.
+Buyer also purchased PracticeAmps for $88.72.
+Buyer also purchased Strings for $97.12.
+Buyer 7 purchased Hats for $7.05 after a 10%% discount.
+Shaggy bought a poor condition Guitar from Seller 1 for $34.0 after offering 10%% more.
+Shaggy sold 9 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

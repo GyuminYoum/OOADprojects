@@ -1,41 +1,23 @@
-Daphne arrives at the S store on Day 5
-Daphne received Strings on day 5
-1 items has been added to the inventory
-There is $1261.16 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1042.1
-Daphne put in order for RecordPlayer for $12.0 on day 5
-Daphne put in order for RecordPlayer for $1.95 on day 5
-Daphne put in order for RecordPlayer for $44.39 on day 5
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Cables for $20.0.
-Buyer 2 purchased MusicCD for $8.19.
-Buyer 3 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
-Buyer also purchased PracticeAmps for $10.0.
-Buyer also purchased Strings for $69.68.
-Daphne bought a poor condition Cassette from Seller 1 for $40.59 after offering 10%% more.
-Daphne bought a good condition Shirts from Seller 2 for $5.47 after offering 10%% more.
-Daphne sold 8 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the South store on Day 5
+0 items has been added to the inventory
+There is $1147.43 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1064.27
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Hats for $27.0 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased Bass for $44.0.
+Buyer also purchased Strings for $7.0.
+Seller 1 didn't accept the price, and left the store.
+Justin bought a fair condition Hats from Seller 2 for $38.62 after offering 10%% more.
+Justin sold 4 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

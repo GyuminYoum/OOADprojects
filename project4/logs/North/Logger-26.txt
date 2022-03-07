@@ -1,30 +1,42 @@
-Shaggy is sick on day 26
-Justin arrives at the N store on Day 26
-Justin received CDPlayer on day 26
-Justin received Saxophone on day 26
-Justin received MusicCD on day 26
-Justin received Cables on day 26
+Freddy arrives at the North store on Day 26
+Freddy received Vinyl on day 26
+Freddy received MP3 on day 26
+Freddy received Cables on day 26
+Freddy received Strings on day 26
 4 items has been added to the inventory
-There is $2314.74 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1300.15
-Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin adjusted Harmonica.
-Justin un-tuned Bass.
-Justin adjusted Harmonica.
-Justin adjusted Harmonica.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $62.08.
-Buyer 2 purchased Bass for $43.57 after a 10%% discount.
-Buyer also purchased Strings for $55.06.
-Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
-Justin bought a fair condition Mandolin from Seller 1 for $16.7.
-Justin sold 6 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $3028.76 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 916.6
+Freddy put in order for Bass for $7.25 on day 26
+Freddy put in order for Bass for $1.36 on day 26
+Freddy put in order for Bass for $26.94 on day 26
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Bandanas was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Bandanas for $18.0.
+Buyer 3 purchased Guitar for $30.6 after a 10%% discount.
+Buyer 4 purchased Guitar for $74.0.
+Buyer also purchased GigBag for $23.6.
+Buyer also purchased PracticeAmps for $23.82.
+Buyer 5 purchased MP3 for $19.85 after a 10%% discount.
+Freddy bought a very good condition Guitar from Seller 1 for $15.11 after offering 10%% more.
+Freddy sold 6 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

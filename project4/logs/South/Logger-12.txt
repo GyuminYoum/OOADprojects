@@ -1,40 +1,30 @@
-Freddy arrives at the S store on Day 12
-Freddy received MusicCD on day 12
-Freddy received PracticeAmps on day 12
-Freddy received PracticeAmps on day 12
-Freddy received MP3 on day 12
+Velma arrives at the South store on Day 12
+Velma received Vinyl on day 12
+Velma received Cables on day 12
+Velma received Strings on day 12
+Velma received GigBag on day 12
 4 items has been added to the inventory
-There is $1438.08 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1154.68
-Freddy put in order for Harmonica for $15.53 on day 12
-Freddy put in order for Harmonica for $15.97 on day 12
-Freddy put in order for Harmonica for $15.28 on day 12
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $10.0.
-Buyer 2 purchased Guitar for $34.0.
-Buyer 3 purchased Shirts for $10.0.
-Freddy bought a poor condition Vinyl from Seller 1 for $41.87.
-Freddy sold 3 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1400.05 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1194.68
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $34.2 after a 10%% discount.
+CassettePlayer was too expensive, Buyer 2 left the store.
+Buyer 3 purchased MusicCD for $7.38 after a 10%% discount.
+Velma bought a good condition Cassette from Seller 1 for $14.67.
+Velma bought a poor condition CDPlayer from Seller 2 for $17.45 after offering 10%% more.
+Velma bought a good condition CDPlayer from Seller 3 for $14.61 after offering 10%% more.
+Velma sold 2 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

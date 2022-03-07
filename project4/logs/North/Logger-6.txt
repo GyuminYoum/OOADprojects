@@ -1,41 +1,40 @@
-Freddy arrives at the N store on Day 6
-Freddy received Cables on day 6
-Freddy received Cables on day 6
-Freddy received Strings on day 6
-3 items has been added to the inventory
-There is $1331.66 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 986.02
-Freddy ordered total of 0 items
+Freddy arrives at the North store on Day 6
+0 items has been added to the inventory
+There is $1463.3 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 896.93
+Freddy put in order for Strings for $22.05 on day 6
+Freddy put in order for Strings for $48.75 on day 6
+Freddy put in order for Strings for $33.04 on day 6
+Freddy put in order for GigBag for $41.49 on day 6
+Freddy put in order for GigBag for $32.64 on day 6
+Freddy put in order for GigBag for $21.48 on day 6
+Freddy ordered total of 6 items
 Freddy tuned Guitar.
 Freddy tuned Guitar.
 Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
 Freddy tuned Mandolin.
 Freddy adjusted Flute.
 Freddy adjusted Flute.
 Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
 Freddy has damaged 0 items while tuning
-Harmonica was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $24.0.
-Buyer 3 purchased RecordPlayer for $44.0.
-Buyer 4 purchased Flute for $82.8 after a 10%% discount.
-PracticeAmps was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Bass for $41.4 after a 10%% discount.
-Buyer also purchased Cables for $83.0.
-Buyer also purchased Cables for $101.62.
-Buyer 7 purchased Strings for $49.14 after a 10%% discount.
-Freddy bought a good condition Guitar from Seller 1 for $20.83.
-Freddy sold 7 items.
-Freddy Bought 1 items.
-Freddy has damaged a(n) PracticeAmps.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
+Cables was too expensive, Buyer 1 left the store.
+GigBag out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $48.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $4.52.
+Freddy bought a good condition Harmonica from Seller 1 for $19.64.
+Freddy bought a good condition Guitar from Seller 2 for $30.55.
+Freddy bought a poor condition Shirts from Seller 3 for $35.2.
+Freddy sold 2 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

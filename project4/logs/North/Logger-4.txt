@@ -1,39 +1,37 @@
-Freddy arrives at the N store on Day 4
+Daphne arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1246.43 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 993.04
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $10.0.
-Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
-Vinyl was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Shirts for $9.0.
-Buyer 5 purchased Mandolin for $70.0.
-Hats out of stock, Buyer 6 left the store.
-Buyer 7 purchased Strings for $19.8 after a 10%% discount.
-Hats out of stock, Buyer 8 left the store.
-Buyer 9 purchased Cables for $30.0.
-Hats out of stock, Buyer 10 left the store.
-Freddy bought a good condition Guitar from Seller 1 for $31.87.
-Freddy sold 6 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1117.13 in the register
+There are total of 60 items in the inventory.
+All the items in the inventory are worth total of $ 1062.13
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Bass for $41.4 after a 10%% discount.
+Buyer also purchased PracticeAmps for $30.0.
+Buyer also purchased Strings for $14.0.
+Buyer 2 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 3 purchased Hats for $27.0 after a 10%% discount.
+Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
+Daphne bought a fair condition RecordPlayer from Seller 1 for $36.91 after offering 10%% more.
+Daphne sold 6 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

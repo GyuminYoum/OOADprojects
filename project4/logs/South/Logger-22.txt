@@ -1,43 +1,26 @@
-Velma arrives at the S store on Day 22
-Velma received CassettePlayer on day 22
-Velma received GigBag on day 22
-Velma received GigBag on day 22
-3 items has been added to the inventory
-There is $2521.31 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 949.69
-Velma put in order for RecordPlayer for $1.66 on day 22
-Velma put in order for RecordPlayer for $42.84 on day 22
-Velma put in order for RecordPlayer for $4.09 on day 22
-Velma ordered total of 3 items
-Velma put in order for Bass for $31.92 on day 22
-Velma put in order for Bass for $6.92 on day 22
-Velma put in order for Bass for $14.77 on day 22
-Velma ordered total of 3 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma adjusted Flute.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $43.12.
-Buyer also purchased GigBag for $75.76.
-Buyer 2 purchased Flute for $65.58.
-Harmonica was too expensive, Buyer 3 left the store.
-Buyer 4 purchased PaperScore for $35.36.
-Velma bought a fair condition CassettePlayer from Seller 1 for $30.09 after offering 10%% more.
-Velma bought a poor condition Cassette from Seller 2 for $8.55 after offering 10%% more.
-Velma bought a very good condition Strings from Seller 3 for $34.48 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the South store on Day 22
+Justin received Mandolin on day 22
+Justin received Mandolin on day 22
+2 items has been added to the inventory
+There is $1622.85 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1431.73
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin un-tuned Guitar.
+Justin un-adjusted Flute.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $11.24.
+Buyer also purchased Cables for $56.34.
+Buyer also purchased Cables for $95.68.
+Shirts out of stock, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $89.54.
+Shirts out of stock, Buyer 4 left the store.
+Justin bought a poor condition CDPlayer from Seller 1 for $49.94.
+Justin bought a poor condition MP3 from Seller 2 for $14.02.
+Justin bought a very good condition RecordPlayer from Seller 3 for $34.41 after offering 10%% more.
+Justin sold 4 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -1,37 +1,44 @@
-Velma arrives at the S store on Day 20
-Velma received Guitar on day 20
-Velma received CassettePlayer on day 20
-2 items has been added to the inventory
-There is $2348.07 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 988.17
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma ordered total of 0 items
-Velma put in order for Strings for $31.88 on day 20
-Velma put in order for Strings for $31.89 on day 20
-Velma put in order for Strings for $15.19 on day 20
-Velma ordered total of 3 items
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $90.34 after a 10%% discount.
-Buyer 2 purchased Bass for $73.54.
-Buyer 3 purchased MP3 for $86.12.
-Buyer 4 purchased PaperScore for $6.0.
-MP3 was too expensive, Buyer 5 left the store.
-Buyer 6 purchased PracticeAmps for $22.1.
-Shirts out of stock, Buyer 7 left the store.
-Velma bought a poor condition MusicCD from Seller 1 for $25.9 after offering 10%% more.
-Velma sold 5 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin is sick on day 20
+Daphne arrives at the South store on Day 20
+Daphne received GigBag on day 20
+Daphne received MusicCD on day 20
+Daphne received Saxophone on day 20
+Daphne received Strings on day 20
+Daphne received Cassette on day 20
+Daphne received CDPlayer on day 20
+Daphne received PracticeAmps on day 20
+7 items has been added to the inventory
+There is $2044.21 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1290.46
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $53.36.
+Buyer also purchased GigBag for $81.92.
+Buyer 2 purchased Cassette for $67.64 after a 10%% discount.
+GigBag out of stock, Buyer 3 left the store.
+Vinyl was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Hats for $57.42.
+Daphne bought a good condition Harmonica from Seller 1 for $53.1 after offering 10%% more.
+Daphne bought a fair condition Bandanas from Seller 2 for $32.14.
+Daphne sold 4 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

@@ -1,32 +1,38 @@
-Justin arrives at the S store on Day 1
+Freddy arrives at the South store on Day 1
 0 items has been added to the inventory
-Justin went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-Justin tuned Guitar.
-Justin tuned Guitar.
-Justin tuned Guitar.
-Justin tuned Bass.
-Justin tuned Bass.
-Justin tuned Mandolin.
-Justin tuned Mandolin.
-Justin tuned Mandolin.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 2 purchased RecordPlayer for $66.0.
-Buyer 3 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
-Buyer 5 purchased PaperScore for $9.0 after a 10%% discount.
-Justin bought a poor condition Cables from Seller 1 for $15.05.
-Justin bought a good condition Guitar from Seller 2 for $38.45.
-Justin bought a fair condition Cables from Seller 3 for $43.87 after offering 10%% more.
-Justin sold 5 items.
-Justin Bought 3 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $66.0.
+Buyer 2 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 3 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $9.0 after a 10%% discount.
+Freddy bought a fair condition MP3 from Seller 1 for $49.5.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a very good condition MP3 from Seller 3 for $8.24.
+Freddy sold 4 items.
+Freddy Bought 2 items.
+Freddy has damaged a(n) Strings.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.
