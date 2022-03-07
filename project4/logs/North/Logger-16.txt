@@ -1,3 +1,29 @@
+<<<<<<< HEAD
+Justin arrives at the North store on Day 16
+Justin received MP3 on day 16
+Justin received PaperScore on day 16
+Justin received Bass on day 16
+3 items has been added to the inventory
+There is $1650.2 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1221.76
+Justin ordered total of 0 items
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin un-tuned Bass.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $94.46.
+Buyer 2 purchased Cables for $65.58.
+Buyer 3 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 4 purchased Saxophone for $86.4 after a 10%% discount.
+Buyer 5 purchased Flute for $96.0.
+Seller 1 didn't accept the price, and left the store.
+Justin sold 5 items.
+Justin Bought 0 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Shaggy arrives at the North store on Day 16
 Shaggy received Cables on day 16
 Shaggy received Strings on day 16
@@ -25,3 +51,4 @@ Shaggy has damaged a(n) PaperScore.
 Shaggy damaged an item while cleaning.
 Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

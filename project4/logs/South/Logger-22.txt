@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+Shaggy arrives at the South store on Day 22
+Shaggy received Bass on day 22
+Shaggy received Mandolin on day 22
+Shaggy received Cables on day 22
+3 items has been added to the inventory
+There is $2245.69 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1401.24
+Shaggy put in order for GigBag for $38.76 on day 22
+Shaggy put in order for GigBag for $45.33 on day 22
+Shaggy put in order for GigBag for $14.52 on day 22
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $14.0.
+Buyer 2 purchased Harmonica for $62.4 after a 10%% discount.
+Hats out of stock, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Bandanas out of stock, Buyer 5 left the store.
+Buyer 6 purchased PaperScore for $67.88.
+Buyer 7 purchased Cables for $69.22 after a 10%% discount.
+Shaggy bought a good condition PracticeAmps from Seller 1 for $54.59 after offering 10%% more.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
 Daphne arrives at the South store on Day 22
 Daphne received Saxophone on day 22
 Daphne received GigBag on day 22
@@ -38,3 +72,4 @@ Daphne has thrown away a(n) Vinyl due to less than poor condition.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

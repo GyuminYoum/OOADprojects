@@ -43,12 +43,12 @@ public class FNMS {
     public void Run(){
         Clerk staff1;
         Clerk staff2;
-        Tracker tracker1 = new Tracker(North_store);
-        Tracker tracker2 = new Tracker(South_store);
-        North_store.registerTracker(tracker1);
-        South_store.registerTracker(tracker2);
-        tracker1.initialize();
-        tracker2.initialize();
+        //Tracker tracker1 = new Tracker();
+        //Tracker tracker2 = new Tracker(South_store);
+        North_store.registerTracker(Tracker.GetInstance());
+        South_store.registerTracker(Tracker.GetInstance());
+        //tracker1.initialize();
+        //tracker2.initialize();
 
         while(North_store.get_daysPassed()<=duration && South_store.get_daysPassed()<=duration){
             //this is done to avoid the daysWorked from resetting at the end
@@ -134,9 +134,9 @@ public class FNMS {
 
         North_store.Report();
         North_store.printTrackers();
-        North_store.removeTracker(tracker1);
+        North_store.removeTracker(Tracker.GetInstance());
         South_store.Report();
         South_store.printTrackers();
-        South_store.removeTracker(tracker2);
+        South_store.removeTracker(Tracker.GetInstance());
     }
 }

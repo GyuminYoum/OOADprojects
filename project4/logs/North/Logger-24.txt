@@ -1,3 +1,38 @@
+<<<<<<< HEAD
+Shaggy arrives at the North store on Day 24
+Shaggy received Bass on day 24
+Shaggy received PracticeAmps on day 24
+2 items has been added to the inventory
+There is $2518.65 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1184.93
+Shaggy ordered total of 0 items
+Shaggy adjusted Flute.
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Flute.
+Shaggy adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $92.16.
+Buyer 2 purchased Strings for $74.52.
+Buyer 3 purchased MusicCD for $62.46.
+Buyer 4 purchased Strings for $75.64.
+Buyer 5 purchased PracticeAmps for $41.83 after a 10%% discount.
+Buyer 6 purchased MusicCD for $62.13 after a 10%% discount.
+Shaggy bought a poor condition MusicCD from Seller 1 for $3.78 after offering 10%% more.
+Shaggy bought a very good condition Flute from Seller 2 for $51.81 after offering 10%% more.
+Shaggy bought a very good condition Flute from Seller 3 for $2.14.
+Shaggy sold 6 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
 Freddy arrives at the North store on Day 24
 Freddy received Strings on day 24
 1 items has been added to the inventory
@@ -36,3 +71,4 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

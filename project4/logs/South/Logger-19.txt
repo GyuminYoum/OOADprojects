@@ -1,3 +1,40 @@
+<<<<<<< HEAD
+Velma arrives at the South store on Day 19
+Velma received Harmonica on day 19
+Velma received GigBag on day 19
+Velma received Strings on day 19
+3 items has been added to the inventory
+There is $2418.5 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 979.39
+Velma put in order for Bass for $9.43 on day 19
+Velma put in order for Bass for $36.1 on day 19
+Velma put in order for Bass for $50.43 on day 19
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Bass out of stock, Buyer 1 left the store.
+Flute was too expensive, Buyer 2 left the store.
+Flute was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Flute for $92.0.
+Shirts out of stock, Buyer 5 left the store.
+Velma bought a good condition RecordPlayer from Seller 1 for $18.29.
+Velma bought a poor condition MusicCD from Seller 2 for $28.19 after offering 10%% more.
+Velma bought a fair condition Vinyl from Seller 3 for $39.13.
+Velma sold 1 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Daphne arrives at the South store on Day 19
 Daphne received MusicCD on day 19
 1 items has been added to the inventory
@@ -30,3 +67,4 @@ Daphne tuned Bass.
 Daphne tuned Guitar.
 Daphne tuned Guitar.
 Daphne has damaged 0 items while tuning
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

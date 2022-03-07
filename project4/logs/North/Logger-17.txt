@@ -1,3 +1,39 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 17
+Velma received PaperScore on day 17
+Velma received Bass on day 17
+2 items has been added to the inventory
+There is $2057.44 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1094.75
+Velma put in order for RecordPlayer for $13.21 on day 17
+Velma put in order for RecordPlayer for $34.54 on day 17
+Velma put in order for RecordPlayer for $39.56 on day 17
+Velma put in order for Saxophone for $14.29 on day 17
+Velma put in order for Saxophone for $36.9 on day 17
+Velma put in order for Saxophone for $5.31 on day 17
+Velma ordered total of 6 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+MP3 was too expensive, Buyer 1 left the store.
+Cassette was too expensive, Buyer 2 left the store.
+Buyer 3 purchased GigBag for $44.5.
+Buyer 4 purchased Cables for $70.03 after a 10%% discount.
+Buyer 5 purchased Harmonica for $40.0.
+Buyer 6 purchased CDPlayer for $58.28 after a 10%% discount.
+Velma bought a poor condition Bandanas from Seller 1 for $46.52.
+Velma bought a good condition MP3 from Seller 2 for $13.09 after offering 10%% more.
+Velma bought a very good condition Cassette from Seller 3 for $1.53.
+Velma sold 4 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Freddy is sick on day 17
 Daphne arrives at the North store on Day 17
 Daphne received Strings on day 17
@@ -30,3 +66,4 @@ Daphne has damaged 0 items while tuning
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

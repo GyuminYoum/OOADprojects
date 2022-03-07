@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+Justin arrives at the South store on Day 13
+Justin received MP3 on day 13
+Justin received Cassette on day 13
+2 items has been added to the inventory
+There is $2169.67 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 798.2
+Justin put in order for CDPlayer for $25.65 on day 13
+Justin put in order for CDPlayer for $34.72 on day 13
+Justin put in order for CDPlayer for $11.35 on day 13
+Justin put in order for Guitar for $36.64 on day 13
+Justin put in order for Guitar for $47.86 on day 13
+Justin put in order for Guitar for $13.63 on day 13
+Justin ordered total of 6 items
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 2 purchased GigBag for $10.8 after a 10%% discount.
+Buyer 3 purchased Harmonica for $70.18 after a 10%% discount.
+Buyer 4 purchased Harmonica for $38.54.
+Buyer 5 purchased MusicCD for $8.19.
+Vinyl was too expensive, Buyer 6 left the store.
+Strings out of stock, Buyer 7 left the store.
+CassettePlayer was too expensive, Buyer 8 left the store.
+Justin bought a very good condition Saxophone from Seller 1 for $24.57.
+Justin sold 5 items.
+Justin Bought 1 items.
+Justin has damaged a(n) RecordPlayer.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.
+=======
 Velma arrives at the South store on Day 13
 Velma received Saxophone on day 13
 Velma received Cassette on day 13
@@ -33,3 +67,4 @@ Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

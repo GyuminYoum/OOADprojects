@@ -1,0 +1,34 @@
+Shaggy arrives at the store on Day 12
+Shaggy received GigBag on day 12
+Shaggy received PracticeAmps on day 12
+Shaggy received PracticeAmps on day 12
+Shaggy received Strings on day 12
+4 items has been added to the inventory
+There is $1639.58 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1097.08
+Shaggy put in order for RecordPlayer for $23.25 on day 12
+Shaggy put in order for RecordPlayer for $28.21 on day 12
+Shaggy put in order for RecordPlayer for $2.2 on day 12
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy adjusted Saxophone.
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Flute.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Cables for $87.06 after a 10%% discount.
+Shirts out of stock, Buyer 2 left the store.
+Buyer 3 purchased Hats for $9.0 after a 10%% discount.
+Buyer 4 purchased GigBag for $57.0 after a 10%% discount.
+Mandolin out of stock, Buyer 5 left the store.
+Shaggy bought a very good condition Strings from Seller 1 for $30.32 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

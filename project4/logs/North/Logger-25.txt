@@ -1,3 +1,35 @@
+<<<<<<< HEAD
+Justin arrives at the North store on Day 25
+Justin received PracticeAmps on day 25
+1 items has been added to the inventory
+There is $2869.65 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1070.1
+Justin put in order for Strings for $22.41 on day 25
+Justin put in order for Strings for $7.64 on day 25
+Justin put in order for Strings for $5.64 on day 25
+Justin put in order for Cassette for $20.16 on day 25
+Justin put in order for Cassette for $18.59 on day 25
+Justin put in order for Cassette for $10.29 on day 25
+Justin ordered total of 6 items
+Justin un-tuned Mandolin.
+Justin un-tuned Mandolin.
+Justin un-tuned Bass.
+Justinhas damaged a(n) Bass.
+Justin un-adjusted Flute.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased Guitar for $87.82.
+Buyer also purchased PracticeAmps for $75.2.
+Cassette out of stock, Buyer 2 left the store.
+Justin bought a good condition RecordPlayer from Seller 1 for $24.13 after offering 10%% more.
+Justin bought a poor condition Shirts from Seller 2 for $32.51 after offering 10%% more.
+Justin bought a fair condition Hats from Seller 3 for $50.02.
+Justin sold 2 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Daphne arrives at the North store on Day 25
 Daphne received Strings on day 25
 Daphne received CDPlayer on day 25
@@ -43,3 +75,4 @@ Daphne has damaged a(n) Guitar.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

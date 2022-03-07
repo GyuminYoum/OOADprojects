@@ -1,0 +1,35 @@
+Shaggy arrives at the store on Day 13
+Shaggy received Mandolin on day 13
+Shaggy received MusicCD on day 13
+Shaggy received Strings on day 13
+Shaggy received RecordPlayer on day 13
+4 items has been added to the inventory
+There is $1708.65 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1125.32
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for Cables for $17.55 on day 13
+Shaggy put in order for Cables for $11.47 on day 13
+Shaggy put in order for Cables for $41.54 on day 13
+Shaggy ordered total of 3 items
+Shaggy adjusted Saxophone.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $18.14 after a 10%% discount.
+Buyer 3 purchased Guitar for $48.6 after a 10%% discount.
+Buyer 4 purchased Cassette for $8.19.
+Buyer 5 purchased RecordPlayer for $4.4.
+Bandanas out of stock, Buyer 6 left the store.
+Buyer 7 purchased Hats for $4.12 after a 10%% discount.
+Shaggy bought a fair condition CassettePlayer from Seller 1 for $52.61 after offering 10%% more.
+Shaggy bought a fair condition MusicCD from Seller 2 for $19.87.
+Shaggy sold 7 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

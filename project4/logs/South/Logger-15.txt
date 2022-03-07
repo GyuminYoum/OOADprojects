@@ -1,6 +1,36 @@
 Justin arrives at the South store on Day 15
 Justin received Strings on day 15
 Justin received PracticeAmps on day 15
+<<<<<<< HEAD
+Justin received PracticeAmps on day 15
+Justin received CDPlayer on day 15
+Justin received Guitar on day 15
+Justin received Guitar on day 15
+6 items has been added to the inventory
+There is $2142.54 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 949.65
+Justin put in order for Harmonica for $5.86 on day 15
+Justin put in order for Harmonica for $10.02 on day 15
+Justin put in order for Harmonica for $27.59 on day 15
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $70.0.
+Harmonica out of stock, Buyer 2 left the store.
+Buyer 3 purchased Cassette for $49.98.
+Buyer 4 purchased MusicCD for $8.4.
+Cables was too expensive, Buyer 5 left the store.
+Buyer 6 purchased PaperScore for $11.0.
+Buyer 7 purchased Bass for $30.36.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased Cables for $6.18.
+Justin bought a very good condition PaperScore from Seller 1 for $34.69.
+Justin bought a poor condition MP3 from Seller 2 for $49.45.
+Justin sold 7 items.
+Justin Bought 2 items.
+=======
 Justin received Cassette on day 15
 Justin received Guitar on day 15
 4 items has been added to the inventory
@@ -24,6 +54,7 @@ Justin bought a poor condition PracticeAmps from Seller 2 for $42.11.
 Justin bought a poor condition Vinyl from Seller 3 for $8.5 after offering 10%% more.
 Justin sold 4 items.
 Justin Bought 3 items.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

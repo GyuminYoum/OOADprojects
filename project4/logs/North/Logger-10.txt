@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 10
+Velma received Harmonica on day 10
+1 items has been added to the inventory
+There is $1447.28 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1123.2
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Cables was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Guitar for $11.74.
+Buyer also purchased Cables for $78.66.
+Seller 1 didn't accept the price, and left the store.
+Velma sold 2 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Shaggy arrives at the North store on Day 10
 Shaggy received Bass on day 10
 Shaggy received Bass on day 10
@@ -28,3 +56,4 @@ Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
