@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shaggy is sick on day 3
 Freddy arrives at the North store on Day 3
 Freddy received Strings on day 3
@@ -39,3 +40,28 @@ Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Shaggy arrives at the North store on Day 3
+0 items has been added to the inventory
+There is $1311.34 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 931.64
+Shaggy put in order for Cables for $41.24 on day 3
+Shaggy put in order for Cables for $38.68 on day 3
+Shaggy put in order for Cables for $32.36 on day 3
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $9.0 after a 10%% discount.
+Buyer 2 purchased Strings for $22.0.
+Buyer 3 purchased PracticeAmps for $30.0.
+Shaggy bought a fair condition Bandanas from Seller 1 for $21.87 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

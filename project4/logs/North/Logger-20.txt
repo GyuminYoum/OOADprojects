@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Velma arrives at the North store on Day 20
 Velma received Strings on day 20
 1 items has been added to the inventory
@@ -29,3 +30,46 @@ Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+=======
+Shaggy is sick on day 20
+Daphne arrives at the North store on Day 20
+Daphne received Cables on day 20
+Daphne received Mandolin on day 20
+Daphne received Strings on day 20
+3 items has been added to the inventory
+There is $2637.32 in the register
+There are total of 29 items in the inventory.
+All the items in the inventory are worth total of $ 720.5
+Daphne put in order for CDPlayer for $18.94 on day 20
+Daphne put in order for CDPlayer for $10.27 on day 20
+Daphne put in order for CDPlayer for $43.55 on day 20
+Daphne put in order for GigBag for $35.72 on day 20
+Daphne put in order for GigBag for $44.54 on day 20
+Daphne put in order for GigBag for $43.13 on day 20
+Daphne ordered total of 6 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $7.26.
+Buyer 2 purchased Strings for $66.63 after a 10%% discount.
+Buyer 3 purchased Mandolin for $86.58.
+Harmonica was too expensive, Buyer 4 left the store.
+Strings out of stock, Buyer 5 left the store.
+Daphne bought a very good condition Mandolin from Seller 1 for $9.02.
+Daphne bought a good condition Strings from Seller 2 for $26.03.
+Daphne bought a fair condition PracticeAmps from Seller 3 for $8.1.
+Daphne sold 3 items.
+Daphne Bought 3 items.
+Daphne has damaged a(n) Cables.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

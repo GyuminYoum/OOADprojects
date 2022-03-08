@@ -1,5 +1,6 @@
 Freddy arrives at the North store on Day 12
 0 items has been added to the inventory
+<<<<<<< HEAD
 There is $1841.07 in the register
 There are total of 42 items in the inventory.
 All the items in the inventory are worth total of $ 979.84
@@ -31,6 +32,32 @@ Freddy bought a very good condition CDPlayer from Seller 1 for $54.83 after offe
 Freddy bought a fair condition Cassette from Seller 2 for $32.1 after offering 10%% more.
 Freddy sold 4 items.
 Freddy Bought 2 items.
+=======
+There is $2004.33 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 853.91
+Freddy ordered total of 0 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 2 purchased Flute for $96.0.
+Buyer 3 purchased GigBag for $9.9 after a 10%% discount.
+Freddy bought a very good condition MusicCD from Seller 1 for $32.78.
+Freddy bought a poor condition Guitar from Seller 2 for $28.07.
+Freddy bought a fair condition Vinyl from Seller 3 for $37.05 after offering 10%% more.
+Freddy sold 3 items.
+Freddy Bought 3 items.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

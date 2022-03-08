@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne arrives at the South store on Day 2
 0 items has been added to the inventory
 There is $1001.88 in the register
@@ -37,3 +38,43 @@ Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+=======
+Freddy arrives at the South store on Day 2
+0 items has been added to the inventory
+There is $1173.4 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 983.58
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $54.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer 2 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $27.0 after a 10%% discount.
+Saxophone was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Saxophone for $90.0.
+Freddy bought a very good condition Cassette from Seller 1 for $21.08 after offering 10%% more.
+Freddy bought a very good condition Guitar from Seller 2 for $36.93.
+Freddy bought a fair condition RecordPlayer from Seller 3 for $15.35.
+Freddy sold 5 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

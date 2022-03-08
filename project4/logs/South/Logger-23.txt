@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Velma arrives at the South store on Day 23
 Velma received Flute on day 23
 Velma received Harmonica on day 23
@@ -25,3 +26,35 @@ Velma has damaged 0 items while tuning
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+=======
+Shaggy arrives at the South store on Day 23
+Shaggy received GigBag on day 23
+Shaggy received PaperScore on day 23
+2 items has been added to the inventory
+There is $2528.78 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1221.42
+Shaggy put in order for CDPlayer for $39.58 on day 23
+Shaggy put in order for CDPlayer for $10.84 on day 23
+Shaggy put in order for CDPlayer for $35.25 on day 23
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bass for $31.6.
+Buyer also purchased Cables for $19.16.
+Buyer also purchased Cables for $69.98.
+Buyer 2 purchased Saxophone for $62.78.
+CDPlayer out of stock, Buyer 3 left the store.
+Shaggy bought a fair condition Mandolin from Seller 1 for $2.43 after offering 10%% more.
+Shaggy bought a good condition Cables from Seller 2 for $27.41 after offering 10%% more.
+Shaggy sold 4 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

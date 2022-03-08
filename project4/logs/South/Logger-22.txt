@@ -3,6 +3,7 @@ Freddy received Mandolin on day 22
 Freddy received Cassette on day 22
 Freddy received Harmonica on day 22
 3 items has been added to the inventory
+<<<<<<< HEAD
 There is $2128.2 in the register
 There are total of 55 items in the inventory.
 All the items in the inventory are worth total of $ 1358.7
@@ -40,3 +41,83 @@ Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+There is $2245.69 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1401.24
+Shaggy put in order for GigBag for $38.76 on day 22
+Shaggy put in order for GigBag for $45.33 on day 22
+Shaggy put in order for GigBag for $14.52 on day 22
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $14.0.
+Buyer 2 purchased Harmonica for $62.4 after a 10%% discount.
+Hats out of stock, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Bandanas out of stock, Buyer 5 left the store.
+Buyer 6 purchased PaperScore for $67.88.
+Buyer 7 purchased Cables for $69.22 after a 10%% discount.
+Shaggy bought a good condition PracticeAmps from Seller 1 for $54.59 after offering 10%% more.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
+Daphne arrives at the South store on Day 22
+Daphne received Cables on day 22
+Daphne received RecordPlayer on day 22
+Daphne received RecordPlayer on day 22
+3 items has been added to the inventory
+There is $2320.54 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1286.3
+Daphne put in order for PaperScore for $37.14 on day 22
+Daphne put in order for PaperScore for $28.49 on day 22
+Daphne put in order for PaperScore for $28.47 on day 22
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $83.91 after a 10%% discount.
+Buyer 2 purchased GigBag for $26.64 after a 10%% discount.
+PaperScore out of stock, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $4.28.
+Buyer also purchased GigBag for $99.1.
+Buyer also purchased PracticeAmps for $71.16.
+Buyer 5 purchased Saxophone for $64.15 after a 10%% discount.
+PracticeAmps was too expensive, Buyer 6 left the store.
+Daphne bought a fair condition MP3 from Seller 1 for $46.89 after offering 10%% more.
+Daphne sold 6 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

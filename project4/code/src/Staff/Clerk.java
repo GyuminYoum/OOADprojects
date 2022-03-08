@@ -285,59 +285,61 @@ public class Clerk extends Staff{
     //each buyer/seller has unique name and uses buy/sell function from customer class
     //returns N/A
     public void OpenTheStore() {
-        int buy_count=0;
-        int sell_count=0;
-        int ClerkSoldItems=0;
-        int ClerkBoughtItems=0;
+        int buy_count = 0;
+        int sell_count = 0;
+        int ClerkSoldItems = 0;
+        int ClerkBoughtItems = 0;
         String content;
-        Random rng=new Random();
-        Store Store=workingAt;
-        Scanner reader=new Scanner(System.in);
-        String input;
-        String option="";
-        Store chosen_store=null;
+        Random rng = new Random();
+        Store Store = workingAt;
+
         /*
         buy_count=rng.nextInt(6);
         buy_count+=4;
 
         */
-        if(workingAt.get_daysPassed()!=workingAt.get_duration()){
-            buy_count=(int)countBuyerNumber(3.0);
-            sell_count=rng.nextInt(3);
-            sell_count+=1;
-            for(int i=0; i<buy_count;i++){
-                Customer person=new Customer(workingAt);
+        if (workingAt.get_daysPassed() != workingAt.get_duration()) {
+            buy_count = (int) countBuyerNumber(3.0);
+            sell_count = rng.nextInt(3);
+            sell_count += 1;
+            for (int i = 0; i < buy_count; i++) {
+                Customer person = new Customer(workingAt);
                 person.setName(i + 1, "Buyer");
-                ClerkSoldItems+=person.Buy();
+                ClerkSoldItems += person.Buy();
             }
-            for(int j=0; j<sell_count;j++){
-                Customer person=new Customer(workingAt);
+            for (int j = 0; j < sell_count; j++) {
+                Customer person = new Customer(workingAt);
                 person.setName(j + 1, "Seller");
-                ClerkBoughtItems+=person.Sell();
+                ClerkBoughtItems += person.Sell();
             }
-            sell_count+=ClerkSoldItems;
-            content=this.get_name()+" sold "+ClerkSoldItems+" items.";
+            sell_count += ClerkSoldItems;
+            content = this.get_name() + " sold " + ClerkSoldItems + " items.";
             Store.notifyLoggers(content);
-            buy_count+=ClerkBoughtItems;
-            content=this.get_name()+" Bought "+ClerkBoughtItems+" items.";
+            buy_count += ClerkBoughtItems;
+            content = this.get_name() + " Bought " + ClerkBoughtItems + " items.";
             Store.notifyLoggers(content);
         }
-        else{
-            Invoker IV=new Invoker();
-            /*
-            System.out.println(this.get_name()+" working at "+this.get_workingAt().get_location());
+    }
+    public void user_interaction(){
+        Invoker IV=new Invoker();
+        Scanner reader = new Scanner(System.in);
+        String input;
+        String option = "";
+        Store chosen_store = null;
+        /*
+        System.out.println(this.get_name()+" working at "+this.get_workingAt().get_location());
 
-            for(Clerk i:this.get_workingAt().get_ClerkMember()){
-                if(i.get_workingAt()!=null) {
-                    System.out.println(i.get_name() + " working at " + i.get_workingAt().get_location());
-                }
+        for(Clerk i:this.get_workingAt().get_ClerkMember()){
+            if(i.get_workingAt()!=null) {
+                System.out.println(i.get_name() + " working at " + i.get_workingAt().get_location());
             }
+        }
 
-             */
-            User user1=new User();
-
-            while(option.matches("7")==false){
-                System.out.println("Select one of the possible options for "+workingAt.get_location()+" store: (1-7)");
+         */
+        User user1=new User();
+        if(workingAt.get_duration()==workingAt.get_daysPassed()){
+            while(option.matches("7")==false) {
+                System.out.println("Select one of the possible options: (1-7)");
                 System.out.println("1. Select a store to issue commands to: (North or South)");
                 System.out.println("2. Ask Clerk their name");
                 System.out.println("3. Ask the Clerk what time it is");
@@ -345,46 +347,38 @@ public class Clerk extends Staff{
                 System.out.println("5. Buy a normal inventory item from Clerk");
                 System.out.println("6. Buy a custom guitar kit from the clerk");
                 System.out.println("7. end interaction");
-                option=reader.nextLine();
-                if(option.matches("1")==false && option.matches("2")==false && option.matches("3")==false && option.matches("4")==false && option.matches("5")==false && option.matches("6")==false && option.matches("7")==false ){
+                option = reader.nextLine();
+                if (option.matches("1") == false && option.matches("2") == false && option.matches("3") == false && option.matches("4") == false && option.matches("5") == false && option.matches("6") == false && option.matches("7") == false) {
                     System.out.println("Invalid input");
-                }
-                else if(option.matches("1")==true){
-                    selectStore ss1=new selectStore(this,user1);
+                } else if (option.matches("1") == true) {
+                    selectStore ss1 = new selectStore(this, user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("2")==true){
-                    askName ss1=new askName(user1);
+                } else if (option.matches("2") == true) {
+                    askName ss1 = new askName(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("3")==true){
-                    askTime ss1=new askTime(user1);
+                } else if (option.matches("3") == true) {
+                    askTime ss1 = new askTime(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("4")==true){
-                    Sell ss1=new Sell(user1);
+                } else if (option.matches("4") == true) {
+                    Sell ss1 = new Sell(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("5")==true){
-                    buyItem ss1=new buyItem(user1);
+                } else if (option.matches("5") == true) {
+                    buyItem ss1 = new buyItem(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("6")==true){
-                    buyKit ss1=new buyKit(user1);
+                } else if (option.matches("6") == true) {
+                    buyKit ss1 = new buyKit(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else if(option.matches("7")==true){
-                    end ss1=new end(user1);
+                } else if (option.matches("7") == true) {
+                    end ss1 = new end(user1);
                     IV.setCommand(ss1);
                     IV.Perform();
-                }
-                else{
+                } else {
                     System.out.println("Invalid input");
                 }
             }

@@ -1,4 +1,5 @@
 Velma arrives at the North store on Day 22
+<<<<<<< HEAD
 Velma received Strings on day 22
 1 items has been added to the inventory
 There is $2560.39 in the register
@@ -18,6 +19,30 @@ Velma bought a poor condition PaperScore from Seller 1 for $32.16 after offering
 Velma bought a poor condition Guitar from Seller 2 for $15.23 after offering 10%% more.
 Velma sold 2 items.
 Velma Bought 2 items.
+=======
+Velma received Mandolin on day 22
+Velma received PracticeAmps on day 22
+Velma received PracticeAmps on day 22
+Velma received CDPlayer on day 22
+Velma received GigBag on day 22
+5 items has been added to the inventory
+There is $2558.48 in the register
+There are total of 34 items in the inventory.
+All the items in the inventory are worth total of $ 876.46
+Velma ordered total of 0 items
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $16.25 after a 10%% discount.
+Buyer also purchased Strings for $52.06.
+Buyer 2 purchased MP3 for $56.56.
+Shirts out of stock, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Velma bought a good condition MusicCD from Seller 1 for $15.08.
+Velma sold 5 items.
+Velma Bought 1 items.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

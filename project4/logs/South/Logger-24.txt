@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 24
 Justin received MusicCD on day 24
 1 items has been added to the inventory
@@ -11,3 +12,51 @@ Justin adjusted Flute.
 Justin adjusted Saxophone.
 Justin un-tuned Guitar.
 Justin has damaged 0 items while tuning
+=======
+Freddy arrives at the South store on Day 24
+Freddy received RecordPlayer on day 24
+Freddy received PaperScore on day 24
+Freddy received CDPlayer on day 24
+3 items has been added to the inventory
+There is $2596.78 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1223.5
+Freddy put in order for Saxophone for $12.0 on day 24
+Freddy put in order for Saxophone for $16.76 on day 24
+Freddy put in order for Saxophone for $49.81 on day 24
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Flute was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Strings for $87.0.
+Hats out of stock, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $8.0.
+Saxophone out of stock, Buyer 5 left the store.
+Buyer 6 purchased Cables for $46.84.
+Freddy bought a very good condition Shirts from Seller 1 for $38.92.
+Freddy bought a fair condition Flute from Seller 2 for $31.97.
+Freddy bought a fair condition MP3 from Seller 3 for $13.68 after offering 10%% more.
+Freddy sold 3 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

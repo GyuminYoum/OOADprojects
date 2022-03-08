@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the South store on Day 27
 Freddy received Flute on day 27
 Freddy received Cables on day 27
@@ -38,3 +39,35 @@ Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Shaggy arrives at the South store on Day 27
+Shaggy received CDPlayer on day 27
+Shaggy received Strings on day 27
+Shaggy received Cables on day 27
+3 items has been added to the inventory
+There is $2642.28 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1397.83
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $77.2 after a 10%% discount.
+Buyer 2 purchased Strings for $8.42 after a 10%% discount.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 5 purchased Cables for $54.1 after a 10%% discount.
+Shaggy bought a very good condition MP3 from Seller 1 for $49.04.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

@@ -1,4 +1,5 @@
 Justin arrives at the South store on Day 10
+<<<<<<< HEAD
 Justin received PracticeAmps on day 10
 1 items has been added to the inventory
 There is $1385.67 in the register
@@ -24,6 +25,31 @@ Justin bought a fair condition CDPlayer from Seller 3 for $52.1 after offering 1
 Justin sold 3 items.
 Justin Bought 2 items.
 Justin has damaged a(n) PracticeAmps.
+=======
+Justin received Flute on day 10
+Justin received Strings on day 10
+2 items has been added to the inventory
+There is $2012.96 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 713.24
+Justin put in order for Mandolin for $8.77 on day 10
+Justin put in order for Mandolin for $2.14 on day 10
+Justin put in order for Mandolin for $9.27 on day 10
+Justin ordered total of 3 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Flute for $11.74.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $10.03.
+Justin bought a poor condition MusicCD from Seller 1 for $7.88.
+Justin sold 2 items.
+Justin Bought 1 items.
+Justin has damaged a(n) MP3.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Justin damaged an item while cleaning.
 Justin damaged 1 items while cleaning.
 Justin went home for the day.

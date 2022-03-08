@@ -34,3 +34,30 @@ Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+<<<<<<< HEAD
+=======
+=======
+Justin arrives at the South store on Day 16
+Justin received Mandolin on day 16
+Justin received Bass on day 16
+2 items has been added to the inventory
+There is $1988.79 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1202.42
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cables for $47.78.
+Guitar was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $70.81.
+Buyer 4 purchased Flute for $37.11.
+Justin bought a fair condition MusicCD from Seller 1 for $10.11.
+Justin sold 3 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

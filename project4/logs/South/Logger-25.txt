@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne is sick on day 25
 Justin arrives at the South store on Day 25
 Justin received Flute on day 25
@@ -23,3 +24,51 @@ Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Freddy arrives at the South store on Day 25
+Freddy received PaperScore on day 25
+Freddy received Saxophone on day 25
+2 items has been added to the inventory
+There is $2575.48 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1291.05
+Freddy put in order for Strings for $1.68 on day 25
+Freddy put in order for Strings for $4.68 on day 25
+Freddy put in order for Strings for $29.58 on day 25
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $27.66.
+Buyer also purchased GigBag for $88.14.
+Buyer also purchased Cables for $49.84.
+Buyer 2 purchased Shirts for $9.0.
+Buyer 3 purchased CDPlayer for $21.68.
+Buyer 4 purchased Cassette for $38.34.
+Freddy bought a fair condition Bass from Seller 1 for $21.99.
+Freddy bought a poor condition Bass from Seller 2 for $35.64.
+Freddy sold 6 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

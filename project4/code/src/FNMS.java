@@ -99,6 +99,7 @@ public class FNMS {
                 staff2.DoInventory();
                 staff1.OpenTheStore();
                 staff2.OpenTheStore();
+                staff1.user_interaction();
                 staff1.CleanTheStore();
                 staff2.CleanTheStore();
                 staff1.LeaveTheStore();

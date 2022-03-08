@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Velma arrives at the North store on Day 24
 Velma received CDPlayer on day 24
 Velma received CDPlayer on day 24
@@ -28,3 +29,33 @@ Velma tuned Bass.
 Velma tuned Guitar.
 Velma adjusted Flute.
 Velma has damaged 0 items while tuning
+=======
+Freddy is sick on day 24
+Justin arrives at the North store on Day 24
+Justin received PracticeAmps on day 24
+Justin received GigBag on day 24
+Justin received MP3 on day 24
+3 items has been added to the inventory
+There is $2664.47 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 960.9
+Justin put in order for Harmonica for $12.02 on day 24
+Justin put in order for Harmonica for $9.19 on day 24
+Justin put in order for Harmonica for $20.79 on day 24
+Justin ordered total of 3 items
+Justin un-tuned Bass.
+Justin un-tuned Bass.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Harmonica out of stock, Buyer 1 left the store.
+Buyer 2 purchased PracticeAmps for $16.2.
+Buyer 3 purchased PaperScore for $47.84.
+Justin bought a good condition Strings from Seller 1 for $37.19.
+Justin bought a very good condition Strings from Seller 2 for $32.07.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin has damaged a(n) Bass.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
