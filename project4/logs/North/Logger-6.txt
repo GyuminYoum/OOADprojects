@@ -1,32 +1,25 @@
-Justin arrives at the North store on Day 6
-Justin received Strings on day 6
-Justin received GigBag on day 6
-2 items has been added to the inventory
-There is $1453.77 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 970.43
-Justin put in order for Flute for $22.8 on day 6
-Justin put in order for Flute for $14.24 on day 6
-Justin put in order for Flute for $39.72 on day 6
-Justin put in order for Saxophone for $1.27 on day 6
-Justin put in order for Saxophone for $37.04 on day 6
-Justin put in order for Saxophone for $5.71 on day 6
-Justin ordered total of 6 items
-Justin un-tuned Mandolin.
-Justin un-tuned Mandolin.
-Justin un-adjusted Harmonica.
-Justin un-tuned Guitar.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $5.4 after a 10%% discount.
-Buyer 2 purchased Bass for $43.2 after a 10%% discount.
-Buyer also purchased GigBag for $31.64.
-GigBag out of stock, Buyer 3 left the store.
-Buyer 4 purchased Harmonica for $38.0.
-Justin bought a fair condition Vinyl from Seller 1 for $10.17 after offering 10%% more.
-Justin bought a very good condition RecordPlayer from Seller 2 for $22.48 after offering 10%% more.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin has damaged a(n) Guitar.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
-Justin went home for the day.
+Daphne is sick on day 6
+Shaggy arrives at the North store on Day 6
+Shaggy received Guitar on day 6
+1 items has been added to the inventory
+There is $1532.54 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 835.7
+Shaggy put in order for Harmonica for $41.3 on day 6
+Shaggy put in order for Harmonica for $48.52 on day 6
+Shaggy put in order for Harmonica for $34.2 on day 6
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $10.0.
+Shirts out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $52.36.
+Buyer 4 purchased GigBag for $9.9 after a 10%% discount.
+Shaggy bought a fair condition Harmonica from Seller 1 for $23.63 after offering 10%% more.
+Shaggy bought a poor condition PracticeAmps from Seller 2 for $38.62 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

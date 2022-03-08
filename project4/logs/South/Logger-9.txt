@@ -1,34 +1,26 @@
-Justin arrives at the South store on Day 9
-Justin received Strings on day 9
-Justin received PracticeAmps on day 9
-Justin received Cables on day 9
-3 items has been added to the inventory
-There is $1453.6 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 997.15
-Justin put in order for MP3 for $36.69 on day 9
-Justin put in order for MP3 for $50.77 on day 9
-Justin put in order for MP3 for $10.19 on day 9
-Justin put in order for Mandolin for $3.04 on day 9
-Justin put in order for Mandolin for $43.91 on day 9
-Justin put in order for Mandolin for $33.36 on day 9
-Justin put in order for GigBag for $31.03 on day 9
-Justin put in order for GigBag for $11.95 on day 9
-Justin put in order for GigBag for $6.69 on day 9
-Justin ordered total of 9 items
-Justin un-adjusted Flute.
-Justinhas damaged a(n) Flute.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 2 purchased Cassette for $14.12.
-GigBag out of stock, Buyer 3 left the store.
-Buyer 4 purchased Strings for $88.7 after a 10%% discount.
-Buyer 5 purchased PaperScore for $76.02.
-Justin bought a very good condition Mandolin from Seller 1 for $50.16.
-Justin sold 4 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Shaggy arrives at the South store on Day 9
+Shaggy received Strings on day 9
+1 items has been added to the inventory
+There is $1369.36 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 986.43
+Shaggy put in order for Vinyl for $6.9 on day 9
+Shaggy put in order for Vinyl for $43.99 on day 9
+Shaggy put in order for Vinyl for $37.93 on day 9
+Shaggy ordered total of 3 items
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $22.72.
+Buyer 2 purchased Shirts for $8.0.
+Buyer 3 purchased Flute for $96.0.
+Buyer 4 purchased Hats for $10.0.
+Shaggy bought a poor condition PracticeAmps from Seller 1 for $31.58.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

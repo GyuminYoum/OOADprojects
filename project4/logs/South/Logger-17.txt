@@ -1,36 +1,29 @@
 Daphne arrives at the South store on Day 17
-Daphne received Harmonica on day 17
-Daphne received Cables on day 17
-Daphne received PracticeAmps on day 17
-Daphne received PracticeAmps on day 17
-4 items has been added to the inventory
-There is $2425.52 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 993.7
-Daphne ordered total of 0 items
+Daphne received Strings on day 17
+1 items has been added to the inventory
+There is $2026.44 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1039.79
+Daphne put in order for MusicCD for $16.39 on day 17
+Daphne put in order for MusicCD for $20.35 on day 17
+Daphne put in order for MusicCD for $17.12 on day 17
+Daphne put in order for Bass for $22.04 on day 17
+Daphne put in order for Bass for $42.25 on day 17
+Daphne put in order for Bass for $46.05 on day 17
+Daphne ordered total of 6 items
 Daphne tuned Guitar.
 Daphne tuned Guitar.
-Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
 Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
 Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
 Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
 Daphne has damaged 0 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $25.29 after a 10%% discount.
-Hats out of stock, Buyer 3 left the store.
-Flute out of stock, Buyer 4 left the store.
-Buyer 5 purchased CDPlayer for $31.88.
-Daphne bought a poor condition MP3 from Seller 1 for $4.18 after offering 10%% more.
-Daphne bought a good condition Cassette from Seller 2 for $38.15.
-Daphne sold 2 items.
-Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

@@ -1,64 +1,23 @@
-<<<<<<< HEAD
-Justin arrives at the North store on Day 22
-Justin received RecordPlayer on day 22
-Justin received Bass on day 22
-Justin received Strings on day 22
-3 items has been added to the inventory
-There is $2395.86 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1134.5
-Justin put in order for PracticeAmps for $37.6 on day 22
-Justin put in order for PracticeAmps for $23.24 on day 22
-Justin put in order for PracticeAmps for $15.09 on day 22
-Justin ordered total of 3 items
-Justin un-tuned Guitar.
-Justinhas damaged a(n) Guitar.
-Justin un-adjusted Saxophone.
-Justin un-tuned Mandolin.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased Vinyl for $12.6 after a 10%% discount.
-Buyer 2 purchased MusicCD for $71.06 after a 10%% discount.
-Buyer 3 purchased Mandolin for $66.0.
-Buyer 4 purchased Strings for $29.72.
-Justin bought a good condition CDPlayer from Seller 1 for $35.78.
-Seller 2 didn't accept the price, and left the store.
-Seller 3 didn't accept the price, and left the store.
-Justin sold 4 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Shaggy arrives at the North store on Day 22
-Shaggy received MusicCD on day 22
+Velma arrives at the North store on Day 22
+Velma received Strings on day 22
 1 items has been added to the inventory
-There is $1798.18 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1437.53
-Shaggy put in order for Strings for $24.22 on day 22
-Shaggy put in order for Strings for $37.14 on day 22
-Shaggy put in order for Strings for $20.32 on day 22
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggyhas damaged a(n) Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $90.98.
-Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $81.59 after a 10%% discount.
-Buyer 4 purchased Cassette for $78.62.
-Buyer 5 purchased GigBag for $47.38.
-Buyer 6 purchased Saxophone for $86.4 after a 10%% discount.
-Shaggy bought a good condition Bandanas from Seller 1 for $17.13.
-Shaggy bought a very good condition RecordPlayer from Seller 2 for $14.88 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+There is $2560.39 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1084.41
+Velma ordered total of 0 items
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Shirts out of stock, Buyer 1 left the store.
+Buyer 2 purchased MusicCD for $54.38.
+Buyer 3 purchased Bandanas for $59.6.
+Velma bought a poor condition PaperScore from Seller 1 for $32.16 after offering 10%% more.
+Velma bought a poor condition Guitar from Seller 2 for $15.23 after offering 10%% more.
+Velma sold 2 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

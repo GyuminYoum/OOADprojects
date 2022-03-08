@@ -1,40 +1,36 @@
 Freddy arrives at the South store on Day 16
-Freddy received GigBag on day 16
-Freddy received Cables on day 16
-2 items has been added to the inventory
-There is $2501.73 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 941.96
-Freddy put in order for Flute for $24.37 on day 16
-Freddy put in order for Flute for $36.75 on day 16
-Freddy put in order for Flute for $45.44 on day 16
-Freddy put in order for PracticeAmps for $8.59 on day 16
-Freddy put in order for PracticeAmps for $18.89 on day 16
-Freddy put in order for PracticeAmps for $28.68 on day 16
-Freddy ordered total of 6 items
+Freddy received Strings on day 16
+1 items has been added to the inventory
+There is $1992.21 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1008.38
+Freddy put in order for GigBag for $34.68 on day 16
+Freddy put in order for GigBag for $11.9 on day 16
+Freddy put in order for GigBag for $9.19 on day 16
+Freddy ordered total of 3 items
 Freddy tuned Guitar.
 Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
 Freddy tuned Bass.
-Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
-Freddy tuned Guitar.
 Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
 Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
+Freddy adjusted Flute.
 Freddy has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Flute out of stock, Buyer 2 left the store.
-Buyer 3 purchased Mandolin for $79.03 after a 10%% discount.
-Buyer also purchased Cables for $33.36.
-Strings was too expensive, Buyer 4 left the store.
-Freddy bought a good condition PracticeAmps from Seller 2 for $4.97.
-Freddy bought a very good condition PracticeAmps from Seller 3 for $20.91.
-Freddy sold 3 items.
-Freddy Bought 2 items.
+Bandanas out of stock, Buyer 1 left the store.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Bass for $48.0.
+Buyer also purchased Strings for $87.24.
+Buyer 4 purchased PaperScore for $11.0.
+Buyer 5 purchased MusicCD for $7.56 after a 10%% discount.
+Freddy bought a poor condition Harmonica from Seller 1 for $26.42.
+Freddy bought a poor condition Mandolin from Seller 2 for $15.44.
+Freddy bought a very good condition MP3 from Seller 3 for $21.92 after offering 10%% more.
+Freddy sold 6 items.
+Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

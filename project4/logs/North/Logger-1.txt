@@ -1,3 +1,4 @@
+Shaggy is sick on day 1
 Freddy arrives at the North store on Day 1
 0 items has been added to the inventory
 Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
@@ -23,18 +24,23 @@ Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $32.4 after a 10%% discount.
-Buyer 2 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
+Buyer 1 purchased Hats for $30.0.
+Buyer 2 purchased Harmonica for $32.4 after a 10%% discount.
+Buyer 3 purchased Guitar for $48.6 after a 10%% discount.
 Buyer also purchased Strings for $7.0.
+CassettePlayer was too expensive, Buyer 4 left the store.
+Buyer 5 purchased CDPlayer for $24.0.
+Buyer 6 purchased Guitar for $30.6 after a 10%% discount.
 Buyer also purchased Strings for $14.0.
-Buyer 3 purchased Hats for $30.0.
-Buyer 4 purchased CDPlayer for $24.0.
-Flute was too expensive, Buyer 5 left the store.
-Freddy bought a good condition MP3 from Seller 1 for $31.24.
-Freddy bought a fair condition Cables from Seller 2 for $29.43.
-Freddy sold 7 items.
-Freddy Bought 2 items.
+Buyer also purchased Strings for $22.0.
+Buyer 7 purchased Mandolin for $74.0.
+Buyer 8 purchased Shirts for $7.2 after a 10%% discount.
+Buyer 9 purchased Shirts for $8.1 after a 10%% discount.
+Freddy bought a poor condition PracticeAmps from Seller 1 for $25.2 after offering 10%% more.
+Freddy bought a good condition Cassette from Seller 2 for $15.75 after offering 10%% more.
+Freddy bought a very good condition Bass from Seller 3 for $15.9.
+Freddy sold 11 items.
+Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

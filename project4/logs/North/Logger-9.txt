@@ -1,29 +1,39 @@
-Shaggy arrives at the North store on Day 9
-Shaggy received GigBag on day 9
-Shaggy received Flute on day 9
-Shaggy received Saxophone on day 9
-Shaggy received Bass on day 9
-4 items has been added to the inventory
-There is $1499.47 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1111.08
-Shaggy ordered total of 0 items
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Guitar.
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $56.86.
-Buyer 2 purchased Strings for $80.52.
-Buyer 3 purchased GigBag for $59.05 after a 10%% discount.
-Buyer 4 purchased Flute for $25.63 after a 10%% discount.
-Buyer 5 purchased Shirts for $10.0.
-Buyer 6 purchased Mandolin for $74.0.
-Buyer also purchased Cables for $10.0.
-Shaggy bought a poor condition PracticeAmps from Seller 1 for $47.75 after offering 10%% more.
-Shaggy sold 7 items.
-Shaggy Bought 1 items.
-Shaggy has damaged a(n) Saxophone.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+Daphne arrives at the North store on Day 9
+Daphne received Guitar on day 9
+Daphne received Cables on day 9
+Daphne received Harmonica on day 9
+3 items has been added to the inventory
+There is $1427.89 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1148.36
+Daphne ordered total of 0 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased Harmonica for $42.98.
+Buyer 3 purchased GigBag for $12.0.
+PracticeAmps was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Strings for $91.78 after a 10%% discount.
+Buyer 6 purchased PracticeAmps for $30.0.
+Daphne sold 4 items.
+Daphne Bought 0 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

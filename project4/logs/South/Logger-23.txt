@@ -1,79 +1,27 @@
-<<<<<<< HEAD
-Daphne arrives at the South store on Day 23
-Daphne received RecordPlayer on day 23
-Daphne received GigBag on day 23
-Daphne received GigBag on day 23
+Velma arrives at the South store on Day 23
+Velma received Flute on day 23
+Velma received Harmonica on day 23
+Velma received RecordPlayer on day 23
 3 items has been added to the inventory
-There is $2305.98 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1425.1
-Daphne ordered total of 0 items
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $67.53 after a 10%% discount.
-Buyer 2 purchased Flute for $96.0.
-Harmonica out of stock, Buyer 3 left the store.
-Buyer 4 purchased Cables for $51.62 after a 10%% discount.
-Daphne bought a fair condition Guitar from Seller 1 for $28.78 after offering 10%% more.
-Daphne bought a very good condition Cassette from Seller 2 for $39.24.
-Daphne sold 3 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
-=======
-Freddy arrives at the South store on Day 23
-Freddy received Saxophone on day 23
-Freddy received MP3 on day 23
-2 items has been added to the inventory
-There is $2284.21 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1220.13
-Freddy put in order for RecordPlayer for $34.83 on day 23
-Freddy put in order for RecordPlayer for $49.48 on day 23
-Freddy put in order for RecordPlayer for $6.84 on day 23
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Strings for $37.69 after a 10%% discount.
-Buyer 2 purchased Bass for $43.2 after a 10%% discount.
-Buyer 3 purchased Saxophone for $31.69 after a 10%% discount.
-Freddy bought a poor condition PracticeAmps from Seller 1 for $16.97 after offering 10%% more.
-Freddy bought a very good condition Strings from Seller 2 for $33.18 after offering 10%% more.
-Freddy bought a very good condition Vinyl from Seller 3 for $26.73.
-Freddy sold 3 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+There is $2181.67 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1386.19
+Velma put in order for GigBag for $4.3 on day 23
+Velma put in order for GigBag for $37.08 on day 23
+Velma put in order for GigBag for $22.38 on day 23
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

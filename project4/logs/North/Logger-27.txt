@@ -1,29 +1,30 @@
-Justin arrives at the North store on Day 27
-Justin received CDPlayer on day 27
-1 items has been added to the inventory
-There is $2476.88 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1306.51
-Justin put in order for PaperScore for $48.43 on day 27
-Justin put in order for PaperScore for $42.8 on day 27
-Justin put in order for PaperScore for $19.59 on day 27
-Justin ordered total of 3 items
-Justin un-adjusted Harmonica.
-Justin un-tuned Guitar.
-Justin un-adjusted Harmonica.
-Justin un-adjusted Flute.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $77.95 after a 10%% discount.
-Buyer 2 purchased Strings for $40.64.
-Buyer 3 purchased Bandanas for $90.99 after a 10%% discount.
-Buyer 4 purchased Cassette for $94.26.
-Buyer 5 purchased CassettePlayer for $7.5 after a 10%% discount.
-Buyer 6 purchased Bandanas for $34.26.
-Justin bought a fair condition Strings from Seller 2 for $9.23.
-Justin bought a fair condition Vinyl from Seller 3 for $6.25.
-Justin sold 6 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Justin is sick on day 27
+Velma arrives at the North store on Day 27
+Velma received Flute on day 27
+Velma received PracticeAmps on day 27
+Velma received Strings on day 27
+3 items has been added to the inventory
+There is $2853.63 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1126.12
+Velma ordered total of 0 items
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma adjusted Harmonica.
+Velma adjusted Flute.
+Velma adjusted Saxophone.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Guitar was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Strings for $73.81.
+PracticeAmps was too expensive, Buyer 3 left the store.
+Buyer 4 purchased PracticeAmps for $14.13 after a 10%% discount.
+Buyer 5 purchased Bandanas for $16.2 after a 10%% discount.
+Velma bought a very good condition PaperScore from Seller 1 for $28.19.
+Velma bought a very good condition RecordPlayer from Seller 2 for $34.55 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma has damaged a(n) Vinyl.
+Velma damaged an item while cleaning.
+Velma damaged 1 items while cleaning.
+Velma went home for the day.

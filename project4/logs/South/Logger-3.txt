@@ -1,40 +1,20 @@
-Daphne arrives at the South store on Day 3
+Shaggy arrives at the South store on Day 3
 0 items has been added to the inventory
-There is $977.69 in the register
+There is $1155.96 in the register
 There are total of 57 items in the inventory.
-All the items in the inventory are worth total of $ 1164.69
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $9.9 after a 10%% discount.
-Buyer 2 purchased GigBag for $10.8 after a 10%% discount.
-Buyer 3 purchased Shirts for $9.0.
-Buyer 4 purchased PracticeAmps for $9.0 after a 10%% discount.
-Daphne bought a very good condition Cassette from Seller 1 for $7.76 after offering 10%% more.
-Daphne bought a good condition PaperScore from Seller 2 for $38.01.
-Daphne bought a very good condition MusicCD from Seller 3 for $45.48 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 1002.52
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $30.0.
+CDPlayer was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $18.0.
+Seller 1 didn't accept the price, and left the store.
+Shaggy bought a good condition RecordPlayer from Seller 2 for $35.6.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) GigBag.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

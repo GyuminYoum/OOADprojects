@@ -1,13 +1,11 @@
-Justin is sick on day 29
 Shaggy arrives at the North store on Day 29
-Shaggy received GigBag on day 29
-Shaggy received PaperScore on day 29
+Shaggy received Cables on day 29
+Shaggy received Strings on day 29
 2 items has been added to the inventory
-There is $2696.16 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1216.84
+There is $2895.03 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1195.62
 Shaggy ordered total of 0 items
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Flute.
+Shaggy un-tuned Bass.
 Shaggy adjusted Flute.
 Shaggy has damaged 0 items while tuning

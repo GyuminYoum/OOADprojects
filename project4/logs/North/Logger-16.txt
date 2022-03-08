@@ -1,29 +1,36 @@
-Daphne is sick on day 16
-Justin arrives at the North store on Day 16
-Justin received Strings on day 16
-Justin received MusicCD on day 16
+Daphne arrives at the North store on Day 16
+Daphne received Guitar on day 16
+Daphne received CDPlayer on day 16
 2 items has been added to the inventory
-There is $2251.17 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 907.46
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $66.6 after a 10%% discount.
-Buyer 2 purchased Guitar for $60.01 after a 10%% discount.
-Buyer also purchased Cables for $58.86.
-Bass was too expensive, Buyer 3 left the store.
-Buyer 4 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 5 purchased MP3 for $62.48.
-Buyer 6 purchased Flute for $41.04 after a 10%% discount.
-Flute out of stock, Buyer 7 left the store.
-Buyer 8 purchased Guitar for $6.58 after a 10%% discount.
-Buyer also purchased GigBag for $100.62.
-Seller 1 didn't accept the price, and left the store.
-Justin bought a good condition Vinyl from Seller 2 for $46.04.
-Justin sold 9 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1939.87 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1102.73
+Daphne ordered total of 0 items
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+RecordPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased CassettePlayer for $42.0.
+Buyer 3 purchased MP3 for $90.0.
+Buyer 4 purchased Saxophone for $96.0.
+Buyer 5 purchased MP3 for $38.07 after a 10%% discount.
+Daphne bought a very good condition CassettePlayer from Seller 1 for $36.83 after offering 10%% more.
+Daphne bought a good condition Strings from Seller 2 for $41.7.
+Daphne sold 4 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

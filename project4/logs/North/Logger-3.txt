@@ -1,18 +1,17 @@
+Shaggy is sick on day 3
 Freddy arrives at the North store on Day 3
-0 items has been added to the inventory
-There is $1293.65 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 978.21
-Freddy put in order for Strings for $40.26 on day 3
-Freddy put in order for Strings for $33.43 on day 3
-Freddy put in order for Strings for $45.53 on day 3
-Freddy ordered total of 3 items
+Freddy received Strings on day 3
+1 items has been added to the inventory
+There is $1179.37 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 966.76
+Freddy ordered total of 0 items
 Freddy tuned Guitar.
-Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
 Freddy tuned Bass.
 Freddy tuned Mandolin.
 Freddy tuned Mandolin.
-Freddy tuned Mandolin.
 Freddy adjusted Flute.
 Freddy adjusted Flute.
 Freddy adjusted Flute.
@@ -20,17 +19,23 @@ Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
-Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $8.19.
-Buyer 2 purchased Flute for $90.0.
-Flute was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Flute for $82.8 after a 10%% discount.
-Freddy bought a good condition Bandanas from Seller 1 for $16.12.
-Freddy bought a fair condition Hats from Seller 2 for $2.31 after offering 10%% more.
-Freddy bought a fair condition Guitar from Seller 3 for $4.57.
-Freddy sold 3 items.
-Freddy Bought 3 items.
+Buyer 1 purchased MusicCD for $6.4.
+Buyer 2 purchased CDPlayer for $48.0.
+Buyer 3 purchased Mandolin for $70.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Strings for $21.66.
+Buyer 4 purchased Hats for $20.0.
+Buyer 5 purchased Guitar for $74.0.
+Buyer also purchased Cables for $20.0.
+Buyer 6 purchased Shirts for $9.0 after a 10%% discount.
+MP3 was too expensive, Buyer 7 left the store.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a good condition CDPlayer from Seller 2 for $41.32 after offering 10%% more.
+Freddy sold 11 items.
+Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

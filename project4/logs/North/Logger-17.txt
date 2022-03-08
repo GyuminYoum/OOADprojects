@@ -1,38 +1,31 @@
-Justin is sick on day 17
 Freddy arrives at the North store on Day 17
-Freddy received PaperScore on day 17
-Freddy received MusicCD on day 17
-2 items has been added to the inventory
-There is $2639.13 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 785.72
-Freddy put in order for Flute for $19.98 on day 17
-Freddy put in order for Flute for $4.38 on day 17
-Freddy put in order for Flute for $44.36 on day 17
-Freddy put in order for Cables for $8.14 on day 17
-Freddy put in order for Cables for $25.58 on day 17
-Freddy put in order for Cables for $23.3 on day 17
+Freddy received CDPlayer on day 17
+1 items has been added to the inventory
+There is $2127.41 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1070.71
+Freddy put in order for MP3 for $19.62 on day 17
+Freddy put in order for MP3 for $30.75 on day 17
+Freddy put in order for MP3 for $16.05 on day 17
+Freddy put in order for Saxophone for $45.06 on day 17
+Freddy put in order for Saxophone for $17.93 on day 17
+Freddy put in order for Saxophone for $18.41 on day 17
 Freddy ordered total of 6 items
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
 Freddy tuned Bass.
 Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
 Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Cables out of stock, Buyer 1 left the store.
-Buyer 2 purchased PaperScore for $51.04 after a 10%% discount.
-Buyer 3 purchased MP3 for $10.38 after a 10%% discount.
-Flute out of stock, Buyer 4 left the store.
-Seller 1 didn't accept the price, and left the store.
-Freddy sold 2 items.
-Freddy Bought 0 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

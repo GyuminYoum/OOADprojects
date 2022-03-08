@@ -1,24 +1,38 @@
-Shaggy arrives at the North store on Day 4
-Shaggy received Strings on day 4
+Daphne arrives at the North store on Day 4
+Daphne received Strings on day 4
 1 items has been added to the inventory
-There is $1332.42 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 951.66
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Saxophone.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Flute was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
-Buyer 3 purchased Saxophone for $84.0.
-PracticeAmps was too expensive, Buyer 4 left the store.
-Buyer 5 purchased CassettePlayer for $26.0.
-Buyer 6 purchased GigBag for $13.0.
-Shaggy bought a very good condition Guitar from Seller 1 for $43.29.
-Shaggy bought a fair condition MP3 from Seller 2 for $6.34 after offering 10%% more.
-Shaggy bought a very good condition Guitar from Seller 3 for $36.94.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1417.11 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 902.5
+Daphne put in order for Guitar for $26.18 on day 4
+Daphne put in order for Guitar for $45.74 on day 4
+Daphne put in order for Guitar for $18.62 on day 4
+Daphne ordered total of 3 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cables for $30.0.
+Buyer 2 purchased MusicCD for $8.19.
+Buyer 3 purchased Harmonica for $38.0.
+Buyer 4 purchased MusicCD for $8.4.
+GigBag was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Bass for $44.0.
+Buyer also purchased Strings for $70.5.
+Daphne bought a fair condition Mandolin from Seller 1 for $10.63.
+Daphne bought a very good condition Mandolin from Seller 2 for $20.97 after offering 10%% more.
+Daphne sold 6 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

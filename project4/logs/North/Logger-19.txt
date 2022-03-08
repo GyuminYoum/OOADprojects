@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Justin arrives at the North store on Day 19
 Justin received PaperScore on day 19
 Justin received Cables on day 19
@@ -17,3 +18,32 @@ Justin has damaged 0 items while tuning
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Shaggy arrives at the North store on Day 19
+Shaggy received PracticeAmps on day 19
+Shaggy received Strings on day 19
+2 items has been added to the inventory
+There is $2051.79 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1264.22
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $96.62.
+Buyer 2 purchased CassettePlayer for $34.36 after a 10%% discount.
+Buyer 3 purchased Hats for $30.0.
+Buyer 4 purchased Mandolin for $70.7.
+Buyer also purchased PracticeAmps for $55.0.
+Buyer 5 purchased GigBag for $49.6 after a 10%% discount.
+Buyer 6 purchased Bandanas for $16.2 after a 10%% discount.
+Cassette was too expensive, Buyer 7 left the store.
+Shaggy bought a good condition Harmonica from Seller 1 for $6.45.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a very good condition PracticeAmps from Seller 3 for $33.27 after offering 10%% more.
+Shaggy sold 7 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) Cassette.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> Stashed changes

@@ -1,38 +1,39 @@
-Justin arrives at the South store on Day 8
-Justin received Strings on day 8
-Justin received Strings on day 8
+Freddy arrives at the South store on Day 8
+Freddy received Strings on day 8
+Freddy received Strings on day 8
 2 items has been added to the inventory
-There is $1350.39 in the register
+There is $1354.44 in the register
 There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1092.13
-Justin put in order for Vinyl for $25.62 on day 8
-Justin put in order for Vinyl for $47.98 on day 8
-Justin put in order for Vinyl for $45.84 on day 8
-Justin put in order for PracticeAmps for $28.31 on day 8
-Justin put in order for PracticeAmps for $2.36 on day 8
-Justin put in order for PracticeAmps for $50.86 on day 8
-Justin put in order for Cables for $28.28 on day 8
-Justin put in order for Cables for $41.77 on day 8
-Justin put in order for Cables for $37.93 on day 8
-Justin ordered total of 9 items
-Justin un-tuned Guitar.
-Justin un-tuned Guitar.
-Justin un-tuned Bass.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Flute for $92.0.
-Buyer 2 purchased RecordPlayer for $66.0.
-Buyer 3 purchased Mandolin for $66.0.
-Buyer also purchased GigBag for $13.0.
-Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
-Flute was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 7 purchased Harmonica for $32.4 after a 10%% discount.
-Buyer 8 purchased PaperScore for $6.0.
-Justin bought a good condition Cassette from Seller 1 for $25.24.
-Justin sold 8 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+All the items in the inventory are worth total of $ 947.55
+Freddy put in order for PracticeAmps for $46.34 on day 8
+Freddy put in order for PracticeAmps for $3.47 on day 8
+Freddy put in order for PracticeAmps for $5.56 on day 8
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $8.19.
+Buyer 2 purchased Harmonica for $32.4 after a 10%% discount.
+PracticeAmps out of stock, Buyer 3 left the store.
+Buyer 4 purchased Saxophone for $90.0.
+Buyer 5 purchased Vinyl for $12.6 after a 10%% discount.
+Freddy bought a good condition PracticeAmps from Seller 1 for $51.43 after offering 10%% more.
+Freddy bought a very good condition Cables from Seller 2 for $21.46 after offering 10%% more.
+Freddy sold 4 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

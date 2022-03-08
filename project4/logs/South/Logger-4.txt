@@ -1,44 +1,27 @@
-Shaggy is sick on day 4
-Daphne arrives at the South store on Day 4
+Shaggy arrives at the South store on Day 4
 0 items has been added to the inventory
-There is $925.13 in the register
+There is $1168.36 in the register
 There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1234.94
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer also purchased Strings for $93.3.
-Buyer 2 purchased MP3 for $10.0.
-Buyer 3 purchased PracticeAmps for $27.0 after a 10%% discount.
-Buyer 4 purchased Cassette for $8.19.
-Cables was too expensive, Buyer 5 left the store.
-PracticeAmps was too expensive, Buyer 6 left the store.
-Daphne bought a fair condition Cassette from Seller 1 for $53.22 after offering 10%% more.
-Daphne bought a good condition CassettePlayer from Seller 2 for $14.27 after offering 10%% more.
-Daphne bought a very good condition Bass from Seller 3 for $10.31.
-Daphne sold 7 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 1014.12
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $5.4 after a 10%% discount.
+Buyer 2 purchased Flute for $82.8 after a 10%% discount.
+Buyer 3 purchased Bass for $44.0.
+Buyer also purchased GigBag for $8.8.
+Buyer also purchased Strings for $22.0.
+Buyer 4 purchased MusicCD for $7.2 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Shaggy sold 6 items.
+Shaggy Bought 0 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

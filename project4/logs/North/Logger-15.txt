@@ -1,46 +1,28 @@
-Daphne arrives at the North store on Day 15
-Daphne received Strings on day 15
-Daphne received Strings on day 15
+Justin arrives at the North store on Day 15
+Justin received Strings on day 15
+Justin received Guitar on day 15
 2 items has been added to the inventory
-There is $2117.1 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 967.66
-Daphne put in order for PaperScore for $28.36 on day 15
-Daphne put in order for PaperScore for $29.34 on day 15
-Daphne put in order for PaperScore for $5.71 on day 15
-Daphne put in order for MusicCD for $12.27 on day 15
-Daphne put in order for MusicCD for $36.88 on day 15
-Daphne put in order for MusicCD for $14.07 on day 15
-Daphne ordered total of 6 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne has damaged 0 items while tuning
-PaperScore out of stock, Buyer 1 left the store.
-Strings was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Vinyl for $14.0.
-Buyer 4 purchased Cables for $30.0.
-Buyer 5 purchased Bass for $58.35 after a 10%% discount.
-Buyer also purchased GigBag for $82.08.
-Buyer also purchased Strings for $84.34.
-Buyer 6 purchased CassettePlayer for $21.6 after a 10%% discount.
-Daphne bought a poor condition Mandolin from Seller 1 for $8.62 after offering 10%% more.
-Daphne bought a very good condition MP3 from Seller 2 for $21.02.
-Daphne sold 6 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $2049.83 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 952.03
+Justin put in order for CDPlayer for $24.6 on day 15
+Justin put in order for CDPlayer for $6.04 on day 15
+Justin put in order for CDPlayer for $43.9 on day 15
+Justin ordered total of 3 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Saxophone was too expensive, Buyer 1 left the store.
+CassettePlayer was too expensive, Buyer 2 left the store.
+Cables was too expensive, Buyer 3 left the store.
+Buyer 4 purchased MP3 for $50.0.
+Justin bought a good condition PaperScore from Seller 1 for $20.88.
+Justin bought a good condition RecordPlayer from Seller 2 for $31.57 after offering 10%% more.
+Justin bought a fair condition Cables from Seller 3 for $32.97.
+Justin sold 1 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

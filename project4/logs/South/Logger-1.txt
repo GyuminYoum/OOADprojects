@@ -1,36 +1,31 @@
-Shaggy arrives at the South store on Day 1
+Freddy is sick on day 1
+Justin arrives at the South store on Day 1
 0 items has been added to the inventory
-Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Justin went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-Shaggy ordered total of 0 items
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Bass.
-Shaggy tuned Bass.
-Shaggy tuned Bass.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $26.0.
-Buyer 2 purchased Vinyl for $9.0 after a 10%% discount.
-Buyer 3 purchased Strings for $7.0.
-Buyer 4 purchased GigBag for $9.9 after a 10%% discount.
-Shaggy bought a poor condition Flute from Seller 1 for $26.48 after offering 10%% more.
-Shaggy bought a very good condition CassettePlayer from Seller 2 for $42.95.
-Shaggy bought a poor condition Strings from Seller 3 for $46.65.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin ordered total of 0 items
+Justin tuned Guitar.
+Justin tuned Guitar.
+Justin tuned Bass.
+Justin tuned Bass.
+Justin tuned Bass.
+Justin tuned Mandolin.
+Justin tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Strings for $6.3 after a 10%% discount.
+Buyer 2 purchased PracticeAmps for $9.0 after a 10%% discount.
+Buyer 3 purchased Bandanas for $5.4 after a 10%% discount.
+Justin bought a very good condition Cassette from Seller 1 for $11.36.
+Justin bought a fair condition Hats from Seller 2 for $7.46 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

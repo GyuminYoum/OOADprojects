@@ -1,50 +1,24 @@
-Daphne arrives at the South store on Day 13
-Daphne received Cables on day 13
-Daphne received GigBag on day 13
-Daphne received CDPlayer on day 13
-3 items has been added to the inventory
-There is $1834.34 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1226.53
-Daphne put in order for Harmonica for $8.92 on day 13
-Daphne put in order for Harmonica for $9.59 on day 13
-Daphne put in order for Harmonica for $33.04 on day 13
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $91.38 after a 10%% discount.
-Buyer 2 purchased Mandolin for $100.32.
-Buyer also purchased GigBag for $23.9.
-Buyer 3 purchased CDPlayer for $69.22.
-CDPlayer was too expensive, Buyer 4 left the store.
-Buyer 5 purchased GigBag for $62.06.
-Buyer 6 purchased Mandolin for $6.08.
-Buyer also purchased PracticeAmps for $56.62.
-Buyer also purchased Cables for $83.54.
-Buyer also purchased Cables for $56.56.
-Buyer also purchased Strings for $40.96.
-Cables out of stock, Buyer 7 left the store.
-Buyer 8 purchased Bandanas for $10.8 after a 10%% discount.
-Harmonica out of stock, Buyer 9 left the store.
-Daphne bought a good condition Guitar from Seller 1 for $10.5.
-Daphne bought a good condition PracticeAmps from Seller 2 for $30.93.
-Daphne bought a poor condition Mandolin from Seller 3 for $52.3 after offering 10%% more.
-Daphne sold 11 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma is sick on day 13
+Justin arrives at the South store on Day 13
+Justin received Vinyl on day 13
+Justin received Cassette on day 13
+2 items has been added to the inventory
+There is $1563.54 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1115.75
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin un-adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased RecordPlayer for $66.0.
+Bandanas out of stock, Buyer 3 left the store.
+Justin bought a fair condition CDPlayer from Seller 1 for $20.42.
+Justin sold 1 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

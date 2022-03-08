@@ -1,33 +1,29 @@
 Justin arrives at the South store on Day 12
-Justin received Vinyl on day 12
-Justin received MP3 on day 12
-Justin received Mandolin on day 12
-Justin received GigBag on day 12
-Justin received CDPlayer on day 12
-5 items has been added to the inventory
-There is $1812.49 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1111.54
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
+Justin received PracticeAmps on day 12
+Justin received Flute on day 12
+Justin received Flute on day 12
+Justin received Cassette on day 12
+4 items has been added to the inventory
+There is $1607.31 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1055.83
+Justin put in order for Strings for $43.62 on day 12
+Justin put in order for Strings for $19.78 on day 12
+Justin put in order for Strings for $44.95 on day 12
+Justin ordered total of 3 items
 Justin un-tuned Bass.
-Justinhas damaged a(n) Bass.
-Justin adjusted Flute.
-Justin un-adjusted Saxophone.
-Justin adjusted Flute.
-Justin un-adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
 Justin un-tuned Mandolin.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased Harmonica for $40.0.
-Hats out of stock, Buyer 2 left the store.
-Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
-Buyer 4 purchased Flute for $86.4 after a 10%% discount.
-Justin bought a fair condition Bandanas from Seller 1 for $39.91 after offering 10%% more.
-Justin bought a fair condition Strings from Seller 2 for $54.12 after offering 10%% more.
-Justin bought a very good condition Saxophone from Seller 3 for $17.71.
-Justin sold 3 items.
-Justin Bought 3 items.
-Justin has damaged a(n) Vinyl.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
+Justin has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased Flute for $100.82.
+Bandanas out of stock, Buyer 3 left the store.
+Justin bought a very good condition Harmonica from Seller 1 for $12.36.
+Justin bought a fair condition Shirts from Seller 2 for $23.88 after offering 10%% more.
+Justin sold 1 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
 Justin went home for the day.

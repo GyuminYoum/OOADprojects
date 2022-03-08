@@ -1,33 +1,35 @@
-Velma arrives at the North store on Day 2
+Freddy arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1097.33 in the register
-There are total of 58 items in the inventory.
-All the items in the inventory are worth total of $ 1051.75
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $6.0.
-Buyer 2 purchased Bass for $46.0.
-Buyer also purchased PracticeAmps for $10.0.
-Buyer also purchased Strings for $22.0.
-Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
-Buyer 4 purchased Guitar for $48.6 after a 10%% discount.
-Buyer also purchased GigBag for $12.0.
-Buyer 5 purchased MP3 for $10.0.
-Buyer 6 purchased Saxophone for $90.0.
-Velma bought a good condition CassettePlayer from Seller 1 for $18.8.
-Seller 2 didn't accept the price, and left the store.
-Velma bought a poor condition Guitar from Seller 3 for $36.67 after offering 10%% more.
-Velma sold 13 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $1241.04 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 974.93
+Freddy put in order for Strings for $35.25 on day 2
+Freddy put in order for Strings for $10.83 on day 2
+Freddy put in order for Strings for $50.99 on day 2
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased Bandanas for $6.0.
+Buyer 3 purchased CassettePlayer for $23.4 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy sold 3 items.
+Freddy Bought 0 items.
+Freddy has damaged a(n) MusicCD.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.
