@@ -24,7 +24,7 @@ class Tests {
     Clerk Freddy=new Clerk("Freddy", new Electronic());
     //static private File file_;
 
-    //TestReporter is used to publish text to the console/output file
+    //TestReporter is used to publish text to the console
     TestInfo testInfo_;
     TestReporter testReporter_;
     //static FileWriter fileWriter;
@@ -41,12 +41,15 @@ class Tests {
         }
     }
     */
+    //Before the start of all tests
     @BeforeAll
     static void init() throws FileNotFoundException {
+        //PrintStream and setOut are used to redirect System.out output to the text file
         PrintStream fileOut = new PrintStream("project4//code//src//TestLogs.txt");
         System.setOut(fileOut);
     }
 
+    //Before every test, reset item/testInfo/testReporter
     @BeforeEach
     void init(TestInfo testInfo, TestReporter testReporter){
         testInfo_ = testInfo;
