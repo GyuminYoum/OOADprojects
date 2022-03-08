@@ -5,89 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project4/code/src/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OOADprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOADprojects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/Tracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/Tracker.java" afterDir="false" />
-=======
-
-
-      <change beforePath="$PROJECT_DIR$/project4/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/FNMS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/Tracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/Tracker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Factory/NGuitarKitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Factory/NGuitarKitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Factory/SGuitarKitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Factory/SGuitarKitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/GuitarKitParts/GuitarKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/GuitarKitParts/GuitarKit.java" afterDir="false" />
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-26.txt" afterDir="false" />
-<<<<<<< HEAD
-=======
-
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-29.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-19.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-25.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-26.txt" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" afterDir="false" />
-=======
-
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" afterDir="false" />
-
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" afterDir="false" />
-
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +27,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -142,10 +68,17 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -159,17 +92,89 @@
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Items" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration name="ItemsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOADprojects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ItemsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemsTest.get_workingAt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOADprojects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ItemsTest" />
+      <option name="METHOD_NAME" value="get_workingAt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemsTest.goToBank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOADprojects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ItemsTest" />
+      <option name="METHOD_NAME" value="goToBank" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOADprojects" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.get_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOADprojects" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <option name="METHOD_NAME" value="get_name" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.get_name" />
+        <item itemvalue="JUnit.ItemsTest" />
+        <item itemvalue="JUnit.ItemsTest.goToBank" />
+        <item itemvalue="JUnit.ItemsTest.get_workingAt" />
       </list>
     </recent_temporary>
   </component>
@@ -210,5 +215,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOADprojects$ItemsTest.ic" NAME="ItemsTest Coverage Results" MODIFIED="1646718908761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Items.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -17,6 +17,7 @@ import Store.Store;
 public class logger implements Observer, Writer, Display {
     private String content;
     private String file_name;
+    private String file_nameS;
 
     public void makeTxt(String str1) {
         File file = new File(str1);
