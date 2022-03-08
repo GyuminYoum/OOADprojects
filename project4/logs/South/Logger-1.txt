@@ -1,8 +1,40 @@
+<<<<<<< HEAD
+Freddy is sick on day 1
+Justin arrives at the South store on Day 1
+=======
 Shaggy arrives at the South store on Day 1
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 0 items has been added to the inventory
 Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
+<<<<<<< HEAD
+Justin ordered total of 0 items
+Justin tuned Guitar.
+Justin tuned Guitar.
+Justin tuned Bass.
+Justin tuned Bass.
+Justin tuned Bass.
+Justin tuned Mandolin.
+Justin tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Strings for $6.3 after a 10%% discount.
+Buyer 2 purchased PracticeAmps for $9.0 after a 10%% discount.
+Buyer 3 purchased Bandanas for $5.4 after a 10%% discount.
+Justin bought a very good condition Cassette from Seller 1 for $11.36.
+Justin bought a fair condition Hats from Seller 2 for $7.46 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Shaggy ordered total of 0 items
 Shaggy tuned Guitar.
 Shaggy tuned Guitar.
@@ -29,3 +61,4 @@ Shaggy Bought 0 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

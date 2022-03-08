@@ -1,0 +1,28 @@
+Store is closed on Sunday.
+Shaggy arrives at the store on Day 15
+Shaggy received PracticeAmps on day 15
+Shaggy received Strings on day 15
+Shaggy received RecordPlayer on day 15
+Shaggy received Cables on day 15
+4 items has been added to the inventory
+There is $1649.06 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1259.74
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy put in order for GigBag for $10.48 on day 15
+Shaggy put in order for GigBag for $42.14 on day 15
+Shaggy put in order for GigBag for $21.1 on day 15
+Shaggy ordered total of 3 items
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Bass.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Flute for $38.61 after a 10%% discount.
+Buyer 2 purchased Harmonica for $70.39 after a 10%% discount.
+Shaggy sold 2 items.
+Shaggy Bought 0 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,0 +1,35 @@
+Shaggy arrives at the store on Day 26
+Shaggy received Vinyl on day 26
+Shaggy received Cassette on day 26
+Shaggy received PaperScore on day 26
+Shaggy received PaperScore on day 26
+4 items has been added to the inventory
+There is $2910.51 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 1127.99
+Shaggy ordered total of 0 items
+Shaggy put in order for Bass for $48.36 on day 26
+Shaggy put in order for Bass for $12.56 on day 26
+Shaggy put in order for Bass for $33.15 on day 26
+Shaggy ordered total of 3 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Guitar out of stock, Buyer 1 left the store.
+Buyer 2 purchased Strings for $11.16.
+Buyer 3 purchased Flute for $39.36 after a 10%% discount.
+Strings out of stock, Buyer 4 left the store.
+RecordPlayer was too expensive, Buyer 5 left the store.
+Buyer 6 purchased CDPlayer for $72.0.
+Shaggy bought a fair condition Harmonica from Seller 1 for $43.08.
+Shaggy bought a fair condition PracticeAmps from Seller 2 for $51.15 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy has thrown away a(n) Flute due to less than poor condition.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

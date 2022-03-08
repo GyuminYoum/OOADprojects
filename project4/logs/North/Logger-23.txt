@@ -1,4 +1,21 @@
 Justin arrives at the North store on Day 23
+<<<<<<< HEAD
+0 items has been added to the inventory
+There is $2626.98 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1072.1
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Flute.
+Justin un-adjusted Flute.
+Justin adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+=======
 Justin received Strings on day 23
 Justin received CDPlayer on day 23
 Justin received GigBag on day 23
@@ -21,6 +38,7 @@ Buyer 3 purchased Cables for $73.18.
 Justin bought a poor condition RecordPlayer from Seller 1 for $13.38 after offering 10%% more.
 Justin sold 2 items.
 Justin Bought 1 items.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

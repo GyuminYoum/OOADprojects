@@ -1,3 +1,81 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+Freddy arrives at the South store on Day 18
+Freddy received Cables on day 18
+Freddy received Flute on day 18
+2 items has been added to the inventory
+There is $2440.36 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1069.92
+Freddy put in order for CDPlayer for $41.3 on day 18
+Freddy put in order for CDPlayer for $49.24 on day 18
+Freddy put in order for CDPlayer for $36.13 on day 18
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $88.56 after a 10%% discount.
+Buyer 2 purchased Saxophone for $84.0.
+Buyer 3 purchased MP3 for $18.36 after a 10%% discount.
+Buyer 4 purchased Flute for $81.79 after a 10%% discount.
+Strings out of stock, Buyer 5 left the store.
+Freddy bought a poor condition MP3 from Seller 1 for $18.23.
+Freddy bought a very good condition Bass from Seller 2 for $35.08.
+Freddy sold 4 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
+Velma arrives at the South store on Day 18
+Velma received Guitar on day 18
+Velma received Cables on day 18
+Velma received Vinyl on day 18
+Velma received PracticeAmps on day 18
+Velma received PracticeAmps on day 18
+5 items has been added to the inventory
+There is $1840.12 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1270.8
+Velma put in order for Cassette for $30.35 on day 18
+Velma put in order for Cassette for $39.17 on day 18
+Velma put in order for Cassette for $45.95 on day 18
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $22.42.
+Buyer 2 purchased Hats for $99.34.
+Buyer 3 purchased Bass for $46.0.
+Buyer 4 purchased RecordPlayer for $19.8 after a 10%% discount.
+Buyer 5 purchased GigBag for $78.22 after a 10%% discount.
+Buyer 6 purchased Harmonica for $79.26.
+Velma bought a very good condition Mandolin from Seller 1 for $42.59 after offering 10%% more.
+Velma bought a poor condition Shirts from Seller 2 for $3.19.
+Velma bought a good condition Hats from Seller 3 for $44.53 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> Stashed changes
+=======
 Daphne arrives at the South store on Day 18
 Daphne received Bass on day 18
 Daphne received Harmonica on day 18
@@ -37,3 +115,4 @@ Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

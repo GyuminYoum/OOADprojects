@@ -1,3 +1,74 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+Freddy arrives at the South store on Day 19
+Freddy received Flute on day 19
+Freddy received PracticeAmps on day 19
+2 items has been added to the inventory
+There is $2533.09 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1014.74
+Freddy put in order for Strings for $29.49 on day 19
+Freddy put in order for Strings for $33.81 on day 19
+Freddy put in order for Strings for $8.69 on day 19
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
+Daphne arrives at the South store on Day 19
+Daphne received Guitar on day 19
+Daphne received Mandolin on day 19
+Daphne received PracticeAmps on day 19
+Daphne received Flute on day 19
+4 items has been added to the inventory
+There is $1979.38 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1257.59
+Daphne put in order for Harmonica for $49.64 on day 19
+Daphne put in order for Harmonica for $37.9 on day 19
+Daphne put in order for Harmonica for $15.23 on day 19
+Daphne ordered total of 3 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Flute for $4.59.
+Buyer 2 purchased GigBag for $70.84.
+Harmonica out of stock, Buyer 3 left the store.
+Daphne bought a very good condition Guitar from Seller 1 for $16.89.
+Seller 2 didn't accept the price, and left the store.
+Daphne sold 2 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+>>>>>>> Stashed changes
+=======
 Velma arrives at the South store on Day 19
 Velma received Harmonica on day 19
 Velma received Cables on day 19
@@ -35,3 +106,4 @@ Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

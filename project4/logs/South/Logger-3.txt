@@ -1,3 +1,25 @@
+<<<<<<< HEAD
+Shaggy arrives at the South store on Day 3
+0 items has been added to the inventory
+There is $1155.96 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1002.52
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $30.0.
+CDPlayer was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $18.0.
+Seller 1 didn't accept the price, and left the store.
+Shaggy bought a good condition RecordPlayer from Seller 2 for $35.6.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) GigBag.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
+=======
 Velma arrives at the South store on Day 3
 0 items has been added to the inventory
 There is $1288.42 in the register
@@ -27,3 +49,4 @@ Velma Bought 2 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

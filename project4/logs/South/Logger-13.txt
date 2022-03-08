@@ -1,3 +1,29 @@
+<<<<<<< HEAD
+Velma is sick on day 13
+Justin arrives at the South store on Day 13
+Justin received Vinyl on day 13
+Justin received Cassette on day 13
+2 items has been added to the inventory
+There is $1563.54 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1115.75
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin un-adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased RecordPlayer for $66.0.
+Bandanas out of stock, Buyer 3 left the store.
+Justin bought a fair condition CDPlayer from Seller 1 for $20.42.
+Justin sold 1 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Daphne arrives at the South store on Day 13
 Daphne received PracticeAmps on day 13
 Daphne received Mandolin on day 13
@@ -37,3 +63,4 @@ Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

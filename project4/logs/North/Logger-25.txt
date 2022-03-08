@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+Freddy arrives at the North store on Day 25
+Freddy received Strings on day 25
+Freddy received MP3 on day 25
+Freddy received Flute on day 25
+Freddy received Cables on day 25
+4 items has been added to the inventory
+There is $2806.88 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1096.9
+Freddy put in order for PracticeAmps for $7.85 on day 25
+Freddy put in order for PracticeAmps for $7.28 on day 25
+Freddy put in order for PracticeAmps for $38.94 on day 25
+Freddy ordered total of 3 items
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $47.94.
+Buyer 2 purchased Cables for $24.28 after a 10%% discount.
+Guitar was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Strings for $59.96.
+Freddy bought a poor condition Saxophone from Seller 1 for $40.4.
+Freddy bought a fair condition Bass from Seller 2 for $45.43.
+Freddy sold 3 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
 Justin arrives at the North store on Day 25
 Justin received CDPlayer on day 25
 Justin received Harmonica on day 25
@@ -30,3 +70,4 @@ Justin Bought 0 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

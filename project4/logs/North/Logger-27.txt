@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+Justin is sick on day 27
+Velma arrives at the North store on Day 27
+Velma received Flute on day 27
+Velma received PracticeAmps on day 27
+Velma received Strings on day 27
+3 items has been added to the inventory
+There is $2853.63 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1126.12
+Velma ordered total of 0 items
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma adjusted Harmonica.
+Velma adjusted Flute.
+Velma adjusted Saxophone.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Guitar was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Strings for $73.81.
+PracticeAmps was too expensive, Buyer 3 left the store.
+Buyer 4 purchased PracticeAmps for $14.13 after a 10%% discount.
+Buyer 5 purchased Bandanas for $16.2 after a 10%% discount.
+Velma bought a very good condition PaperScore from Seller 1 for $28.19.
+Velma bought a very good condition RecordPlayer from Seller 2 for $34.55 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma has damaged a(n) Vinyl.
+Velma damaged an item while cleaning.
+Velma damaged 1 items while cleaning.
+=======
 Velma arrives at the North store on Day 27
 Velma received MP3 on day 27
 Velma received PaperScore on day 27
@@ -31,4 +62,5 @@ Velma sold 8 items.
 Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Velma went home for the day.

@@ -1,0 +1,46 @@
+Daphne arrives at the store on Day 30
+Daphne received PaperScore on day 30
+Daphne received Bass on day 30
+Daphne received Strings on day 30
+3 items has been added to the inventory
+There is $3053.84 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1374.36
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne ordered total of 0 items
+Daphne put in order for GigBag for $30.82 on day 30
+Daphne put in order for GigBag for $10.26 on day 30
+Daphne put in order for GigBag for $30.92 on day 30
+Daphne ordered total of 3 items
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $56.78.
+Buyer also purchased PracticeAmps for $52.54.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased PracticeAmps for $83.7 after a 10%% discount.
+Shirts out of stock, Buyer 4 left the store.
+Buyer 5 purchased Cables for $42.86.
+Daphne bought a poor condition Guitar from Seller 1 for $30.87 after offering 10%% more.
+Daphne sold 4 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

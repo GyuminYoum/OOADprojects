@@ -1,3 +1,45 @@
+<<<<<<< HEAD
+Freddy arrives at the South store on Day 27
+Freddy received Flute on day 27
+Freddy received Cables on day 27
+Freddy received Guitar on day 27
+3 items has been added to the inventory
+There is $3267.21 in the register
+There are total of 35 items in the inventory.
+All the items in the inventory are worth total of $ 938.05
+Freddy put in order for Bass for $14.69 on day 27
+Freddy put in order for Bass for $16.19 on day 27
+Freddy put in order for Bass for $20.29 on day 27
+Freddy put in order for PracticeAmps for $50.1 on day 27
+Freddy put in order for PracticeAmps for $43.27 on day 27
+Freddy put in order for PracticeAmps for $38.11 on day 27
+Freddy ordered total of 6 items
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $14.1.
+Buyer 2 purchased Strings for $78.5.
+GigBag was too expensive, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Buyer 5 purchased GigBag for $31.88.
+Buyer 6 purchased Vinyl for $43.2.
+Freddy bought a good condition CDPlayer from Seller 1 for $3.65.
+Freddy sold 4 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
 Shaggy arrives at the South store on Day 27
 Shaggy received CDPlayer on day 27
 Shaggy received Strings on day 27
@@ -28,3 +70,4 @@ Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

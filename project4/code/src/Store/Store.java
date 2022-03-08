@@ -247,7 +247,7 @@ public class Store {
     }
     public void notifyLoggers(String str1){
         for (logger O:logger_list){
-            O.update(str1);
+            O.update(str1, this);
         }
     }
 
@@ -256,12 +256,12 @@ public class Store {
     public void removeTracker(Tracker t) { tracker_list.remove(t); }
     public void notifyTrackers(String str1){
         for (Tracker t:tracker_list){
-            t.update(str1);
+            t.update(str1, this);
         }
     }
     public void printTrackers() {
         for (Tracker t:tracker_list){
-            t.display();
+            t.display(this);
         }
     }
 

@@ -17,6 +17,7 @@ import Store.Store;
 public class logger implements Observer, Writer, Display {
     private String content;
     private String file_name;
+    private String file_nameS;
 
     public void makeTxt(String str1) {
         File file = new File(str1);
@@ -30,7 +31,7 @@ public class logger implements Observer, Writer, Display {
 
     }
 
-    public void update(String content1) {
+    public void update(String content1, Store Store) {
         this.content = content1;
         display();
         Write();

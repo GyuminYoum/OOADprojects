@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+Justin arrives at the South store on Day 24
+Justin received MusicCD on day 24
+1 items has been added to the inventory
+There is $1837.37 in the register
+There are total of 62 items in the inventory.
+All the items in the inventory are worth total of $ 1578.77
+Justin ordered total of 0 items
+Justin adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+=======
 Freddy arrives at the South store on Day 24
 Freddy received RecordPlayer on day 24
 Freddy received PaperScore on day 24
@@ -44,3 +59,4 @@ Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

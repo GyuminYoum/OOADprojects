@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 26
+Velma received MP3 on day 26
+Velma received Flute on day 26
+Velma received PracticeAmps on day 26
+3 items has been added to the inventory
+There is $2799.15 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1191.16
+Velma put in order for Strings for $20.84 on day 26
+Velma put in order for Strings for $36.68 on day 26
+Velma put in order for Strings for $36.9 on day 26
+Velma ordered total of 3 items
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma un-adjusted Harmonica.
+Velma has thrown away a(n) Harmonicadue to less than poor condition.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Harmonica for $48.9.
+Buyer 2 purchased Harmonica for $100.0.
+Strings out of stock, Buyer 3 left the store.
+Strings out of stock, Buyer 4 left the store.
+Velma sold 2 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Justin arrives at the North store on Day 26
 Justin received MP3 on day 26
 Justin received Harmonica on day 26
@@ -29,3 +62,4 @@ Justin Bought 0 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

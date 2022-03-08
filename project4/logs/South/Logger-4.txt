@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+Shaggy arrives at the South store on Day 4
+0 items has been added to the inventory
+There is $1168.36 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1014.12
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $5.4 after a 10%% discount.
+Buyer 2 purchased Flute for $82.8 after a 10%% discount.
+Buyer 3 purchased Bass for $44.0.
+Buyer also purchased GigBag for $8.8.
+Buyer also purchased Strings for $22.0.
+Buyer 4 purchased MusicCD for $7.2 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Shaggy sold 6 items.
+Shaggy Bought 0 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
 Freddy arrives at the South store on Day 4
 0 items has been added to the inventory
 There is $1339.35 in the register
@@ -37,3 +66,4 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

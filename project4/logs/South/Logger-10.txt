@@ -1,4 +1,31 @@
 Justin arrives at the South store on Day 10
+<<<<<<< HEAD
+Justin received PracticeAmps on day 10
+1 items has been added to the inventory
+There is $1385.67 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 953.12
+Justin put in order for Flute for $50.41 on day 10
+Justin put in order for Flute for $22.62 on day 10
+Justin put in order for Flute for $40.61 on day 10
+Justin put in order for Cassette for $15.56 on day 10
+Justin put in order for Cassette for $30.1 on day 10
+Justin put in order for Cassette for $42.09 on day 10
+Justin ordered total of 6 items
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Cassette out of stock, Buyer 1 left the store.
+Flute out of stock, Buyer 2 left the store.
+Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $93.52.
+Buyer also purchased Cables for $10.0.
+Justin bought a fair condition Saxophone from Seller 1 for $28.92.
+Seller 2 didn't accept the price, and left the store.
+Justin bought a fair condition CDPlayer from Seller 3 for $52.1 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin has damaged a(n) PracticeAmps.
+=======
 Justin received Flute on day 10
 Justin received Strings on day 10
 2 items has been added to the inventory
@@ -22,6 +49,7 @@ Justin bought a poor condition MusicCD from Seller 1 for $7.88.
 Justin sold 2 items.
 Justin Bought 1 items.
 Justin has damaged a(n) MP3.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Justin damaged an item while cleaning.
 Justin damaged 1 items while cleaning.
 Justin went home for the day.

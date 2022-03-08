@@ -1,3 +1,34 @@
+<<<<<<< HEAD
+Daphne arrives at the South store on Day 17
+Daphne received Strings on day 17
+1 items has been added to the inventory
+There is $2026.44 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1039.79
+Daphne put in order for MusicCD for $16.39 on day 17
+Daphne put in order for MusicCD for $20.35 on day 17
+Daphne put in order for MusicCD for $17.12 on day 17
+Daphne put in order for Bass for $22.04 on day 17
+Daphne put in order for Bass for $42.25 on day 17
+Daphne put in order for Bass for $46.05 on day 17
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+=======
 Shaggy arrives at the South store on Day 17
 Shaggy received Saxophone on day 17
 1 items has been added to the inventory
@@ -32,3 +63,4 @@ Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

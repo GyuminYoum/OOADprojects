@@ -1,3 +1,70 @@
+<<<<<<< HEAD
+Velma is sick on day 8
+Shaggy arrives at the North store on Day 8
+Shaggy received Guitar on day 8
+Shaggy received MusicCD on day 8
+Shaggy received MusicCD on day 8
+Shaggy received Cables on day 8
+Shaggy received Harmonica on day 8
+Shaggy received Harmonica on day 8
+6 items has been added to the inventory
+There is $1418.53 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1052.69
+Shaggy ordered total of 0 items
+Shaggy adjusted Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $9.0 after a 10%% discount.
+Buyer 2 purchased Hats for $10.0.
+Shaggy bought a poor condition Harmonica from Seller 1 for $9.64.
+Shaggy sold 2 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) Cassette.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
+=======
+<<<<<<< HEAD
+Freddy arrives at the North store on Day 8
+Freddy received Strings on day 8
+Freddy received Harmonica on day 8
+Freddy received Harmonica on day 8
+3 items has been added to the inventory
+There is $1465.99 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 932.67
+Freddy put in order for Cables for $18.3 on day 8
+Freddy put in order for Cables for $25.86 on day 8
+Freddy put in order for Cables for $39.33 on day 8
+Freddy ordered total of 3 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $8.1 after a 10%% discount.
+Buyer 2 purchased Hats for $10.0.
+Buyer 3 purchased Bandanas for $5.4 after a 10%% discount.
+Freddy bought a good condition Vinyl from Seller 1 for $41.59.
+Freddy bought a fair condition Guitar from Seller 2 for $40.61.
+Freddy sold 3 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
 Daphne arrives at the North store on Day 8
 Daphne received Strings on day 8
 1 items has been added to the inventory
@@ -32,3 +99,5 @@ Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

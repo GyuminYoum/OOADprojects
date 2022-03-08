@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+Velma arrives at the South store on Day 23
+Velma received Flute on day 23
+Velma received Harmonica on day 23
+Velma received RecordPlayer on day 23
+3 items has been added to the inventory
+There is $2181.67 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1386.19
+Velma put in order for GigBag for $4.3 on day 23
+Velma put in order for GigBag for $37.08 on day 23
+Velma put in order for GigBag for $22.38 on day 23
+Velma ordered total of 3 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Shaggy arrives at the South store on Day 23
 Shaggy received GigBag on day 23
 Shaggy received PaperScore on day 23
@@ -28,3 +57,4 @@ Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

@@ -1,0 +1,37 @@
+Velma arrives at the store on Day 24
+Velma received Harmonica on day 24
+Velma received Vinyl on day 24
+Velma received Cassette on day 24
+3 items has been added to the inventory
+There is $2732.4 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1107.04
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma ordered total of 0 items
+Velma put in order for Cables for $47.44 on day 24
+Velma put in order for Cables for $21.43 on day 24
+Velma put in order for Cables for $50.34 on day 24
+Velma ordered total of 3 items
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $96.86.
+Buyer 2 purchased Strings for $89.42 after a 10%% discount.
+Buyer 3 purchased PaperScore for $6.0.
+Buyer 4 purchased Saxophone for $90.6.
+Buyer 5 purchased Flute for $23.6.
+Buyer 6 purchased RecordPlayer for $101.46.
+Seller 1 didn't accept the price, and left the store.
+Velma bought a poor condition Flute from Seller 2 for $31.52.
+Velma bought a poor condition Vinyl from Seller 3 for $16.76.
+Velma sold 8 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
