@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+Velma arrives at the South store on Day 5
+0 items has been added to the inventory
+There is $1338.56 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 922.62
+Velma put in order for Strings for $46.89 on day 5
+Velma put in order for Strings for $40.08 on day 5
+Velma put in order for Strings for $17.3 on day 5
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $9.0 after a 10%% discount.
+Strings out of stock, Buyer 2 left the store.
+Buyer 3 purchased Hats for $18.0 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Velma sold 2 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Shaggy arrives at the South store on Day 5
 Shaggy received MusicCD on day 5
 1 items has been added to the inventory
@@ -25,3 +53,4 @@ Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

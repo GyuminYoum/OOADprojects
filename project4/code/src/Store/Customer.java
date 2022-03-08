@@ -160,6 +160,7 @@ public class Customer {
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
                 System.out.println("You've successfully bought " + wantedItem + " for $" + soldItem.get_salePrice());
+                Store.notifyTrackers("sold");
                 buy_count++;
                 if (soldItem instanceof Stringed) {
                     StringDecorator temp = new StringDecorator((Stringed) soldItem);
@@ -177,6 +178,7 @@ public class Customer {
                     Store.add_soldItem(soldItem);
                     Store.add_Register(soldItem.get_salePrice());
                     System.out.println("You've successfully bought " + wantedItem + " for $" + soldItem.get_salePrice());
+                    Store.notifyTrackers("sold");
                     buy_count++;
                     if (soldItem instanceof Stringed) {
                         StringDecorator temp = new StringDecorator((Stringed) soldItem);
@@ -586,6 +588,7 @@ public class Customer {
                 Store.add_Inventory(random_item);
                 sell_count++;
                 System.out.println("You successfully sold " + random_item.get_conditionS() + " condition " + random_item.get_name() + " at the price of $" + random_item.get_purchasePrice() + " to " + location.get_OnShift().get_name());
+                Store.notifyTrackers("purchased");
             } else if (response == 'N') {
                 double temp2;
                 temp2 = price1 * 1.1;
@@ -599,6 +602,7 @@ public class Customer {
                     Store.add_Inventory(random_item);
                     sell_count++;
                     System.out.println("You successfully sold " + random_item.get_conditionS() + " condition " + random_item.get_name() + " at the negotiated price of $" + random_item.get_purchasePrice() + " to " + location.get_OnShift().get_name());
+                    Store.notifyTrackers("purchased");
                 } else if (response == 'N') {
                     System.out.println("You've decided not to sell the item");
                 } else {

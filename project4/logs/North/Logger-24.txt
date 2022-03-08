@@ -1,3 +1,35 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 24
+Velma received CDPlayer on day 24
+Velma received CDPlayer on day 24
+2 items has been added to the inventory
+There is $2486.59 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 1060.31
+Velma put in order for RecordPlayer for $1.19 on day 24
+Velma put in order for RecordPlayer for $11.69 on day 24
+Velma put in order for RecordPlayer for $16.27 on day 24
+Velma put in order for Cables for $42.71 on day 24
+Velma put in order for Cables for $1.78 on day 24
+Velma put in order for Cables for $3.74 on day 24
+Velma put in order for Strings for $2.39 on day 24
+Velma put in order for Strings for $29.41 on day 24
+Velma put in order for Strings for $45.46 on day 24
+Velma ordered total of 9 items
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma adjusted Flute.
+Velma has damaged 0 items while tuning
+=======
 Freddy is sick on day 24
 Justin arrives at the North store on Day 24
 Justin received PracticeAmps on day 24
@@ -26,3 +58,4 @@ Justin has damaged a(n) Bass.
 Justin damaged an item while cleaning.
 Justin damaged 1 items while cleaning.
 Justin went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

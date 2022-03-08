@@ -1,4 +1,14 @@
 Shaggy arrives at the North store on Day 29
+<<<<<<< HEAD
+Shaggy received Cables on day 29
+Shaggy received Strings on day 29
+2 items has been added to the inventory
+There is $2895.03 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1195.62
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+=======
 Shaggy received Harmonica on day 29
 Shaggy received Guitar on day 29
 Shaggy received Strings on day 29
@@ -17,6 +27,7 @@ Shaggy put in order for Cables for $3.93 on day 29
 Shaggy put in order for Cables for $2.31 on day 29
 Shaggy put in order for Cables for $2.65 on day 29
 Shaggy ordered total of 9 items
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Shaggy adjusted Flute.
 Shaggy adjusted Flute.
 Shaggy un-adjusted Saxophone.

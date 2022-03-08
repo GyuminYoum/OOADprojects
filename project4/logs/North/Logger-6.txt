@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+Daphne is sick on day 6
+Shaggy arrives at the North store on Day 6
+Shaggy received Guitar on day 6
+1 items has been added to the inventory
+There is $1532.54 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 835.7
+Shaggy put in order for Harmonica for $41.3 on day 6
+Shaggy put in order for Harmonica for $48.52 on day 6
+Shaggy put in order for Harmonica for $34.2 on day 6
+Shaggy ordered total of 3 items
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $10.0.
+Shirts out of stock, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $52.36.
+Buyer 4 purchased GigBag for $9.9 after a 10%% discount.
+Shaggy bought a fair condition Harmonica from Seller 1 for $23.63 after offering 10%% more.
+Shaggy bought a poor condition PracticeAmps from Seller 2 for $38.62 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
 Daphne arrives at the North store on Day 6
 Daphne received Cables on day 6
 Daphne received Strings on day 6
@@ -34,3 +61,4 @@ Daphne Bought 3 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

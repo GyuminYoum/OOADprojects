@@ -1,9 +1,47 @@
-<<<<<<< HEAD
-Shaggy arrives at the South store on Day 22
-Shaggy received Bass on day 22
-Shaggy received Mandolin on day 22
-Shaggy received Cables on day 22
+Freddy arrives at the South store on Day 22
+Freddy received Mandolin on day 22
+Freddy received Cassette on day 22
+Freddy received Harmonica on day 22
 3 items has been added to the inventory
+<<<<<<< HEAD
+There is $2128.2 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1358.7
+Freddy put in order for RecordPlayer for $12.53 on day 22
+Freddy put in order for RecordPlayer for $38.26 on day 22
+Freddy put in order for RecordPlayer for $32.85 on day 22
+Freddy ordered total of 3 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $47.91 after a 10%% discount.
+Buyer 2 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 3 purchased Bandanas for $18.0.
+Buyer 4 purchased Harmonica for $68.23 after a 10%% discount.
+Buyer 5 purchased GigBag for $4.63.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a very good condition Cables from Seller 2 for $10.64.
+Freddy sold 5 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
 There is $2245.69 in the register
 There are total of 51 items in the inventory.
 All the items in the inventory are worth total of $ 1401.24
@@ -82,3 +120,4 @@ Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
 >>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

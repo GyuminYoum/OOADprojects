@@ -1,3 +1,45 @@
+<<<<<<< HEAD
+Freddy arrives at the South store on Day 6
+0 items has been added to the inventory
+There is $1261.28 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 907.62
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $10.0.
+Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 3 purchased Cassette for $8.19.
+Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $50.0.
+Saxophone was too expensive, Buyer 6 left the store.
+Hats was too expensive, Buyer 7 left the store.
+Buyer 8 purchased Bass for $46.0.
+Buyer 9 purchased Cassette for $4.4.
+Hats was too expensive, Buyer 10 left the store.
+Freddy bought a good condition RecordPlayer from Seller 1 for $26.16.
+Freddy bought a good condition MP3 from Seller 2 for $20.87.
+Freddy sold 7 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+=======
 Shaggy arrives at the South store on Day 6
 Shaggy received MusicCD on day 6
 1 items has been added to the inventory
@@ -27,3 +69,4 @@ Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

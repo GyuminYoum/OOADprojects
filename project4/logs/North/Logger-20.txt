@@ -1,3 +1,36 @@
+<<<<<<< HEAD
+Velma arrives at the North store on Day 20
+Velma received Strings on day 20
+1 items has been added to the inventory
+There is $2364.54 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1126.45
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $3.04.
+Buyer 2 purchased Mandolin for $81.0.
+Buyer also purchased Strings for $3.58.
+Buyer 3 purchased MusicCD for $81.09.
+Flute was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Cassette for $57.02.
+Velma bought a fair condition Hats from Seller 1 for $29.88.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+=======
 Shaggy is sick on day 20
 Daphne arrives at the North store on Day 20
 Daphne received Cables on day 20
@@ -39,3 +72,4 @@ Daphne has damaged a(n) Cables.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

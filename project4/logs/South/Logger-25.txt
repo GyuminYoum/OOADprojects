@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+Daphne is sick on day 25
+Justin arrives at the South store on Day 25
+Justin received Flute on day 25
+Justin received Cables on day 25
+2 items has been added to the inventory
+There is $3058.32 in the register
+There are total of 35 items in the inventory.
+All the items in the inventory are worth total of $ 949.07
+Justin put in order for Guitar for $32.07 on day 25
+Justin put in order for Guitar for $1.19 on day 25
+Justin put in order for Guitar for $8.44 on day 25
+Justin ordered total of 3 items
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $65.76.
+Buyer 2 purchased CassettePlayer for $11.28.
+Buyer 3 purchased Strings for $70.45 after a 10%% discount.
+Justin bought a fair condition Strings from Seller 1 for $3.15.
+Justin bought a good condition Strings from Seller 2 for $43.89.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
 Freddy arrives at the South store on Day 25
 Freddy received PaperScore on day 25
 Freddy received Saxophone on day 25
@@ -44,3 +71,4 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

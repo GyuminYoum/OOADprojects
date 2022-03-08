@@ -1,3 +1,75 @@
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+Justin arrives at the North store on Day 18
+Justin received PaperScore on day 18
+Justin received MusicCD on day 18
+Justin received Flute on day 18
+Justin received Cables on day 18
+4 items has been added to the inventory
+There is $2574.81 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 824.39
+Justin ordered total of 0 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cables for $51.16.
+Buyer 2 purchased Harmonica for $49.75 after a 10%% discount.
+Buyer 3 purchased Bandanas for $29.01 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $50.0.
+Buyer 5 purchased Saxophone for $74.08.
+Justin bought a very good condition Flute from Seller 1 for $40.31.
+Justin sold 5 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+=======
+Daphne arrives at the North store on Day 18
+Daphne received Mandolin on day 18
+Daphne received GigBag on day 18
+2 items has been added to the inventory
+There is $2100.03 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1207.58
+Daphne put in order for Strings for $4.32 on day 18
+Daphne put in order for Strings for $41.32 on day 18
+Daphne put in order for Strings for $1.79 on day 18
+Daphne ordered total of 3 items
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $3.34 after a 10%% discount.
+Buyer 2 purchased Harmonica for $7.84.
+Buyer 3 purchased Cassette for $21.69 after a 10%% discount.
+Shirts out of stock, Buyer 4 left the store.
+GigBag was too expensive, Buyer 5 left the store.
+Vinyl was too expensive, Buyer 6 left the store.
+Vinyl was too expensive, Buyer 7 left the store.
+Daphne bought a very good condition MusicCD from Seller 1 for $33.68 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
+>>>>>>> Stashed changes
+=======
 Shaggy arrives at the North store on Day 18
 Shaggy received Cables on day 18
 1 items has been added to the inventory
@@ -25,3 +97,4 @@ Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

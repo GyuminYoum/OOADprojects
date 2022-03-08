@@ -1,4 +1,32 @@
 <<<<<<< HEAD
+Shaggy arrives at the South store on Day 9
+Shaggy received Strings on day 9
+1 items has been added to the inventory
+There is $1369.36 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 986.43
+Shaggy put in order for Vinyl for $6.9 on day 9
+Shaggy put in order for Vinyl for $43.99 on day 9
+Shaggy put in order for Vinyl for $37.93 on day 9
+Shaggy ordered total of 3 items
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $22.72.
+Buyer 2 purchased Shirts for $8.0.
+Buyer 3 purchased Flute for $96.0.
+Buyer 4 purchased Hats for $10.0.
+Shaggy bought a poor condition PracticeAmps from Seller 1 for $31.58.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+=======
+<<<<<<< HEAD
 Daphne arrives at the South store on Day 9
 Daphne received PaperScore on day 9
 Daphne received Mandolin on day 9
@@ -76,3 +104,4 @@ Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
 >>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

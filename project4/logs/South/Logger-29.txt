@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+Justin arrives at the South store on Day 29
+Justin received Cables on day 29
+Justin received Guitar on day 29
+Justin received Bass on day 29
+Justin received PracticeAmps on day 29
+4 items has been added to the inventory
+There is $3248.58 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 930.49
+Justin put in order for GigBag for $3.19 on day 29
+Justin put in order for GigBag for $6.67 on day 29
+Justin put in order for GigBag for $25.86 on day 29
+Justin ordered total of 3 items
+Justin has damaged 0 items while tuning
+=======
 Velma arrives at the South store on Day 29
 Velma received Saxophone on day 29
 Velma received Cables on day 29
@@ -22,3 +38,4 @@ Velma has damaged 0 items while tuning
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+>>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

@@ -27,6 +27,26 @@ public class Clerk extends Staff{
     private int buy_count;
     private int dmg_count;
 
+    //variables and methods for Tracker
+    private int soldN = 0;
+    public int get_SN(){return soldN;}
+    public void set_SN(int n){soldN = n;}
+    private int soldS = 0;
+    public int get_SS(){return soldS;}
+    public void set_SS(int n){soldS = n;}
+    public int boughtN = 0;
+    public int get_BN(){return boughtN;}
+    public void set_BN(int n){boughtN = n;}
+    public int boughtS = 0;
+    public int get_BS(){return boughtS;}
+    public void set_BS(int n){boughtS = n;}
+    public int dmgN = 0;
+    public int get_DN(){return dmgN;}
+    public void set_DN(int n){dmgN = n;}
+    public int dmgS = 0;
+    public int get_DS(){return dmgS;}
+    public void set_DS(int n){dmgS = n;}
+
     //default constructor for clerk
     public Clerk(String name1, Strategy strategy) {
         super(name1);
@@ -84,6 +104,7 @@ public class Clerk extends Staff{
         Store.add_soldItem(soldItem);
         Store.add_Register(soldItem.get_salePrice());
         System.out.println("You bought a custom Guitar kit for $"+soldItem.get_salePrice());
+        Store.notifyTrackers("sold");
         sold_count++;
         return 1;
     }
