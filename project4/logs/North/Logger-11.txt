@@ -1,64 +1,29 @@
-<<<<<<< HEAD
 Freddy arrives at the North store on Day 11
-Freddy received Cables on day 11
+Freddy received PracticeAmps on day 11
 1 items has been added to the inventory
-There is $1537.68 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1103.86
+There is $1872.73 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 924.44
 Freddy ordered total of 0 items
 Freddy tuned Bass.
 Freddy tuned Bass.
 Freddy tuned Bass.
 Freddy tuned Mandolin.
 Freddy adjusted Flute.
-Freddy adjusted Flute.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
 Freddy tuned Guitar.
-Freddy tuned Guitar.
 Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
 Freddy has damaged 0 items while tuning
+Cassette was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $35.82 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $90.79 after a 10%% discount.
+Freddy bought a poor condition PracticeAmps from Seller 1 for $5.81.
+Freddy sold 3 items.
+Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
-=======
-Daphne arrives at the North store on Day 11
-Daphne received RecordPlayer on day 11
-Daphne received Bass on day 11
-2 items has been added to the inventory
-There is $1789.56 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 797.59
-Daphne put in order for PaperScore for $31.32 on day 11
-Daphne put in order for PaperScore for $12.77 on day 11
-Daphne put in order for PaperScore for $30.42 on day 11
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $48.0.
-Daphne bought a very good condition Vinyl from Seller 1 for $33.44.
-Daphne bought a very good condition MusicCD from Seller 2 for $4.97.
-Daphne sold 1 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

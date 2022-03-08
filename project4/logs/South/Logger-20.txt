@@ -1,65 +1,50 @@
-Shaggy is sick on day 20
-<<<<<<< HEAD
-Daphne arrives at the South store on Day 20
-Daphne received GigBag on day 20
-Daphne received Vinyl on day 20
-Daphne received Bass on day 20
-3 items has been added to the inventory
-There is $2328.92 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1087.74
-Daphne ordered total of 0 items
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-=======
 Freddy arrives at the South store on Day 20
-Freddy received Strings on day 20
+Freddy received Harmonica on day 20
 Freddy received GigBag on day 20
-2 items has been added to the inventory
-There is $2310.07 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1043.46
-Freddy put in order for MP3 for $43.59 on day 20
-Freddy put in order for MP3 for $11.92 on day 20
-Freddy put in order for MP3 for $31.37 on day 20
+Freddy received GigBag on day 20
+3 items has been added to the inventory
+There is $2185.92 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1287.34
+Freddy put in order for RecordPlayer for $42.89 on day 20
+Freddy put in order for RecordPlayer for $24.69 on day 20
+Freddy put in order for RecordPlayer for $18.14 on day 20
 Freddy ordered total of 3 items
 Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
 Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
 Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
 Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
 Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $12.6 after a 10%% discount.
-Buyer 2 purchased PaperScore for $5.4 after a 10%% discount.
-Buyer 3 purchased Saxophone for $29.74.
-Freddy bought a fair condition Bass from Seller 1 for $14.18.
-Freddy bought a good condition Bandanas from Seller 2 for $45.33.
-Freddy sold 3 items.
+Buyer 1 purchased Saxophone for $45.7.
+Buyer 2 purchased Bandanas for $18.0.
+Buyer 3 purchased Vinyl for $12.0.
+RecordPlayer out of stock, Buyer 4 left the store.
+Buyer 5 purchased MusicCD for $97.96.
+Buyer 6 purchased Strings for $90.02.
+Buyer 7 purchased PaperScore for $6.0.
+Bass was too expensive, Buyer 8 left the store.
+Freddy bought a good condition Cassette from Seller 2 for $13.87 after offering 10%% more.
+Freddy bought a good condition Bass from Seller 3 for $35.47.
+Freddy sold 6 items.
 Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649

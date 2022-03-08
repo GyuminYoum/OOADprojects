@@ -1,50 +1,36 @@
-Velma arrives at the North store on Day 6
-Velma received Strings on day 6
-1 items has been added to the inventory
-<<<<<<< HEAD
-There is $1392.74 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 905.6
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Cables for $44.2 after a 10%% discount.
+Daphne arrives at the North store on Day 6
+Daphne received Cables on day 6
+Daphne received Strings on day 6
+2 items has been added to the inventory
+There is $1373.74 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1007.46
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $66.0.
 Bandanas was too expensive, Buyer 2 left the store.
 Buyer 3 purchased Cassette for $6.0.
-Buyer 4 purchased Guitar for $74.0.
-Seller 1 didn't accept the price, and left the store.
-Velma bought a very good condition Hats from Seller 2 for $50.95.
-Velma sold 3 items.
-Velma Bought 1 items.
-=======
-There is $1600.88 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 897.18
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Bass for $48.0.
-Buyer 2 purchased GigBag for $11.0.
-Buyer 3 purchased RecordPlayer for $22.0.
-Buyer 4 purchased MusicCD for $8.0.
-Velma bought a good condition Mandolin from Seller 1 for $8.86.
-Velma bought a very good condition MP3 from Seller 2 for $11.69.
-Velma sold 4 items.
-Velma Bought 2 items.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Buyer 4 purchased PracticeAmps for $50.0.
+Buyer 5 purchased Bandanas for $5.4 after a 10%% discount.
+Buyer 6 purchased Cables for $82.48.
+Daphne bought a poor condition RecordPlayer from Seller 1 for $20.3.
+Daphne bought a poor condition Cables from Seller 2 for $15.95.
+Daphne bought a poor condition Bandanas from Seller 3 for $50.36.
+Daphne sold 5 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

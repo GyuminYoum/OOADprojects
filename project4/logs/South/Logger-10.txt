@@ -1,83 +1,27 @@
-<<<<<<< HEAD
-Freddy arrives at the South store on Day 10
-Freddy received Cables on day 10
-1 items has been added to the inventory
-There is $1218.58 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1276.7
-Freddy put in order for CDPlayer for $14.73 on day 10
-Freddy put in order for CDPlayer for $42.54 on day 10
-Freddy put in order for CDPlayer for $17.57 on day 10
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $78.58.
-Buyer 2 purchased RecordPlayer for $41.1.
-Cables was too expensive, Buyer 3 left the store.
-Buyer 4 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 5 purchased PaperScore for $18.1.
-Buyer 6 purchased Saxophone for $84.0.
-Buyer 7 purchased Guitar for $54.0.
-Buyer also purchased Cables for $99.86.
-Buyer also purchased Cables for $101.56.
-Freddy bought a good condition MP3 from Seller 1 for $31.54.
-Freddy bought a poor condition Flute from Seller 2 for $15.25 after offering 10%% more.
-Freddy sold 8 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Velma arrives at the South store on Day 10
-Velma received Saxophone on day 10
-1 items has been added to the inventory
-There is $1656.86 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 942.34
-Velma put in order for Strings for $18.41 on day 10
-Velma put in order for Strings for $30.0 on day 10
-Velma put in order for Strings for $29.12 on day 10
-Velma ordered total of 3 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma tuned Bass.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $10.0.
-Buyer 2 purchased Saxophone for $30.15 after a 10%% discount.
-GigBag was too expensive, Buyer 3 left the store.
-Buyer 4 purchased CDPlayer for $24.0.
-Buyer 5 purchased PracticeAmps for $30.0.
-Velma bought a very good condition Hats from Seller 1 for $24.87.
-Velma bought a poor condition CDPlayer from Seller 2 for $33.94.
-Velma bought a very good condition CassettePlayer from Seller 3 for $15.49 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
+Justin arrives at the South store on Day 10
+Justin received Flute on day 10
+Justin received Strings on day 10
+2 items has been added to the inventory
+There is $2012.96 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 713.24
+Justin put in order for Mandolin for $8.77 on day 10
+Justin put in order for Mandolin for $2.14 on day 10
+Justin put in order for Mandolin for $9.27 on day 10
+Justin ordered total of 3 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Flute for $11.74.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $10.03.
+Justin bought a poor condition MusicCD from Seller 1 for $7.88.
+Justin sold 2 items.
+Justin Bought 1 items.
+Justin has damaged a(n) MP3.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.

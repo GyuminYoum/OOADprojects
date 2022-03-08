@@ -1,23 +1,29 @@
 Shaggy arrives at the South store on Day 27
-Shaggy received RecordPlayer on day 27
-Shaggy received Saxophone on day 27
-2 items has been added to the inventory
-There is $2571.15 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1159.08
+Shaggy received CDPlayer on day 27
+Shaggy received Strings on day 27
+Shaggy received Cables on day 27
+3 items has been added to the inventory
+There is $2642.28 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1397.83
 Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
 Shaggy un-tuned Bass.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Vinyl for $33.94.
-Cassette out of stock, Buyer 3 left the store.
-Shirts out of stock, Buyer 4 left the store.
-Buyer 5 purchased PracticeAmps for $89.44.
-Shaggy bought a poor condition Cables from Seller 1 for $38.91 after offering 10%% more.
-Shaggy sold 2 items.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $77.2 after a 10%% discount.
+Buyer 2 purchased Strings for $8.42 after a 10%% discount.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 5 purchased Cables for $54.1 after a 10%% discount.
+Shaggy bought a very good condition MP3 from Seller 1 for $49.04.
+Shaggy sold 4 items.
 Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
