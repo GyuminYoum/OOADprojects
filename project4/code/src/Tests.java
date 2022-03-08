@@ -168,9 +168,7 @@ class Tests {
         Store store1= new Store(members,"North",1);
         store1.Build();
         assertEquals(0, store1.get_Register());
-        testReporter_.publishEntry("Store.Build() is working correctly. ");
         testReporter_.publishEntry("Clerk.CheckRegister() is working correctly. ");
-        System.out.println("Store.Build() is working correctly. ");
         System.out.println("Clerk.CheckRegister() is working correctly. ");
     }
 

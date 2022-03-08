@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project4/code/src/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OOADprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOADprojects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
