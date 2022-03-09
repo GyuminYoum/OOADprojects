@@ -1,72 +1,31 @@
-<<<<<<< HEAD
-Freddy arrives at the South store on Day 6
-0 items has been added to the inventory
-There is $1261.28 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 907.62
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $10.0.
-Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
-Buyer 3 purchased Cassette for $8.19.
+Velma arrives at the South store on Day 6
+Velma received Cables on day 6
+Velma received Strings on day 6
+Velma received Vinyl on day 6
+Velma received Bass on day 6
+4 items has been added to the inventory
+There is $1297.75 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1123.88
+Velma ordered total of 0 items
+Velma adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 2 purchased Cassette for $5.4 after a 10%% discount.
+Buyer 3 purchased RecordPlayer for $66.0.
 Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
-Buyer 5 purchased PracticeAmps for $50.0.
-Saxophone was too expensive, Buyer 6 left the store.
-Hats was too expensive, Buyer 7 left the store.
-Buyer 8 purchased Bass for $46.0.
-Buyer 9 purchased Cassette for $4.4.
-Hats was too expensive, Buyer 10 left the store.
-Freddy bought a good condition RecordPlayer from Seller 1 for $26.16.
-Freddy bought a good condition MP3 from Seller 2 for $20.87.
-Freddy sold 7 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Shaggy arrives at the South store on Day 6
-Shaggy received MusicCD on day 6
-1 items has been added to the inventory
-There is $1587.23 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 907.55
-Shaggy put in order for Flute for $22.25 on day 6
-Shaggy put in order for Flute for $12.62 on day 6
-Shaggy put in order for Flute for $5.87 on day 6
-Shaggy put in order for Cables for $26.22 on day 6
-Shaggy put in order for Cables for $11.08 on day 6
-Shaggy put in order for Cables for $23.89 on day 6
-Shaggy ordered total of 6 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $18.0 after a 10%% discount.
-Buyer 2 purchased Harmonica for $32.4 after a 10%% discount.
-Cables out of stock, Buyer 3 left the store.
-Buyer 4 purchased Hats for $9.0 after a 10%% discount.
-Buyer 5 purchased Saxophone for $96.0.
-Buyer 6 purchased Hats for $95.54.
-Buyer 7 purchased Vinyl for $9.0 after a 10%% discount.
-Shaggy bought a good condition Flute from Seller 1 for $19.48.
-Shaggy sold 6 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Buyer 5 purchased Bass for $13.74.
+Buyer 6 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 7 purchased CDPlayer for $48.0.
+Velma bought a poor condition Strings from Seller 1 for $45.88.
+Velma bought a very good condition Saxophone from Seller 2 for $14.46 after offering 10%% more.
+Velma bought a poor condition Hats from Seller 3 for $47.72.
+Velma sold 7 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

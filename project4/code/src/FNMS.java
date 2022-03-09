@@ -57,12 +57,20 @@ public class FNMS {
             North_store.reset_ClerkStore();
             String name1="project4//logs//North//Logger-"+North_store.get_daysPassed()+".txt";
             String name2="project4//logs//South//Logger-"+South_store.get_daysPassed()+".txt";
-            logger watcher1=new logger();
-            logger watcher2=new logger();
+            //logger watcher1=new logger();
+            /*logger watcher2=new logger();
             North_store.registerLogger(watcher1);
             South_store.registerLogger(watcher2);
-            watcher1.makeTxt(name1);
-            watcher2.makeTxt(name2);
+            watcher1.makeTxt(name1, North_store);
+            watcher2.makeTxt(name2, South_store);
+            */
+
+            North_store.registerLogger(logger.GetInstance());
+            South_store.registerLogger(logger.GetInstance());
+            logger.GetInstance().makeTxt(North_store);
+            logger.GetInstance().makeTxt(South_store);
+
+
             staff1=North_store.pickOnShift();
             staff2=South_store.pickOnShift();
 
@@ -106,9 +114,9 @@ public class FNMS {
                 staff2.LeaveTheStore();
             }
 
-            North_store.removeLogger(watcher1);
+            North_store.removeLogger(logger.GetInstance());
             North_store.printTrackers();
-            South_store.removeLogger(watcher2);
+            South_store.removeLogger(logger.GetInstance());
             South_store.printTrackers();
             /*
             for (Clerk i:North_store.get_ClerkMember()){

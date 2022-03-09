@@ -1,36 +1,39 @@
 Daphne arrives at the North store on Day 16
-Daphne received Guitar on day 16
-Daphne received CDPlayer on day 16
-2 items has been added to the inventory
-There is $1939.87 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 1102.73
-Daphne ordered total of 0 items
-Daphne tuned Bass.
+Daphne received Bass on day 16
+1 items has been added to the inventory
+There is $1708.63 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1195.36
+Daphne put in order for Harmonica for $42.68 on day 16
+Daphne put in order for Harmonica for $33.01 on day 16
+Daphne put in order for Harmonica for $18.87 on day 16
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
 Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Flute.
-Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
 Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
 Daphne tuned Guitar.
-Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-RecordPlayer was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CassettePlayer for $42.0.
-Buyer 3 purchased MP3 for $90.0.
-Buyer 4 purchased Saxophone for $96.0.
-Buyer 5 purchased MP3 for $38.07 after a 10%% discount.
-Daphne bought a very good condition CassettePlayer from Seller 1 for $36.83 after offering 10%% more.
-Daphne bought a good condition Strings from Seller 2 for $41.7.
-Daphne sold 4 items.
-Daphne Bought 2 items.
+Buyer 1 purchased Cables for $17.28 after a 10%% discount.
+Buyer 2 purchased Strings for $64.27 after a 10%% discount.
+Buyer 3 purchased Mandolin for $74.0.
+Buyer also purchased PracticeAmps for $87.18.
+Buyer 4 purchased Vinyl for $78.31 after a 10%% discount.
+Buyer 5 purchased Mandolin for $70.0.
+Buyer also purchased Strings for $94.66.
+Buyer also purchased Strings for $6.8.
+Daphne bought a fair condition Guitar from Seller 1 for $54.42 after offering 10%% more.
+Daphne sold 8 items.
+Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

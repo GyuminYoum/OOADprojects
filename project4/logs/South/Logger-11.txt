@@ -1,62 +1,27 @@
 Velma arrives at the South store on Day 11
-<<<<<<< HEAD
-Velma received PracticeAmps on day 11
-Velma received Vinyl on day 11
-Velma received Vinyl on day 11
-Velma received Cassette on day 11
-4 items has been added to the inventory
-There is $1273.38 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1047.44
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $75.6 after a 10%% discount.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased Cassette for $31.12.
-Buyer 4 purchased Harmonica for $34.2 after a 10%% discount.
-Buyer 5 purchased Mandolin for $70.0.
-Buyer also purchased Strings for $93.78.
-Buyer also purchased Strings for $34.62.
-Buyer also purchased Strings for $80.16.
-Velma bought a fair condition Saxophone from Seller 1 for $44.84.
-Velma bought a good condition Mandolin from Seller 2 for $25.82 after offering 10%% more.
-Velma bought a poor condition Guitar from Seller 3 for $14.89 after offering 10%% more.
-Velma sold 7 items.
-Velma Bought 3 items.
-=======
-Velma received Cables on day 11
-Velma received PracticeAmps on day 11
-Velma received Strings on day 11
-Velma received GigBag on day 11
-Velma received Mandolin on day 11
-5 items has been added to the inventory
-There is $2006.66 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 810.64
-Velma put in order for Flute for $25.15 on day 11
-Velma put in order for Flute for $48.5 on day 11
-Velma put in order for Flute for $47.55 on day 11
-Velma put in order for Saxophone for $31.39 on day 11
-Velma put in order for Saxophone for $22.85 on day 11
-Velma put in order for Saxophone for $35.64 on day 11
+Velma received MP3 on day 11
+1 items has been added to the inventory
+There is $1657.86 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1101.45
+Velma put in order for PracticeAmps for $19.38 on day 11
+Velma put in order for PracticeAmps for $2.31 on day 11
+Velma put in order for PracticeAmps for $11.1 on day 11
+Velma put in order for GigBag for $41.96 on day 11
+Velma put in order for GigBag for $36.76 on day 11
+Velma put in order for GigBag for $9.0 on day 11
 Velma ordered total of 6 items
-Velma tuned Guitar.
-Velma tuned Bass.
 Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $38.02.
-Buyer 2 purchased Cables for $47.19 after a 10%% discount.
-Buyer 3 purchased CDPlayer for $24.0.
-Saxophone out of stock, Buyer 4 left the store.
-Velma bought a poor condition Saxophone from Seller 1 for $44.67 after offering 10%% more.
+Buyer 1 purchased RecordPlayer for $19.8 after a 10%% discount.
+Buyer 2 purchased Vinyl for $3.72 after a 10%% discount.
+Buyer 3 purchased CDPlayer for $49.28.
+Velma bought a good condition Guitar from Seller 1 for $40.62 after offering 10%% more.
 Velma sold 3 items.
 Velma Bought 1 items.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

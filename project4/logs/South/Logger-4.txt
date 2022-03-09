@@ -1,69 +1,39 @@
-<<<<<<< HEAD
-Shaggy arrives at the South store on Day 4
+Daphne arrives at the South store on Day 4
 0 items has been added to the inventory
-There is $1168.36 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1014.12
-Shaggy ordered total of 0 items
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Mandolin.
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $5.4 after a 10%% discount.
-Buyer 2 purchased Flute for $82.8 after a 10%% discount.
-Buyer 3 purchased Bass for $44.0.
-Buyer also purchased GigBag for $8.8.
-Buyer also purchased Strings for $22.0.
-Buyer 4 purchased MusicCD for $7.2 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Shaggy sold 6 items.
-Shaggy Bought 0 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
-=======
-Freddy arrives at the South store on Day 4
-0 items has been added to the inventory
-There is $1339.35 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 972.12
-Freddy put in order for MusicCD for $43.47 on day 4
-Freddy put in order for MusicCD for $48.98 on day 4
-Freddy put in order for MusicCD for $33.75 on day 4
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $6.0.
-Buyer 2 purchased Hats for $27.0 after a 10%% discount.
-Buyer 3 purchased Flute for $92.0.
-Buyer 4 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 5 purchased GigBag for $9.9 after a 10%% discount.
-Buyer 6 purchased Cables for $18.0 after a 10%% discount.
-Freddy bought a poor condition Saxophone from Seller 1 for $5.01.
-Freddy bought a good condition Vinyl from Seller 2 for $9.92 after offering 10%% more.
-Freddy sold 6 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+There is $1319.34 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 933.62
+Daphne put in order for Strings for $13.24 on day 4
+Daphne put in order for Strings for $22.29 on day 4
+Daphne put in order for Strings for $33.29 on day 4
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $12.0.
+Buyer 2 purchased Bass for $43.2 after a 10%% discount.
+Buyer 3 purchased Vinyl for $14.0.
+Buyer 4 purchased MusicCD for $8.0.
+Buyer 5 purchased PracticeAmps for $27.0 after a 10%% discount.
+Buyer 6 purchased Bandanas for $6.0.
+Buyer 7 purchased Flute for $90.0.
+Buyer 8 purchased Mandolin for $66.0.
+Buyer 9 purchased GigBag for $9.9 after a 10%% discount.
+Daphne bought a poor condition Hats from Seller 1 for $10.26 after offering 10%% more.
+Daphne bought a very good condition Cables from Seller 2 for $22.23.
+Daphne bought a very good condition PaperScore from Seller 3 for $43.06.
+Daphne sold 16 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

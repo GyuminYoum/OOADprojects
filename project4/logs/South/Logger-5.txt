@@ -1,56 +1,29 @@
-<<<<<<< HEAD
 Velma arrives at the South store on Day 5
-0 items has been added to the inventory
-There is $1338.56 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 922.62
-Velma put in order for Strings for $46.89 on day 5
-Velma put in order for Strings for $40.08 on day 5
-Velma put in order for Strings for $17.3 on day 5
-Velma ordered total of 3 items
+Velma received Cables on day 5
+Velma received Cables on day 5
+Velma received Strings on day 5
+3 items has been added to the inventory
+There is $1451.06 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 939.75
+Velma put in order for Vinyl for $16.96 on day 5
+Velma put in order for Vinyl for $2.06 on day 5
+Velma put in order for Vinyl for $26.6 on day 5
+Velma put in order for Bass for $25.51 on day 5
+Velma put in order for Bass for $6.87 on day 5
+Velma put in order for Bass for $20.76 on day 5
+Velma ordered total of 6 items
 Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $9.0 after a 10%% discount.
-Strings out of stock, Buyer 2 left the store.
-Buyer 3 purchased Hats for $18.0 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
+Buyer 1 purchased Hats for $18.0 after a 10%% discount.
+Buyer 2 purchased MP3 for $45.0 after a 10%% discount.
+Velma bought a fair condition MusicCD from Seller 1 for $54.98 after offering 10%% more.
+Velma bought a poor condition CDPlayer from Seller 2 for $27.1 after offering 10%% more.
+Velma bought a very good condition MusicCD from Seller 3 for $35.47.
 Velma sold 2 items.
-Velma Bought 0 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
-=======
-Shaggy arrives at the South store on Day 5
-Shaggy received MusicCD on day 5
-1 items has been added to the inventory
-There is $1360.1 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 936.3
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Harmonica.
-Shaggyhas damaged a(n) Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Flute for $86.4 after a 10%% discount.
-Buyer 2 purchased Cables for $30.0.
-Buyer 3 purchased Mandolin for $74.0.
-Buyer also purchased PracticeAmps for $50.0.
-Buyer also purchased Strings for $14.0.
-Shirts was too expensive, Buyer 4 left the store.
-Buyer 5 purchased MusicCD for $60.75 after a 10%% discount.
-Shaggy bought a poor condition Mandolin from Seller 1 for $48.58.
-Shaggy bought a good condition PracticeAmps from Seller 2 for $39.44.
-Shaggy sold 8 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

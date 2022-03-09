@@ -1,64 +1,40 @@
-<<<<<<< HEAD
-Freddy is sick on day 1
-Justin arrives at the South store on Day 1
-=======
-Shaggy arrives at the South store on Day 1
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Freddy arrives at the South store on Day 1
 0 items has been added to the inventory
-Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-<<<<<<< HEAD
-Justin ordered total of 0 items
-Justin tuned Guitar.
-Justin tuned Guitar.
-Justin tuned Bass.
-Justin tuned Bass.
-Justin tuned Bass.
-Justin tuned Mandolin.
-Justin tuned Mandolin.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Strings for $6.3 after a 10%% discount.
-Buyer 2 purchased PracticeAmps for $9.0 after a 10%% discount.
-Buyer 3 purchased Bandanas for $5.4 after a 10%% discount.
-Justin bought a very good condition Cassette from Seller 1 for $11.36.
-Justin bought a fair condition Hats from Seller 2 for $7.46 after offering 10%% more.
-Justin sold 3 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Shaggy ordered total of 0 items
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Cables for $9.0 after a 10%% discount.
-Buyer 2 purchased MusicCD for $8.0.
-Buyer 3 purchased RecordPlayer for $59.4 after a 10%% discount.
-Buyer 4 purchased Strings for $7.0.
-Buyer 5 purchased Flute for $90.0.
-Seller 1 didn't accept the price, and left the store.
-Shaggy sold 5 items.
-Shaggy Bought 0 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $36.0.
+Buyer 2 purchased Mandolin for $74.0.
+Buyer also purchased Cables for $10.0.
+Buyer also purchased Cables for $20.0.
+Buyer 3 purchased CDPlayer for $24.0.
+Buyer 4 purchased Harmonica for $38.0.
+Buyer 5 purchased Vinyl for $10.0.
+Freddy bought a good condition Hats from Seller 1 for $9.3.
+Freddy bought a good condition RecordPlayer from Seller 2 for $22.79.
+Freddy bought a fair condition MusicCD from Seller 3 for $1.66 after offering 10%% more.
+Freddy sold 7 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

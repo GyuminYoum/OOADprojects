@@ -1,63 +1,29 @@
-Freddy arrives at the South store on Day 16
-Freddy received Strings on day 16
-1 items has been added to the inventory
-There is $1992.21 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1008.38
-Freddy put in order for GigBag for $34.68 on day 16
-Freddy put in order for GigBag for $11.9 on day 16
-Freddy put in order for GigBag for $9.19 on day 16
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased Bass for $48.0.
-Buyer also purchased Strings for $87.24.
-Buyer 4 purchased PaperScore for $11.0.
-Buyer 5 purchased MusicCD for $7.56 after a 10%% discount.
-Freddy bought a poor condition Harmonica from Seller 1 for $26.42.
-Freddy bought a poor condition Mandolin from Seller 2 for $15.44.
-Freddy bought a very good condition MP3 from Seller 3 for $21.92 after offering 10%% more.
-Freddy sold 6 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-<<<<<<< HEAD
-=======
-=======
-Justin arrives at the South store on Day 16
-Justin received Mandolin on day 16
-Justin received Bass on day 16
-2 items has been added to the inventory
-There is $1988.79 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1202.42
-Justin ordered total of 0 items
-Justin un-adjusted Flute.
-Justin un-tuned Mandolin.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Cables for $47.78.
-Guitar was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Harmonica for $70.81.
-Buyer 4 purchased Flute for $37.11.
-Justin bought a fair condition MusicCD from Seller 1 for $10.11.
-Justin sold 3 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
->>>>>>> 2d3b486f7c23f2255799b87325f9ccc72ce19649
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Velma arrives at the South store on Day 16
+Velma received PracticeAmps on day 16
+Velma received CDPlayer on day 16
+Velma received Cassette on day 16
+3 items has been added to the inventory
+There is $1522.39 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1485.54
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma has damaged a(n) Flute.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 2 purchased Strings for $23.83 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $38.76.
+Velma bought a poor condition MP3 from Seller 1 for $28.69 after offering 10%% more.
+Velma bought a fair condition CDPlayer from Seller 2 for $22.35.
+Velma bought a very good condition CassettePlayer from Seller 3 for $36.09 after offering 10%% more.
+Velma sold 3 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
