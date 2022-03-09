@@ -44,3 +44,6 @@ Project 4:
 Assumptions:
 
 UML diagram changes:
+- Added Chart class to generate charts
+- Changed parameters for Writer and Observer methods to keep track of each store separately
+- Added Store attribute to Items
