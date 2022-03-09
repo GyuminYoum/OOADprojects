@@ -1,29 +1,42 @@
-Justin arrives at the North store on Day 19
-Justin received PaperScore on day 19
-Justin received Flute on day 19
-Justin received Vinyl on day 19
+Daphne arrives at the North store on Day 19
+Daphne received Harmonica on day 19
+Daphne received PaperScore on day 19
+Daphne received Mandolin on day 19
 3 items has been added to the inventory
-There is $2073.96 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 1187.28
-Justin put in order for Bass for $38.88 on day 19
-Justin put in order for Bass for $38.57 on day 19
-Justin put in order for Bass for $6.98 on day 19
-Justin put in order for Strings for $48.71 on day 19
-Justin put in order for Strings for $8.74 on day 19
-Justin put in order for Strings for $2.78 on day 19
-Justin ordered total of 6 items
-Justin un-adjusted Saxophone.
-Justin un-tuned Guitar.
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Flute for $95.92.
-Buyer 3 purchased CDPlayer for $62.3.
-Buyer 4 purchased MusicCD for $30.07 after a 10%% discount.
-Justin bought a good condition PaperScore from Seller 1 for $11.53 after offering 10%% more.
-Justin sold 3 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $2014.1 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 1064.73
+Daphne put in order for PracticeAmps for $4.48 on day 19
+Daphne put in order for PracticeAmps for $37.4 on day 19
+Daphne put in order for PracticeAmps for $31.61 on day 19
+Daphne put in order for GigBag for $4.22 on day 19
+Daphne put in order for GigBag for $2.77 on day 19
+Daphne put in order for GigBag for $12.54 on day 19
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $55.63 after a 10%% discount.
+CDPlayer was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Harmonica for $79.02 after a 10%% discount.
+Buyer 4 purchased Flute for $92.0.
+Buyer 5 purchased Harmonica for $34.5 after a 10%% discount.
+Daphne bought a very good condition Bass from Seller 1 for $15.38.
+Daphne sold 4 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

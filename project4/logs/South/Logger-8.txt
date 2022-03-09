@@ -1,27 +1,28 @@
-Daphne is sick on day 8
-Velma arrives at the South store on Day 8
-Velma received Cables on day 8
-Velma received Strings on day 8
+Freddy arrives at the South store on Day 8
+Freddy received Strings on day 8
+Freddy received Strings on day 8
 2 items has been added to the inventory
-There is $1500.84 in the register
+There is $1526.99 in the register
 There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1045.54
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $19.8 after a 10%% discount.
-Buyer 2 purchased Harmonica for $36.0 after a 10%% discount.
-Buyer 3 purchased PracticeAmps for $45.0 after a 10%% discount.
-Buyer 4 purchased Bandanas for $16.2 after a 10%% discount.
-Velma bought a good condition Cassette from Seller 1 for $21.47 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 944.52
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $36.0 after a 10%% discount.
+Cassette was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bass for $46.0.
+Freddy bought a fair condition Vinyl from Seller 1 for $48.3 after offering 10%% more.
+Freddy sold 2 items.
+Freddy Bought 1 items.
+Freddy has damaged a(n) MP3.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.

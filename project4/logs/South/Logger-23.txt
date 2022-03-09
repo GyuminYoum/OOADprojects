@@ -1,26 +1,16 @@
-Shaggy arrives at the South store on Day 23
-Shaggy received CassettePlayer on day 23
-Shaggy received Vinyl on day 23
-Shaggy received MP3 on day 23
-3 items has been added to the inventory
-There is $2669.12 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 980.73
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Bass for $44.0.
-Buyer 2 purchased Vinyl for $59.5.
-Saxophone was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Strings for $3.97 after a 10%% discount.
-Buyer 5 purchased Harmonica for $44.31 after a 10%% discount.
-Shaggy bought a very good condition Guitar from Seller 1 for $45.37.
-Shaggy bought a fair condition Harmonica from Seller 2 for $11.58.
-Shaggy bought a good condition Vinyl from Seller 3 for $27.55.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 23
+Justin received Bass on day 23
+1 items has been added to the inventory
+There is $2789.98 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1008.81
+Justin put in order for PracticeAmps for $29.71 on day 23
+Justin put in order for PracticeAmps for $18.82 on day 23
+Justin put in order for PracticeAmps for $24.45 on day 23
+Justin ordered total of 3 items
+Justin un-adjusted Saxophone.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

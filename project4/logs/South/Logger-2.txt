@@ -1,25 +1,30 @@
-Shaggy arrives at the South store on Day 2
+Velma arrives at the South store on Day 2
 0 items has been added to the inventory
-There is $1105.26 in the register
-There are total of 59 items in the inventory.
-All the items in the inventory are worth total of $ 1041.41
-Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Flute for $92.0.
-Buyer 2 purchased Cables for $10.0.
-Buyer 3 purchased Guitar for $54.0.
-CassettePlayer was too expensive, Buyer 4 left the store.
-Shaggy bought a poor condition Hats from Seller 1 for $17.58 after offering 10%% more.
-Shaggy bought a good condition Vinyl from Seller 2 for $7.52 after offering 10%% more.
-Shaggy bought a good condition Mandolin from Seller 3 for $30.52.
-Shaggy sold 3 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $990.08 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1117.98
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $24.0.
+Buyer 2 purchased Guitar for $54.0.
+Buyer also purchased Strings for $7.0.
+Flute was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Hats for $27.0 after a 10%% discount.
+Buyer 5 purchased CassettePlayer for $26.0.
+Velma bought a fair condition MusicCD from Seller 1 for $42.86.
+Velma bought a fair condition CassettePlayer from Seller 2 for $9.11.
+Seller 3 didn't accept the price, and left the store.
+Velma sold 5 items.
+Velma Bought 2 items.
+Velma has damaged a(n) Flute.
+Velma damaged an item while cleaning.
+Velma damaged 1 items while cleaning.
+Velma went home for the day.

@@ -1,24 +1,19 @@
-Justin arrives at the South store on Day 17
-Justin received Cables on day 17
-1 items has been added to the inventory
-There is $1783.44 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1361.95
-Justin ordered total of 0 items
-Justin un-tuned Bass.
-Justinhas damaged a(n) Bass.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Flute.
-Justin un-adjusted Flute.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased PaperScore for $11.0.
-Buyer 2 purchased Vinyl for $13.68.
-CassettePlayer was too expensive, Buyer 3 left the store.
-Buyer 4 purchased GigBag for $47.55 after a 10%% discount.
-Justin bought a very good condition Saxophone from Seller 1 for $12.08 after offering 10%% more.
-Justin bought a poor condition RecordPlayer from Seller 2 for $20.86 after offering 10%% more.
-Justin sold 3 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Shaggy arrives at the South store on Day 17
+Shaggy received Saxophone on day 17
+Shaggy received Cables on day 17
+2 items has been added to the inventory
+There is $1881.12 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 901.21
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy adjusted Harmonica.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Saxophone.
+Shaggy un-adjusted Flute.
+Shaggy has thrown away a(n) Flutedue to less than poor condition.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 1 items while tuning
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

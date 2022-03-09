@@ -18,13 +18,61 @@ import javax.swing.*;
 public class chart extends ApplicationFrame {
     FNMS sim;
 
-    public chart( String applicationTitle, String chartTitle, FNMS temp1 ) {
+    public chart( String applicationTitle, String chartTitle, FNMS temp1, boolean chart) {
         super(applicationTitle);
         sim=temp1;
 
         JFrame frame = new JFrame("Many charts same frame");
         frame.setLayout( new FlowLayout() );
+        if (chart) {
+            JFreeChart linear1 = ChartFactory.createXYLineChart(
+                    chartTitle ,
+                    "days" ,
+                    "count" ,
+                    createDataset(0) ,
+                    PlotOrientation.VERTICAL ,
+                    true , true , false);
 
+            ChartPanel chartPanel = new ChartPanel( linear1 );
+            chartPanel.setPreferredSize( new java.awt.Dimension( 560 , 367 ) );
+            final XYPlot plot = linear1.getXYPlot( );
+
+            //uncomment for series 2 if going for 2nd graph
+            XYLineAndShapeRenderer renderer = new XYLineAndShapeRenderer( );
+            renderer.setSeriesPaint( 0 , Color.RED );
+            renderer.setSeriesPaint( 1 , Color.GREEN );
+            //renderer.setSeriesPaint( 2 , Color.YELLOW );
+
+            renderer.setSeriesStroke( 0 , new BasicStroke( 4.0f ) );
+            renderer.setSeriesStroke( 1 , new BasicStroke( 3.0f ) );
+            //renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
+            plot.setRenderer( renderer );
+            setContentPane( chartPanel );
+        } else {
+            JFreeChart linear1 = ChartFactory.createXYLineChart(
+                    chartTitle ,
+                    "days" ,
+                    "count" ,
+                    createDataset(1) ,
+                    PlotOrientation.VERTICAL ,
+                    true , true , false);
+
+            ChartPanel chartPanel = new ChartPanel( linear1 );
+            chartPanel.setPreferredSize( new java.awt.Dimension( 560 , 367 ) );
+            final XYPlot plot = linear1.getXYPlot( );
+
+            //uncomment for series 2 if going for 2nd graph
+            XYLineAndShapeRenderer renderer = new XYLineAndShapeRenderer( );
+            renderer.setSeriesPaint( 0 , Color.RED );
+            renderer.setSeriesPaint( 1 , Color.GREEN );
+            renderer.setSeriesPaint( 2 , Color.YELLOW );
+
+            renderer.setSeriesStroke( 0 , new BasicStroke( 4.0f ) );
+            renderer.setSeriesStroke( 1 , new BasicStroke( 3.0f ) );
+            renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
+            plot.setRenderer( renderer );
+            setContentPane( chartPanel );
+        }
         /*
         JFreeChart linear1 = ChartFactory.createXYLineChart(
                 chartTitle ,
@@ -35,6 +83,7 @@ public class chart extends ApplicationFrame {
                 true , true , false);
 
          */
+        /*
         JFreeChart linear1 = ChartFactory.createXYLineChart(
                 chartTitle ,
                 "days" ,
@@ -58,6 +107,7 @@ public class chart extends ApplicationFrame {
         //renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
         plot.setRenderer( renderer );
         setContentPane( chartPanel );
+        */
     }
 
     private XYDataset createDataset(int d) {

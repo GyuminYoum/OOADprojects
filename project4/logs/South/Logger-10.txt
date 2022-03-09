@@ -1,34 +1,22 @@
-Freddy arrives at the South store on Day 10
-Freddy received RecordPlayer on day 10
-Freddy received Harmonica on day 10
-2 items has been added to the inventory
-There is $1410.8 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1117.55
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $74.0.
-Buyer also purchased PracticeAmps for $89.22.
-Buyer also purchased Cables for $80.64.
-Buyer 2 purchased PaperScore for $9.0 after a 10%% discount.
-Buyer 3 purchased Vinyl for $12.0.
-Cables out of stock, Buyer 4 left the store.
-Freddy bought a good condition Cassette from Seller 1 for $4.04.
-Freddy bought a good condition Shirts from Seller 2 for $6.98.
-Freddy sold 6 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the South store on Day 10
+0 items has been added to the inventory
+There is $1700.25 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 884.14
+Justin ordered total of 0 items
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $8.19.
+Buyer 2 purchased Bass for $43.2 after a 10%% discount.
+Buyer also purchased Cables for $90.54.
+Bandanas was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 5 purchased MusicCD for $8.0.
+Justin bought a fair condition Bass from Seller 1 for $23.3.
+Seller 2 didn't accept the price, and left the store.
+Justin bought a very good condition Cables from Seller 3 for $9.05 after offering 10%% more.
+Justin sold 6 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
