@@ -1,60 +1,25 @@
-<<<<<<< HEAD
-Freddy arrives at the North store on Day 13
-Freddy received Strings on day 13
-Freddy received Guitar on day 13
-2 items has been added to the inventory
-There is $1803.48 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1017.89
-Freddy ordered total of 0 items
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $8.19.
-Buyer 2 purchased Guitar for $11.06.
-Buyer also purchased PracticeAmps for $61.78.
-Buyer 3 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 4 purchased CDPlayer for $89.73 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy sold 5 items.
-Freddy Bought 0 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Shaggy arrives at the North store on Day 13
-0 items has been added to the inventory
-There is $2087.91 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 856.32
-Shaggy put in order for Flute for $19.82 on day 13
-Shaggy put in order for Flute for $10.9 on day 13
-Shaggy put in order for Flute for $4.98 on day 13
-Shaggy ordered total of 3 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $3.78.
-Buyer 2 purchased MusicCD for $7.2 after a 10%% discount.
-Buyer 3 purchased Hats for $9.0 after a 10%% discount.
-Shaggy bought a fair condition Bass from Seller 2 for $34.82.
-Shaggy bought a very good condition Cables from Seller 3 for $23.83.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Velma arrives at the North store on Day 13
+Velma received MusicCD on day 13
+1 items has been added to the inventory
+There is $1735.84 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 984.38
+Velma put in order for Strings for $13.4 on day 13
+Velma put in order for Strings for $3.06 on day 13
+Velma put in order for Strings for $43.18 on day 13
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Flute.
+Velma adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma un-adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

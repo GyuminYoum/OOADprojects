@@ -1,66 +1,27 @@
-<<<<<<< HEAD
-Daphne arrives at the South store on Day 17
-Daphne received Strings on day 17
+Velma arrives at the South store on Day 17
+Velma received Bass on day 17
 1 items has been added to the inventory
-There is $2026.44 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1039.79
-Daphne put in order for MusicCD for $16.39 on day 17
-Daphne put in order for MusicCD for $20.35 on day 17
-Daphne put in order for MusicCD for $17.12 on day 17
-Daphne put in order for Bass for $22.04 on day 17
-Daphne put in order for Bass for $42.25 on day 17
-Daphne put in order for Bass for $46.05 on day 17
-Daphne ordered total of 6 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
-=======
-Shaggy arrives at the South store on Day 17
-Shaggy received Saxophone on day 17
-1 items has been added to the inventory
-There is $2134.37 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1166.08
-Shaggy put in order for Harmonica for $40.44 on day 17
-Shaggy put in order for Harmonica for $46.15 on day 17
-Shaggy put in order for Harmonica for $32.57 on day 17
-Shaggy put in order for Cables for $34.99 on day 17
-Shaggy put in order for Cables for $23.42 on day 17
-Shaggy put in order for Cables for $9.58 on day 17
-Shaggy ordered total of 6 items
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Flute.
-Shaggy has thrown away a(n) Flutedue to less than poor condition.
-Shaggy adjusted Saxophone.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Bass.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $48.0.
-Cassette was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Strings for $92.9.
-Harmonica out of stock, Buyer 4 left the store.
-Buyer 5 purchased Strings for $41.92.
-Shaggy bought a good condition Strings from Seller 1 for $43.5.
-Seller 2 didn't accept the price, and left the store.
-Shaggy bought a poor condition Bass from Seller 3 for $36.48 after offering 10%% more.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+There is $1904.67 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1215.72
+Velma ordered total of 0 items
+Velma tuned Mandolin.
+Velma adjusted Harmonica.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Cables for $35.83 after a 10%% discount.
+Buyer 2 purchased Flute for $46.04 after a 10%% discount.
+Buyer 3 purchased Shirts for $10.0.
+Buyer 4 purchased Harmonica for $63.05 after a 10%% discount.
+Buyer 5 purchased Bandanas for $96.04.
+Velma bought a very good condition Harmonica from Seller 1 for $44.25.
+Velma bought a good condition CassettePlayer from Seller 2 for $13.39.
+Velma bought a poor condition MusicCD from Seller 3 for $7.43.
+Velma sold 5 items.
+Velma Bought 3 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

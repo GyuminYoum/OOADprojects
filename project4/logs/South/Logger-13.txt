@@ -1,66 +1,18 @@
-<<<<<<< HEAD
-Velma is sick on day 13
 Justin arrives at the South store on Day 13
-Justin received Vinyl on day 13
-Justin received Cassette on day 13
-2 items has been added to the inventory
-There is $1563.54 in the register
+Justin received PaperScore on day 13
+Justin received Flute on day 13
+Justin received Cables on day 13
+Justin received Strings on day 13
+4 items has been added to the inventory
+There is $1568.21 in the register
 There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1115.75
+All the items in the inventory are worth total of $ 1131.98
 Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-tuned Guitar.
 Justin un-adjusted Harmonica.
-Justin adjusted Saxophone.
 Justin un-tuned Guitar.
+Justin adjusted Flute.
 Justin has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased RecordPlayer for $66.0.
-Bandanas out of stock, Buyer 3 left the store.
-Justin bought a fair condition CDPlayer from Seller 1 for $20.42.
-Justin sold 1 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
+Justin has damaged a(n) Cassette.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
 Justin went home for the day.
-=======
-Daphne arrives at the South store on Day 13
-Daphne received PracticeAmps on day 13
-Daphne received Mandolin on day 13
-Daphne received Flute on day 13
-Daphne received Flute on day 13
-Daphne received Saxophone on day 13
-5 items has been added to the inventory
-There is $1971.42 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1016.08
-Daphne put in order for Bass for $13.83 on day 13
-Daphne put in order for Bass for $15.8 on day 13
-Daphne put in order for Bass for $9.19 on day 13
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $24.0.
-Buyer 2 purchased Cassette for $4.4.
-Shirts was too expensive, Buyer 3 left the store.
-Bass out of stock, Buyer 4 left the store.
-Buyer 5 purchased Saxophone for $73.09 after a 10%% discount.
-Buyer 6 purchased Bandanas for $10.8 after a 10%% discount.
-Daphne bought a fair condition CDPlayer from Seller 1 for $46.62.
-Daphne bought a very good condition Mandolin from Seller 2 for $40.79.
-Daphne sold 4 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469

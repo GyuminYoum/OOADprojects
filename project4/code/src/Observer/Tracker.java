@@ -13,12 +13,13 @@ import Store.Store;
 //Eager loading singleton
 public class Tracker implements Observer{
 
+    //Used this youtube video to see example of eager loading singleton
+    //https://www.youtube.com/watch?v=xk-AKHUCdGc
     private static Tracker instance = new Tracker();
 
     private Tracker() {
         //System.out.println("Tracker instantiated");
     }
-
     public static Tracker GetInstance() {
         return instance;
     }

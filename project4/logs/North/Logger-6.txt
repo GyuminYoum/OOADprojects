@@ -1,64 +1,23 @@
-<<<<<<< HEAD
-Daphne is sick on day 6
-Shaggy arrives at the North store on Day 6
-Shaggy received Guitar on day 6
-1 items has been added to the inventory
-There is $1532.54 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 835.7
-Shaggy put in order for Harmonica for $41.3 on day 6
-Shaggy put in order for Harmonica for $48.52 on day 6
-Shaggy put in order for Harmonica for $34.2 on day 6
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Saxophone.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $10.0.
-Shirts out of stock, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $52.36.
-Buyer 4 purchased GigBag for $9.9 after a 10%% discount.
-Shaggy bought a fair condition Harmonica from Seller 1 for $23.63 after offering 10%% more.
-Shaggy bought a poor condition PracticeAmps from Seller 2 for $38.62 after offering 10%% more.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
-=======
-Daphne arrives at the North store on Day 6
-Daphne received Cables on day 6
-Daphne received Strings on day 6
-2 items has been added to the inventory
-There is $1373.74 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1007.46
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
-Bandanas was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Cassette for $6.0.
-Buyer 4 purchased PracticeAmps for $50.0.
-Buyer 5 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 6 purchased Cables for $82.48.
-Daphne bought a poor condition RecordPlayer from Seller 1 for $20.3.
-Daphne bought a poor condition Cables from Seller 2 for $15.95.
-Daphne bought a poor condition Bandanas from Seller 3 for $50.36.
-Daphne sold 5 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Justin arrives at the North store on Day 6
+0 items has been added to the inventory
+There is $1277.39 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1023.92
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 2 purchased Harmonica for $40.0.
+Buyer 3 purchased Shirts for $9.0.
+Flute was too expensive, Buyer 4 left the store.
+Justin bought a fair condition CassettePlayer from Seller 1 for $48.87.
+Justin bought a fair condition Shirts from Seller 2 for $47.92.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

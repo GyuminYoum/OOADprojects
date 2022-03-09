@@ -1,48 +1,34 @@
-Velma arrives at the North store on Day 22
-<<<<<<< HEAD
-Velma received Strings on day 22
-1 items has been added to the inventory
-There is $2560.39 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 1084.41
-Velma ordered total of 0 items
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma adjusted Flute.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Shirts out of stock, Buyer 1 left the store.
-Buyer 2 purchased MusicCD for $54.38.
-Buyer 3 purchased Bandanas for $59.6.
-Velma bought a poor condition PaperScore from Seller 1 for $32.16 after offering 10%% more.
-Velma bought a poor condition Guitar from Seller 2 for $15.23 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 2 items.
-=======
-Velma received Mandolin on day 22
-Velma received PracticeAmps on day 22
-Velma received PracticeAmps on day 22
-Velma received CDPlayer on day 22
-Velma received GigBag on day 22
-5 items has been added to the inventory
-There is $2558.48 in the register
-There are total of 34 items in the inventory.
-All the items in the inventory are worth total of $ 876.46
-Velma ordered total of 0 items
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $16.25 after a 10%% discount.
-Buyer also purchased Strings for $52.06.
-Buyer 2 purchased MP3 for $56.56.
-Shirts out of stock, Buyer 3 left the store.
-Hats out of stock, Buyer 4 left the store.
-Velma bought a good condition MusicCD from Seller 1 for $15.08.
-Velma sold 5 items.
-Velma Bought 1 items.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the North store on Day 22
+Justin received PracticeAmps on day 22
+Justin received GigBag on day 22
+Justin received CassettePlayer on day 22
+3 items has been added to the inventory
+There is $2865.11 in the register
+There are total of 31 items in the inventory.
+All the items in the inventory are worth total of $ 786.05
+Justin put in order for Guitar for $30.92 on day 22
+Justin put in order for Guitar for $46.76 on day 22
+Justin put in order for Guitar for $23.83 on day 22
+Justin put in order for Harmonica for $45.88 on day 22
+Justin put in order for Harmonica for $47.3 on day 22
+Justin put in order for Harmonica for $39.44 on day 22
+Justin put in order for Strings for $41.36 on day 22
+Justin put in order for Strings for $3.04 on day 22
+Justin put in order for Strings for $27.78 on day 22
+Justin ordered total of 9 items
+Justin un-adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $80.76 after a 10%% discount.
+MP3 out of stock, Buyer 2 left the store.
+Bandanas out of stock, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $70.0.
+Justin bought a poor condition Guitar from Seller 1 for $17.39.
+Justin bought a good condition MusicCD from Seller 2 for $28.31.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -5,17 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project4/code/src/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OOADprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOADprojects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 <<<<<<< HEAD
-=======
+
+
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/Tracker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Observer/logger.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" afterDir="false" />
->>>>>>> b9c290685d316f069d36ee83e50b580bed03f94d
+
+=======
+      <change beforePath="$PROJECT_DIR$/project4/Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Observer/logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" afterDir="false" />
+>>>>>>> 741893ed7adc1c058646c1d1659ba9fa3bc7fede
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +140,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Tests">
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="OOADprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ItemsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOADprojects" />
       <extension name="coverage">
@@ -116,22 +159,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ItemsTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ItemsTest.get_workingAt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOADprojects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ItemsTest" />
-      <option name="METHOD_NAME" value="get_workingAt" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.get_name" />
         <item itemvalue="JUnit.ItemsTest" />
         <item itemvalue="JUnit.ItemsTest.goToBank" />
-        <item itemvalue="JUnit.ItemsTest.get_workingAt" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +228,8 @@
       <workItem from="1646633280990" duration="323000" />
       <workItem from="1646633634356" duration="6483000" />
       <workItem from="1646693621781" duration="1553000" />
+      <workItem from="1646797727885" duration="4390000" />
+      <workItem from="1646808630824" duration="438000" />
     </task>
     <servers />
   </component>
