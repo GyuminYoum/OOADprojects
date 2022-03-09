@@ -48,3 +48,4 @@ UML diagram changes:
 - Added Tests class for JUnit testing
 - Changed parameters for Writer and Observer methods to keep track of each store separately
 - Added Store attribute to Items
+- Added classes for GuitarKit parts
