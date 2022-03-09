@@ -1,32 +1,38 @@
-Shaggy arrives at the South store on Day 20
-Shaggy received Strings on day 20
-1 items has been added to the inventory
-There is $2177.88 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1110.43
-Shaggy put in order for Cassette for $4.17 on day 20
-Shaggy put in order for Cassette for $9.66 on day 20
-Shaggy put in order for Cassette for $34.28 on day 20
-Shaggy ordered total of 3 items
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Cassette out of stock, Buyer 1 left the store.
-Cables was too expensive, Buyer 2 left the store.
-Buyer 3 purchased MP3 for $64.8 after a 10%% discount.
-Buyer 4 purchased CDPlayer for $31.64.
-Buyer 5 purchased Hats for $44.2 after a 10%% discount.
-Buyer 6 purchased PaperScore for $70.25 after a 10%% discount.
-Buyer 7 purchased Bass for $48.76.
-Buyer also purchased Strings for $88.34.
-Buyer 8 purchased MusicCD for $70.64.
-Shaggy bought a very good condition Guitar from Seller 1 for $33.42.
-Shaggy bought a fair condition CDPlayer from Seller 2 for $1.24.
-Shaggy sold 7 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Shaggy is sick on day 20
+Daphne arrives at the South store on Day 20
+Daphne received PracticeAmps on day 20
+Daphne received PracticeAmps on day 20
+2 items has been added to the inventory
+There is $2613.59 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 1013.11
+Daphne put in order for CassettePlayer for $21.8 on day 20
+Daphne put in order for CassettePlayer for $15.14 on day 20
+Daphne put in order for CassettePlayer for $11.94 on day 20
+Daphne ordered total of 3 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+CassettePlayer out of stock, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $39.33 after a 10%% discount.
+Buyer 3 purchased Shirts for $40.02.
+Buyer 4 purchased Vinyl for $88.59 after a 10%% discount.
+Daphne bought a poor condition Shirts from Seller 1 for $4.68.
+Seller 2 didn't accept the price, and left the store.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

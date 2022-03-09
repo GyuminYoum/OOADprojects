@@ -1,41 +1,40 @@
+Daphne is sick on day 17
 Freddy arrives at the North store on Day 17
-Freddy received CDPlayer on day 17
-1 items has been added to the inventory
-There is $2345.0 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 939.93
-Freddy put in order for Bass for $31.19 on day 17
-Freddy put in order for Bass for $47.92 on day 17
-Freddy put in order for Bass for $5.76 on day 17
-Freddy put in order for Strings for $13.12 on day 17
-Freddy put in order for Strings for $42.79 on day 17
-Freddy put in order for Strings for $47.85 on day 17
-Freddy put in order for GigBag for $38.65 on day 17
-Freddy put in order for GigBag for $14.47 on day 17
-Freddy put in order for GigBag for $50.1 on day 17
-Freddy ordered total of 9 items
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
+Freddy received PracticeAmps on day 17
+Freddy received PaperScore on day 17
+2 items has been added to the inventory
+There is $1779.81 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1302.21
+Freddy put in order for Flute for $46.62 on day 17
+Freddy put in order for Flute for $47.96 on day 17
+Freddy put in order for Flute for $1.53 on day 17
+Freddy ordered total of 3 items
+Freddy tuned Bass.
 Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
+Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Bass.
 Freddy has damaged 0 items while tuning
-PracticeAmps out of stock, Buyer 1 left the store.
-Buyer 2 purchased Mandolin for $15.1 after a 10%% discount.
-Buyer 3 purchased Cassette for $41.68 after a 10%% discount.
-Freddy bought a good condition Mandolin from Seller 1 for $4.05.
-Freddy sold 2 items.
+Buyer 1 purchased Bass for $48.0.
+Buyer also purchased Cables for $17.68.
+Buyer also purchased Strings for $77.46.
+Buyer also purchased Strings for $33.78.
+Buyer also purchased Strings for $54.68.
+Hats out of stock, Buyer 2 left the store.
+Buyer 3 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 4 purchased Vinyl for $43.99 after a 10%% discount.
+Buyer 5 purchased Cassette for $8.19.
+Buyer 6 purchased CDPlayer for $17.84.
+Shirts out of stock, Buyer 7 left the store.
+Freddy bought a very good condition MP3 from Seller 1 for $3.5 after offering 10%% more.
+Freddy sold 9 items.
 Freddy Bought 1 items.
-Freddy has damaged a(n) Hats.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

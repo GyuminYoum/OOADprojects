@@ -1,35 +1,44 @@
-Shaggy is sick on day 22
-Velma arrives at the South store on Day 22
-Velma received Cables on day 22
-Velma received Cassette on day 22
+Daphne arrives at the South store on Day 22
+Daphne received PracticeAmps on day 22
+Daphne received CassettePlayer on day 22
 2 items has been added to the inventory
-There is $2513.74 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 976.17
-Velma put in order for MusicCD for $33.86 on day 22
-Velma put in order for MusicCD for $39.22 on day 22
-Velma put in order for MusicCD for $5.56 on day 22
-Velma put in order for Bass for $23.88 on day 22
-Velma put in order for Bass for $41.26 on day 22
-Velma put in order for Bass for $17.29 on day 22
-Velma ordered total of 6 items
-Velma adjusted Harmonica.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma tuned Guitar.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $81.45 after a 10%% discount.
-Buyer also purchased Cables for $6.4.
-Buyer also purchased Cables for $58.22.
-Buyer 2 purchased Guitar for $66.6 after a 10%% discount.
-Buyer 3 purchased Hats for $26.49 after a 10%% discount.
-Buyer 4 purchased Mandolin for $86.02.
-Buyer 5 purchased MP3 for $61.52 after a 10%% discount.
-Velma bought a poor condition Bass from Seller 1 for $48.13.
-Seller 2 didn't accept the price, and left the store.
-Velma sold 8 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $2727.97 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 966.41
+Daphne put in order for Vinyl for $29.75 on day 22
+Daphne put in order for Vinyl for $50.2 on day 22
+Daphne put in order for Vinyl for $26.84 on day 22
+Daphne put in order for MP3 for $22.22 on day 22
+Daphne put in order for MP3 for $5.23 on day 22
+Daphne put in order for MP3 for $33.9 on day 22
+Daphne ordered total of 6 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased CassettePlayer for $23.88.
+PracticeAmps was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 5 purchased GigBag for $83.02.
+Buyer 6 purchased Strings for $16.38 after a 10%% discount.
+Vinyl out of stock, Buyer 7 left the store.
+Buyer 8 purchased PracticeAmps for $9.82 after a 10%% discount.
+Daphne bought a very good condition Strings from Seller 1 for $2.21.
+Daphne bought a good condition Flute from Seller 2 for $25.54 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

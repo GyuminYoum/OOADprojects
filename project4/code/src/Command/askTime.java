@@ -5,6 +5,9 @@ import Staff.Clerk;
 import Store.Store;
 import Store.User;
 
+//user.get_loc provides the right store
+//gets clerk name and append it to string to tell time
+//if the user's store hasn't been picked then print appropriate msg
 public class askTime implements Command{
     User user;
     public askTime(User usr){

@@ -1,4 +1,3 @@
-Velma is sick on day 1
 Freddy arrives at the North store on Day 1
 0 items has been added to the inventory
 Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
@@ -24,16 +23,14 @@ Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy adjusted Saxophone.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $27.0 after a 10%% discount.
-Buyer 2 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 3 purchased Harmonica for $32.4 after a 10%% discount.
-Buyer 4 purchased PracticeAmps for $9.0 after a 10%% discount.
-Buyer 5 purchased MusicCD for $8.0.
-Buyer 6 purchased MusicCD for $8.19.
-Buyer 7 purchased Harmonica for $34.2 after a 10%% discount.
-Freddy bought a good condition Hats from Seller 1 for $19.01 after offering 10%% more.
-Freddy bought a poor condition CassettePlayer from Seller 2 for $28.68.
-Freddy sold 7 items.
+Buyer 1 purchased Strings for $7.0.
+Buyer 2 purchased Strings for $14.0.
+Buyer 3 purchased CDPlayer for $24.0.
+Buyer 4 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 5 purchased Hats for $30.0.
+Freddy bought a very good condition CDPlayer from Seller 1 for $8.92.
+Freddy bought a good condition MP3 from Seller 2 for $50.84 after offering 10%% more.
+Freddy sold 5 items.
 Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.

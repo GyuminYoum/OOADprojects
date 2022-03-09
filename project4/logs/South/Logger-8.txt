@@ -1,41 +1,27 @@
-Daphne arrives at the South store on Day 8
-Daphne received MusicCD on day 8
-Daphne received MusicCD on day 8
-Daphne received CDPlayer on day 8
-Daphne received Guitar on day 8
-4 items has been added to the inventory
-There is $1293.49 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 993.31
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Hats for $10.0.
-Harmonica was too expensive, Buyer 2 left the store.
-Buyer 3 purchased RecordPlayer for $66.0.
-Buyer 4 purchased Flute for $92.0.
-Buyer 5 purchased CassettePlayer for $23.4 after a 10%% discount.
-Buyer 6 purchased Cables for $30.0.
-Buyer 7 purchased Saxophone for $90.0.
-Buyer 8 purchased CDPlayer for $10.22.
-Daphne bought a poor condition Harmonica from Seller 1 for $23.1.
-Daphne bought a fair condition Harmonica from Seller 2 for $25.82 after offering 10%% more.
-Daphne bought a fair condition Shirts from Seller 3 for $40.88.
-Daphne sold 7 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Daphne is sick on day 8
+Velma arrives at the South store on Day 8
+Velma received Cables on day 8
+Velma received Strings on day 8
+2 items has been added to the inventory
+There is $1500.84 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1045.54
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma tuned Mandolin.
+Velma adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $19.8 after a 10%% discount.
+Buyer 2 purchased Harmonica for $36.0 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $45.0 after a 10%% discount.
+Buyer 4 purchased Bandanas for $16.2 after a 10%% discount.
+Velma bought a good condition Cassette from Seller 1 for $21.47 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

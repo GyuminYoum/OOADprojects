@@ -1,41 +1,30 @@
-<<<<<<< HEAD
-Justin arrives at the South store on Day 29
-Justin received Cables on day 29
-Justin received Guitar on day 29
-Justin received Bass on day 29
-Justin received PracticeAmps on day 29
-4 items has been added to the inventory
-There is $3248.58 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 930.49
-Justin put in order for GigBag for $3.19 on day 29
-Justin put in order for GigBag for $6.67 on day 29
-Justin put in order for GigBag for $25.86 on day 29
-Justin ordered total of 3 items
-Justin has damaged 0 items while tuning
-=======
-Velma arrives at the South store on Day 29
-Velma received Saxophone on day 29
-Velma received Cables on day 29
-Velma received GigBag on day 29
-Velma received GigBag on day 29
-4 items has been added to the inventory
-There is $2741.95 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1464.61
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma adjusted Flute.
-Velma tuned Mandolin.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma adjusted Flute.
-Velma tuned Bass.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Shaggy arrives at the South store on Day 29
+Shaggy received RecordPlayer on day 29
+Shaggy received Mandolin on day 29
+Shaggy received Strings on day 29
+Shaggy received PaperScore on day 29
+Shaggy received PaperScore on day 29
+Shaggy received Harmonica on day 29
+Shaggy received Cables on day 29
+7 items has been added to the inventory
+There is $2827.68 in the register
+There are total of 32 items in the inventory.
+All the items in the inventory are worth total of $ 810.73
+Shaggy put in order for PracticeAmps for $40.34 on day 29
+Shaggy put in order for PracticeAmps for $14.94 on day 29
+Shaggy put in order for PracticeAmps for $3.68 on day 29
+Shaggy put in order for Saxophone for $19.23 on day 29
+Shaggy put in order for Saxophone for $16.59 on day 29
+Shaggy put in order for Saxophone for $8.96 on day 29
+Shaggy put in order for CassettePlayer for $33.14 on day 29
+Shaggy put in order for CassettePlayer for $47.48 on day 29
+Shaggy put in order for CassettePlayer for $23.91 on day 29
+Shaggy ordered total of 9 items
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy has thrown away a(n) Mandolindue to less than poor condition.
+Shaggy has damaged 1 items while tuning
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

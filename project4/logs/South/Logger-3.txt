@@ -1,25 +1,42 @@
-Shaggy arrives at the South store on Day 3
+Freddy arrives at the South store on Day 3
 0 items has been added to the inventory
-There is $1112.43 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1048.02
-Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Mandolin.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $12.0.
-Buyer 2 purchased Hats for $18.0 after a 10%% discount.
-Buyer 3 purchased CDPlayer for $24.0.
-Buyer 4 purchased MusicCD for $8.0.
-Buyer 5 purchased Cables for $9.0 after a 10%% discount.
-RecordPlayer was too expensive, Buyer 6 left the store.
-Shaggy bought a good condition CassettePlayer from Seller 1 for $1.85 after offering 10%% more.
-Shaggy bought a very good condition Bandanas from Seller 2 for $15.78.
-Shaggy bought a good condition Bandanas from Seller 3 for $30.07.
-Shaggy sold 5 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1205.64 in the register
+There are total of 59 items in the inventory.
+All the items in the inventory are worth total of $ 1019.03
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Cables for $20.0.
+Buyer 2 purchased Bandanas for $6.0.
+CDPlayer was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Mandolin for $74.0.
+Buyer also purchased GigBag for $11.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer also purchased Cables for $30.0.
+CDPlayer was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Mandolin for $63.0 after a 10%% discount.
+Buyer also purchased Strings for $7.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Freddy bought a very good condition PracticeAmps from Seller 1 for $49.07 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a fair condition Bandanas from Seller 3 for $39.46 after offering 10%% more.
+Freddy sold 12 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

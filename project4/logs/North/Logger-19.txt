@@ -1,40 +1,29 @@
-Daphne arrives at the North store on Day 19
-Daphne received MusicCD on day 19
-Daphne received MusicCD on day 19
-Daphne received PracticeAmps on day 19
-Daphne received RecordPlayer on day 19
-Daphne received GigBag on day 19
-5 items has been added to the inventory
-There is $2349.77 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 955.6
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $15.9.
-Buyer 2 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 3 purchased MP3 for $75.79 after a 10%% discount.
-Buyer 4 purchased Vinyl for $10.0.
-Buyer 5 purchased CassettePlayer for $12.94 after a 10%% discount.
-Buyer 6 purchased PracticeAmps for $11.0.
-Daphne bought a very good condition Guitar from Seller 1 for $34.0 after offering 10%% more.
-Daphne bought a very good condition RecordPlayer from Seller 2 for $46.86.
-Daphne bought a good condition Mandolin from Seller 3 for $5.91.
-Daphne sold 6 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the North store on Day 19
+Justin received PaperScore on day 19
+Justin received Flute on day 19
+Justin received Vinyl on day 19
+3 items has been added to the inventory
+There is $2073.96 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1187.28
+Justin put in order for Bass for $38.88 on day 19
+Justin put in order for Bass for $38.57 on day 19
+Justin put in order for Bass for $6.98 on day 19
+Justin put in order for Strings for $48.71 on day 19
+Justin put in order for Strings for $8.74 on day 19
+Justin put in order for Strings for $2.78 on day 19
+Justin ordered total of 6 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Guitar.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Vinyl was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Flute for $95.92.
+Buyer 3 purchased CDPlayer for $62.3.
+Buyer 4 purchased MusicCD for $30.07 after a 10%% discount.
+Justin bought a good condition PaperScore from Seller 1 for $11.53 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

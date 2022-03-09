@@ -4,8 +4,95 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7a4ec53-2e9e-43f6-a489-1cac27348ce4" name="Changes" comment="">
+    <list default="true" id="bbb8c4e8-5657-4251-b43d-6c31a59d6ffc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/OOADprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOADprojects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/Sell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/Sell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/askName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/askName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/askTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/askTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyKit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/end.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/end.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/selectStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/selectStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Factory/NGuitarKitFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Factory/NGuitarKitFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Factory/SGuitarKitFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Factory/SGuitarKitFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/GuitarKitParts/GuitarKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/GuitarKitParts/GuitarKit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Instruments_Items/Stringed_Items/StringDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Instruments_Items/Stringed_Items/StringDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/Sell.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/Sell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/askName.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/askName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/askTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/askTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/buyItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/buyItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/buyKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/buyKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/end.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/end.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Command/selectStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/selectStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/FNMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/FNMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Factory/NGuitarKitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Factory/NGuitarKitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Factory/SGuitarKitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Factory/SGuitarKitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/GuitarKitParts/GuitarKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/GuitarKitParts/GuitarKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Instruments_Items/Stringed_Items/StringDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" afterDir="false" />
+>>>>>>> d7596711a6b16d17b13b880958c538c912485849
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +106,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,16 +123,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Items/Items.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/FNMS.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Clerk.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,14 +159,14 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jcommon-1.0.24.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="ReaderModeSettings">
@@ -95,6 +182,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.main">
+    <configuration name="BarChartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarChartDemo" />
+      <module name="OOADprojects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="OOADprojects" />
@@ -113,22 +207,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ItemsTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ItemsTest.goToBank" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOADprojects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ItemsTest" />
-      <option name="METHOD_NAME" value="goToBank" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,10 +233,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.BarChartDemo" />
         <item itemvalue="JUnit.Tests" />
         <item itemvalue="JUnit.Tests.get_name" />
         <item itemvalue="JUnit.ItemsTest" />
-        <item itemvalue="JUnit.ItemsTest.goToBank" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +279,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OOADprojects$ItemsTest.ic" NAME="ItemsTest Coverage Results" MODIFIED="1646718908761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

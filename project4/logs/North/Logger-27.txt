@@ -1,66 +1,37 @@
-<<<<<<< HEAD
-Justin is sick on day 27
-Velma arrives at the North store on Day 27
-Velma received Flute on day 27
-Velma received PracticeAmps on day 27
-Velma received Strings on day 27
+Daphne arrives at the North store on Day 27
+Daphne received Mandolin on day 27
+Daphne received CDPlayer on day 27
+Daphne received Flute on day 27
 3 items has been added to the inventory
-There is $2853.63 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1126.12
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma tuned Bass.
-Velma adjusted Harmonica.
-Velma adjusted Flute.
-Velma adjusted Saxophone.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-Guitar was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Strings for $73.81.
-PracticeAmps was too expensive, Buyer 3 left the store.
-Buyer 4 purchased PracticeAmps for $14.13 after a 10%% discount.
-Buyer 5 purchased Bandanas for $16.2 after a 10%% discount.
-Velma bought a very good condition PaperScore from Seller 1 for $28.19.
-Velma bought a very good condition RecordPlayer from Seller 2 for $34.55 after offering 10%% more.
-Velma sold 3 items.
-Velma Bought 2 items.
-Velma has damaged a(n) Vinyl.
-Velma damaged an item while cleaning.
-Velma damaged 1 items while cleaning.
-=======
-Velma arrives at the North store on Day 27
-Velma received MP3 on day 27
-Velma received PaperScore on day 27
-Velma received Guitar on day 27
-Velma received Strings on day 27
-4 items has been added to the inventory
-There is $2860.67 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 991.39
-Velma put in order for Cassette for $50.77 on day 27
-Velma put in order for Cassette for $41.54 on day 27
-Velma put in order for Cassette for $18.46 on day 27
-Velma ordered total of 3 items
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma has damaged a(n) Harmonica.
-Velma has damaged 1 items while tuning
-Cassette out of stock, Buyer 1 left the store.
-Buyer 2 purchased GigBag for $80.17 after a 10%% discount.
-Shirts out of stock, Buyer 3 left the store.
-Buyer 4 purchased Mandolin for $78.18.
-Buyer also purchased GigBag for $71.46.
-Buyer also purchased Strings for $64.14.
-Buyer 5 purchased Cables for $52.3.
-Buyer 6 purchased Bass for $50.14 after a 10%% discount.
-Buyer also purchased PracticeAmps for $86.44.
-Buyer 7 purchased MusicCD for $7.56 after a 10%% discount.
-Velma bought a poor condition Cassette from Seller 1 for $49.65.
-Velma sold 8 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
-Velma went home for the day.
+There is $3400.09 in the register
+There are total of 28 items in the inventory.
+All the items in the inventory are worth total of $ 757.57
+Daphne put in order for Guitar for $42.91 on day 27
+Daphne put in order for Guitar for $20.99 on day 27
+Daphne put in order for Guitar for $47.82 on day 27
+Daphne put in order for Cables for $26.78 on day 27
+Daphne put in order for Cables for $21.66 on day 27
+Daphne put in order for Cables for $18.73 on day 27
+Daphne put in order for Strings for $33.4 on day 27
+Daphne put in order for Strings for $15.6 on day 27
+Daphne put in order for Strings for $12.12 on day 27
+Daphne put in order for Saxophone for $5.4 on day 27
+Daphne put in order for Saxophone for $35.34 on day 27
+Daphne put in order for Saxophone for $27.79 on day 27
+Daphne put in order for GigBag for $47.5 on day 27
+Daphne put in order for GigBag for $23.35 on day 27
+Daphne put in order for GigBag for $19.69 on day 27
+Daphne ordered total of 15 items
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.
