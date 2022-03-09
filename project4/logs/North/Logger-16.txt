@@ -1,31 +1,30 @@
-Shaggy arrives at the North store on Day 16
-Shaggy received MP3 on day 16
-Shaggy received CDPlayer on day 16
+Justin arrives at the North store on Day 16
+Justin received PracticeAmps on day 16
+Justin received Strings on day 16
 2 items has been added to the inventory
-There is $2055.01 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1101.69
-Shaggy put in order for PracticeAmps for $31.71 on day 16
-Shaggy put in order for PracticeAmps for $11.56 on day 16
-Shaggy put in order for PracticeAmps for $10.52 on day 16
-Shaggy ordered total of 3 items
-Shaggy un-tuned Bass.
-Shaggy un-adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Bass for $72.09.
-Buyer also purchased GigBag for $13.0.
-Buyer also purchased Cables for $80.36.
-Buyer also purchased Strings for $67.36.
-Buyer also purchased Strings for $57.44.
-Buyer 2 purchased Shirts for $8.0.
-Strings out of stock, Buyer 3 left the store.
-Buyer 4 purchased Bandanas for $50.38.
-Strings out of stock, Buyer 5 left the store.
-Buyer 6 purchased CassettePlayer for $21.6 after a 10%% discount.
-Shaggy bought a good condition Cables from Seller 1 for $8.17 after offering 10%% more.
-Shaggy bought a poor condition Mandolin from Seller 2 for $18.27 after offering 10%% more.
-Shaggy sold 8 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1419.47 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1408.03
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Flute.
+Justin adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $38.0.
+Buyer 2 purchased Vinyl for $48.48.
+Buyer 3 purchased Harmonica for $40.0.
+Bass was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Flute for $96.0.
+Buyer 6 purchased MusicCD for $81.45 after a 10%% discount.
+Flute out of stock, Buyer 7 left the store.
+Buyer 8 purchased Mandolin for $70.0.
+Justin bought a poor condition Strings from Seller 1 for $13.59.
+Justin sold 6 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

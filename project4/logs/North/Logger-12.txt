@@ -1,37 +1,35 @@
-Velma arrives at the North store on Day 12
-Velma received MusicCD on day 12
-Velma received MusicCD on day 12
+Velma is sick on day 12
+Justin arrives at the North store on Day 12
+Justin received CassettePlayer on day 12
+Justin received Cables on day 12
 2 items has been added to the inventory
-There is $1419.66 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1105.39
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma has damaged a(n) Harmonica.
-Velma un-adjusted Harmonica.
-Velma tuned Bass.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Shirts for $95.84.
-Buyer 2 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased Strings for $22.0.
-Buyer also purchased Strings for $40.08.
-Buyer 3 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 4 purchased Bass for $41.4 after a 10%% discount.
-Buyer 5 purchased Flute for $92.0.
-Velma bought a good condition Shirts from Seller 1 for $17.76.
-Velma bought a poor condition Harmonica from Seller 2 for $34.78 after offering 10%% more.
-Velma sold 10 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $1602.96 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1116.85
+Justin put in order for PracticeAmps for $43.45 on day 12
+Justin put in order for PracticeAmps for $3.44 on day 12
+Justin put in order for PracticeAmps for $23.55 on day 12
+Justin put in order for Strings for $38.72 on day 12
+Justin put in order for Strings for $27.34 on day 12
+Justin put in order for Strings for $16.89 on day 12
+Justin ordered total of 6 items
+Justin un-tuned Bass.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased Guitar for $74.0.
+Hats out of stock, Buyer 3 left the store.
+Buyer 4 purchased Vinyl for $12.0.
+Shirts out of stock, Buyer 5 left the store.
+PracticeAmps out of stock, Buyer 6 left the store.
+Justin bought a poor condition Bass from Seller 1 for $24.48.
+Justin bought a very good condition MP3 from Seller 2 for $53.5 after offering 10%% more.
+Justin bought a poor condition MusicCD from Seller 3 for $54.94 after offering 10%% more.
+Justin sold 2 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

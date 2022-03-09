@@ -1,25 +1,27 @@
 Velma arrives at the North store on Day 13
-Velma received MusicCD on day 13
-1 items has been added to the inventory
-There is $1735.84 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 984.38
-Velma put in order for Strings for $13.4 on day 13
-Velma put in order for Strings for $3.06 on day 13
-Velma put in order for Strings for $43.18 on day 13
-Velma ordered total of 3 items
-Velma tuned Guitar.
-Velma tuned Guitar.
+Velma received CassettePlayer on day 13
+Velma received Cables on day 13
+2 items has been added to the inventory
+There is $1402.65 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1248.69
+Velma ordered total of 0 items
 Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Flute.
+Velma un-adjusted Flute.
+Velma has damaged a(n) Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
 Velma adjusted Saxophone.
-Velma tuned Mandolin.
+Velma adjusted Saxophone.
+Velma adjusted Saxophone.
 Velma tuned Guitar.
 Velma tuned Bass.
-Velma un-adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
+Velma has damaged 1 items while tuning
+Buyer 1 purchased PaperScore for $6.0.
+Bandanas out of stock, Buyer 2 left the store.
+Velma bought a fair condition Vinyl from Seller 1 for $26.88 after offering 10%% more.
+Velma sold 1 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

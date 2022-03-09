@@ -5,6 +5,10 @@ import Store.Store;
 import java.util.*;
 import Store.User;
 
+//takes in user and clerk as argument.
+//uses clerk as a connection to store then uses find_store to find the appropriate initialized store object
+//afterwards sets the user's location to the appropriate store
+//if invalid input, prints accordingly
 public class selectStore implements Command {
     Clerk clerk1;
     User user1;

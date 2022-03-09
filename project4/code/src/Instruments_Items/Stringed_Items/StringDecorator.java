@@ -18,6 +18,7 @@ public class StringDecorator extends Stringed {
         double electric = 0.0;
         int item_count=0;
         Store Store=item_.get_Store();
+        Double totalSales=0.0;
 
         //electric modifier for selling accessories
         if (!item_.get_electric()) {

@@ -1,40 +1,33 @@
-Daphne arrives at the South store on Day 11
-Daphne received Guitar on day 11
-Daphne received PaperScore on day 11
+Shaggy arrives at the South store on Day 11
+Shaggy received RecordPlayer on day 11
+Shaggy received Harmonica on day 11
 2 items has been added to the inventory
-There is $1793.61 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 931.91
-Daphne put in order for Flute for $47.0 on day 11
-Daphne put in order for Flute for $43.51 on day 11
-Daphne put in order for Flute for $13.8 on day 11
-Daphne put in order for Cables for $4.05 on day 11
-Daphne put in order for Cables for $35.29 on day 11
-Daphne put in order for Cables for $48.14 on day 11
-Daphne put in order for Strings for $20.17 on day 11
-Daphne put in order for Strings for $22.71 on day 11
-Daphne put in order for Strings for $39.82 on day 11
-Daphne ordered total of 9 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $9.27.
-Buyer 2 purchased Mandolin for $63.0 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $44.0.
-Buyer 4 purchased CassettePlayer for $21.6 after a 10%% discount.
-Daphne bought a poor condition Bandanas from Seller 1 for $32.92 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1664.64 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1051.7
+Shaggy put in order for Guitar for $43.59 on day 11
+Shaggy put in order for Guitar for $34.03 on day 11
+Shaggy put in order for Guitar for $20.69 on day 11
+Shaggy put in order for PracticeAmps for $37.89 on day 11
+Shaggy put in order for PracticeAmps for $4.57 on day 11
+Shaggy put in order for PracticeAmps for $24.64 on day 11
+Shaggy put in order for Cables for $32.4 on day 11
+Shaggy put in order for Cables for $40.65 on day 11
+Shaggy put in order for Cables for $8.58 on day 11
+Shaggy ordered total of 9 items
+Shaggy un-tuned Bass.
+Shaggyhas damaged a(n) Bass.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Hats for $30.0.
+Cables out of stock, Buyer 2 left the store.
+Guitar out of stock, Buyer 3 left the store.
+Buyer 4 purchased MP3 for $45.0 after a 10%% discount.
+Shaggy bought a very good condition CDPlayer from Seller 1 for $18.53 after offering 10%% more.
+Shaggy bought a good condition Bass from Seller 2 for $49.42.
+Shaggy bought a fair condition Saxophone from Seller 3 for $19.97.
+Shaggy sold 2 items.
+Shaggy Bought 3 items.
+Shaggy has thrown away a(n) Flute due to less than poor condition.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

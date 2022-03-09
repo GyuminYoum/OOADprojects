@@ -4,6 +4,9 @@ import Staff.Clerk;
 import Store.Store;
 import Store.User;
 
+//user.get_loc provides the right store
+//prints the clerk working at the right store
+//if the user's store hasn't been picked then print appropriate msg
 public class askName implements Command{
     User user;
     public askName(User usr){
