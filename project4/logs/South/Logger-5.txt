@@ -1,29 +1,37 @@
-Velma arrives at the South store on Day 5
-Velma received Cables on day 5
-Velma received Cables on day 5
-Velma received Strings on day 5
-3 items has been added to the inventory
-There is $1451.06 in the register
+Daphne arrives at the South store on Day 5
+0 items has been added to the inventory
+There is $1285.86 in the register
 There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 939.75
-Velma put in order for Vinyl for $16.96 on day 5
-Velma put in order for Vinyl for $2.06 on day 5
-Velma put in order for Vinyl for $26.6 on day 5
-Velma put in order for Bass for $25.51 on day 5
-Velma put in order for Bass for $6.87 on day 5
-Velma put in order for Bass for $20.76 on day 5
-Velma ordered total of 6 items
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Hats for $18.0 after a 10%% discount.
-Buyer 2 purchased MP3 for $45.0 after a 10%% discount.
-Velma bought a fair condition MusicCD from Seller 1 for $54.98 after offering 10%% more.
-Velma bought a poor condition CDPlayer from Seller 2 for $27.1 after offering 10%% more.
-Velma bought a very good condition MusicCD from Seller 3 for $35.47.
-Velma sold 2 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+All the items in the inventory are worth total of $ 1000.56
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 2 purchased Harmonica for $36.0.
+MusicCD was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
+PaperScore was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Guitar for $74.0.
+Buyer 7 purchased MusicCD for $8.4.
+Daphne bought a poor condition Cables from Seller 1 for $55.22 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 1 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

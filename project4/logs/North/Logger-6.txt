@@ -1,41 +1,23 @@
-Daphne is sick on day 6
-Freddy arrives at the North store on Day 6
+Justin arrives at the North store on Day 6
 0 items has been added to the inventory
-There is $1396.96 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 883.77
-Freddy put in order for CDPlayer for $17.14 on day 6
-Freddy put in order for CDPlayer for $29.58 on day 6
-Freddy put in order for CDPlayer for $46.9 on day 6
-Freddy put in order for GigBag for $21.43 on day 6
-Freddy put in order for GigBag for $50.12 on day 6
-Freddy put in order for GigBag for $10.78 on day 6
-Freddy ordered total of 6 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $12.6 after a 10%% discount.
-Vinyl out of stock, Buyer 2 left the store.
-RecordPlayer was too expensive, Buyer 3 left the store.
-Buyer 4 purchased CassettePlayer for $24.0.
-Freddy bought a poor condition Mandolin from Seller 1 for $48.37.
-Freddy bought a fair condition RecordPlayer from Seller 2 for $11.2 after offering 10%% more.
-Freddy sold 2 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1277.39 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1023.92
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 2 purchased Harmonica for $40.0.
+Buyer 3 purchased Shirts for $9.0.
+Flute was too expensive, Buyer 4 left the store.
+Justin bought a fair condition CassettePlayer from Seller 1 for $48.87.
+Justin bought a fair condition Shirts from Seller 2 for $47.92.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

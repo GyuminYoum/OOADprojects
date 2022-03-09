@@ -1,40 +1,18 @@
-Daphne arrives at the South store on Day 13
-Daphne received MP3 on day 13
-Daphne received PracticeAmps on day 13
-Daphne received PracticeAmps on day 13
-Daphne received GigBag on day 13
+Justin arrives at the South store on Day 13
+Justin received PaperScore on day 13
+Justin received Flute on day 13
+Justin received Cables on day 13
+Justin received Strings on day 13
 4 items has been added to the inventory
-There is $1384.41 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1295.68
-Daphne put in order for Cassette for $42.74 on day 13
-Daphne put in order for Cassette for $13.39 on day 13
-Daphne put in order for Cassette for $47.37 on day 13
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $26.0.
-Buyer 2 purchased Saxophone for $90.0.
-Buyer 3 purchased Mandolin for $56.8 after a 10%% discount.
-Buyer 4 purchased MP3 for $73.53 after a 10%% discount.
-Daphne bought a good condition Saxophone from Seller 1 for $47.63 after offering 10%% more.
-Daphne bought a poor condition Vinyl from Seller 2 for $55.46 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1568.21 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1131.98
+Justin ordered total of 0 items
+Justin un-adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Justin has damaged a(n) Cassette.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.

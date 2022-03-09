@@ -1,23 +1,24 @@
-Justin arrives at the North store on Day 2
+Velma arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1186.68 in the register
-There are total of 57 items in the inventory.
-All the items in the inventory are worth total of $ 999.48
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justinhas damaged a(n) Guitar.
-Justin un-tuned Bass.
-Justin un-adjusted Flute.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 2 purchased CassettePlayer for $26.0.
-Buyer 3 purchased Cables for $10.0.
-Buyer 4 purchased Vinyl for $10.0.
-Justin bought a very good condition Shirts from Seller 1 for $1.37.
-Seller 2 didn't accept the price, and left the store.
-Justin bought a good condition Harmonica from Seller 3 for $45.65.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1076.5 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1053.68
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 2 purchased GigBag for $11.0.
+Buyer 3 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $59.4 after a 10%% discount.
+Buyer 5 purchased MP3 for $50.0.
+Velma bought a good condition MP3 from Seller 1 for $6.62.
+Velma bought a fair condition MusicCD from Seller 2 for $15.65.
+Seller 3 didn't accept the price, and left the store.
+Velma sold 5 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

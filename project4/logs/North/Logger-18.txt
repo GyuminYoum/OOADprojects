@@ -1,35 +1,20 @@
-Daphne arrives at the North store on Day 18
-Daphne received RecordPlayer on day 18
-1 items has been added to the inventory
-There is $2237.92 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 872.73
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $50.0.
-Harmonica was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Harmonica for $40.0.
-Guitar was too expensive, Buyer 4 left the store.
-GigBag out of stock, Buyer 5 left the store.
-Buyer 6 purchased MP3 for $90.0.
-Daphne bought a good condition Cables from Seller 1 for $42.85.
-Daphne bought a very good condition Bass from Seller 2 for $25.3 after offering 10%% more.
-Daphne sold 3 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the North store on Day 18
+Velma received CDPlayer on day 18
+Velma received Bass on day 18
+Velma received GigBag on day 18
+3 items has been added to the inventory
+There is $2105.85 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 975.54
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

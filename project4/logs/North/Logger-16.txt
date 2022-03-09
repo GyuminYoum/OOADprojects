@@ -1,39 +1,31 @@
-Daphne arrives at the North store on Day 16
-Daphne received Bass on day 16
-1 items has been added to the inventory
-There is $1708.63 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1195.36
-Daphne put in order for Harmonica for $42.68 on day 16
-Daphne put in order for Harmonica for $33.01 on day 16
-Daphne put in order for Harmonica for $18.87 on day 16
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Cables for $17.28 after a 10%% discount.
-Buyer 2 purchased Strings for $64.27 after a 10%% discount.
-Buyer 3 purchased Mandolin for $74.0.
-Buyer also purchased PracticeAmps for $87.18.
-Buyer 4 purchased Vinyl for $78.31 after a 10%% discount.
-Buyer 5 purchased Mandolin for $70.0.
-Buyer also purchased Strings for $94.66.
-Buyer also purchased Strings for $6.8.
-Daphne bought a fair condition Guitar from Seller 1 for $54.42 after offering 10%% more.
-Daphne sold 8 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the North store on Day 16
+Shaggy received MP3 on day 16
+Shaggy received CDPlayer on day 16
+2 items has been added to the inventory
+There is $2055.01 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1101.69
+Shaggy put in order for PracticeAmps for $31.71 on day 16
+Shaggy put in order for PracticeAmps for $11.56 on day 16
+Shaggy put in order for PracticeAmps for $10.52 on day 16
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $72.09.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased Cables for $80.36.
+Buyer also purchased Strings for $67.36.
+Buyer also purchased Strings for $57.44.
+Buyer 2 purchased Shirts for $8.0.
+Strings out of stock, Buyer 3 left the store.
+Buyer 4 purchased Bandanas for $50.38.
+Strings out of stock, Buyer 5 left the store.
+Buyer 6 purchased CassettePlayer for $21.6 after a 10%% discount.
+Shaggy bought a good condition Cables from Seller 1 for $8.17 after offering 10%% more.
+Shaggy bought a poor condition Mandolin from Seller 2 for $18.27 after offering 10%% more.
+Shaggy sold 8 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

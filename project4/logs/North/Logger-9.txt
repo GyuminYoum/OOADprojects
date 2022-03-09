@@ -1,28 +1,25 @@
-Shaggy arrives at the North store on Day 9
-Shaggy received Cables on day 9
-Shaggy received Strings on day 9
-Shaggy received CDPlayer on day 9
-Shaggy received GigBag on day 9
-4 items has been added to the inventory
-There is $1267.5 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1050.94
-Shaggy put in order for MusicCD for $14.96 on day 9
-Shaggy put in order for MusicCD for $46.06 on day 9
-Shaggy put in order for MusicCD for $26.59 on day 9
-Shaggy ordered total of 3 items
-Shaggy un-tuned Guitar.
-Shaggy adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $38.0.
-Buyer 2 purchased Flute for $81.0 after a 10%% discount.
-Buyer 3 purchased CassettePlayer for $37.8 after a 10%% discount.
-Buyer 4 purchased Shirts for $9.0 after a 10%% discount.
-Shaggy bought a good condition Strings from Seller 1 for $33.59.
-Shaggy bought a very good condition RecordPlayer from Seller 2 for $27.92.
-Shaggy bought a fair condition Saxophone from Seller 3 for $21.51.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the North store on Day 9
+Justin received Harmonica on day 9
+1 items has been added to the inventory
+There is $1286.22 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1075.2
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Strings for $14.0.
+Buyer 2 purchased Cassette for $8.19.
+GigBag was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Saxophone for $90.0.
+Buyer 5 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer 6 purchased PracticeAmps for $45.0 after a 10%% discount.
+Justin bought a good condition Shirts from Seller 1 for $48.82.
+Justin bought a good condition Mandolin from Seller 2 for $18.67 after offering 10%% more.
+Justin sold 5 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

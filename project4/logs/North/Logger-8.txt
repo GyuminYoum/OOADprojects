@@ -1,26 +1,26 @@
 Justin arrives at the North store on Day 8
-Justin received Cables on day 8
-Justin received Cables on day 8
-Justin received Strings on day 8
-Justin received GigBag on day 8
-4 items has been added to the inventory
-There is $1198.01 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1001.21
-Justin put in order for Vinyl for $23.25 on day 8
-Justin put in order for Vinyl for $43.51 on day 8
-Justin put in order for Vinyl for $8.52 on day 8
+0 items has been added to the inventory
+There is $1253.01 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1083.21
+Justin put in order for Harmonica for $15.76 on day 8
+Justin put in order for Harmonica for $12.7 on day 8
+Justin put in order for Harmonica for $7.88 on day 8
 Justin ordered total of 3 items
+Justin un-tuned Guitar.
+Justin un-tuned Mandolin.
 Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-adjusted Saxophone.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased Bass for $41.4 after a 10%% discount.
-Buyer 2 purchased Strings for $27.26.
-Buyer 3 purchased MusicCD for $8.19.
-Buyer 4 purchased Saxophone for $84.0.
-Buyer 5 purchased MusicCD for $7.56 after a 10%% discount.
-Justin bought a poor condition Guitar from Seller 1 for $23.64.
-Justin sold 5 items.
-Justin Bought 1 items.
+Buyer 1 purchased Flute for $81.0 after a 10%% discount.
+Buyer 2 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 3 purchased Cables for $10.0.
+Justin bought a fair condition Cassette from Seller 1 for $25.82 after offering 10%% more.
+Justin bought a poor condition CDPlayer from Seller 2 for $3.06 after offering 10%% more.
+Justin bought a good condition PracticeAmps from Seller 3 for $3.36.
+Justin sold 3 items.
+Justin Bought 3 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

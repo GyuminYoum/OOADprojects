@@ -1,30 +1,25 @@
 Velma arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1202.64 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1026.91
+There is $1173.79 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1038.58
 Velma ordered total of 0 items
 Velma tuned Guitar.
 Velma tuned Bass.
-Velma tuned Bass.
 Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Saxophone.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
 Velma un-adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
-Buyer 2 purchased Bandanas for $12.0.
-Buyer 3 purchased Strings for $22.0.
-Buyer 4 purchased Guitar for $48.6 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
-Buyer also purchased Cables for $30.0.
-MP3 was too expensive, Buyer 5 left the store.
-Buyer 6 purchased GigBag for $12.0.
-Guitar was too expensive, Buyer 7 left the store.
-Velma bought a good condition RecordPlayer from Seller 1 for $43.8 after offering 10%% more.
-Velma bought a good condition Guitar from Seller 2 for $6.65 after offering 10%% more.
-Velma sold 10 items.
-Velma Bought 2 items.
+Buyer 1 purchased PaperScore for $7.2 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $21.6 after a 10%% discount.
+Buyer 3 purchased PracticeAmps for $30.0.
+Buyer 4 purchased Hats for $20.0.
+Velma bought a poor condition Hats from Seller 1 for $43.84.
+Velma sold 4 items.
+Velma Bought 1 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

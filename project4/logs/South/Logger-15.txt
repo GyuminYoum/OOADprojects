@@ -1,36 +1,19 @@
-Freddy arrives at the South store on Day 15
-Freddy received Mandolin on day 15
-Freddy received GigBag on day 15
-Freddy received CDPlayer on day 15
-Freddy received CDPlayer on day 15
-Freddy received Cassette on day 15
-5 items has been added to the inventory
-There is $1424.15 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1459.11
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $33.92.
-Buyer 2 purchased Strings for $91.76.
-Buyer 3 purchased PaperScore for $9.0 after a 10%% discount.
-Freddy bought a fair condition Saxophone from Seller 1 for $36.44.
-Freddy sold 3 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the South store on Day 15
+Shaggy received MusicCD on day 15
+Shaggy received Bass on day 15
+Shaggy received Cassette on day 15
+3 items has been added to the inventory
+There is $1700.97 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1196.46
+Shaggy ordered total of 0 items
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $13.36.
+Buyer 2 purchased Shirts for $8.1 after a 10%% discount.
+Buyer 3 purchased MP3 for $62.94 after a 10%% discount.
+Shaggy bought a poor condition Strings from Seller 1 for $23.43 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,49 +1,32 @@
-Freddy arrives at the North store on Day 5
+Velma arrives at the North store on Day 5
 0 items has been added to the inventory
-There is $1347.19 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 973.85
-Freddy put in order for Cables for $42.86 on day 5
-Freddy put in order for Cables for $12.0 on day 5
-Freddy put in order for Cables for $9.6 on day 5
-Freddy put in order for Strings for $35.71 on day 5
-Freddy put in order for Strings for $13.63 on day 5
-Freddy put in order for Strings for $49.99 on day 5
-Freddy ordered total of 6 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 2 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased GigBag for $13.0.
-Bass was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Guitar for $34.0.
-Buyer also purchased PracticeAmps for $10.0.
-Buyer 5 purchased RecordPlayer for $44.0.
-Buyer 6 purchased Shirts for $8.1 after a 10%% discount.
-Buyer 7 purchased RecordPlayer for $22.0.
-Buyer 8 purchased PracticeAmps for $27.0 after a 10%% discount.
-PaperScore was too expensive, Buyer 9 left the store.
-Freddy bought a very good condition Bandanas from Seller 1 for $9.52.
-Freddy bought a poor condition Mandolin from Seller 2 for $39.4 after offering 10%% more.
-Seller 3 didn't accept the price, and left the store.
-Freddy sold 9 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1208.74 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1040.42
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma adjusted Flute.
+Velma adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 2 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
+Bandanas out of stock, Buyer 4 left the store.
+Buyer 5 purchased Hats for $10.0.
+Bandanas out of stock, Buyer 6 left the store.
+Buyer 7 purchased CDPlayer for $43.2 after a 10%% discount.
+Buyer 8 purchased Cassette for $6.0.
+Velma bought a very good condition Vinyl from Seller 1 for $46.7.
+Velma sold 6 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

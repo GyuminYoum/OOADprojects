@@ -1,42 +1,25 @@
-Daphne arrives at the South store on Day 3
+Shaggy arrives at the South store on Day 3
 0 items has been added to the inventory
-There is $1182.7 in the register
-There are total of 59 items in the inventory.
-All the items in the inventory are worth total of $ 1024.37
-Daphne put in order for Cables for $34.99 on day 3
-Daphne put in order for Cables for $34.83 on day 3
-Daphne put in order for Cables for $15.8 on day 3
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bass for $44.0.
-Buyer also purchased PracticeAmps for $10.0.
-Buyer 2 purchased Bass for $46.0.
-Buyer also purchased Strings for $7.0.
-Buyer also purchased Strings for $14.0.
-Buyer also purchased Strings for $22.0.
-Buyer 3 purchased MP3 for $10.0.
-Buyer 4 purchased Mandolin for $63.0 after a 10%% discount.
-Buyer 5 purchased Guitar for $54.0.
-Seller 1 didn't accept the price, and left the store.
-Daphne bought a very good condition MusicCD from Seller 2 for $38.24.
-Daphne bought a good condition Mandolin from Seller 3 for $9.5 after offering 10%% more.
-Daphne sold 12 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1112.43 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1048.02
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $12.0.
+Buyer 2 purchased Hats for $18.0 after a 10%% discount.
+Buyer 3 purchased CDPlayer for $24.0.
+Buyer 4 purchased MusicCD for $8.0.
+Buyer 5 purchased Cables for $9.0 after a 10%% discount.
+RecordPlayer was too expensive, Buyer 6 left the store.
+Shaggy bought a good condition CassettePlayer from Seller 1 for $1.85 after offering 10%% more.
+Shaggy bought a very good condition Bandanas from Seller 2 for $15.78.
+Shaggy bought a good condition Bandanas from Seller 3 for $30.07.
+Shaggy sold 5 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

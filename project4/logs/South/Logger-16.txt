@@ -1,29 +1,24 @@
-Velma arrives at the South store on Day 16
-Velma received PracticeAmps on day 16
-Velma received CDPlayer on day 16
-Velma received Cassette on day 16
-3 items has been added to the inventory
-There is $1522.39 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1485.54
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased PaperScore for $9.9 after a 10%% discount.
-Buyer 2 purchased Strings for $23.83 after a 10%% discount.
-Buyer 3 purchased PracticeAmps for $38.76.
-Velma bought a poor condition MP3 from Seller 1 for $28.69 after offering 10%% more.
-Velma bought a fair condition CDPlayer from Seller 2 for $22.35.
-Velma bought a very good condition CassettePlayer from Seller 3 for $36.09 after offering 10%% more.
-Velma sold 3 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the South store on Day 16
+Justin received Bass on day 16
+Justin received Cassette on day 16
+2 items has been added to the inventory
+There is $1761.93 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1239.32
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Bass for $44.46.
+GigBag was too expensive, Buyer 2 left the store.
+Buyer 3 purchased CDPlayer for $72.0.
+Buyer 4 purchased PracticeAmps for $3.43 after a 10%% discount.
+Buyer 5 purchased Cassette for $58.13 after a 10%% discount.
+Buyer 6 purchased Bandanas for $18.0.
+Justin bought a poor condition Bandanas from Seller 1 for $32.09.
+Justin bought a poor condition Cables from Seller 2 for $21.19 after offering 10%% more.
+Justin sold 5 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

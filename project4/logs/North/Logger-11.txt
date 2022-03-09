@@ -1,32 +1,34 @@
-Shaggy arrives at the North store on Day 11
-Shaggy received CDPlayer on day 11
-Shaggy received Vinyl on day 11
-Shaggy received Vinyl on day 11
-Shaggy received MusicCD on day 11
-4 items has been added to the inventory
-There is $1316.2 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1200.69
-Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy un-tuned Mandolin.
-Shaggy un-tuned Mandolin.
-Shaggy has thrown away a(n) Mandolindue to less than poor condition.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased PracticeAmps for $45.0 after a 10%% discount.
-Buyer 2 purchased Bandanas for $18.0.
-Buyer 3 purchased GigBag for $21.56.
-Buyer 4 purchased Vinyl for $46.5.
-Buyer 5 purchased Strings for $99.98.
-Buyer 6 purchased Bass for $48.0.
-Buyer also purchased Cables for $85.72.
-Buyer 7 purchased PaperScore for $9.0 after a 10%% discount.
-Buyer 8 purchased Hats for $27.0 after a 10%% discount.
-Shaggy bought a good condition PracticeAmps from Seller 1 for $43.59.
-Shaggy bought a very good condition RecordPlayer from Seller 2 for $27.85 after offering 10%% more.
-Shaggy sold 9 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the North store on Day 11
+Velma received Harmonica on day 11
+1 items has been added to the inventory
+There is $1417.61 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1089.75
+Velma put in order for MusicCD for $46.73 on day 11
+Velma put in order for MusicCD for $19.41 on day 11
+Velma put in order for MusicCD for $16.42 on day 11
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Hats for $31.12 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased CassettePlayer for $21.6 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $22.0.
+Seller 1 didn't accept the price, and left the store.
+Velma sold 4 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
