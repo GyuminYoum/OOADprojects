@@ -8,23 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/OOADprojects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OOADprojects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/Sell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/Sell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/askName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/askName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/askTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/askTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/buyKit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/end.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/end.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Command/selectStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Command/selectStore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/FNMS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Factory/NGuitarKitFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Factory/NGuitarKitFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Factory/SGuitarKitFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Factory/SGuitarKitFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/GuitarKitParts/GuitarKit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/GuitarKitParts/GuitarKit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Instruments_Items/Stringed_Items/StringDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Instruments_Items/Stringed_Items/StringDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Staff/Clerk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/Store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/chart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/chart.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOADprojects/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOADprojects/main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Command/Sell.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/Sell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Command/askName.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Command/askName.java" afterDir="false" />
@@ -41,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Staff/Clerk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/Store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/Store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project4/code/src/chart.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/chart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/code/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/project4/code/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/North/Logger-10.txt" afterDir="false" />
@@ -92,7 +77,6 @@
       <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-6.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-8.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project4/logs/South/Logger-9.txt" afterDir="false" />
->>>>>>> d7596711a6b16d17b13b880958c538c912485849
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,16 +107,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Items/Items.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/main.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/FNMS.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/project2-2.iml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Store.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Store/Customer.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Staff.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Staff/Clerk.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-17.0.2/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/project2/OOAD/project2-2/src/Players_Items/MP3.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -279,6 +263,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/OOADprojects$ItemsTest.ic" NAME="ItemsTest Coverage Results" MODIFIED="1646718908761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -1,28 +1,33 @@
 Justin arrives at the North store on Day 8
-Justin received MusicCD on day 8
-1 items has been added to the inventory
-There is $1090.51 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1217.49
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-tuned Mandolin.
-Justin adjusted Flute.
-Justin adjusted Flute.
+Justin received Bass on day 8
+Justin received Flute on day 8
+Justin received Flute on day 8
+3 items has been added to the inventory
+There is $1981.12 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 649.54
+Justin put in order for Cables for $32.57 on day 8
+Justin put in order for Cables for $46.44 on day 8
+Justin put in order for Cables for $19.59 on day 8
+Justin put in order for Strings for $39.65 on day 8
+Justin put in order for Strings for $13.62 on day 8
+Justin put in order for Strings for $1.29 on day 8
+Justin ordered total of 6 items
 Justin un-adjusted Harmonica.
-Justin un-adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
+Justin un-tuned Bass.
+Justin adjusted Flute.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $24.0.
-Buyer 2 purchased Flute for $81.0 after a 10%% discount.
-Buyer 3 purchased Shirts for $8.0.
-Buyer 4 purchased Bandanas for $18.0.
-GigBag was too expensive, Buyer 5 left the store.
-Justin bought a poor condition MP3 from Seller 1 for $35.35 after offering 10%% more.
-Justin sold 4 items.
+Buyer 1 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased MusicCD for $8.0.
+Buyer 4 purchased CDPlayer for $21.6 after a 10%% discount.
+Buyer 5 purchased CassettePlayer for $42.0.
+Buyer 6 purchased CassettePlayer for $89.73 after a 10%% discount.
+Buyer 7 purchased CDPlayer for $43.2 after a 10%% discount.
+Buyer 8 purchased CDPlayer for $64.8 after a 10%% discount.
+Justin bought a very good condition Bandanas from Seller 1 for $34.05 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Justin sold 8 items.
 Justin Bought 1 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.

@@ -6,27 +6,28 @@ All the items in the inventory are worth total of $ 1074.08
 Justin ordered total of 0 items
 Justin tuned Guitar.
 Justin tuned Guitar.
-Justin tuned Guitar.
+Justin tuned Bass.
 Justin tuned Bass.
 Justin tuned Bass.
 Justin tuned Mandolin.
+Justin tuned Mandolin.
+Justin adjusted Flute.
 Justin adjusted Flute.
 Justin adjusted Flute.
 Justin adjusted Harmonica.
 Justin adjusted Harmonica.
+Justin adjusted Saxophone.
 Justin adjusted Saxophone.
 Justin adjusted Saxophone.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $36.0.
-Buyer 2 purchased Shirts for $8.0.
-Buyer 3 purchased CDPlayer for $21.6 after a 10%% discount.
-Buyer 4 purchased MP3 for $10.0.
-PracticeAmps was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Flute for $81.0 after a 10%% discount.
-Justin bought a poor condition CDPlayer from Seller 1 for $51.33 after offering 10%% more.
-Seller 2 didn't accept the price, and left the store.
-Justin sold 5 items.
-Justin Bought 1 items.
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased Cables for $9.0 after a 10%% discount.
+Buyer 3 purchased Bass for $44.0.
+Buyer also purchased PracticeAmps for $10.0.
+Justin bought a good condition Hats from Seller 1 for $45.57.
+Justin bought a very good condition Mandolin from Seller 2 for $33.34.
+Justin sold 4 items.
+Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

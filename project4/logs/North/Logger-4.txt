@@ -1,29 +1,28 @@
-Daphne is sick on day 4
-Velma arrives at the North store on Day 4
-Velma received Strings on day 4
-Velma received Strings on day 4
-2 items has been added to the inventory
-There is $928.94 in the register
-There are total of 58 items in the inventory.
-All the items in the inventory are worth total of $ 1244.62
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Flute.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Guitar was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CassettePlayer for $26.0.
-Buyer 3 purchased PracticeAmps for $30.0.
-Buyer 4 purchased PaperScore for $11.0.
-Buyer 5 purchased Cables for $20.0.
-Velma bought a poor condition Vinyl from Seller 1 for $24.24.
-Velma sold 4 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy arrives at the North store on Day 4
+0 items has been added to the inventory
+There is $1507.49 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 822.48
+Shaggy ordered total of 0 items
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $48.0.
+Buyer also purchased Strings for $7.0.
+Strings was too expensive, Buyer 2 left the store.
+Buyer 3 purchased PaperScore for $10.0.
+Cassette was too expensive, Buyer 4 left the store.
+Buyer 5 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 6 purchased Hats for $20.0.
+Buyer 7 purchased Strings for $14.0.
+Shaggy bought a good condition Cables from Seller 1 for $31.03.
+Shaggy bought a very good condition Strings from Seller 2 for $45.07.
+Shaggy bought a good condition Guitar from Seller 3 for $26.63 after offering 10%% more.
+Shaggy sold 6 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

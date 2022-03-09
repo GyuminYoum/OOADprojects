@@ -1,44 +1,32 @@
 Daphne arrives at the South store on Day 12
-Daphne received RecordPlayer on day 12
-Daphne received Guitar on day 12
-Daphne received PracticeAmps on day 12
-Daphne received Cables on day 12
-4 items has been added to the inventory
-There is $1404.66 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1225.93
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
+Daphne received Harmonica on day 12
+1 items has been added to the inventory
+There is $2005.79 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 806.76
+Daphne put in order for Mandolin for $16.57 on day 12
+Daphne put in order for Mandolin for $30.91 on day 12
+Daphne put in order for Mandolin for $1.07 on day 12
+Daphne put in order for Saxophone for $41.72 on day 12
+Daphne put in order for Saxophone for $41.84 on day 12
+Daphne put in order for Saxophone for $21.74 on day 12
+Daphne ordered total of 6 items
 Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Shirts for $9.0 after a 10%% discount.
-Buyer 2 purchased CDPlayer for $43.2 after a 10%% discount.
-Guitar was too expensive, Buyer 3 left the store.
-Buyer 4 purchased RecordPlayer for $19.54 after a 10%% discount.
-Buyer 5 purchased Flute for $97.28.
-Buyer 6 purchased Shirts for $44.24.
-Buyer 7 purchased Saxophone for $84.0.
-Buyer 8 purchased Mandolin for $66.0.
-Buyer also purchased GigBag for $13.0.
-Buyer also purchased PracticeAmps for $75.78.
-Daphne bought a very good condition PaperScore from Seller 1 for $24.9 after offering 10%% more.
-Daphne bought a very good condition Mandolin from Seller 2 for $50.63 after offering 10%% more.
-Daphne bought a very good condition Vinyl from Seller 3 for $49.22.
-Daphne sold 9 items.
-Daphne Bought 3 items.
+Buyer 1 purchased PracticeAmps for $30.0.
+Buyer 2 purchased Flute for $39.54.
+Cassette was too expensive, Buyer 3 left the store.
+Saxophone out of stock, Buyer 4 left the store.
+Strings was too expensive, Buyer 5 left the store.
+Daphne bought a very good condition Saxophone from Seller 1 for $32.65.
+Daphne sold 2 items.
+Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
