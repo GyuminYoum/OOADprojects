@@ -1,37 +1,34 @@
-Daphne arrives at the South store on Day 5
-0 items has been added to the inventory
-There is $1285.86 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1000.56
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 2 purchased Harmonica for $36.0.
-MusicCD was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
-PaperScore was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Guitar for $74.0.
-Buyer 7 purchased MusicCD for $8.4.
-Daphne bought a poor condition Cables from Seller 1 for $55.22 after offering 10%% more.
-Daphne sold 5 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Freddy arrives at the South store on Day 5
+Freddy received Cables on day 5
+1 items has been added to the inventory
+There is $1235.06 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1009.0
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $8.0.
+Buyer 2 purchased Saxophone for $81.0 after a 10%% discount.
+Strings out of stock, Buyer 3 left the store.
+Buyer 4 purchased Cables for $57.52.
+Cables out of stock, Buyer 5 left the store.
+Buyer 6 purchased RecordPlayer for $66.0.
+Buyer 7 purchased Bandanas for $10.8 after a 10%% discount.
+Freddy bought a fair condition Flute from Seller 1 for $53.5 after offering 10%% more.
+Freddy bought a good condition CDPlayer from Seller 2 for $25.08.
+Freddy sold 5 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

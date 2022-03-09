@@ -1,34 +1,21 @@
-Velma arrives at the North store on Day 23
-Velma received RecordPlayer on day 23
-Velma received MP3 on day 23
-Velma received CassettePlayer on day 23
-Velma received Guitar on day 23
-Velma received Harmonica on day 23
-Velma received Strings on day 23
-6 items has been added to the inventory
-There is $2663.84 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 937.83
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma adjusted Flute.
-Velma adjusted Saxophone.
-Velma tuned Mandolin.
-Velma tuned Guitar.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Flute for $29.19 after a 10%% discount.
-Buyer 2 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 3 purchased Guitar for $34.78.
-Buyer 4 purchased CDPlayer for $39.47.
-Bandanas out of stock, Buyer 5 left the store.
-Velma bought a good condition Saxophone from Seller 1 for $13.46.
-Velma bought a good condition Bass from Seller 2 for $16.3 after offering 10%% more.
-Velma sold 4 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin arrives at the North store on Day 23
+Justin received Vinyl on day 23
+1 items has been added to the inventory
+There is $2645.14 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1029.34
+Justin put in order for Harmonica for $39.82 on day 23
+Justin put in order for Harmonica for $6.78 on day 23
+Justin put in order for Harmonica for $3.73 on day 23
+Justin ordered total of 3 items
+Justin has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $12.0.
+Buyer 2 purchased PracticeAmps for $78.21 after a 10%% discount.
+Buyer 3 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer also purchased Strings for $17.48.
+Justin bought a good condition Strings from Seller 1 for $49.97.
+Justin sold 4 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

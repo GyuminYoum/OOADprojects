@@ -1,40 +1,40 @@
-Freddy arrives at the South store on Day 4
+Daphne arrives at the South store on Day 4
 0 items has been added to the inventory
-There is $1135.73 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 1058.72
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Saxophone was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Strings for $22.0.
-Buyer 3 purchased Flute for $90.0.
-Buyer 4 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 5 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 6 purchased PaperScore for $11.0.
-Buyer 7 purchased Cables for $18.0 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a poor condition Cassette from Seller 2 for $39.47 after offering 10%% more.
-Freddy bought a very good condition Strings from Seller 3 for $1.96.
-Freddy sold 6 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1374.11 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 975.56
+Daphne put in order for Cables for $28.76 on day 4
+Daphne put in order for Cables for $15.86 on day 4
+Daphne put in order for Cables for $40.32 on day 4
+Daphne put in order for Strings for $47.95 on day 4
+Daphne put in order for Strings for $28.73 on day 4
+Daphne put in order for Strings for $10.45 on day 4
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Cassette for $6.0.
+Buyer 2 purchased PracticeAmps for $30.0.
+Buyer 3 purchased Shirts for $9.0.
+Buyer 4 purchased Harmonica for $34.2 after a 10%% discount.
+Strings out of stock, Buyer 5 left the store.
+Daphne bought a fair condition Shirts from Seller 1 for $24.33 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Daphne bought a good condition MP3 from Seller 3 for $21.85.
+Daphne sold 4 items.
+Daphne Bought 2 items.
+Daphne has damaged a(n) Vinyl.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.

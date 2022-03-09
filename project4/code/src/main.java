@@ -1,7 +1,9 @@
 import Items.Players;
 import Players_Items.CD;
+import org.jfree.ui.RefineryUtilities;
 
 import java.util.Random;
+
 
 public class main {
 
@@ -10,6 +12,32 @@ public class main {
         FNMS sim1=new FNMS();
         sim1.initialize();
         sim1.Run();
+
+        chart chart1 = new chart("Graph display","$ vs days",sim1);
+        //uncomment and comment the top one for 2nd graph
+        //chart chart1 = new chart("Graph display","count vs days",sim1);
+
+        /*
+        for (Double i: chart1.sim.day_itemSales){
+            System.out.print(i+" ");
+        }
+        System.out.println("");
+        for (Double i: chart1.sim.day_totalRegister){
+            System.out.print(i+" ");
+        }
+
+         */
+        chart1.pack( );
+        RefineryUtilities.centerFrameOnScreen( chart1 );
+        chart1.setVisible( true );
+        /*
+        chart1.pack();
+        RefineryUtilities.centerFrameOnScreen( chart1 );
+        chart1.setVisible( true );
+
+         */
+
+
 
         /*
         Players_Items.CD CD1=new CD("CD",1,false,1,0);

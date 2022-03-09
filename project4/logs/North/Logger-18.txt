@@ -1,20 +1,33 @@
-Velma arrives at the North store on Day 18
-Velma received CDPlayer on day 18
-Velma received Bass on day 18
-Velma received GigBag on day 18
-3 items has been added to the inventory
-There is $2105.85 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 975.54
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Flute.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma has damaged 0 items while tuning
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Freddy arrives at the North store on Day 18
+Freddy received PaperScore on day 18
+1 items has been added to the inventory
+There is $2021.42 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 1174.53
+Freddy put in order for Vinyl for $16.1 on day 18
+Freddy put in order for Vinyl for $27.23 on day 18
+Freddy put in order for Vinyl for $10.47 on day 18
+Freddy ordered total of 3 items
+Freddy tuned Mandolin.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $6.19 after a 10%% discount.
+Buyer 2 purchased Saxophone for $96.0.
+Buyer 3 purchased Cassette for $3.96 after a 10%% discount.
+Buyer 4 purchased Bass for $48.96.
+Buyer also purchased Strings for $27.18.
+Freddy bought a very good condition CDPlayer from Seller 1 for $34.12 after offering 10%% more.
+Freddy bought a poor condition MP3 from Seller 2 for $41.82.
+Freddy sold 7 items.
+Freddy Bought 2 items.
+Freddy has thrown away a(n) CDPlayer due to less than poor condition.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.

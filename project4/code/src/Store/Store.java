@@ -64,6 +64,84 @@ public class Store {
     private ArrayList<Tracker> tracker_list=new ArrayList<Tracker>();
     private ArrayList<Observer> Observer_list=new ArrayList<Observer>();
     private int duration;
+    //for extra credit
+
+    private Double dayRegister= 0.0;
+    private Double daySales= 0.0;
+    private Integer dayDmg=0;
+    private Integer daySold=0;
+    private Integer dayInventory=0;
+    private ArrayList <Double> day_itemSales= new ArrayList<Double>();
+    private ArrayList <Double> day_totalRegister= new ArrayList<Double>();
+    private ArrayList <Integer> day_inventoryCount = new ArrayList <Integer>();
+    private ArrayList <Integer> day_damagedItems = new ArrayList <Integer>();
+    private ArrayList <Integer> day_itemSold = new ArrayList<Integer>();
+
+    public void add_dayitemSales(Double d){
+        day_itemSales.add(d);
+    }
+    public ArrayList<Double> get_dayitemSales(){
+        return day_itemSales;
+    }
+    public void print_dayitemSales(){
+        for(Double d:day_itemSales){
+            System.out.print(d+" ");
+        }
+        System.out.println("");
+    }
+    public void add_daytotalRegister(Double d){
+        day_totalRegister.add(d);
+    }
+    public ArrayList<Double> get_daytotalRegister(){
+        return day_totalRegister;
+    }
+    public void print_daytotalRegister(){
+        for(Double d:day_totalRegister){
+            System.out.print(d+" ");
+        }
+        System.out.println("");
+    }
+    public void add_dayinventoryCount(Integer I){
+        day_inventoryCount.add(I);
+    }
+    public ArrayList<Integer> get_dayinventoryCount(){
+        return day_inventoryCount;
+    }
+    public void print_dayinventoryCount(){
+        for(Integer d:day_inventoryCount){
+            System.out.print(d+" ");
+        }
+        System.out.println("");
+    }
+    public void add_daydamagedItems(Integer I){
+        day_damagedItems.add(I);
+    }
+    public ArrayList<Integer> get_daydamagedItems(){
+        return day_damagedItems;
+    }
+
+    public void print_daydamagedItems(){
+        for(Integer d:day_damagedItems){
+            System.out.print(d+" ");
+        }
+        System.out.println("");
+    }
+    public void add_dayitemSold(Integer I){
+        day_itemSold.add(I);
+    }
+    public ArrayList<Integer> get_dayitemSold(){
+        return day_itemSold;
+    }
+    public void print_dayitemSold(){
+        for(Integer d:day_itemSold){
+            System.out.print(d+" ");
+        }
+        System.out.println("");
+    }
+
+
+
+
 
     public Store(ArrayList<Clerk> clerks, String loc1, int dur1){
         Clerk_member=clerks;
@@ -235,6 +313,45 @@ public class Store {
         for (Items i:Inventory){
             i.set_Store(this);
         }
+    }
+
+    //for extra credit
+    public void resetCounts(){
+        dayRegister=0.0;
+        dayDmg=0;
+        daySold=0;
+        dayInventory=0;
+        daySales=0.0;
+    }
+    public void setdayDmg(Integer a){
+        dayDmg=a;
+    }
+    public Integer getdayDmg(){
+        return dayDmg;
+    }
+    public void setdaySold(Integer a){
+        daySold=a;
+    }
+    public Integer getdaySold(){
+        return daySold;
+    }
+    public void setdayInventory(Integer a){
+        dayInventory=a;
+    }
+    public Integer getDayInventory() {
+        return dayInventory;
+    }
+    public void setdayRegister(Double d){
+        dayRegister=d;
+    }
+    public Double getdayRegister(){
+        return dayRegister;
+    }
+    public void setdaySales(Double d){
+        daySales=d;
+    }
+    public Double getdaySales(){
+        return daySales;
     }
 
 
@@ -573,6 +690,7 @@ public class Store {
     public void Sell(String item, int quantity) {
         int i = 0;
         int j = 0;
+        Double temp=0.0;
         String content;
         //for number of items that get bought
         while (i < this.get_InventorySize() && j < quantity) {
@@ -582,6 +700,10 @@ public class Store {
                 this.get_Item(i).set_salePrice(this.get_Item(i).get_listPrice());
                 this.add_soldItem(this.get_Item(i));
                 this.add_Register(this.get_Item(i).get_salePrice());
+
+                //for extra credit
+                this.setdaySales(getdaySales()+this.get_Item(i).get_salePrice());
+
                 //System.out.printf("Buyer also purchased " + Store.get_Item(i).get_name() + " for $" + Store.get_Item(i).get_salePrice() + ".\n");
                 content="Buyer also purchased " + this.get_Item(i).get_name() + " for $" + this.get_Item(i).get_salePrice() + ".";
                 this.notifyLoggers(content);

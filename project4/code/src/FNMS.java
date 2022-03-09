@@ -6,6 +6,8 @@ import Staff.Manual;
 import Store.Store;
 import Observer.logger;
 import java.util.*;
+
+
 //class FNMS for simulation
 //Store.Build() to initialize inventory and staff list as well as other necessary attributes.
 //for 30days, the onshift staff is picked and staff performs all the functions below each day.
@@ -17,12 +19,18 @@ public class FNMS {
     Store South_store;
     int duration=0;
     ArrayList<Clerk> members= new ArrayList<Clerk>();
+    public ArrayList <Double> day_itemSales= new ArrayList<Double>();
+    public ArrayList <Double> day_totalRegister= new ArrayList<Double>();
+    public ArrayList <Integer> day_inventoryCount = new ArrayList <Integer>();
+    public ArrayList <Integer> day_damagedItems = new ArrayList <Integer>();
+    public ArrayList <Integer> day_itemSold = new ArrayList<Integer>();
 
     public void initialize(){
         Random rng= new Random();
         while(duration%7==0){
             duration=rng.nextInt(20)+10;
         }
+        //pool of staff object is initialized and fed to both store objects to be used.
         Clerk Velma=new Clerk("Velma", new Haphazard());
         Clerk Shaggy=new Clerk("Shaggy", new Manual());
         Clerk Daphne=new Clerk("Daphne", new Electronic());
@@ -94,8 +102,6 @@ public class FNMS {
                 }
             }
              */
-
-
             if(staff1!=null && staff2!=null) {
                 //System.out.println(staff1.get_name());
                 //System.out.println(staff1.get_workingAt().get_location());
@@ -147,5 +153,30 @@ public class FNMS {
         South_store.Report();
         South_store.printTrackers();
         South_store.removeTracker(Tracker.GetInstance());
+        /*
+        System.out.println("====================================================================");
+        North_store.print_daydamagedItems();
+        North_store.print_dayinventoryCount();
+        North_store.print_daytotalRegister();
+        North_store.print_dayitemSales();
+        North_store.print_dayitemSold();
+        System.out.println("====================================================================");
+        South_store.print_daydamagedItems();
+        South_store.print_dayinventoryCount();
+        South_store.print_daytotalRegister();
+        South_store.print_dayitemSales();
+        South_store.print_dayitemSold();
+         */
+        //combine the two separate arraylists and set it to fnms
+        for(int i=0; i< North_store.get_daydamagedItems().size(); i++){
+            day_damagedItems.add(North_store.get_daydamagedItems().get(i)+South_store.get_daydamagedItems().get(i));
+            day_inventoryCount.add(North_store.get_dayinventoryCount().get(i)+South_store.get_dayinventoryCount().get(i));
+            day_totalRegister.add(Math.floor(North_store.get_daytotalRegister().get(i)+South_store.get_daytotalRegister().get(i)*100)/100);
+            day_itemSales.add(Math.floor(North_store.get_dayitemSales().get(i)+South_store.get_dayitemSales().get(i)*100)/100);
+            day_itemSold.add(North_store.get_dayitemSold().get(i)+South_store.get_dayitemSold().get(i));
+        }
+
+
     }
+
 }

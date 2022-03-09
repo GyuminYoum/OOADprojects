@@ -139,6 +139,17 @@ public class Clerk extends Staff{
             content=item_count+" items has been added to the inventory";
             Store.notifyLoggers(content);
             //System.out.println(name1);
+            //for extracredit:
+            //resets all the variables needed for graph
+            Store.resetCounts();
+        }
+        else{
+            Store.resetCounts();
+            Store.add_dayitemSales(Store.getdaySales());
+            Store.add_daytotalRegister(Store.get_Register());
+            Store.add_dayinventoryCount(Store.get_InventorySize());
+            Store.add_daydamagedItems(Store.getdayDmg());
+            Store.add_dayitemSold(Store.getdaySold());
         }
     }
 
@@ -220,6 +231,7 @@ public class Clerk extends Staff{
         dmg_count+=day_dmgCount;
         content=this.get_name()+" has damaged "+ day_dmgCount+" items while tuning";
         Store.notifyLoggers(content);
+        Store.setdayDmg(Store.getdayDmg()+day_dmgCount);
     }
 
     //placeanorder function
@@ -292,6 +304,7 @@ public class Clerk extends Staff{
         String content;
         Random rng = new Random();
         Store Store = workingAt;
+        Integer temp=0;
 
         /*
         buy_count=rng.nextInt(6);
@@ -315,6 +328,7 @@ public class Clerk extends Staff{
             sell_count += ClerkSoldItems;
             content = this.get_name() + " sold " + ClerkSoldItems + " items.";
             Store.notifyLoggers(content);
+            Store.setdaySold(Store.getdaySold()+ClerkSoldItems);
             buy_count += ClerkBoughtItems;
             content = this.get_name() + " Bought " + ClerkBoughtItems + " items.";
             Store.notifyLoggers(content);
@@ -448,6 +462,7 @@ public class Clerk extends Staff{
         dmg_count+=day_dmgCount;
         content=this.get_name()+" damaged "+day_dmgCount+" items while cleaning.";
         Store.notifyLoggers(content);
+        Store.setdayDmg(Store.getdayDmg()+day_dmgCount);
     }
     //Leavethestore function
     //arguments: N/A
@@ -477,6 +492,11 @@ public class Clerk extends Staff{
             System.out.println(Store.get_ClerkMember().get(i).get_name()+" "+Store.get_ClerkMember().get(i).get_sick()+" "+Store.get_ClerkMember().get(i).get_daysWorked()+" days");
         }
          */
+        Store.add_dayitemSales(Math.floor(Store.getdaySales()*100)/100);
+        Store.add_daytotalRegister(Math.floor(Store.get_Register()*100)/100);
+        Store.add_dayinventoryCount(Store.get_InventorySize());
+        Store.add_daydamagedItems(Store.getdayDmg());
+        Store.add_dayitemSold(Store.getdaySold());
     }
 
     //damageItem function

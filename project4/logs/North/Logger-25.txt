@@ -1,73 +1,37 @@
-<<<<<<< HEAD
-Freddy arrives at the North store on Day 25
-Freddy received Strings on day 25
-Freddy received MP3 on day 25
-Freddy received Flute on day 25
-Freddy received Cables on day 25
-4 items has been added to the inventory
-There is $2806.88 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1096.9
-Freddy put in order for PracticeAmps for $7.85 on day 25
-Freddy put in order for PracticeAmps for $7.28 on day 25
-Freddy put in order for PracticeAmps for $38.94 on day 25
-Freddy ordered total of 3 items
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Bass for $47.94.
-Buyer 2 purchased Cables for $24.28 after a 10%% discount.
-Guitar was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Strings for $59.96.
-Freddy bought a poor condition Saxophone from Seller 1 for $40.4.
-Freddy bought a fair condition Bass from Seller 2 for $45.43.
-Freddy sold 3 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
-Justin arrives at the North store on Day 25
-Justin received CDPlayer on day 25
-Justin received Harmonica on day 25
-2 items has been added to the inventory
-There is $2617.25 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1029.2
-Justin put in order for PaperScore for $32.81 on day 25
-Justin put in order for PaperScore for $4.43 on day 25
-Justin put in order for PaperScore for $29.3 on day 25
-Justin ordered total of 3 items
-Justin un-tuned Bass.
-Justin un-adjusted Saxophone.
-Justin un-tuned Mandolin.
-Justin un-adjusted Harmonica.
-Justin has damaged 0 items while tuning
-Shirts out of stock, Buyer 1 left the store.
-Buyer 2 purchased Bass for $41.4 after a 10%% discount.
-Buyer also purchased Strings for $54.56.
-Buyer also purchased Strings for $74.38.
-Buyer also purchased Strings for $64.14.
-Buyer 3 purchased Bandanas for $39.78.
-Strings out of stock, Buyer 4 left the store.
-Buyer 5 purchased Bandanas for $44.84.
-Shirts out of stock, Buyer 6 left the store.
-Buyer 7 purchased Guitar for $21.6 after a 10%% discount.
+Velma arrives at the North store on Day 25
+Velma received Harmonica on day 25
+Velma received Harmonica on day 25
+Velma received Mandolin on day 25
+3 items has been added to the inventory
+There is $2663.64 in the register
+There are total of 36 items in the inventory.
+All the items in the inventory are worth total of $ 1127.72
+Velma put in order for CDPlayer for $8.31 on day 25
+Velma put in order for CDPlayer for $50.54 on day 25
+Velma put in order for CDPlayer for $17.39 on day 25
+Velma put in order for Flute for $6.61 on day 25
+Velma put in order for Flute for $44.41 on day 25
+Velma put in order for Flute for $24.43 on day 25
+Velma ordered total of 6 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Harmonica.
+Velma tuned Mandolin.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $92.44.
+Buyer 2 purchased PracticeAmps for $42.39 after a 10%% discount.
+Buyer 3 purchased Bass for $69.98 after a 10%% discount.
+PracticeAmps out of stock, Buyer 4 left the store.
+Buyer 5 purchased MusicCD for $84.6.
+Flute out of stock, Buyer 6 left the store.
+Bass was too expensive, Buyer 7 left the store.
+Bandanas out of stock, Buyer 8 left the store.
 Seller 1 didn't accept the price, and left the store.
-Justin sold 9 items.
-Justin Bought 0 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+Seller 2 didn't accept the price, and left the store.
+Velma bought a very good condition Mandolin from Seller 3 for $12.59 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

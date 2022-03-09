@@ -1,32 +1,24 @@
-Velma arrives at the North store on Day 5
-0 items has been added to the inventory
-There is $1208.74 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1040.42
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 2 purchased Vinyl for $9.0 after a 10%% discount.
+Shaggy arrives at the North store on Day 5
+Shaggy received Strings on day 5
+1 items has been added to the inventory
+There is $991.7 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 1250.07
+Shaggy ordered total of 0 items
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy un-adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 2 purchased Guitar for $34.0.
 Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
-Bandanas out of stock, Buyer 4 left the store.
-Buyer 5 purchased Hats for $10.0.
-Bandanas out of stock, Buyer 6 left the store.
-Buyer 7 purchased CDPlayer for $43.2 after a 10%% discount.
-Buyer 8 purchased Cassette for $6.0.
-Velma bought a very good condition Vinyl from Seller 1 for $46.7.
-Velma sold 6 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+MusicCD out of stock, Buyer 4 left the store.
+Shaggy bought a fair condition Cables from Seller 1 for $45.84 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) Strings.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

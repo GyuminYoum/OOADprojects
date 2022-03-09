@@ -1,39 +1,31 @@
-Daphne arrives at the South store on Day 9
-Daphne received MusicCD on day 9
-Daphne received CDPlayer on day 9
-Daphne received Guitar on day 9
-3 items has been added to the inventory
-There is $1525.31 in the register
+Velma arrives at the South store on Day 9
+Velma received Strings on day 9
+1 items has been added to the inventory
+There is $1596.37 in the register
 There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 985.48
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $10.8 after a 10%% discount.
-Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer 3 purchased Shirts for $9.0.
-Buyer 4 purchased PaperScore for $6.0.
-Hats out of stock, Buyer 5 left the store.
-Buyer 6 purchased Vinyl for $12.0.
-Daphne bought a very good condition CassettePlayer from Seller 1 for $14.69.
-Daphne bought a poor condition Cassette from Seller 2 for $24.54 after offering 10%% more.
-Daphne bought a very good condition CDPlayer from Seller 3 for $47.18.
-Daphne sold 5 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 1049.96
+Velma put in order for RecordPlayer for $10.86 on day 9
+Velma put in order for RecordPlayer for $35.9 on day 9
+Velma put in order for RecordPlayer for $41.16 on day 9
+Velma put in order for Harmonica for $38.15 on day 9
+Velma put in order for Harmonica for $31.72 on day 9
+Velma put in order for Harmonica for $24.62 on day 9
+Velma ordered total of 6 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Flute.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma has damaged 0 items while tuning
+PracticeAmps was too expensive, Buyer 1 left the store.
+MP3 was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Cables for $31.72.
+Buyer 4 purchased GigBag for $12.0.
+RecordPlayer out of stock, Buyer 5 left the store.
+Velma bought a fair condition Shirts from Seller 1 for $20.01.
+Velma bought a poor condition Bandanas from Seller 2 for $26.86 after offering 10%% more.
+Velma sold 2 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

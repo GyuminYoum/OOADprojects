@@ -55,6 +55,7 @@ public class Customer {
         //pick item category based on RNG
         String wantedItem = Store.get_ItemList().get(roll);
         String content;
+        Double salesmoney=0.0;
 
         if (Store.check_stock(wantedItem) > 0) {
             double rand1 = Math.random();
@@ -92,6 +93,9 @@ public class Customer {
                 Store.remove_Inventory(j);
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
+                //for extra credit
+                //keep track of sales
+                salesmoney+=soldItem.get_salePrice();
 
                 //print statement depends on discount
                 if (discount == 1) {
@@ -104,6 +108,7 @@ public class Customer {
                     content = this.name + " " + this.num + " purchased " + soldItem.get_name() + " for $" + soldItem.get_salePrice() + " after a 10%% discount.";
                     Store.notifyLoggers(content);
                     buy_count++;
+
                 }
 
                 //if soldItem is Stringed, call SellAccessories
@@ -126,8 +131,16 @@ public class Customer {
             content = wantedItem + " out of stock, " + this.name + " " + this.num + " left the store.";
             Store.notifyLoggers(content);
         }
+        //extra credit
+        //cumulates all the sales in to a variable
+
+        location.setdaySold(buy_count);
+        location.setdaySales(location.getdaySales()+salesmoney);
         return buy_count;
     }
+    //userBUy
+    //prompt user and progress accoridngly
+    //item is chosen at random from the inventory
     public int userBuy() {
         //rand int from 0-16
         Store Store = location;
@@ -159,6 +172,7 @@ public class Customer {
                 Store.remove_Inventory(item_index);
                 Store.add_soldItem(soldItem);
                 Store.add_Register(soldItem.get_salePrice());
+                Store.setdaySales(Store.getdaySales()+soldItem.get_salePrice());
                 System.out.println("You've successfully bought " + wantedItem + " for $" + soldItem.get_salePrice());
                 Store.notifyTrackers("sold");
                 buy_count++;
@@ -177,6 +191,7 @@ public class Customer {
                     Store.remove_Inventory(item_index);
                     Store.add_soldItem(soldItem);
                     Store.add_Register(soldItem.get_salePrice());
+                    Store.setdaySales(Store.getdaySales()+soldItem.get_salePrice());
                     System.out.println("You've successfully bought " + wantedItem + " for $" + soldItem.get_salePrice());
                     Store.notifyTrackers("sold");
                     buy_count++;
@@ -190,9 +205,11 @@ public class Customer {
                     System.out.println("Invalid input");
                 }
             }
+
         } else {
             System.out.println("You wanted to buy a(n) " + wantedItem + ", but it was out of stock");
         }
+        Store.setdaySold(Store.getdaySold()+buy_count);
         return buy_count;
     }
 
@@ -427,13 +444,13 @@ public class Customer {
                     content = this.name + " " + this.num + " didn't accept the price, and left the store.";
                     Store.notifyLoggers(content);
                 }
-
             }
-
         }
         return sell_count;
     }
 
+    //sell method for when user sells
+    //prompts user takes the inptu and progress accordingly
     public int userSell() {
         Store Store = location;
         Items random_item = null;

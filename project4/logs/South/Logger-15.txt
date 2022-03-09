@@ -1,19 +1,24 @@
-Shaggy arrives at the South store on Day 15
-Shaggy received MusicCD on day 15
-Shaggy received Bass on day 15
-Shaggy received Cassette on day 15
-3 items has been added to the inventory
-There is $1700.97 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 1196.46
-Shaggy ordered total of 0 items
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $13.36.
-Buyer 2 purchased Shirts for $8.1 after a 10%% discount.
-Buyer 3 purchased MP3 for $62.94 after a 10%% discount.
-Shaggy bought a poor condition Strings from Seller 1 for $23.43 after offering 10%% more.
-Shaggy sold 3 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 15
+Justin received Guitar on day 15
+Justin received PracticeAmps on day 15
+2 items has been added to the inventory
+There is $1756.83 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1212.47
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justin un-adjusted Saxophone.
+Justin adjusted Flute.
+Justin un-adjusted Harmonica.
+Justinhas damaged a(n) Harmonica.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased CDPlayer for $72.0.
+Buyer 2 purchased Vinyl for $12.6 after a 10%% discount.
+GigBag out of stock, Buyer 3 left the store.
+Justin bought a very good condition Flute from Seller 1 for $20.63 after offering 10%% more.
+Justin bought a good condition Shirts from Seller 2 for $40.06.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

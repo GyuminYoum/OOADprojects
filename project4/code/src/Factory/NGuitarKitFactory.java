@@ -5,6 +5,10 @@ import Items.Items;
 import java.util.*;
 import java.util.ArrayList;
 
+//NGuitarKitFactory
+//prompt the user for choice and continuously loop until the user selection is within the available options
+//once valid number is picked, you get the part at that index in the pre-made arraylist
+//this is done for every part
 public class NGuitarKitFactory implements GuitarKitFactory{
 
     Scanner reader=new Scanner(System.in);
@@ -118,6 +122,9 @@ public class NGuitarKitFactory implements GuitarKitFactory{
         }
         return pUOpt.get(response);
     }
+    //gather each part by using the function above, then combines them
+    //sets listprice to half, because otherwise it will just be 2x purchase price
+    //return guitarkit object
     public Items createGuitarKit(){
         GuitarKit GK1=new GuitarKit("GuitarKit",0.00,true,0,5);
         Bridge br=pickBridge();

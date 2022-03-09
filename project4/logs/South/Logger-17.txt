@@ -1,27 +1,24 @@
-Velma arrives at the South store on Day 17
-Velma received Bass on day 17
+Justin arrives at the South store on Day 17
+Justin received Cables on day 17
 1 items has been added to the inventory
-There is $1904.67 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1215.72
-Velma ordered total of 0 items
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma tuned Guitar.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Cables for $35.83 after a 10%% discount.
-Buyer 2 purchased Flute for $46.04 after a 10%% discount.
-Buyer 3 purchased Shirts for $10.0.
-Buyer 4 purchased Harmonica for $63.05 after a 10%% discount.
-Buyer 5 purchased Bandanas for $96.04.
-Velma bought a very good condition Harmonica from Seller 1 for $44.25.
-Velma bought a good condition CassettePlayer from Seller 2 for $13.39.
-Velma bought a poor condition MusicCD from Seller 3 for $7.43.
-Velma sold 5 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $1783.44 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1361.95
+Justin ordered total of 0 items
+Justin un-tuned Bass.
+Justinhas damaged a(n) Bass.
+Justin un-adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased PaperScore for $11.0.
+Buyer 2 purchased Vinyl for $13.68.
+CassettePlayer was too expensive, Buyer 3 left the store.
+Buyer 4 purchased GigBag for $47.55 after a 10%% discount.
+Justin bought a very good condition Saxophone from Seller 1 for $12.08 after offering 10%% more.
+Justin bought a poor condition RecordPlayer from Seller 2 for $20.86 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

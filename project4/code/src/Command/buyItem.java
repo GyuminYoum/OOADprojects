@@ -4,6 +4,8 @@ import Store.Customer;
 import Store.Store;
 import Store.User;
 
+//user supplies the corresponding store, and customer object is instantiated to use the method userBuy
+//if store location isn't picked, prints appropriate msg.
 public class buyItem implements Command{
     User user;
     public buyItem(User usr){

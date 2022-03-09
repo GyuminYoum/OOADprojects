@@ -1,34 +1,29 @@
 Velma arrives at the North store on Day 11
-Velma received Harmonica on day 11
+Velma received CassettePlayer on day 11
 1 items has been added to the inventory
-There is $1417.61 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1089.75
-Velma put in order for MusicCD for $46.73 on day 11
-Velma put in order for MusicCD for $19.41 on day 11
-Velma put in order for MusicCD for $16.42 on day 11
+There is $1593.8 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1086.63
+Velma put in order for Cables for $31.42 on day 11
+Velma put in order for Cables for $5.35 on day 11
+Velma put in order for Cables for $30.38 on day 11
 Velma ordered total of 3 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Bass.
 Velma tuned Mandolin.
 Velma un-adjusted Flute.
-Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
 Velma un-adjusted Saxophone.
-Velma tuned Mandolin.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma adjusted Harmonica.
+Velma adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased Hats for $31.12 after a 10%% discount.
-Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
-Buyer 3 purchased CassettePlayer for $21.6 after a 10%% discount.
-Buyer 4 purchased RecordPlayer for $22.0.
-Seller 1 didn't accept the price, and left the store.
+Buyer 1 purchased CassettePlayer for $24.36.
+Buyer 2 purchased Strings for $44.47 after a 10%% discount.
+Buyer 3 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 4 purchased PracticeAmps for $37.51 after a 10%% discount.
+Velma bought a very good condition Cables from Seller 2 for $9.72 after offering 10%% more.
+Velma bought a poor condition MusicCD from Seller 3 for $29.3.
 Velma sold 4 items.
-Velma Bought 0 items.
+Velma Bought 2 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
