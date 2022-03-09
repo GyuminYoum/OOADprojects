@@ -1,4 +1,3 @@
-Store.Build() is working correctly. 
 Clerk.CheckRegister() is working correctly. 
 Items.get_dayArrived() is working correctly. 
 Items.get_purchasePrice() is working correctly. 

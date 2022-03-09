@@ -1,64 +1,32 @@
-<<<<<<< HEAD
-Justin arrives at the South store on Day 12
-Justin received PracticeAmps on day 12
-Justin received Flute on day 12
-Justin received Flute on day 12
-Justin received Cassette on day 12
-4 items has been added to the inventory
-There is $1607.31 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1055.83
-Justin put in order for Strings for $43.62 on day 12
-Justin put in order for Strings for $19.78 on day 12
-Justin put in order for Strings for $44.95 on day 12
-Justin ordered total of 3 items
-Justin un-tuned Bass.
-Justin adjusted Harmonica.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin un-tuned Mandolin.
-Justin has damaged 0 items while tuning
-Bandanas out of stock, Buyer 1 left the store.
-Buyer 2 purchased Flute for $100.82.
-Bandanas out of stock, Buyer 3 left the store.
-Justin bought a very good condition Harmonica from Seller 1 for $12.36.
-Justin bought a fair condition Shirts from Seller 2 for $23.88 after offering 10%% more.
-Justin sold 1 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Daphne arrives at the South store on Day 12
-Daphne received PracticeAmps on day 12
-Daphne received Strings on day 12
-Daphne received GigBag on day 12
+Justin is sick on day 12
+Freddy arrives at the South store on Day 12
+Freddy received PaperScore on day 12
+Freddy received Cables on day 12
+Freddy received Cables on day 12
 3 items has been added to the inventory
-There is $1860.12 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 924.54
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bass for $46.0.
-Buyer 2 purchased Bass for $43.2 after a 10%% discount.
-Buyer 3 purchased Cables for $19.94 after a 10%% discount.
-Buyer 4 purchased Harmonica for $40.0.
-Bandanas was too expensive, Buyer 5 left the store.
-Daphne bought a good condition Bandanas from Seller 1 for $7.86.
-Daphne bought a very good condition Flute from Seller 2 for $18.55.
-Daphne bought a poor condition CassettePlayer from Seller 3 for $11.42.
-Daphne sold 4 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 45eb88ffcb3303b85dc43dc1afdae89b07105469
+There is $1624.07 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 970.58
+Freddy ordered total of 0 items
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy has damaged 0 items while tuning
+Strings out of stock, Buyer 1 left the store.
+Harmonica was too expensive, Buyer 2 left the store.
+Freddy bought a fair condition CDPlayer from Seller 1 for $7.23.
+Freddy bought a good condition Cassette from Seller 2 for $43.29 after offering 10%% more.
+Freddy bought a poor condition Shirts from Seller 3 for $5.34.
+Freddy sold 0 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
