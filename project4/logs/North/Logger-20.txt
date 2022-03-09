@@ -1,32 +1,33 @@
-Velma arrives at the North store on Day 20
-Velma received Flute on day 20
-Velma received Vinyl on day 20
-Velma received Bass on day 20
-Velma received Bass on day 20
-Velma received Strings on day 20
+Shaggy arrives at the North store on Day 20
+Shaggy received PaperScore on day 20
+Shaggy received Mandolin on day 20
+Shaggy received Cables on day 20
+Shaggy received Strings on day 20
+Shaggy received Strings on day 20
 5 items has been added to the inventory
-There is $2106.06 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1228.33
-Velma ordered total of 0 items
-Velma un-adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma has damaged a(n) Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 2 items while tuning
-Buyer 1 purchased Saxophone for $40.54.
-MusicCD was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Saxophone for $78.13 after a 10%% discount.
-Buyer 4 purchased Cables for $10.7.
-Bandanas out of stock, Buyer 5 left the store.
-Velma bought a fair condition PaperScore from Seller 1 for $28.27.
-Velma bought a fair condition MusicCD from Seller 2 for $30.76.
-Velma sold 3 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $2166.83 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1056.16
+Shaggy put in order for Saxophone for $29.35 on day 20
+Shaggy put in order for Saxophone for $47.04 on day 20
+Shaggy put in order for Saxophone for $37.65 on day 20
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $43.95 after a 10%% discount.
+Buyer 2 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 3 purchased Guitar for $34.0.
+Buyer 4 purchased PaperScore for $20.12.
+Buyer 5 purchased Guitar for $74.0.
+Buyer also purchased Strings for $100.46.
+GigBag out of stock, Buyer 6 left the store.
+Saxophone out of stock, Buyer 7 left the store.
+Buyer 8 purchased Harmonica for $6.94.
+Shaggy bought a poor condition Bass from Seller 1 for $29.15.
+Shaggy bought a good condition PaperScore from Seller 2 for $14.18.
+Shaggy sold 7 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,33 +1,31 @@
-Velma arrives at the North store on Day 6
-0 items has been added to the inventory
-There is $996.42 in the register
-There are total of 54 items in the inventory.
-All the items in the inventory are worth total of $ 1269.7
-Velma put in order for MusicCD for $16.71 on day 6
-Velma put in order for MusicCD for $46.03 on day 6
-Velma put in order for MusicCD for $42.3 on day 6
-Velma ordered total of 3 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
-Velma has damaged 1 items while tuning
-Buyer 1 purchased Bass for $39.6 after a 10%% discount.
-Buyer also purchased PracticeAmps for $50.0.
-Buyer 2 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
+Daphne is sick on day 6
+Justin arrives at the North store on Day 6
+Justin received Bass on day 6
+1 items has been added to the inventory
+There is $1766.41 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 733.93
+Justin put in order for Flute for $35.81 on day 6
+Justin put in order for Flute for $45.9 on day 6
+Justin put in order for Flute for $22.56 on day 6
+Justin ordered total of 3 items
+Justin un-tuned Guitar.
+Justin un-tuned Mandolin.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer also purchased Strings for $22.0.
+Buyer also purchased Strings for $72.11200000000001.
+Buyer 2 purchased Cassette for $8.19.
+Buyer 3 purchased CassettePlayer for $24.0.
+Buyer 4 purchased Hats for $9.0 after a 10%% discount.
+Buyer 5 purchased Bass for $44.28 after a 10%% discount.
 Buyer also purchased Cables for $30.0.
-Buyer also purchased Cables for $83.36.
-Velma bought a fair condition PracticeAmps from Seller 1 for $22.92 after offering 10%% more.
-Velma bought a good condition Cables from Seller 2 for $13.24.
-Velma bought a very good condition MusicCD from Seller 3 for $45.25.
-Velma sold 6 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Buyer also purchased Cables for $62.06.
+Buyer 6 purchased Guitar for $27.2.
+Justin bought a poor condition CassettePlayer from Seller 1 for $49.85.
+Justin sold 12 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

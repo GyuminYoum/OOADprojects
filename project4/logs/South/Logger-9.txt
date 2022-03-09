@@ -1,31 +1,29 @@
-Velma arrives at the South store on Day 9
-Velma received Strings on day 9
+Freddy arrives at the South store on Day 9
+Freddy received Strings on day 9
 1 items has been added to the inventory
-There is $1596.37 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1049.96
-Velma put in order for RecordPlayer for $10.86 on day 9
-Velma put in order for RecordPlayer for $35.9 on day 9
-Velma put in order for RecordPlayer for $41.16 on day 9
-Velma put in order for Harmonica for $38.15 on day 9
-Velma put in order for Harmonica for $31.72 on day 9
-Velma put in order for Harmonica for $24.62 on day 9
-Velma ordered total of 6 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma tuned Bass.
-Velma has damaged 0 items while tuning
-PracticeAmps was too expensive, Buyer 1 left the store.
-MP3 was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Cables for $31.72.
-Buyer 4 purchased GigBag for $12.0.
-RecordPlayer out of stock, Buyer 5 left the store.
-Velma bought a fair condition Shirts from Seller 1 for $20.01.
-Velma bought a poor condition Bandanas from Seller 2 for $26.86 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $1560.69 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 981.37
+Freddy put in order for Harmonica for $9.75 on day 9
+Freddy put in order for Harmonica for $29.45 on day 9
+Freddy put in order for Harmonica for $17.47 on day 9
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $48.0.
+Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
+Buyer 3 purchased Flute for $86.4 after a 10%% discount.
+Buyer 4 purchased Bandanas for $6.0.
+Freddy bought a good condition Flute from Seller 1 for $19.77.
+Seller 2 didn't accept the price, and left the store.
+Freddy sold 4 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

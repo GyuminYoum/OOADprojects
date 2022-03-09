@@ -1,38 +1,29 @@
-Shaggy is sick on day 20
-Daphne arrives at the South store on Day 20
-Daphne received PracticeAmps on day 20
-Daphne received PracticeAmps on day 20
-2 items has been added to the inventory
-There is $2613.59 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1013.11
-Daphne put in order for CassettePlayer for $21.8 on day 20
-Daphne put in order for CassettePlayer for $15.14 on day 20
-Daphne put in order for CassettePlayer for $11.94 on day 20
-Daphne ordered total of 3 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-CassettePlayer out of stock, Buyer 1 left the store.
-Buyer 2 purchased MP3 for $39.33 after a 10%% discount.
-Buyer 3 purchased Shirts for $40.02.
-Buyer 4 purchased Vinyl for $88.59 after a 10%% discount.
-Daphne bought a poor condition Shirts from Seller 1 for $4.68.
-Seller 2 didn't accept the price, and left the store.
-Daphne sold 3 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the South store on Day 20
+Velma received Guitar on day 20
+Velma received Bass on day 20
+Velma received Harmonica on day 20
+3 items has been added to the inventory
+There is $2501.42 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1121.94
+Velma ordered total of 0 items
+Velma un-adjusted Flute.
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma adjusted Harmonica.
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $45.42.
+Buyer 2 purchased Guitar for $85.66.
+Buyer 3 purchased RecordPlayer for $19.8 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $14.11 after a 10%% discount.
+Buyer 5 purchased Shirts for $7.2 after a 10%% discount.
+Velma bought a good condition Strings from Seller 1 for $33.86.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

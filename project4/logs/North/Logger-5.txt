@@ -1,24 +1,37 @@
-Shaggy arrives at the North store on Day 5
-Shaggy received Strings on day 5
-1 items has been added to the inventory
-There is $991.7 in the register
-There are total of 56 items in the inventory.
-All the items in the inventory are worth total of $ 1250.07
-Shaggy ordered total of 0 items
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy un-adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $9.0 after a 10%% discount.
-Buyer 2 purchased Guitar for $34.0.
-Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
-MusicCD out of stock, Buyer 4 left the store.
-Shaggy bought a fair condition Cables from Seller 1 for $45.84 after offering 10%% more.
-Shaggy sold 3 items.
-Shaggy Bought 1 items.
-Shaggy has damaged a(n) Strings.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
+Shaggy is sick on day 5
+Daphne arrives at the North store on Day 5
+0 items has been added to the inventory
+There is $1527.16 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 862.71
+Daphne put in order for Bass for $7.18 on day 5
+Daphne put in order for Bass for $24.6 on day 5
+Daphne put in order for Bass for $34.15 on day 5
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $66.0.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased Shirts for $8.0.
+Buyer 4 purchased Flute for $82.8 after a 10%% discount.
+Buyer 5 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 6 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 7 purchased Flute for $86.4 after a 10%% discount.
+Daphne bought a fair condition Vinyl from Seller 1 for $22.62.
+Daphne sold 7 items.
+Daphne Bought 1 items.
+Daphne has damaged a(n) Strings.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
+Daphne went home for the day.

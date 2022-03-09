@@ -1,29 +1,36 @@
-Velma arrives at the North store on Day 11
-Velma received CassettePlayer on day 11
-1 items has been added to the inventory
-There is $1593.8 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1086.63
-Velma put in order for Cables for $31.42 on day 11
-Velma put in order for Cables for $5.35 on day 11
-Velma put in order for Cables for $30.38 on day 11
-Velma ordered total of 3 items
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $24.36.
-Buyer 2 purchased Strings for $44.47 after a 10%% discount.
-Buyer 3 purchased Shirts for $9.0 after a 10%% discount.
-Buyer 4 purchased PracticeAmps for $37.51 after a 10%% discount.
-Velma bought a very good condition Cables from Seller 2 for $9.72 after offering 10%% more.
-Velma bought a poor condition MusicCD from Seller 3 for $29.3.
-Velma sold 4 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Justin is sick on day 11
+Freddy arrives at the North store on Day 11
+Freddy received Cables on day 11
+Freddy received Strings on day 11
+Freddy received CDPlayer on day 11
+Freddy received CassettePlayer on day 11
+4 items has been added to the inventory
+There is $1965.86 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 823.94
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 2 purchased PaperScore for $6.0.
+Buyer 3 purchased Guitar for $74.0.
+Buyer 4 purchased MusicCD for $41.84.
+Buyer 5 purchased CassettePlayer for $87.7.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a good condition PracticeAmps from Seller 2 for $22.81.
+Freddy bought a good condition Mandolin from Seller 3 for $35.57 after offering 10%% more.
+Freddy sold 5 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

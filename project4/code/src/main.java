@@ -13,9 +13,16 @@ public class main {
         sim1.initialize();
         sim1.Run();
 
-        chart chart1 = new chart("Graph display","$ vs days",sim1);
+        chart chart1 = new chart("Graph display","$ vs days",sim1, true);
         //uncomment and comment the top one for 2nd graph
-        //chart chart1 = new chart("Graph display","count vs days",sim1);
+        chart chart2 = new chart("Graph display","count vs days",sim1, false);
+
+        chart1.pack( );
+        RefineryUtilities.centerFrameOnScreen( chart1 );
+        chart1.setVisible( true );
+        chart2.pack( );
+        RefineryUtilities.centerFrameOnScreen( chart2 );
+        chart2.setVisible( true );
 
         /*
         for (Double i: chart1.sim.day_itemSales){
@@ -27,9 +34,7 @@ public class main {
         }
 
          */
-        chart1.pack( );
-        RefineryUtilities.centerFrameOnScreen( chart1 );
-        chart1.setVisible( true );
+
         /*
         chart1.pack();
         RefineryUtilities.centerFrameOnScreen( chart1 );

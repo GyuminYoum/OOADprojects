@@ -1,38 +1,30 @@
-Velma is sick on day 9
-Freddy arrives at the North store on Day 9
-Freddy received MusicCD on day 9
-1 items has been added to the inventory
-There is $1186.16 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 1228.86
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $59.4 after a 10%% discount.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased CassettePlayer for $42.0.
-Buyer 4 purchased Shirts for $9.0.
-Freddy bought a fair condition Saxophone from Seller 1 for $47.01.
-Freddy bought a fair condition MP3 from Seller 2 for $30.03 after offering 10%% more.
-Freddy bought a poor condition Guitar from Seller 3 for $44.83.
-Freddy sold 4 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the North store on Day 9
+Shaggy received Bass on day 9
+Shaggy received Cables on day 9
+2 items has been added to the inventory
+There is $2082.14 in the register
+There are total of 33 items in the inventory.
+All the items in the inventory are worth total of $ 592.96
+Shaggy put in order for CDPlayer for $22.12 on day 9
+Shaggy put in order for CDPlayer for $9.85 on day 9
+Shaggy put in order for CDPlayer for $27.46 on day 9
+Shaggy put in order for CassettePlayer for $50.45 on day 9
+Shaggy put in order for CassettePlayer for $11.75 on day 9
+Shaggy put in order for CassettePlayer for $43.85 on day 9
+Shaggy ordered total of 6 items
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Shirts was too expensive, Buyer 1 left the store.
+Bandanas was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Bandanas for $18.0.
+Buyer 4 purchased MusicCD for $8.19.
+Buyer 5 purchased Harmonica for $38.0.
+Shaggy bought a very good condition Bandanas from Seller 1 for $14.99.
+Shaggy bought a very good condition MusicCD from Seller 2 for $7.53.
+Seller 3 didn't accept the price, and left the store.
+Shaggy sold 3 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

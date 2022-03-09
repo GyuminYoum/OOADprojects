@@ -1,28 +1,26 @@
 Shaggy arrives at the South store on Day 13
-Shaggy received Harmonica on day 13
-Shaggy received PracticeAmps on day 13
-Shaggy received Cables on day 13
-3 items has been added to the inventory
-There is $1731.94 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 1196.97
-Shaggy put in order for GigBag for $26.42 on day 13
-Shaggy put in order for GigBag for $33.47 on day 13
-Shaggy put in order for GigBag for $41.51 on day 13
+Shaggy received Mandolin on day 13
+1 items has been added to the inventory
+There is $1888.83 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 821.21
+Shaggy put in order for Flute for $18.75 on day 13
+Shaggy put in order for Flute for $25.76 on day 13
+Shaggy put in order for Flute for $22.52 on day 13
 Shaggy ordered total of 3 items
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Bass.
-Shaggy adjusted Harmonica.
+Shaggy un-adjusted Harmonica.
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Mandolin.
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $64.62 after a 10%% discount.
-MusicCD was too expensive, Buyer 2 left the store.
-Buyer 3 purchased CassettePlayer for $24.0.
-Buyer 4 purchased Cables for $64.81.
-CassettePlayer was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Hats for $20.0.
-Shaggy bought a poor condition Strings from Seller 1 for $47.13.
+Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
+Buyer 3 purchased Hats for $10.0.
+Buyer 4 purchased MusicCD for $8.4.
+Flute out of stock, Buyer 5 left the store.
+Shaggy bought a fair condition MusicCD from Seller 1 for $20.93 after offering 10%% more.
+Shaggy bought a poor condition Hats from Seller 2 for $42.7.
 Shaggy sold 4 items.
-Shaggy Bought 1 items.
+Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
