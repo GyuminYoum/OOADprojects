@@ -65,11 +65,11 @@ public class chart extends ApplicationFrame {
             XYLineAndShapeRenderer renderer = new XYLineAndShapeRenderer( );
             renderer.setSeriesPaint( 0 , Color.RED );
             renderer.setSeriesPaint( 1 , Color.GREEN );
-            //renderer.setSeriesPaint( 2 , Color.YELLOW );
+            renderer.setSeriesPaint( 2 , Color.YELLOW );
 
             renderer.setSeriesStroke( 0 , new BasicStroke( 4.0f ) );
             renderer.setSeriesStroke( 1 , new BasicStroke( 3.0f ) );
-            //renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
+            renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
             plot.setRenderer( renderer );
             setContentPane( chartPanel );
         }
