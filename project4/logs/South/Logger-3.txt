@@ -1,49 +1,32 @@
-<<<<<<< HEAD
-Justin arrives at the South store on Day 3
-0 items has been added to the inventory
-There is $1054.76 in the register
-There are total of 63 items in the inventory.
-All the items in the inventory are worth total of $ 1087.72
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin un-tuned Guitar.
-Justin un-tuned Bass.
-Justin un-tuned Mandolin.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
-Flute was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer 4 purchased Cables for $9.0 after a 10%% discount.
-Buyer 5 purchased Hats for $20.0.
-Justin bought a poor condition PracticeAmps from Seller 1 for $36.46.
-Justin bought a fair condition Harmonica from Seller 2 for $41.83 after offering 10%% more.
-Justin bought a good condition Guitar from Seller 3 for $10.85.
-Justin sold 4 items.
-Justin Bought 3 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
 Velma arrives at the South store on Day 3
-Velma received Strings on day 3
-1 items has been added to the inventory
-There is $1398.56 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 868.74
+0 items has been added to the inventory
+There is $1088.47 in the register
+There are total of 62 items in the inventory.
+All the items in the inventory are worth total of $ 1069.4
 Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma has damaged a(n) Flute.
 Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $21.6 after a 10%% discount.
-Buyer 2 purchased MP3 for $50.0.
-GigBag was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Saxophone for $84.0.
-Velma bought a very good condition Vinyl from Seller 1 for $14.7.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma has damaged a(n) Saxophone.
+Velma un-adjusted Saxophone.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 2 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.2 after a 10%% discount.
+Shirts was too expensive, Buyer 4 left the store.
+Velma bought a very good condition PracticeAmps from Seller 1 for $27.26 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Velma bought a good condition Saxophone from Seller 3 for $3.25.
 Velma sold 3 items.
-Velma Bought 1 items.
+Velma Bought 2 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

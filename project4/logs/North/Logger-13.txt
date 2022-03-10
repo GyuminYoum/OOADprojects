@@ -1,71 +1,39 @@
-<<<<<<< HEAD
-Justin arrives at the North store on Day 13
-Justin received GigBag on day 13
-1 items has been added to the inventory
-There is $1408.71 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1115.31
-Justin ordered total of 0 items
-Justin un-tuned Guitar.
-Justin adjusted Harmonica.
-Justin un-tuned Guitar.
-Justinhas damaged a(n) Guitar.
-Justin un-tuned Guitar.
-Justin has damaged 1 items while tuning
-PracticeAmps was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CassettePlayer for $24.0.
-Buyer 3 purchased RecordPlayer for $44.0.
-Buyer 4 purchased PracticeAmps for $45.0 after a 10%% discount.
-Justin bought a good condition CassettePlayer from Seller 1 for $40.77.
-Justin bought a good condition Flute from Seller 2 for $47.26.
-Justin sold 3 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Velma is sick on day 13
 Daphne arrives at the North store on Day 13
-Daphne received Vinyl on day 13
-1 items has been added to the inventory
-There is $2284.72 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 774.64
-Daphne put in order for Bass for $7.39 on day 13
-Daphne put in order for Bass for $6.91 on day 13
-Daphne put in order for Bass for $47.46 on day 13
-Daphne put in order for Strings for $40.15 on day 13
-Daphne put in order for Strings for $3.81 on day 13
-Daphne put in order for Strings for $20.46 on day 13
-Daphne put in order for Saxophone for $36.29 on day 13
-Daphne put in order for Saxophone for $39.47 on day 13
-Daphne put in order for Saxophone for $47.0 on day 13
-Daphne put in order for GigBag for $20.68 on day 13
-Daphne put in order for GigBag for $7.92 on day 13
-Daphne put in order for GigBag for $25.6 on day 13
-Daphne ordered total of 12 items
+Daphne received RecordPlayer on day 13
+Daphne received CDPlayer on day 13
+Daphne received Flute on day 13
+Daphne received Flute on day 13
+4 items has been added to the inventory
+There is $1645.55 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1071.52
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
 Daphne tuned Mandolin.
-Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
 Daphne adjusted Harmonica.
 Daphne tuned Mandolin.
-Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
 Daphne adjusted Flute.
-Daphne tuned Guitar.
+Daphne adjusted Flute.
 Daphne has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased CassettePlayer for $37.8 after a 10%% discount.
-Hats out of stock, Buyer 4 left the store.
-Daphne bought a fair condition Shirts from Seller 1 for $55.58 after offering 10%% more.
-Daphne bought a very good condition PracticeAmps from Seller 2 for $39.89.
-Daphne bought a good condition PaperScore from Seller 3 for $41.94.
-Daphne sold 2 items.
-Daphne Bought 3 items.
+Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 2 purchased MusicCD for $8.4.
+Buyer 3 purchased CassettePlayer for $47.74.
+Buyer 4 purchased Hats for $20.0.
+Buyer 5 purchased Hats for $10.0.
+Daphne bought a very good condition Saxophone from Seller 1 for $23.59.
+Daphne sold 5 items.
+Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

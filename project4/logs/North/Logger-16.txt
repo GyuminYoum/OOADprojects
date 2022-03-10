@@ -1,81 +1,38 @@
-<<<<<<< HEAD
 Freddy arrives at the North store on Day 16
-Freddy received Flute on day 16
-1 items has been added to the inventory
-There is $1574.26 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 1162.47
-Freddy put in order for CassettePlayer for $29.76 on day 16
-Freddy put in order for CassettePlayer for $32.77 on day 16
-Freddy put in order for CassettePlayer for $45.49 on day 16
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
+Freddy received PracticeAmps on day 16
+Freddy received RecordPlayer on day 16
+Freddy received Guitar on day 16
+Freddy received Cassette on day 16
+Freddy received Strings on day 16
+5 items has been added to the inventory
+There is $2454.19 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 836.47
+Freddy ordered total of 0 items
 Freddy tuned Bass.
+Freddy adjusted Saxophone.
 Freddy tuned Bass.
-Freddy tuned Mandolin.
 Freddy adjusted Harmonica.
 Freddy adjusted Harmonica.
+Freddy adjusted Flute.
 Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
+Freddy adjusted Flute.
 Freddy adjusted Harmonica.
-Freddy tuned Guitar.
 Freddy tuned Mandolin.
 Freddy tuned Guitar.
 Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
+Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $32.4 after a 10%% discount.
-Strings was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $34.0.
-Buyer 4 purchased Harmonica for $38.0.
-Buyer 5 purchased Bass for $41.4 after a 10%% discount.
-Buyer 6 purchased Saxophone for $60.48 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a poor condition PracticeAmps from Seller 2 for $5.35 after offering 10%% more.
-Freddy sold 5 items.
+Cables was too expensive, Buyer 1 left the store.
+Buyer 2 purchased PaperScore for $6.0.
+Buyer 3 purchased Saxophone for $96.0.
+Buyer 4 purchased Cables for $10.1.
+Bandanas out of stock, Buyer 5 left the store.
+Buyer 6 purchased CDPlayer for $57.72.
+Hats out of stock, Buyer 7 left the store.
+Freddy bought a good condition PaperScore from Seller 1 for $24.03 after offering 10%% more.
+Freddy sold 4 items.
 Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
-=======
-Justin arrives at the North store on Day 16
-Justin received PaperScore on day 16
-Justin received Bass on day 16
-Justin received Saxophone on day 16
-Justin received GigBag on day 16
-Justin received CassettePlayer on day 16
-5 items has been added to the inventory
-There is $2175.31 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 993.55
-Justin put in order for Flute for $24.45 on day 16
-Justin put in order for Flute for $43.19 on day 16
-Justin put in order for Flute for $49.52 on day 16
-Justin ordered total of 3 items
-Justin un-adjusted Harmonica.
-Justin un-adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Cables for $21.38.
-Cables out of stock, Buyer 2 left the store.
-Buyer 3 purchased Bass for $13.82.
-Buyer 4 purchased GigBag for $15.84.
-Buyer 5 purchased Bass for $94.92.
-Buyer also purchased PracticeAmps for $71.96.
-Cables out of stock, Buyer 6 left the store.
-Buyer 7 purchased Guitar for $35.58 after a 10%% discount.
-Buyer also purchased PracticeAmps for $66.3.
-Justin bought a good condition Saxophone from Seller 1 for $46.03 after offering 10%% more.
-Seller 2 didn't accept the price, and left the store.
-Justin bought a fair condition RecordPlayer from Seller 3 for $2.61 after offering 10%% more.
-Justin sold 7 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

@@ -1,68 +1,33 @@
-<<<<<<< HEAD
-Daphne arrives at the South store on Day 11
-Daphne received Bass on day 11
-Daphne received CDPlayer on day 11
-Daphne received Cassette on day 11
-Daphne received GigBag on day 11
-4 items has been added to the inventory
-There is $1303.57 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 1003.46
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Strings for $7.93 after a 10%% discount.
-Buyer 2 purchased MusicCD for $8.4.
-Saxophone was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Saxophone for $84.0.
-Buyer 5 purchased Vinyl for $96.14.
-Buyer 6 purchased PracticeAmps for $45.0 after a 10%% discount.
-Daphne bought a very good condition RecordPlayer from Seller 1 for $16.8.
-Daphne sold 5 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
-=======
-Shaggy arrives at the South store on Day 11
-Shaggy received Cables on day 11
-Shaggy received MP3 on day 11
-2 items has been added to the inventory
-There is $1777.11 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 971.69
-Shaggy put in order for GigBag for $20.43 on day 11
-Shaggy put in order for GigBag for $40.58 on day 11
-Shaggy put in order for GigBag for $6.66 on day 11
-Shaggy ordered total of 3 items
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Mandolin.
-Shaggy un-adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
-CDPlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased MusicCD for $89.44.
-Buyer 4 purchased Bass for $31.68 after a 10%% discount.
-Buyer also purchased PracticeAmps for $21.22.
-Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
-Shaggy bought a fair condition RecordPlayer from Seller 1 for $9.3.
-Shaggy bought a poor condition CassettePlayer from Seller 2 for $50.16.
-Shaggy bought a fair condition Harmonica from Seller 3 for $16.64 after offering 10%% more.
-Shaggy sold 5 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
+Velma is sick on day 11
+Justin arrives at the South store on Day 11
+Justin received Vinyl on day 11
+Justin received MusicCD on day 11
+Justin received Strings on day 11
+3 items has been added to the inventory
+There is $1408.01 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1008.68
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $9.0 after a 10%% discount.
+Buyer 2 purchased Cables for $20.0.
+Buyer 3 purchased Vinyl for $13.91 after a 10%% discount.
+Buyer 4 purchased Hats for $20.0.
+Buyer 5 purchased Guitar for $74.0.
+Buyer also purchased GigBag for $11.0.
+Buyer also purchased Strings for $70.7.
+Justin bought a fair condition Shirts from Seller 1 for $16.45 after offering 10%% more.
+Justin bought a poor condition CDPlayer from Seller 2 for $10.06.
+Justin bought a poor condition MusicCD from Seller 3 for $41.37 after offering 10%% more.
+Justin sold 7 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

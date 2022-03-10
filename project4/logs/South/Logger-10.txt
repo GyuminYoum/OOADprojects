@@ -1,73 +1,24 @@
-<<<<<<< HEAD
-Justin arrives at the South store on Day 10
-Justin received Strings on day 10
-1 items has been added to the inventory
-There is $1597.26 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 845.94
-Justin put in order for CDPlayer for $50.73 on day 10
-Justin put in order for CDPlayer for $38.85 on day 10
-Justin put in order for CDPlayer for $5.63 on day 10
-Justin put in order for Harmonica for $34.39 on day 10
-Justin put in order for Harmonica for $2.75 on day 10
-Justin put in order for Harmonica for $27.19 on day 10
-Justin put in order for Cassette for $27.48 on day 10
-Justin put in order for Cassette for $47.48 on day 10
-Justin put in order for Cassette for $4.18 on day 10
-Justin put in order for GigBag for $30.25 on day 10
-Justin put in order for GigBag for $10.88 on day 10
-Justin put in order for GigBag for $13.87 on day 10
-Justin ordered total of 12 items
-Justin un-tuned Guitar.
-Justin adjusted Flute.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Bass out of stock, Buyer 2 left the store.
-CassettePlayer was too expensive, Buyer 3 left the store.
-Hats out of stock, Buyer 4 left the store.
-Justin sold 0 items.
-Justin Bought 0 items.
-Justin has damaged a(n) Mandolin.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
-Justin went home for the day.
-=======
-Daphne arrives at the South store on Day 10
-Daphne received Cables on day 10
-Daphne received Strings on day 10
-Daphne received Strings on day 10
-3 items has been added to the inventory
-There is $1743.32 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 934.56
-Daphne put in order for MP3 for $27.38 on day 10
-Daphne put in order for MP3 for $36.76 on day 10
-Daphne put in order for MP3 for $2.85 on day 10
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Strings for $67.68 after a 10%% discount.
-Buyer 2 purchased PracticeAmps for $50.0.
-Buyer 3 purchased PaperScore for $11.0.
-Buyer 4 purchased GigBag for $13.0.
-Daphne bought a fair condition Hats from Seller 1 for $40.89 after offering 10%% more.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
+Velma arrives at the South store on Day 10
+0 items has been added to the inventory
+There is $1523.1 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 950.88
+Velma put in order for MusicCD for $2.62 on day 10
+Velma put in order for MusicCD for $1.73 on day 10
+Velma put in order for MusicCD for $14.72 on day 10
+Velma put in order for Strings for $45.57 on day 10
+Velma put in order for Strings for $15.1 on day 10
+Velma put in order for Strings for $35.35 on day 10
+Velma ordered total of 6 items
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma has damaged a(n) PaperScore.
+Velma damaged an item while cleaning.
+Velma damaged 1 items while cleaning.
+Velma went home for the day.

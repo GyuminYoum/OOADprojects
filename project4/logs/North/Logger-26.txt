@@ -1,24 +1,39 @@
-Daphne arrives at the North store on Day 26
-Daphne received Strings on day 26
-Daphne received CDPlayer on day 26
-Daphne received PracticeAmps on day 26
-Daphne received Bass on day 26
-4 items has been added to the inventory
-There is $2725.64 in the register
-There are total of 30 items in the inventory.
-All the items in the inventory are worth total of $ 839.35
-Daphne put in order for Guitar for $41.76 on day 26
-Daphne put in order for Guitar for $36.53 on day 26
-Daphne put in order for Guitar for $26.62 on day 26
-Daphne ordered total of 3 items
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Daphne has thrown away a(n) CassettePlayer due to less than poor condition.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the North store on Day 26
+Velma received RecordPlayer on day 26
+Velma received Mandolin on day 26
+Velma received PracticeAmps on day 26
+Velma received PracticeAmps on day 26
+Velma received GigBag on day 26
+5 items has been added to the inventory
+There is $2753.26 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1189.86
+Velma ordered total of 0 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased Vinyl for $97.3.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Cassette for $28.76 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $26.0.
+Buyer 5 purchased RecordPlayer for $3.81 after a 10%% discount.
+PaperScore was too expensive, Buyer 6 left the store.
+Shirts out of stock, Buyer 7 left the store.
+Buyer 8 purchased MP3 for $44.24.
+Velma bought a good condition MusicCD from Seller 1 for $13.95 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

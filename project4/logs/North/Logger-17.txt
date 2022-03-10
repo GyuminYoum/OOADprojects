@@ -1,57 +1,36 @@
-<<<<<<< HEAD
-Justin arrives at the North store on Day 17
-Justin received CassettePlayer on day 17
-1 items has been added to the inventory
-There is $1667.17 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1078.58
-Justin ordered total of 0 items
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $14.0.
-Buyer 2 purchased RecordPlayer for $22.0.
-RecordPlayer out of stock, Buyer 3 left the store.
-Justin sold 2 items.
-Justin Bought 0 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Freddy arrives at the North store on Day 17
-Freddy received Bass on day 17
-Freddy received Saxophone on day 17
-Freddy received CassettePlayer on day 17
+Shaggy arrives at the North store on Day 17
+Shaggy received Mandolin on day 17
+Shaggy received Guitar on day 17
+Shaggy received Strings on day 17
 3 items has been added to the inventory
-There is $2329.29 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 956.63
-Freddy put in order for Cables for $19.69 on day 17
-Freddy put in order for Cables for $16.41 on day 17
-Freddy put in order for Cables for $22.16 on day 17
-Freddy ordered total of 3 items
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Saxophone was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Saxophone for $65.32 after a 10%% discount.
-Buyer 3 purchased Saxophone for $75.33 after a 10%% discount.
-Cables out of stock, Buyer 4 left the store.
-Harmonica was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Guitar for $39.74 after a 10%% discount.
-Buyer 7 purchased Vinyl for $43.25 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a poor condition RecordPlayer from Seller 2 for $2.69 after offering 10%% more.
-Freddy sold 4 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
+There is $2599.98 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 876.87
+Shaggy put in order for CDPlayer for $31.81 on day 17
+Shaggy put in order for CDPlayer for $33.06 on day 17
+Shaggy put in order for CDPlayer for $47.42 on day 17
+Shaggy put in order for Cables for $48.12 on day 17
+Shaggy put in order for Cables for $40.21 on day 17
+Shaggy put in order for Cables for $29.78 on day 17
+Shaggy put in order for Saxophone for $39.22 on day 17
+Shaggy put in order for Saxophone for $45.09 on day 17
+Shaggy put in order for Saxophone for $19.88 on day 17
+Shaggy ordered total of 9 items
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased GigBag for $9.9 after a 10%% discount.
+Buyer 3 purchased Shirts for $16.7 after a 10%% discount.
+Buyer 4 purchased MP3 for $82.98.
+Buyer 5 purchased Bass for $48.0.
+Buyer also purchased Strings for $27.14.
+Shirts out of stock, Buyer 6 left the store.
+Shaggy bought a very good condition RecordPlayer from Seller 1 for $24.91.
+Shaggy bought a good condition PracticeAmps from Seller 2 for $36.6.
+Shaggy bought a very good condition Harmonica from Seller 3 for $13.14 after offering 10%% more.
+Shaggy sold 5 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

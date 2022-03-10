@@ -1,73 +1,28 @@
-<<<<<<< HEAD
-Velma arrives at the South store on Day 9
-0 items has been added to the inventory
-There is $1547.56 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 939.98
-Velma put in order for Bass for $29.06 on day 9
-Velma put in order for Bass for $35.68 on day 9
-Velma put in order for Bass for $27.65 on day 9
-Velma put in order for Strings for $44.39 on day 9
-Velma put in order for Strings for $40.13 on day 9
-Velma put in order for Strings for $4.41 on day 9
-Velma ordered total of 6 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $11.7 after a 10%% discount.
-Buyer 2 purchased CDPlayer for $72.0.
-GigBag out of stock, Buyer 3 left the store.
-Buyer 4 purchased CassettePlayer for $42.0.
-Buyer 5 purchased Vinyl for $14.0.
-Buyer 6 purchased Harmonica for $40.0.
-Buyer 7 purchased Harmonica for $68.45 after a 10%% discount.
-Buyer 8 purchased PracticeAmps for $30.0.
-Buyer 9 purchased Cassette for $3.96 after a 10%% discount.
-Velma bought a very good condition PaperScore from Seller 1 for $23.95.
-Velma bought a fair condition Shirts from Seller 2 for $27.13.
-Velma sold 8 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
-=======
 Justin arrives at the South store on Day 9
-Justin received Saxophone on day 9
-1 items has been added to the inventory
-There is $1783.64 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 878.62
-Justin put in order for Cables for $33.11 on day 9
-Justin put in order for Cables for $3.58 on day 9
-Justin put in order for Cables for $34.08 on day 9
-Justin put in order for Strings for $37.6 on day 9
-Justin put in order for Strings for $7.68 on day 9
-Justin put in order for Strings for $5.09 on day 9
-Justin ordered total of 6 items
+0 items has been added to the inventory
+There is $1418.35 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 995.5
+Justin put in order for Vinyl for $7.73 on day 9
+Justin put in order for Vinyl for $41.21 on day 9
+Justin put in order for Vinyl for $10.18 on day 9
+Justin ordered total of 3 items
+Justin un-tuned Bass.
+Justinhas damaged a(n) Bass.
 Justin un-adjusted Harmonica.
-Justin un-adjusted Flute.
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Bass was too expensive, Buyer 1 left the store.
-Strings out of stock, Buyer 2 left the store.
-Cables out of stock, Buyer 3 left the store.
-Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
-Buyer 5 purchased Guitar for $48.6 after a 10%% discount.
-Buyer 6 purchased MusicCD for $7.56 after a 10%% discount.
-MP3 out of stock, Buyer 7 left the store.
-Justin bought a good condition Bass from Seller 1 for $54.15 after offering 10%% more.
-Justin bought a good condition Vinyl from Seller 2 for $2.19.
-Justin sold 4 items.
+Justin un-adjusted Saxophone.
+Justin has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $44.0.
+Buyer 2 purchased Saxophone for $90.0.
+Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
+Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
+Buyer also purchased PracticeAmps for $30.0.
+Buyer 5 purchased Strings for $45.66 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Justin bought a fair condition CassettePlayer from Seller 2 for $37.69.
+Justin bought a good condition CassettePlayer from Seller 3 for $46.26.
+Justin sold 6 items.
 Justin Bought 2 items.
-Justin has damaged a(n) Bass.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
 Justin went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

@@ -1,77 +1,37 @@
-<<<<<<< HEAD
-Freddy arrives at the North store on Day 20
-Freddy received Vinyl on day 20
-Freddy received Vinyl on day 20
-Freddy received RecordPlayer on day 20
-Freddy received Saxophone on day 20
-4 items has been added to the inventory
-There is $1803.47 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1096.56
-Freddy ordered total of 0 items
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $23.7.
-GigBag out of stock, Buyer 2 left the store.
-Buyer 3 purchased Cables for $95.44.
-Hats out of stock, Buyer 4 left the store.
-Buyer 5 purchased Guitar for $37.4.
-Buyer also purchased Cables for $5.5.
-Buyer also purchased Cables for $19.68.
-Buyer also purchased Strings for $39.64.
-Buyer also purchased Strings for $68.56.
-GigBag out of stock, Buyer 6 left the store.
-Freddy bought a poor condition MP3 from Seller 1 for $8.9.
-Freddy bought a very good condition CassettePlayer from Seller 2 for $34.03.
-Freddy sold 7 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
-=======
+Justin is sick on day 20
 Daphne arrives at the North store on Day 20
-Daphne received PaperScore on day 20
 Daphne received CDPlayer on day 20
-Daphne received Strings on day 20
-Daphne received PracticeAmps on day 20
-4 items has been added to the inventory
-There is $1965.83 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1222.18
-Daphne put in order for Guitar for $2.74 on day 20
-Daphne put in order for Guitar for $2.27 on day 20
-Daphne put in order for Guitar for $15.64 on day 20
+Daphne received Cables on day 20
+2 items has been added to the inventory
+There is $2796.1 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 1016.14
+Daphne put in order for Strings for $5.78 on day 20
+Daphne put in order for Strings for $9.22 on day 20
+Daphne put in order for Strings for $1.77 on day 20
 Daphne ordered total of 3 items
 Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
 Daphne tuned Mandolin.
+Daphne tuned Guitar.
 Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
 Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
 Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
+Strings out of stock, Buyer 1 left the store.
+Strings out of stock, Buyer 2 left the store.
+Cassette was too expensive, Buyer 3 left the store.
+Seller 2 didn't accept the price, and left the store.
+Daphne sold 0 items.
+Daphne Bought 0 items.
+Daphne has damaged a(n) Flute.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

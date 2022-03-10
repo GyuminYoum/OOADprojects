@@ -1,68 +1,37 @@
-Shaggy arrives at the North store on Day 1
+Velma is sick on day 1
+Freddy arrives at the North store on Day 1
 0 items has been added to the inventory
-Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Freddy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-<<<<<<< HEAD
-Shaggy ordered total of 0 items
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Guitar.
-Shaggy tuned Bass.
-Shaggy tuned Bass.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy tuned Mandolin.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Hats for $30.0.
-Buyer 2 purchased PracticeAmps for $9.0 after a 10%% discount.
-Buyer 3 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 4 purchased Flute for $81.0 after a 10%% discount.
-Shaggy bought a poor condition Hats from Seller 1 for $3.84.
-Shaggy sold 4 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
-=======
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Hats was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CassettePlayer for $23.4 after a 10%% discount.
-Buyer 3 purchased RecordPlayer for $66.0.
-Buyer 4 purchased Hats for $27.0 after a 10%% discount.
-Buyer 5 purchased Guitar for $48.6 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
-Buyer also purchased Cables for $10.0.
-Buyer also purchased Cables for $20.0.
-Buyer also purchased Strings for $7.0.
-Buyer 6 purchased Vinyl for $10.0.
-Buyer 7 purchased Guitar for $30.6 after a 10%% discount.
-Buyer also purchased PracticeAmps for $10.0.
-Velma bought a good condition MusicCD from Seller 1 for $8.92.
-Velma sold 11 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $24.0.
+Buyer 2 purchased Cables for $9.0 after a 10%% discount.
+Buyer 3 purchased RecordPlayer for $59.4 after a 10%% discount.
+Buyer 4 purchased Cassette for $5.4 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a fair condition Saxophone from Seller 2 for $4.63 after offering 10%% more.
+Freddy sold 4 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

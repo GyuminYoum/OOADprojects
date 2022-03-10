@@ -1,77 +1,40 @@
-<<<<<<< HEAD
-Freddy is sick on day 19
 Daphne arrives at the North store on Day 19
-Daphne received CassettePlayer on day 19
-1 items has been added to the inventory
-There is $1889.88 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 977.8
-Daphne put in order for Saxophone for $17.53 on day 19
-Daphne put in order for Saxophone for $9.44 on day 19
-Daphne put in order for Saxophone for $30.6 on day 19
-Daphne ordered total of 3 items
+Daphne received Strings on day 19
+Daphne received CDPlayer on day 19
+Daphne received Saxophone on day 19
+3 items has been added to the inventory
+There is $2361.0 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1135.77
+Daphne ordered total of 0 items
 Daphne tuned Bass.
-Daphne tuned Mandolin.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
-Daphne tuned Guitar.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
 Daphne tuned Mandolin.
 Daphne tuned Guitar.
 Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
 Daphne has damaged 0 items while tuning
-PracticeAmps was too expensive, Buyer 1 left the store.
-Buyer 2 purchased PaperScore for $6.0.
-Hats out of stock, Buyer 3 left the store.
-Shirts out of stock, Buyer 4 left the store.
-Cables was too expensive, Buyer 5 left the store.
-Daphne bought a poor condition RecordPlayer from Seller 1 for $34.84.
-Daphne sold 1 items.
+Buyer 1 purchased Guitar for $29.0.
+Buyer 2 purchased RecordPlayer for $85.18.
+Buyer 3 purchased Mandolin for $45.12.
+Buyer also purchased GigBag for $12.0.
+Buyer also purchased PracticeAmps for $84.44.
+Buyer also purchased Cables for $96.24.
+Buyer also purchased Strings for $41.18.
+Buyer also purchased Strings for $93.8.
+Daphne bought a very good condition CDPlayer from Seller 1 for $51.84 after offering 10%% more.
+Daphne sold 8 items.
 Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
-=======
-Velma arrives at the North store on Day 19
-Velma received PaperScore on day 19
-Velma received Cables on day 19
-Velma received Strings on day 19
-Velma received GigBag on day 19
-4 items has been added to the inventory
-There is $1838.12 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1167.39
-Velma put in order for PracticeAmps for $5.22 on day 19
-Velma put in order for PracticeAmps for $40.72 on day 19
-Velma put in order for PracticeAmps for $12.48 on day 19
-Velma ordered total of 3 items
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
-Velma un-adjusted Saxophone.
-Velma tuned Bass.
-Velma tuned Guitar.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $55.78 after a 10%% discount.
-Buyer 2 purchased Mandolin for $70.0.
-Buyer 3 purchased Guitar for $46.58.
-Buyer also purchased Strings for $56.3.
-Buyer 4 purchased Cables for $75.83 after a 10%% discount.
-Velma bought a very good condition Cables from Seller 1 for $45.37.
-Velma bought a good condition Saxophone from Seller 2 for $25.41.
-Velma bought a poor condition Vinyl from Seller 3 for $47.58.
-Velma sold 7 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

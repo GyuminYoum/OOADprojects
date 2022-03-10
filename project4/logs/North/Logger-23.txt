@@ -1,31 +1,29 @@
-Shaggy arrives at the North store on Day 23
-Shaggy received RecordPlayer on day 23
-Shaggy received GigBag on day 23
-2 items has been added to the inventory
-There is $2156.83 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 1025.91
-Shaggy ordered total of 0 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Harmonica.
-Shaggy un-adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $40.0.
-Buyer 2 purchased Saxophone for $61.2.
-Buyer 3 purchased Guitar for $92.48.
-Buyer also purchased GigBag for $43.88.
-Buyer also purchased PracticeAmps for $9.74.
-Buyer also purchased Cables for $70.2.
-Buyer also purchased Cables for $83.38.
-Buyer 4 purchased CDPlayer for $93.92.
-PracticeAmps out of stock, Buyer 5 left the store.
-Shaggy bought a good condition Guitar from Seller 2 for $3.31.
-Shaggy bought a very good condition Strings from Seller 3 for $50.9.
-Shaggy sold 8 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the North store on Day 23
+Justin received Saxophone on day 23
+1 items has been added to the inventory
+There is $2845.1 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1101.14
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin un-adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $11.7 after a 10%% discount.
+Buyer 2 purchased Guitar for $70.02 after a 10%% discount.
+Buyer 3 purchased Mandolin for $56.21 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $54.98.
+Shirts out of stock, Buyer 5 left the store.
+Buyer 6 purchased CDPlayer for $66.12.
+Buyer 7 purchased PracticeAmps for $65.88 after a 10%% discount.
+Buyer 8 purchased Guitar for $24.98 after a 10%% discount.
+Justin bought a good condition Cables from Seller 1 for $36.25 after offering 10%% more.
+Justin bought a good condition Harmonica from Seller 2 for $13.97 after offering 10%% more.
+Justin bought a fair condition Flute from Seller 3 for $49.0.
+Justin sold 7 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

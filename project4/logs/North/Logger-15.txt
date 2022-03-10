@@ -1,82 +1,43 @@
-<<<<<<< HEAD
-Daphne arrives at the North store on Day 15
-Daphne received Flute on day 15
-Daphne received Flute on day 15
-2 items has been added to the inventory
-There is $1433.68 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1233.4
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased CassettePlayer for $42.0.
-Buyer 2 purchased MusicCD for $7.2 after a 10%% discount.
-Buyer 3 purchased Cassette for $6.0.
-Buyer 4 purchased CassettePlayer for $73.38 after a 10%% discount.
-Buyer 5 purchased Vinyl for $12.0.
-Seller 1 didn't accept the price, and left the store.
-Daphne sold 5 items.
-Daphne Bought 0 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
-=======
 Freddy arrives at the North store on Day 15
-Freddy received PaperScore on day 15
-Freddy received PaperScore on day 15
-Freddy received Bass on day 15
-Freddy received Strings on day 15
-Freddy received Strings on day 15
-Freddy received Saxophone on day 15
-Freddy received GigBag on day 15
-7 items has been added to the inventory
-There is $1917.96 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 1032.27
-Freddy put in order for CassettePlayer for $19.67 on day 15
-Freddy put in order for CassettePlayer for $21.92 on day 15
-Freddy put in order for CassettePlayer for $48.99 on day 15
+Freddy received PracticeAmps on day 15
+Freddy received Mandolin on day 15
+Freddy received RecordPlayer on day 15
+Freddy received Guitar on day 15
+Freddy received Cassette on day 15
+Freddy received Cassette on day 15
+6 items has been added to the inventory
+There is $2230.83 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 831.18
+Freddy put in order for Strings for $46.9 on day 15
+Freddy put in order for Strings for $13.57 on day 15
+Freddy put in order for Strings for $20.59 on day 15
 Freddy ordered total of 3 items
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy tuned Guitar.
 Freddy tuned Bass.
 Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Buyer 1 purchased Flute for $96.0.
-Buyer 2 purchased Saxophone for $71.04 after a 10%% discount.
-Buyer 3 purchased Vinyl for $77.31.
-Buyer 4 purchased GigBag for $37.22 after a 10%% discount.
-MP3 was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Flute for $96.6.
-Freddy bought a poor condition PaperScore from Seller 2 for $30.23 after offering 10%% more.
-Freddy sold 5 items.
+Bandanas out of stock, Buyer 1 left the store.
+Bass was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Vinyl for $10.8 after a 10%% discount.
+Buyer 4 purchased Shirts for $10.0.
+Buyer 5 purchased RecordPlayer for $89.69 after a 10%% discount.
+Buyer 6 purchased Cables for $68.14.
+Buyer 7 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 8 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 9 purchased Cassette for $92.52.
+RecordPlayer out of stock, Buyer 10 left the store.
+Freddy bought a poor condition Guitar from Seller 1 for $38.9.
+Freddy sold 7 items.
 Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

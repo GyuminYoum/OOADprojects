@@ -1,35 +1,30 @@
-Daphne is sick on day 25
-Justin arrives at the North store on Day 25
-Justin received Strings on day 25
-Justin received Strings on day 25
-Justin received CDPlayer on day 25
-Justin received PracticeAmps on day 25
-Justin received Cables on day 25
-5 items has been added to the inventory
-There is $2813.04 in the register
-There are total of 29 items in the inventory.
-All the items in the inventory are worth total of $ 790.28
-Justin put in order for PaperScore for $33.97 on day 25
-Justin put in order for PaperScore for $35.94 on day 25
-Justin put in order for PaperScore for $49.47 on day 25
-Justin put in order for Bass for $49.57 on day 25
-Justin put in order for Bass for $37.22 on day 25
-Justin put in order for Bass for $18.26 on day 25
-Justin put in order for Cassette for $36.17 on day 25
-Justin put in order for Cassette for $7.75 on day 25
-Justin put in order for Cassette for $6.99 on day 25
-Justin ordered total of 9 items
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $6.62.
-Buyer 2 purchased CDPlayer for $28.0.
-Buyer 3 purchased Vinyl for $85.69 after a 10%% discount.
-Buyer 4 purchased Flute for $84.52 after a 10%% discount.
-Hats out of stock, Buyer 5 left the store.
-Seller 1 didn't accept the price, and left the store.
-Justin bought a very good condition Strings from Seller 2 for $16.87 after offering 10%% more.
-Justin sold 4 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Freddy arrives at the North store on Day 25
+Freddy received RecordPlayer on day 25
+Freddy received Mandolin on day 25
+2 items has been added to the inventory
+There is $2850.73 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1042.88
+Freddy put in order for Guitar for $16.37 on day 25
+Freddy put in order for Guitar for $33.26 on day 25
+Freddy put in order for Guitar for $47.84 on day 25
+Freddy ordered total of 3 items
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

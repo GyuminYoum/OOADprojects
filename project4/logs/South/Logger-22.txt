@@ -1,28 +1,30 @@
-Shaggy arrives at the South store on Day 22
-Shaggy received CassettePlayer on day 22
-Shaggy received PracticeAmps on day 22
-Shaggy received Flute on day 22
-3 items has been added to the inventory
-There is $2180.45 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 1037.22
-Shaggy put in order for Cables for $22.22 on day 22
-Shaggy put in order for Cables for $11.23 on day 22
-Shaggy put in order for Cables for $29.76 on day 22
-Shaggy put in order for Strings for $32.24 on day 22
-Shaggy put in order for Strings for $12.44 on day 22
-Shaggy put in order for Strings for $30.38 on day 22
-Shaggy ordered total of 6 items
-Shaggy adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $10.0.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased CassettePlayer for $63.52 after a 10%% discount.
-Cables out of stock, Buyer 4 left the store.
-Shaggy bought a poor condition Shirts from Seller 1 for $46.68 after offering 10%% more.
-Shaggy bought a fair condition Cassette from Seller 2 for $32.45.
-Shaggy sold 2 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 22
+Justin received CDPlayer on day 22
+Justin received Bass on day 22
+Justin received MusicCD on day 22
+Justin received MusicCD on day 22
+Justin received PracticeAmps on day 22
+Justin received Cables on day 22
+6 items has been added to the inventory
+There is $2121.4 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1174.85
+Justin ordered total of 0 items
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $45.0 after a 10%% discount.
+MusicCD was too expensive, Buyer 2 left the store.
+MusicCD was too expensive, Buyer 3 left the store.
+Justin bought a very good condition CassettePlayer from Seller 1 for $17.17.
+Justin bought a very good condition Guitar from Seller 2 for $9.22.
+Justin bought a fair condition Harmonica from Seller 3 for $21.92 after offering 10%% more.
+Justin sold 1 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

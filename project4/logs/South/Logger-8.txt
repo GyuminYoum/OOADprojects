@@ -1,53 +1,40 @@
-<<<<<<< HEAD
-Justin arrives at the South store on Day 8
+Shaggy is sick on day 8
+Freddy arrives at the South store on Day 8
 0 items has been added to the inventory
-There is $1406.5 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 1006.14
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin adjusted Saxophone.
-Justin adjusted Harmonica.
-Justin un-tuned Guitar.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $48.0.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased Cassette for $8.19.
-Hats out of stock, Buyer 4 left the store.
-Buyer 5 purchased Bass for $48.0.
+There is $1337.2 in the register
+There are total of 56 items in the inventory.
+All the items in the inventory are worth total of $ 995.26
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $54.0.
 Buyer also purchased Strings for $14.0.
 Buyer also purchased Strings for $22.0.
-Buyer 6 purchased Vinyl for $10.8 after a 10%% discount.
-Justin bought a very good condition Vinyl from Seller 1 for $9.93.
-Justin sold 6 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
-=======
-Shaggy arrives at the South store on Day 8
-Shaggy received Saxophone on day 8
-Shaggy received Saxophone on day 8
-2 items has been added to the inventory
-There is $1657.01 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 929.9
-Shaggy ordered total of 0 items
-Shaggy un-tuned Mandolin.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Strings for $53.68.
-Buyer 2 purchased Strings for $16.29 after a 10%% discount.
-Buyer 3 purchased Cables for $30.0.
-Flute was too expensive, Buyer 4 left the store.
-Buyer 5 purchased Mandolin for $24.18.
-Buyer 6 purchased PracticeAmps for $27.0 after a 10%% discount.
-Shaggy bought a very good condition CassettePlayer from Seller 1 for $17.23 after offering 10%% more.
-Shaggy bought a fair condition MusicCD from Seller 2 for $7.29 after offering 10%% more.
-Shaggy sold 8 items.
-Shaggy Bought 2 items.
-Shaggy has damaged a(n) Hats.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
-Shaggy went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
+Buyer 2 purchased Hats for $27.0 after a 10%% discount.
+Buyer 3 purchased Vinyl for $12.0.
+Buyer 4 purchased Vinyl for $12.6 after a 10%% discount.
+Buyer 5 purchased Cables for $10.0.
+Buyer 6 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 7 purchased Shirts for $9.0.
+Freddy bought a poor condition CassettePlayer from Seller 1 for $48.44.
+Freddy bought a fair condition Hats from Seller 2 for $38.39.
+Freddy sold 9 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

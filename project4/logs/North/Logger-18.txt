@@ -1,52 +1,27 @@
-<<<<<<< HEAD
-Shaggy arrives at the North store on Day 18
-Shaggy received CassettePlayer on day 18
-1 items has been added to the inventory
-There is $1703.17 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1093.35
-Shaggy put in order for Vinyl for $28.05 on day 18
-Shaggy put in order for Vinyl for $20.1 on day 18
-Shaggy put in order for Vinyl for $47.61 on day 18
-Shaggy put in order for RecordPlayer for $30.16 on day 18
-Shaggy put in order for RecordPlayer for $1.82 on day 18
-Shaggy put in order for RecordPlayer for $37.86 on day 18
-Shaggy ordered total of 6 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $74.0.
-Buyer also purchased GigBag for $43.54.
-Guitar was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Saxophone for $96.0.
-Buyer 4 purchased Cassette for $8.19.
-Buyer 5 purchased CDPlayer for $72.0.
-Buyer 6 purchased GigBag for $88.78.
-Shaggy bought a poor condition MP3 from Seller 1 for $30.2 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
-=======
 Justin arrives at the North store on Day 18
-Justin received Strings on day 18
-Justin received CassettePlayer on day 18
-Justin received Flute on day 18
+Justin received RecordPlayer on day 18
 Justin received Cables on day 18
+Justin received Cables on day 18
+Justin received Saxophone on day 18
 4 items has been added to the inventory
-There is $2491.98 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 949.62
-Justin put in order for Guitar for $16.8 on day 18
-Justin put in order for Guitar for $22.53 on day 18
-Justin put in order for Guitar for $15.47 on day 18
-Justin ordered total of 3 items
-Justin un-tuned Mandolin.
+There is $2375.45 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1007.25
+Justin ordered total of 0 items
 Justin adjusted Flute.
+Justin un-tuned Mandolin.
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
 Justin has damaged 0 items while tuning
+RecordPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Vinyl for $14.0.
+Shirts out of stock, Buyer 3 left the store.
+Buyer 4 purchased PracticeAmps for $14.48.
+Justin bought a poor condition MusicCD from Seller 1 for $31.0.
+Justin bought a fair condition MusicCD from Seller 2 for $11.92.
+Seller 3 didn't accept the price, and left the store.
+Justin sold 2 items.
+Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

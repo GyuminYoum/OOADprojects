@@ -1,29 +1,43 @@
-Velma arrives at the South store on Day 24
-Velma received Flute on day 24
-Velma received Cables on day 24
-Velma received Strings on day 24
-3 items has been added to the inventory
-There is $2100.32 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 1255.76
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Saxophone.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma un-adjusted Flute.
-Velma un-adjusted Flute.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $49.46 after a 10%% discount.
-Buyer 2 purchased Cassette for $7.52 after a 10%% discount.
-Buyer 3 purchased MusicCD for $51.72.
-Velma bought a good condition Guitar from Seller 1 for $29.6.
-Velma bought a fair condition PracticeAmps from Seller 2 for $40.39.
-Velma sold 3 items.
-Velma Bought 2 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Velma is sick on day 24
+Daphne arrives at the South store on Day 24
+Daphne received Bass on day 24
+1 items has been added to the inventory
+There is $2381.85 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1213.92
+Daphne ordered total of 0 items
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $9.0.
+Buyer 2 purchased RecordPlayer for $65.73.
+Buyer 3 purchased Mandolin for $66.0.
+Buyer 4 purchased RecordPlayer for $78.18.
+Buyer 5 purchased Guitar for $65.76.
+Buyer also purchased PracticeAmps for $22.86.
+Daphne bought a very good condition Strings from Seller 1 for $28.76 after offering 10%% more.
+Daphne bought a poor condition Bass from Seller 2 for $29.81.
+Daphne bought a good condition Bass from Seller 3 for $20.99.
+Daphne sold 6 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

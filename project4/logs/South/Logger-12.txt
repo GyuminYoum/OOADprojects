@@ -1,66 +1,17 @@
-<<<<<<< HEAD
-Freddy arrives at the South store on Day 12
-Freddy received Bass on day 12
-Freddy received Strings on day 12
-Freddy received CDPlayer on day 12
-Freddy received Cassette on day 12
-Freddy received GigBag on day 12
-5 items has been added to the inventory
-There is $1528.24 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1020.63
-Freddy put in order for MusicCD for $25.86 on day 12
-Freddy put in order for MusicCD for $32.86 on day 12
-Freddy put in order for MusicCD for $6.21 on day 12
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Mandolin for $50.4 after a 10%% discount.
-Buyer 2 purchased CDPlayer for $101.46.
-Buyer 3 purchased Strings for $79.9 after a 10%% discount.
-Freddy bought a fair condition PaperScore from Seller 1 for $54.89 after offering 10%% more.
-Freddy bought a very good condition CDPlayer from Seller 2 for $2.37.
-Freddy sold 3 items.
-Freddy Bought 2 items.
-Freddy has damaged a(n) Vinyl.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-Freddy went home for the day.
-=======
 Justin arrives at the South store on Day 12
-Justin received Cables on day 12
-Justin received MP3 on day 12
-Justin received GigBag on day 12
-3 items has been added to the inventory
-There is $1863.27 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 995.94
-Justin put in order for PracticeAmps for $5.41 on day 12
-Justin put in order for PracticeAmps for $20.38 on day 12
-Justin put in order for PracticeAmps for $14.74 on day 12
+Justin received Vinyl on day 12
+Justin received PracticeAmps on day 12
+2 items has been added to the inventory
+There is $1943.41 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 938.12
+Justin put in order for CDPlayer for $50.1 on day 12
+Justin put in order for CDPlayer for $16.13 on day 12
+Justin put in order for CDPlayer for $15.06 on day 12
 Justin ordered total of 3 items
-Justin adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-tuned Guitar.
 Justin has damaged 0 items while tuning
-PracticeAmps out of stock, Buyer 1 left the store.
-Buyer 2 purchased Bandanas for $18.0.
-Buyer 3 purchased PaperScore for $6.0.
-Bandanas out of stock, Buyer 4 left the store.
-Justin bought a good condition CassettePlayer from Seller 1 for $9.73.
-Justin bought a good condition Shirts from Seller 2 for $12.44.
-Justin bought a fair condition Harmonica from Seller 3 for $13.78.
-Justin sold 2 items.
-Justin Bought 3 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
->>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
