@@ -43,6 +43,15 @@ Project 4:
 
 Assumptions:
 - The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing the pop-up
+- the two stores are not progressing concurrently. This is to say that the code performs 1 action for 1 store and the moves on to the next store to perform the same action.
+- Item sold by user is chosen at random
+- Item bought by user is chosen at random among the items in the store's inventory.
+- the duration is randomly determined. 
+- the duration of the store simulation can't end on any number divisible by 7 because user can't come in to the store on a sunday, so in such case get another random number between 10-30.
+- askTime returns real time in mountain time
+- commands won't work unless the store is specified by the user (no default store).
+- Since the chart was an extra credit opportunity, all the relevent arrayLists used to store necessary data are not included in the uml diagram
+
 
 UML diagram changes:
 - Added Chart class to generate charts
