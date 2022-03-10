@@ -141,7 +141,7 @@ public class chart extends ApplicationFrame {
             dataset.addSeries(itemSales);
             dataset.addSeries(register);
         }
-        //if chart is true, and therefore d = 0, then add the inventory, day_dmg, and sold Series
+        //else chart is true, and therefore d = 0, then add the inventory, day_dmg, and sold Series
         else{
             dataset.addSeries(inventory);
             dataset.addSeries(day_dmg);
