@@ -1,37 +1,28 @@
-Shaggy is sick on day 5
-Daphne arrives at the North store on Day 5
-0 items has been added to the inventory
-There is $1527.16 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 862.71
-Daphne put in order for Bass for $7.18 on day 5
-Daphne put in order for Bass for $24.6 on day 5
-Daphne put in order for Bass for $34.15 on day 5
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased Shirts for $8.0.
-Buyer 4 purchased Flute for $82.8 after a 10%% discount.
-Buyer 5 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 6 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 7 purchased Flute for $86.4 after a 10%% discount.
-Daphne bought a fair condition Vinyl from Seller 1 for $22.62.
-Daphne sold 7 items.
-Daphne Bought 1 items.
-Daphne has damaged a(n) Strings.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
+Velma is sick on day 5
+Justin arrives at the North store on Day 5
+Justin received Strings on day 5
+1 items has been added to the inventory
+There is $1399.84 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 890.96
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $9.0 after a 10%% discount.
+Buyer 2 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer 4 purchased Mandolin for $70.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 5 purchased Guitar for $74.0.
+Buyer also purchased Strings for $12.94.
+Buyer also purchased Strings for $41.58.
+Justin bought a fair condition Mandolin from Seller 1 for $1.55.
+Justin sold 10 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

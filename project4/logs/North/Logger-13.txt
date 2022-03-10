@@ -1,34 +1,43 @@
+Velma is sick on day 13
 Daphne arrives at the North store on Day 13
-Daphne received Strings on day 13
+Daphne received Vinyl on day 13
 1 items has been added to the inventory
-There is $2109.29 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 802.77
-Daphne put in order for Saxophone for $41.46 on day 13
-Daphne put in order for Saxophone for $27.97 on day 13
-Daphne put in order for Saxophone for $39.03 on day 13
-Daphne ordered total of 3 items
+There is $2284.72 in the register
+There are total of 33 items in the inventory.
+All the items in the inventory are worth total of $ 774.64
+Daphne put in order for Bass for $7.39 on day 13
+Daphne put in order for Bass for $6.91 on day 13
+Daphne put in order for Bass for $47.46 on day 13
+Daphne put in order for Strings for $40.15 on day 13
+Daphne put in order for Strings for $3.81 on day 13
+Daphne put in order for Strings for $20.46 on day 13
+Daphne put in order for Saxophone for $36.29 on day 13
+Daphne put in order for Saxophone for $39.47 on day 13
+Daphne put in order for Saxophone for $47.0 on day 13
+Daphne put in order for GigBag for $20.68 on day 13
+Daphne put in order for GigBag for $7.92 on day 13
+Daphne put in order for GigBag for $25.6 on day 13
+Daphne ordered total of 12 items
 Daphne tuned Mandolin.
+Daphne adjusted Flute.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
 Daphne tuned Guitar.
 Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
+Daphne tuned Guitar.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $71.62.
-Saxophone out of stock, Buyer 2 left the store.
-Buyer 3 purchased PracticeAmps for $45.62.
-Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
-Buyer 5 purchased GigBag for $13.0.
-Buyer 6 purchased Cassette for $23.38 after a 10%% discount.
-Daphne bought a good condition MP3 from Seller 1 for $12.15.
-Daphne bought a good condition Cassette from Seller 2 for $30.47 after offering 10%% more.
-Daphne bought a fair condition Vinyl from Seller 3 for $4.47 after offering 10%% more.
-Daphne sold 5 items.
+Vinyl was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased CassettePlayer for $37.8 after a 10%% discount.
+Hats out of stock, Buyer 4 left the store.
+Daphne bought a fair condition Shirts from Seller 1 for $55.58 after offering 10%% more.
+Daphne bought a very good condition PracticeAmps from Seller 2 for $39.89.
+Daphne bought a good condition PaperScore from Seller 3 for $41.94.
+Daphne sold 2 items.
 Daphne Bought 3 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.

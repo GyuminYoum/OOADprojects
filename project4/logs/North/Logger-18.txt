@@ -1,46 +1,16 @@
-Freddy arrives at the North store on Day 18
-Freddy received MusicCD on day 18
-Freddy received PaperScore on day 18
-2 items has been added to the inventory
-There is $2089.54 in the register
+Justin arrives at the North store on Day 18
+Justin received Strings on day 18
+Justin received CassettePlayer on day 18
+Justin received Flute on day 18
+Justin received Cables on day 18
+4 items has been added to the inventory
+There is $2491.98 in the register
 There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 1014.26
-Freddy put in order for Mandolin for $40.61 on day 18
-Freddy put in order for Mandolin for $49.11 on day 18
-Freddy put in order for Mandolin for $12.87 on day 18
-Freddy put in order for Cables for $28.98 on day 18
-Freddy put in order for Cables for $1.45 on day 18
-Freddy put in order for Cables for $16.29 on day 18
-Freddy put in order for Strings for $50.23 on day 18
-Freddy put in order for Strings for $31.19 on day 18
-Freddy put in order for Strings for $14.62 on day 18
-Freddy ordered total of 9 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $13.0.
-PracticeAmps was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $54.0.
-Buyer also purchased PracticeAmps for $56.38.
-Buyer 4 purchased Bass for $43.2 after a 10%% discount.
-Buyer also purchased PracticeAmps for $34.72.
-Mandolin out of stock, Buyer 5 left the store.
-Freddy bought a poor condition Strings from Seller 1 for $24.42.
-Freddy bought a poor condition Harmonica from Seller 2 for $3.81 after offering 10%% more.
-Freddy bought a fair condition Guitar from Seller 3 for $3.15 after offering 10%% more.
-Freddy sold 5 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+All the items in the inventory are worth total of $ 949.62
+Justin put in order for Guitar for $16.8 on day 18
+Justin put in order for Guitar for $22.53 on day 18
+Justin put in order for Guitar for $15.47 on day 18
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning

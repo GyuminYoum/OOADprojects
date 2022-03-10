@@ -1,25 +1,26 @@
 Shaggy arrives at the South store on Day 13
-Shaggy received Mandolin on day 13
-1 items has been added to the inventory
-There is $1888.83 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 821.21
-Shaggy put in order for Flute for $18.75 on day 13
-Shaggy put in order for Flute for $25.76 on day 13
-Shaggy put in order for Flute for $22.52 on day 13
+Shaggy received Strings on day 13
+Shaggy received GigBag on day 13
+2 items has been added to the inventory
+There is $1810.78 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1048.0
+Shaggy put in order for PaperScore for $12.32 on day 13
+Shaggy put in order for PaperScore for $21.31 on day 13
+Shaggy put in order for PaperScore for $24.59 on day 13
 Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
-Buyer 3 purchased Hats for $10.0.
-Buyer 4 purchased MusicCD for $8.4.
-Flute out of stock, Buyer 5 left the store.
-Shaggy bought a fair condition MusicCD from Seller 1 for $20.93 after offering 10%% more.
-Shaggy bought a poor condition Hats from Seller 2 for $42.7.
-Shaggy sold 4 items.
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $44.0.
+Buyer 2 purchased CDPlayer for $48.0.
+Buyer 3 purchased Mandolin for $15.3 after a 10%% discount.
+PracticeAmps out of stock, Buyer 4 left the store.
+Shaggy bought a fair condition PaperScore from Seller 1 for $41.79.
+Shaggy bought a poor condition Shirts from Seller 2 for $20.98.
+Shaggy sold 3 items.
 Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.

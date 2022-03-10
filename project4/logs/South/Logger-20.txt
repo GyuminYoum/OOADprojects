@@ -1,29 +1,27 @@
-Velma arrives at the South store on Day 20
-Velma received Guitar on day 20
-Velma received Bass on day 20
-Velma received Harmonica on day 20
+Justin arrives at the South store on Day 20
+Justin received RecordPlayer on day 20
+Justin received Mandolin on day 20
+Justin received GigBag on day 20
 3 items has been added to the inventory
-There is $2501.42 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 1121.94
-Velma ordered total of 0 items
-Velma un-adjusted Flute.
-Velma tuned Mandolin.
-Velma tuned Bass.
-Velma tuned Guitar.
-Velma adjusted Harmonica.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $45.42.
-Buyer 2 purchased Guitar for $85.66.
-Buyer 3 purchased RecordPlayer for $19.8 after a 10%% discount.
-Buyer 4 purchased CassettePlayer for $14.11 after a 10%% discount.
-Buyer 5 purchased Shirts for $7.2 after a 10%% discount.
-Velma bought a good condition Strings from Seller 1 for $33.86.
-Velma sold 5 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+There is $2723.47 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 919.91
+Justin put in order for PracticeAmps for $15.2 on day 20
+Justin put in order for PracticeAmps for $5.37 on day 20
+Justin put in order for PracticeAmps for $22.66 on day 20
+Justin put in order for Strings for $48.61 on day 20
+Justin put in order for Strings for $36.9 on day 20
+Justin put in order for Strings for $19.45 on day 20
+Justin ordered total of 6 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Bass.
+Justin un-tuned Guitar.
+Justinhas damaged a(n) Guitar.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justinhas damaged a(n) Mandolin.
+Justin has damaged 2 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

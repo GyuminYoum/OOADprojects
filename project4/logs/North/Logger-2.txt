@@ -1,40 +1,28 @@
-Justin is sick on day 2
-Freddy arrives at the North store on Day 2
+Velma arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1047.01 in the register
-There are total of 62 items in the inventory.
-All the items in the inventory are worth total of $ 1052.07
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 2 purchased Flute for $81.0 after a 10%% discount.
-Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer also purchased Cables for $10.0.
-Buyer 4 purchased Bass for $46.0.
-Buyer 5 purchased Cables for $20.0.
-Buyer 6 purchased Saxophone for $81.0 after a 10%% discount.
-Freddy bought a poor condition MusicCD from Seller 1 for $20.92.
-Freddy sold 7 items.
-Freddy Bought 1 items.
-Freddy has damaged a(n) Guitar.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-Freddy went home for the day.
+There is $1254.66 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 944.0
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma adjusted Flute.
+Velma un-adjusted Flute.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $10.0.
+Buyer 2 purchased Shirts for $8.0.
+Buyer 3 purchased Saxophone for $90.0.
+Buyer 4 purchased Cassette for $6.0.
+Buyer 5 purchased Bass for $44.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Velma bought a poor condition CDPlayer from Seller 1 for $2.29.
+Seller 2 didn't accept the price, and left the store.
+Velma sold 7 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

@@ -1,30 +1,26 @@
-Shaggy arrives at the North store on Day 9
-Shaggy received Bass on day 9
-Shaggy received Cables on day 9
-2 items has been added to the inventory
-There is $2082.14 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 592.96
-Shaggy put in order for CDPlayer for $22.12 on day 9
-Shaggy put in order for CDPlayer for $9.85 on day 9
-Shaggy put in order for CDPlayer for $27.46 on day 9
-Shaggy put in order for CassettePlayer for $50.45 on day 9
-Shaggy put in order for CassettePlayer for $11.75 on day 9
-Shaggy put in order for CassettePlayer for $43.85 on day 9
-Shaggy ordered total of 6 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Shirts was too expensive, Buyer 1 left the store.
-Bandanas was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bandanas for $18.0.
-Buyer 4 purchased MusicCD for $8.19.
-Buyer 5 purchased Harmonica for $38.0.
-Shaggy bought a very good condition Bandanas from Seller 1 for $14.99.
-Shaggy bought a very good condition MusicCD from Seller 2 for $7.53.
-Seller 3 didn't accept the price, and left the store.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the North store on Day 9
+Velma received Cables on day 9
+Velma received Guitar on day 9
+Velma received PracticeAmps on day 9
+Velma received RecordPlayer on day 9
+4 items has been added to the inventory
+There is $1848.39 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 816.19
+Velma ordered total of 0 items
+Velma un-adjusted Harmonica.
+Velma adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Harmonica was too expensive, Buyer 1 left the store.
+MusicCD was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Hats for $10.0.
+Buyer 4 purchased Bandanas for $18.0.
+Bandanas out of stock, Buyer 5 left the store.
+Buyer 6 purchased Vinyl for $41.46.
+Velma bought a fair condition Flute from Seller 2 for $48.3.
+Velma bought a fair condition Cassette from Seller 3 for $7.42.
+Velma sold 3 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

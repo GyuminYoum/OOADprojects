@@ -1,34 +1,33 @@
-Velma arrives at the South store on Day 15
-Velma received Mandolin on day 15
-Velma received Saxophone on day 15
-Velma received Saxophone on day 15
-Velma received Flute on day 15
-4 items has been added to the inventory
-There is $1791.15 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 987.68
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma has damaged 2 items while tuning
-Buyer 1 purchased Cables for $16.46.
-Cables out of stock, Buyer 2 left the store.
-Buyer 3 purchased Bass for $91.67 after a 10%% discount.
-Buyer 4 purchased Saxophone for $65.31.
-Buyer 5 purchased GigBag for $11.7 after a 10%% discount.
-Buyer 6 purchased Strings for $56.8 after a 10%% discount.
-Buyer 7 purchased Harmonica for $17.55 after a 10%% discount.
-Velma bought a poor condition Mandolin from Seller 1 for $15.6 after offering 10%% more.
-Velma sold 6 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne arrives at the South store on Day 15
+Daphne received MP3 on day 15
+Daphne received PracticeAmps on day 15
+Daphne received PracticeAmps on day 15
+3 items has been added to the inventory
+There is $1797.09 in the register
+There are total of 55 items in the inventory.
+All the items in the inventory are worth total of $ 1079.27
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Flute for $83.7.
+Buyer 2 purchased Bass for $41.4 after a 10%% discount.
+Daphne bought a fair condition MusicCD from Seller 1 for $43.41 after offering 10%% more.
+Daphne bought a very good condition PracticeAmps from Seller 2 for $7.29 after offering 10%% more.
+Daphne sold 2 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

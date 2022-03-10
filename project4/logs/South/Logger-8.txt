@@ -1,28 +1,25 @@
-Freddy arrives at the South store on Day 8
-Freddy received Strings on day 8
-Freddy received Strings on day 8
+Shaggy arrives at the South store on Day 8
+Shaggy received Saxophone on day 8
+Shaggy received Saxophone on day 8
 2 items has been added to the inventory
-There is $1526.99 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 944.52
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $36.0 after a 10%% discount.
-Cassette was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bass for $46.0.
-Freddy bought a fair condition Vinyl from Seller 1 for $48.3 after offering 10%% more.
-Freddy sold 2 items.
-Freddy Bought 1 items.
-Freddy has damaged a(n) MP3.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-Freddy went home for the day.
+There is $1657.01 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 929.9
+Shaggy ordered total of 0 items
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $53.68.
+Buyer 2 purchased Strings for $16.29 after a 10%% discount.
+Buyer 3 purchased Cables for $30.0.
+Flute was too expensive, Buyer 4 left the store.
+Buyer 5 purchased Mandolin for $24.18.
+Buyer 6 purchased PracticeAmps for $27.0 after a 10%% discount.
+Shaggy bought a very good condition CassettePlayer from Seller 1 for $17.23 after offering 10%% more.
+Shaggy bought a fair condition MusicCD from Seller 2 for $7.29 after offering 10%% more.
+Shaggy sold 8 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) Hats.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.

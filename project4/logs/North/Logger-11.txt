@@ -1,36 +1,29 @@
-Justin is sick on day 11
-Freddy arrives at the North store on Day 11
-Freddy received Cables on day 11
-Freddy received Strings on day 11
-Freddy received CDPlayer on day 11
-Freddy received CassettePlayer on day 11
-4 items has been added to the inventory
-There is $1965.86 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 823.94
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Vinyl for $10.8 after a 10%% discount.
-Buyer 2 purchased PaperScore for $6.0.
-Buyer 3 purchased Guitar for $74.0.
-Buyer 4 purchased MusicCD for $41.84.
-Buyer 5 purchased CassettePlayer for $87.7.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a good condition PracticeAmps from Seller 2 for $22.81.
-Freddy bought a good condition Mandolin from Seller 3 for $35.57 after offering 10%% more.
-Freddy sold 5 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the North store on Day 11
+Justin received PracticeAmps on day 11
+Justin received Vinyl on day 11
+2 items has been added to the inventory
+There is $1799.62 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 974.65
+Justin ordered total of 0 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin un-tuned Bass.
+Justin adjusted Harmonica.
+Justin un-tuned Mandolin.
+Justin un-tuned Guitar.
+Justin has damaged 0 items while tuning
+Hats out of stock, Buyer 1 left the store.
+Buyer 2 purchased Cables for $26.67 after a 10%% discount.
+Buyer 3 purchased Shirts for $10.0.
+Buyer 4 purchased Saxophone for $86.4 after a 10%% discount.
+Buyer 5 purchased PaperScore for $5.4 after a 10%% discount.
+Justin bought a good condition Saxophone from Seller 1 for $44.97 after offering 10%% more.
+Justin bought a very good condition RecordPlayer from Seller 2 for $46.46.
+Justin sold 4 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

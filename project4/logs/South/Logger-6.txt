@@ -1,32 +1,27 @@
-Daphne arrives at the South store on Day 6
-0 items has been added to the inventory
-There is $1570.86 in the register
+Shaggy arrives at the South store on Day 6
+Shaggy received Strings on day 6
+1 items has been added to the inventory
+There is $1698.4 in the register
 There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 906.71
-Daphne put in order for Strings for $14.86 on day 6
-Daphne put in order for Strings for $31.56 on day 6
-Daphne put in order for Strings for $2.52 on day 6
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $34.2 after a 10%% discount.
-CassettePlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased GigBag for $11.0.
-Strings out of stock, Buyer 4 left the store.
-Buyer 5 purchased GigBag for $10.8 after a 10%% discount.
-Daphne bought a good condition Bass from Seller 1 for $50.93.
-Seller 2 didn't accept the price, and left the store.
-Daphne sold 3 items.
-Daphne Bought 1 items.
-Daphne has damaged a(n) Vinyl.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
+All the items in the inventory are worth total of $ 858.16
+Shaggy put in order for Saxophone for $31.13 on day 6
+Shaggy put in order for Saxophone for $2.18 on day 6
+Shaggy put in order for Saxophone for $2.35 on day 6
+Shaggy ordered total of 3 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Cassette for $7.38 after a 10%% discount.
+Buyer 2 purchased Bandanas for $12.0.
+Buyer 3 purchased Strings for $46.48.
+Shaggy bought a very good condition Cassette from Seller 1 for $15.2 after offering 10%% more.
+Shaggy bought a very good condition CDPlayer from Seller 2 for $40.38.
+Shaggy bought a very good condition Bass from Seller 3 for $16.01 after offering 10%% more.
+Shaggy sold 3 items.
+Shaggy Bought 3 items.
+Shaggy has damaged a(n) CassettePlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
