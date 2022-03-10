@@ -1,23 +1,25 @@
 Shaggy arrives at the North store on Day 4
-Shaggy received Strings on day 4
-1 items has been added to the inventory
-There is $1406.75 in the register
-There are total of 47 items in the inventory.
-All the items in the inventory are worth total of $ 867.62
-Shaggy put in order for Cables for $14.82 on day 4
-Shaggy put in order for Cables for $10.69 on day 4
-Shaggy put in order for Cables for $7.85 on day 4
-Shaggy ordered total of 3 items
+0 items has been added to the inventory
+There is $1156.06 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1083.09
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
 Shaggy un-adjusted Saxophone.
-Shaggy adjusted Harmonica.
+Shaggy un-adjusted Saxophone.
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $30.0.
-Buyer 2 purchased Hats for $18.0 after a 10%% discount.
-Buyer 3 purchased Bandanas for $12.0.
-Shaggy bought a very good condition Vinyl from Seller 1 for $20.73.
-Shaggy bought a fair condition Harmonica from Seller 2 for $12.82.
-Shaggy sold 3 items.
+Buyer 1 purchased Vinyl for $12.0.
+Buyer 2 purchased Bandanas for $6.0.
+Buyer 3 purchased Bass for $41.4 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $10.0.
+Guitar was too expensive, Buyer 6 left the store.
+Shaggy bought a poor condition PaperScore from Seller 1 for $10.38 after offering 10%% more.
+Shaggy bought a poor condition Mandolin from Seller 2 for $30.91 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Shaggy sold 5 items.
 Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
+Shaggy has damaged a(n) RecordPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.

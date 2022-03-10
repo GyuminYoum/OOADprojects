@@ -1,27 +1,27 @@
 Shaggy arrives at the South store on Day 6
-Shaggy received Strings on day 6
+Shaggy received RecordPlayer on day 6
 1 items has been added to the inventory
-There is $1698.4 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 858.16
-Shaggy put in order for Saxophone for $31.13 on day 6
-Shaggy put in order for Saxophone for $2.18 on day 6
-Shaggy put in order for Saxophone for $2.35 on day 6
-Shaggy ordered total of 3 items
+There is $1319.34 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1022.61
+Shaggy ordered total of 0 items
 Shaggy un-tuned Bass.
 Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
 Shaggy un-tuned Mandolin.
-Shaggyhas damaged a(n) Mandolin.
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
 Shaggy has damaged 1 items while tuning
-Buyer 1 purchased Cassette for $7.38 after a 10%% discount.
-Buyer 2 purchased Bandanas for $12.0.
-Buyer 3 purchased Strings for $46.48.
-Shaggy bought a very good condition Cassette from Seller 1 for $15.2 after offering 10%% more.
-Shaggy bought a very good condition CDPlayer from Seller 2 for $40.38.
-Shaggy bought a very good condition Bass from Seller 3 for $16.01 after offering 10%% more.
+Buyer 1 purchased GigBag for $12.0.
+Buyer 2 purchased Strings for $54.28.
+Buyer 3 purchased Cassette for $8.19.
+Shaggy bought a fair condition Cables from Seller 1 for $45.63 after offering 10%% more.
+Shaggy bought a poor condition MusicCD from Seller 2 for $8.62 after offering 10%% more.
+Shaggy bought a poor condition RecordPlayer from Seller 3 for $44.49.
 Shaggy sold 3 items.
 Shaggy Bought 3 items.
-Shaggy has damaged a(n) CassettePlayer.
-Shaggy damaged an item while cleaning.
-Shaggy damaged 1 items while cleaning.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

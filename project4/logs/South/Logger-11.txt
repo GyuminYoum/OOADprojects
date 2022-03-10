@@ -1,31 +1,28 @@
-Shaggy arrives at the South store on Day 11
-Shaggy received Cables on day 11
-Shaggy received MP3 on day 11
-2 items has been added to the inventory
-There is $1777.11 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 971.69
-Shaggy put in order for GigBag for $20.43 on day 11
-Shaggy put in order for GigBag for $40.58 on day 11
-Shaggy put in order for GigBag for $6.66 on day 11
-Shaggy ordered total of 3 items
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Mandolin.
-Shaggy un-adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
-CDPlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased MusicCD for $89.44.
-Buyer 4 purchased Bass for $31.68 after a 10%% discount.
-Buyer also purchased PracticeAmps for $21.22.
-Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
-Shaggy bought a fair condition RecordPlayer from Seller 1 for $9.3.
-Shaggy bought a poor condition CassettePlayer from Seller 2 for $50.16.
-Shaggy bought a fair condition Harmonica from Seller 3 for $16.64 after offering 10%% more.
-Shaggy sold 5 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the South store on Day 11
+Velma received Strings on day 11
+Velma received Bass on day 11
+Velma received GigBag on day 11
+3 items has been added to the inventory
+There is $1376.11 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1117.03
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Flute.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $30.6 after a 10%% discount.
+Buyer also purchased GigBag for $69.32.
+Buyer 2 purchased Hats for $20.0.
+Buyer 3 purchased Cables for $89.6.
+Buyer 4 purchased RecordPlayer for $29.56.
+Buyer 5 purchased Vinyl for $10.8 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Velma bought a poor condition MP3 from Seller 2 for $42.9.
+Velma bought a good condition Mandolin from Seller 3 for $37.13.
+Velma sold 6 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

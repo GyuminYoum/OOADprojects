@@ -1,36 +1,23 @@
-Freddy arrives at the South store on Day 5
-Freddy received Mandolin on day 5
-Freddy received Strings on day 5
-2 items has been added to the inventory
-There is $1552.92 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 902.39
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-MP3 was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased Harmonica for $34.2 after a 10%% discount.
-Buyer 4 purchased Saxophone for $96.0.
-Buyer 5 purchased Cassette for $6.0.
-Buyer 6 purchased Cables for $18.0 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a fair condition MusicCD from Seller 2 for $44.72.
-Freddy sold 5 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Justin arrives at the South store on Day 5
+0 items has been added to the inventory
+There is $1314.69 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 998.78
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $8.0.
+Buyer 2 purchased GigBag for $11.0.
+Buyer 3 purchased MusicCD for $8.4.
+Justin bought a very good condition Flute from Seller 1 for $22.75 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Justin sold 3 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -14,9 +14,9 @@ public class main {
         sim1.Run();
 
         chart chart1 = new chart("Graph display #2","count vs days",sim1, true);
-        //uncomment and comment the top one for 2nd graph
         chart chart2 = new chart("Graph display #1","$ vs days",sim1, false);
 
+        //create pop-ups for each chart
         chart1.pack( );
         RefineryUtilities.centerFrameOnScreen( chart1 );
         chart1.setVisible( true );

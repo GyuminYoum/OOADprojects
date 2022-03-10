@@ -1,24 +1,34 @@
-Justin is sick on day 22
-Shaggy arrives at the North store on Day 22
-Shaggy received Mandolin on day 22
-Shaggy received Cables on day 22
-Shaggy received PracticeAmps on day 22
-Shaggy received PracticeAmps on day 22
-Shaggy received GigBag on day 22
-Shaggy received Saxophone on day 22
-6 items has been added to the inventory
-There is $2297.92 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 1094.78
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $8.06 after a 10%% discount.
-Bandanas out of stock, Buyer 2 left the store.
-Buyer 3 purchased Cassette for $3.96 after a 10%% discount.
-Shaggy bought a good condition MusicCD from Seller 1 for $45.63.
-Shaggy sold 2 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy arrives at the North store on Day 22
+Freddy received CDPlayer on day 22
+Freddy received Strings on day 22
+Freddy received Strings on day 22
+3 items has been added to the inventory
+There is $2779.33 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 1071.11
+Freddy ordered total of 0 items
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+CDPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Flute for $63.34.
+Hats out of stock, Buyer 3 left the store.
+Buyer 4 purchased RecordPlayer for $49.82.
+Freddy bought a fair condition Strings from Seller 1 for $47.39.
+Freddy sold 2 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

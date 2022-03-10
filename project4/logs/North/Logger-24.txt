@@ -1,26 +1,47 @@
-Daphne arrives at the North store on Day 24
-Daphne received Strings on day 24
+Freddy arrives at the North store on Day 24
+Freddy received Strings on day 24
 1 items has been added to the inventory
-There is $2711.91 in the register
-There are total of 34 items in the inventory.
-All the items in the inventory are worth total of $ 1036.83
-Daphne put in order for Mandolin for $9.86 on day 24
-Daphne put in order for Mandolin for $49.14 on day 24
-Daphne put in order for Mandolin for $20.52 on day 24
-Daphne ordered total of 3 items
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $3.06.
-PracticeAmps was too expensive, Buyer 2 left the store.
-Buyer 3 purchased CDPlayer for $62.04.
-Daphne bought a fair condition PaperScore from Seller 1 for $33.84.
-Daphne sold 2 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $3095.77 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 1021.93
+Freddy put in order for RecordPlayer for $37.11 on day 24
+Freddy put in order for RecordPlayer for $10.03 on day 24
+Freddy put in order for RecordPlayer for $22.31 on day 24
+Freddy put in order for Mandolin for $15.03 on day 24
+Freddy put in order for Mandolin for $11.46 on day 24
+Freddy put in order for Mandolin for $27.71 on day 24
+Freddy put in order for PracticeAmps for $39.97 on day 24
+Freddy put in order for PracticeAmps for $24.12 on day 24
+Freddy put in order for PracticeAmps for $15.9 on day 24
+Freddy put in order for GigBag for $42.89 on day 24
+Freddy put in order for GigBag for $38.97 on day 24
+Freddy put in order for GigBag for $17.22 on day 24
+Freddy ordered total of 12 items
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+CDPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased PaperScore for $9.82.
+RecordPlayer out of stock, Buyer 3 left the store.
+PracticeAmps out of stock, Buyer 4 left the store.
+Bass was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Guitar for $89.92 after a 10%% discount.
+Freddy bought a poor condition Harmonica from Seller 1 for $31.19.
+Freddy bought a poor condition Saxophone from Seller 2 for $8.74 after offering 10%% more.
+Freddy bought a fair condition RecordPlayer from Seller 3 for $2.12.
+Freddy sold 2 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

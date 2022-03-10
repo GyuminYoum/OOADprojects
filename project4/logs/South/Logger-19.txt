@@ -1,37 +1,17 @@
-Daphne arrives at the South store on Day 19
-Daphne received Flute on day 19
-Daphne received Mandolin on day 19
-2 items has been added to the inventory
-There is $2580.21 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 961.22
-Daphne put in order for GigBag for $35.22 on day 19
-Daphne put in order for GigBag for $2.9 on day 19
-Daphne put in order for GigBag for $39.57 on day 19
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $29.21 after a 10%% discount.
-Buyer 2 purchased MP3 for $25.82.
-Hats out of stock, Buyer 3 left the store.
-Buyer 4 purchased Cables for $88.41 after a 10%% discount.
-Buyer 5 purchased Strings for $79.66.
-Buyer 6 purchased RecordPlayer for $48.94.
-Hats out of stock, Buyer 7 left the store.
-Daphne bought a poor condition Vinyl from Seller 1 for $10.89 after offering 10%% more.
-Daphne bought a very good condition MP3 from Seller 2 for $40.19 after offering 10%% more.
-Daphne sold 5 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the South store on Day 19
+Justin received CDPlayer on day 19
+Justin received Harmonica on day 19
+Justin received PaperScore on day 19
+3 items has been added to the inventory
+There is $1926.07 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1347.43
+Justin put in order for Cables for $6.63 on day 19
+Justin put in order for Cables for $11.39 on day 19
+Justin put in order for Cables for $40.13 on day 19
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

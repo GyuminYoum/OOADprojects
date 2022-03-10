@@ -1,16 +1,42 @@
-Justin arrives at the South store on Day 23
-Justin received Bass on day 23
-1 items has been added to the inventory
-There is $2789.98 in the register
-There are total of 36 items in the inventory.
-All the items in the inventory are worth total of $ 1008.81
-Justin put in order for PracticeAmps for $29.71 on day 23
-Justin put in order for PracticeAmps for $18.82 on day 23
-Justin put in order for PracticeAmps for $24.45 on day 23
-Justin ordered total of 3 items
-Justin un-adjusted Saxophone.
-Justin un-adjusted Harmonica.
-Justin has damaged 0 items while tuning
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Freddy arrives at the South store on Day 23
+Freddy received CDPlayer on day 23
+Freddy received MusicCD on day 23
+Freddy received Cables on day 23
+3 items has been added to the inventory
+There is $2118.09 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1305.65
+Freddy ordered total of 0 items
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Mandolin was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MusicCD for $78.14.
+Buyer 3 purchased CassettePlayer for $59.92.
+Buyer 4 purchased MusicCD for $64.08 after a 10%% discount.
+Buyer 5 purchased Saxophone for $90.0.
+Buyer 6 purchased Cassette for $8.19.
+Freddy bought a poor condition MP3 from Seller 1 for $36.57.
+Freddy sold 5 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

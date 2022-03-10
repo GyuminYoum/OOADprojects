@@ -1,28 +1,29 @@
-Velma arrives at the North store on Day 2
+Shaggy arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1254.66 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 944.0
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma adjusted Flute.
-Velma un-adjusted Flute.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $10.0.
-Buyer 2 purchased Shirts for $8.0.
-Buyer 3 purchased Saxophone for $90.0.
-Buyer 4 purchased Cassette for $6.0.
-Buyer 5 purchased Bass for $44.0.
+There is $1158.15 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1028.72
+Shaggy ordered total of 0 items
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bass for $39.6 after a 10%% discount.
 Buyer also purchased Strings for $14.0.
-Buyer also purchased Strings for $22.0.
-Velma bought a poor condition CDPlayer from Seller 1 for $2.29.
-Seller 2 didn't accept the price, and left the store.
-Velma sold 7 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Buyer 2 purchased Cables for $20.0.
+Buyer 3 purchased Cassette for $5.4 after a 10%% discount.
+Shaggy bought a good condition Cassette from Seller 1 for $30.36.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

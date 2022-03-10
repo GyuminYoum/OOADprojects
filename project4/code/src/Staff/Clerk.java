@@ -311,7 +311,7 @@ public class Clerk extends Staff{
         buy_count+=4;
 
         */
-        if (workingAt.get_daysPassed() != workingAt.get_duration()) {
+        if (workingAt.get_daysPassed() != workingAt.get_duration() - 1) {
             buy_count = (int) countBuyerNumber(3.0);
             sell_count = rng.nextInt(3);
             sell_count += 1;

@@ -1,44 +1,24 @@
-Velma is sick on day 13
-Daphne arrives at the North store on Day 13
-Daphne received Vinyl on day 13
-1 items has been added to the inventory
-There is $2284.72 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 774.64
-Daphne put in order for Bass for $7.39 on day 13
-Daphne put in order for Bass for $6.91 on day 13
-Daphne put in order for Bass for $47.46 on day 13
-Daphne put in order for Strings for $40.15 on day 13
-Daphne put in order for Strings for $3.81 on day 13
-Daphne put in order for Strings for $20.46 on day 13
-Daphne put in order for Saxophone for $36.29 on day 13
-Daphne put in order for Saxophone for $39.47 on day 13
-Daphne put in order for Saxophone for $47.0 on day 13
-Daphne put in order for GigBag for $20.68 on day 13
-Daphne put in order for GigBag for $7.92 on day 13
-Daphne put in order for GigBag for $25.6 on day 13
-Daphne ordered total of 12 items
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne tuned Guitar.
-Daphne has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased CassettePlayer for $37.8 after a 10%% discount.
-Hats out of stock, Buyer 4 left the store.
-Daphne bought a fair condition Shirts from Seller 1 for $55.58 after offering 10%% more.
-Daphne bought a very good condition PracticeAmps from Seller 2 for $39.89.
-Daphne bought a good condition PaperScore from Seller 3 for $41.94.
-Daphne sold 2 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the North store on Day 13
+Shaggy received PracticeAmps on day 13
+Shaggy received Guitar on day 13
+Shaggy received Harmonica on day 13
+Shaggy received Strings on day 13
+4 items has been added to the inventory
+There is $1719.02 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1068.14
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased GigBag for $51.56.
+Buyer 2 purchased Cables for $96.24.
+Shaggy bought a poor condition Vinyl from Seller 1 for $11.05.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a fair condition Saxophone from Seller 3 for $50.96.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

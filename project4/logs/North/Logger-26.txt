@@ -1,38 +1,39 @@
-Freddy arrives at the North store on Day 26
-Freddy received Harmonica on day 26
-Freddy received Mandolin on day 26
-2 items has been added to the inventory
-There is $2788.77 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 1012.04
-Freddy put in order for PracticeAmps for $22.06 on day 26
-Freddy put in order for PracticeAmps for $34.31 on day 26
-Freddy put in order for PracticeAmps for $29.47 on day 26
-Freddy ordered total of 3 items
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy tuned Mandolin.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased PaperScore for $87.37 after a 10%% discount.
-Buyer 2 purchased Strings for $5.0 after a 10%% discount.
-Buyer 3 purchased Guitar for $89.66.
-Buyer also purchased Strings for $99.94.
-Buyer also purchased Strings for $97.42.
-Buyer 4 purchased GigBag for $11.7 after a 10%% discount.
-Buyer 5 purchased Saxophone for $94.02.
-Buyer 6 purchased Mandolin for $88.45 after a 10%% discount.
-Buyer also purchased Cables for $60.76.
-Buyer also purchased Cables for $62.84.
+Velma arrives at the North store on Day 26
+Velma received RecordPlayer on day 26
+Velma received Mandolin on day 26
+Velma received PracticeAmps on day 26
+Velma received PracticeAmps on day 26
+Velma received GigBag on day 26
+5 items has been added to the inventory
+There is $2753.26 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1189.86
+Velma ordered total of 0 items
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Mandolin.
+Velma has damaged 2 items while tuning
+Buyer 1 purchased Vinyl for $97.3.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased Cassette for $28.76 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $26.0.
+Buyer 5 purchased RecordPlayer for $3.81 after a 10%% discount.
+PaperScore was too expensive, Buyer 6 left the store.
+Shirts out of stock, Buyer 7 left the store.
+Buyer 8 purchased MP3 for $44.24.
+Velma bought a good condition MusicCD from Seller 1 for $13.95 after offering 10%% more.
 Seller 2 didn't accept the price, and left the store.
-Freddy sold 12 items.
-Freddy Bought 0 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Velma sold 5 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

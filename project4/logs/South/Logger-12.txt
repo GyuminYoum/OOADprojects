@@ -1,26 +1,36 @@
-Justin arrives at the South store on Day 12
-Justin received Cables on day 12
-Justin received MP3 on day 12
-Justin received GigBag on day 12
+Freddy arrives at the South store on Day 12
+Freddy received Strings on day 12
+Freddy received PracticeAmps on day 12
+Freddy received GigBag on day 12
 3 items has been added to the inventory
-There is $1863.27 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 995.94
-Justin put in order for PracticeAmps for $5.41 on day 12
-Justin put in order for PracticeAmps for $20.38 on day 12
-Justin put in order for PracticeAmps for $14.74 on day 12
-Justin ordered total of 3 items
-Justin adjusted Saxophone.
-Justin has damaged 0 items while tuning
-PracticeAmps out of stock, Buyer 1 left the store.
-Buyer 2 purchased Bandanas for $18.0.
-Buyer 3 purchased PaperScore for $6.0.
-Bandanas out of stock, Buyer 4 left the store.
-Justin bought a good condition CassettePlayer from Seller 1 for $9.73.
-Justin bought a good condition Shirts from Seller 2 for $12.44.
-Justin bought a fair condition Harmonica from Seller 3 for $13.78.
-Justin sold 2 items.
-Justin Bought 3 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1545.94 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1128.45
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $88.98.
+Buyer 2 purchased RecordPlayer for $39.56 after a 10%% discount.
+Buyer 3 purchased Saxophone for $96.0.
+Buyer 4 purchased GigBag for $3.94 after a 10%% discount.
+Saxophone out of stock, Buyer 5 left the store.
+Freddy bought a good condition Strings from Seller 1 for $35.22 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a fair condition PracticeAmps from Seller 3 for $40.18.
+Freddy sold 4 items.
+Freddy Bought 2 items.
+Freddy has damaged a(n) Mandolin.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.

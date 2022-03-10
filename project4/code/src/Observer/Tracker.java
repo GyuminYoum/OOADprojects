@@ -35,13 +35,13 @@ public class Tracker implements Observer{
                     clerk.set_SN(clerk.get_SN() + 1);
                 }
                 case "purchased" -> {
+                    //increment purchased value for Store.get_onShift().get_name()
                     clerk.set_BN(clerk.get_BN() + 1);
                 }
-                //increment purchased value for Store.get_onShift().get_name()
                 case "damaged" -> {
+                    //increment damaged value for Store.get_onShift().get_name()
                     clerk.set_DN(clerk.get_DN() + 1);
                 }
-                //increment damaged value for Store.get_onShift().get_name()
             }
 
         } else {
@@ -51,13 +51,13 @@ public class Tracker implements Observer{
                     clerk.set_SS(clerk.get_SS() + 1);
                 }
                 case "purchased" -> {
+                    //increment purchased value for Store.get_onShift().get_name()
                     clerk.set_BS(clerk.get_BS() + 1);
                 }
-                //increment purchased value for Store.get_onShift().get_name()
                 case "damaged" -> {
+                    //increment damaged value for Store.get_onShift().get_name()
                     clerk.set_DS(clerk.get_DS() + 1);
                 }
-                //increment damaged value for Store.get_onShift().get_name()
             }
         }
     }
@@ -68,7 +68,12 @@ public class Tracker implements Observer{
         //check which Store is calling display()
         if (Objects.equals(Store.get_location(), "North")) {
             System.out.println("North Store");
-            System.out.println("Day: " + days1);
+            //Tracker prints "Final: " instead of the day for the last printed tracker of each store
+            if (Store.get_daysPassed() != Store.get_duration() + 1) {
+                System.out.println("Day: " + days1);
+            } else {
+                System.out.println("Final: ");
+            }
             System.out.println("Clerk | Items Sold | Items Purchased | Items Damaged");
             for (Clerk c : Store.get_ClerkMember()) {
                 //print out the Clerk's soldNorth, boughtNorth, dmgNorth values
@@ -76,7 +81,11 @@ public class Tracker implements Observer{
             }
         } else {
             System.out.println("South Store");
-            System.out.println("Day: " + days1);
+            if (Store.get_daysPassed() != Store.get_duration() + 1) {
+                System.out.println("Day: " + days1);
+            } else {
+                System.out.println("Final: ");
+            }
             System.out.println("Clerk | Items Sold | Items Purchased | Items Damaged");
             for (Clerk c : Store.get_ClerkMember()) {
                 //print out the Clerk's soldSouth, boughtSouth, dmgSouth values

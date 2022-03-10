@@ -1,32 +1,27 @@
 Justin arrives at the South store on Day 9
-Justin received Saxophone on day 9
+Justin received Strings on day 9
 1 items has been added to the inventory
-There is $1783.64 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 878.62
-Justin put in order for Cables for $33.11 on day 9
-Justin put in order for Cables for $3.58 on day 9
-Justin put in order for Cables for $34.08 on day 9
-Justin put in order for Strings for $37.6 on day 9
-Justin put in order for Strings for $7.68 on day 9
-Justin put in order for Strings for $5.09 on day 9
-Justin ordered total of 6 items
-Justin un-adjusted Harmonica.
+There is $1243.5 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1179.13
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
 Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
 Justin adjusted Saxophone.
 Justin has damaged 0 items while tuning
-Bass was too expensive, Buyer 1 left the store.
-Strings out of stock, Buyer 2 left the store.
-Cables out of stock, Buyer 3 left the store.
-Buyer 4 purchased MP3 for $81.0 after a 10%% discount.
-Buyer 5 purchased Guitar for $48.6 after a 10%% discount.
-Buyer 6 purchased MusicCD for $7.56 after a 10%% discount.
-MP3 out of stock, Buyer 7 left the store.
-Justin bought a good condition Bass from Seller 1 for $54.15 after offering 10%% more.
-Justin bought a good condition Vinyl from Seller 2 for $2.19.
-Justin sold 4 items.
+Buyer 1 purchased Bass for $46.0.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 2 purchased MusicCD for $83.62 after a 10%% discount.
+Buyer 3 purchased Bass for $48.0.
+Buyer 4 purchased Saxophone for $84.0.
+Buyer 5 purchased CassettePlayer for $24.0.
+Justin bought a poor condition RecordPlayer from Seller 1 for $27.68 after offering 10%% more.
+Justin bought a poor condition Bandanas from Seller 2 for $39.9.
+Justin sold 7 items.
 Justin Bought 2 items.
-Justin has damaged a(n) Bass.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
 Justin went home for the day.

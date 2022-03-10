@@ -1,38 +1,47 @@
+Justin is sick on day 17
 Freddy arrives at the North store on Day 17
-Freddy received Bass on day 17
-Freddy received Saxophone on day 17
-Freddy received CassettePlayer on day 17
-3 items has been added to the inventory
-There is $2329.29 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 956.63
-Freddy put in order for Cables for $19.69 on day 17
-Freddy put in order for Cables for $16.41 on day 17
-Freddy put in order for Cables for $22.16 on day 17
-Freddy ordered total of 3 items
+Freddy received Cassette on day 17
+1 items has been added to the inventory
+There is $2021.79 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1196.09
+Freddy put in order for RecordPlayer for $34.32 on day 17
+Freddy put in order for RecordPlayer for $17.53 on day 17
+Freddy put in order for RecordPlayer for $33.28 on day 17
+Freddy put in order for Bass for $32.18 on day 17
+Freddy put in order for Bass for $34.86 on day 17
+Freddy put in order for Bass for $31.13 on day 17
+Freddy put in order for GigBag for $23.79 on day 17
+Freddy put in order for GigBag for $16.96 on day 17
+Freddy put in order for GigBag for $33.19 on day 17
+Freddy ordered total of 9 items
 Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
 Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
 Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
 Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
 Freddy has damaged 0 items while tuning
-Saxophone was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Saxophone for $65.32 after a 10%% discount.
-Buyer 3 purchased Saxophone for $75.33 after a 10%% discount.
-Cables out of stock, Buyer 4 left the store.
-Harmonica was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Guitar for $39.74 after a 10%% discount.
-Buyer 7 purchased Vinyl for $43.25 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Freddy bought a poor condition RecordPlayer from Seller 2 for $2.69 after offering 10%% more.
-Freddy sold 4 items.
-Freddy Bought 1 items.
+Buyer 1 purchased Mandolin for $70.0.
+Buyer also purchased Strings for $51.74.
+Buyer also purchased Strings for $68.5.
+Buyer 2 purchased CDPlayer for $72.0.
+Buyer 3 purchased Cables for $55.99 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $21.6 after a 10%% discount.
+Buyer 5 purchased Flute for $39.08.
+Freddy bought a good condition Cassette from Seller 1 for $8.09 after offering 10%% more.
+Freddy bought a fair condition PaperScore from Seller 2 for $35.81.
+Freddy bought a fair condition Cables from Seller 3 for $49.03.
+Freddy sold 7 items.
+Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

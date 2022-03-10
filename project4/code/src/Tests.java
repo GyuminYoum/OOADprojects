@@ -6,7 +6,7 @@ import Store.Store;
 import org.junit.jupiter.api.*;
 
 import java.io.*;
-import java.nio.file.Files;
+//import java.nio.file.Files;
 import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -41,7 +41,7 @@ class Tests {
         }
     }
     */
-    //Before the start of all tests
+    //Before the start of all tests, set System.out to print to TestLogs.txt
     @BeforeAll
     static void init() throws FileNotFoundException {
         //PrintStream and setOut are used to redirect System.out output to the text file
@@ -66,7 +66,7 @@ class Tests {
     @Test
     void get_name(){
         assertEquals("testItem1", item.get_name());
-        //if any of these tests fail, publishEntry will not go through
+        //if any of these tests fail, publishEntry will not go through at that point
         //applicable to all test cases
         testReporter_.publishEntry("Items.get_name() is working correctly. ");
         System.out.println("Items.get_name() is working correctly. ");

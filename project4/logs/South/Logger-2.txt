@@ -1,29 +1,17 @@
 Justin arrives at the South store on Day 2
 0 items has been added to the inventory
-There is $1368.53 in the register
-There are total of 51 items in the inventory.
-All the items in the inventory are worth total of $ 883.75
-Justin put in order for Mandolin for $12.09 on day 2
-Justin put in order for Mandolin for $19.29 on day 2
-Justin put in order for Mandolin for $8.5 on day 2
-Justin put in order for Strings for $9.05 on day 2
-Justin put in order for Strings for $23.24 on day 2
-Justin put in order for Strings for $26.84 on day 2
-Justin ordered total of 6 items
-Justin un-tuned Bass.
-Justin un-adjusted Flute.
-Justinhas damaged a(n) Flute.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased MP3 for $10.0.
-Buyer 2 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 3 purchased CassettePlayer for $26.0.
-Buyer 4 purchased Flute for $82.8 after a 10%% discount.
-Strings out of stock, Buyer 5 left the store.
-Justin bought a fair condition Shirts from Seller 1 for $24.73 after offering 10%% more.
-Justin bought a fair condition Shirts from Seller 2 for $46.02 after offering 10%% more.
-Justin sold 4 items.
+There is $1081.34 in the register
+There are total of 59 items in the inventory.
+All the items in the inventory are worth total of $ 1070.53
+Justin ordered total of 0 items
+Justin un-adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $44.0.
+Buyer 2 purchased RecordPlayer for $22.0.
+Justin bought a good condition Cassette from Seller 1 for $16.37.
+Justin bought a very good condition MusicCD from Seller 2 for $46.46.
+Justin sold 2 items.
 Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.

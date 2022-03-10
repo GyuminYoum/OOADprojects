@@ -1,27 +1,28 @@
-Justin arrives at the South store on Day 20
-Justin received RecordPlayer on day 20
-Justin received Mandolin on day 20
-Justin received GigBag on day 20
-3 items has been added to the inventory
-There is $2723.47 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 919.91
-Justin put in order for PracticeAmps for $15.2 on day 20
-Justin put in order for PracticeAmps for $5.37 on day 20
-Justin put in order for PracticeAmps for $22.66 on day 20
-Justin put in order for Strings for $48.61 on day 20
-Justin put in order for Strings for $36.9 on day 20
-Justin put in order for Strings for $19.45 on day 20
-Justin ordered total of 6 items
-Justin un-adjusted Saxophone.
-Justin un-tuned Bass.
-Justin un-tuned Guitar.
-Justinhas damaged a(n) Guitar.
-Justin un-adjusted Flute.
-Justin un-adjusted Flute.
-Justin un-tuned Mandolin.
-Justinhas damaged a(n) Mandolin.
-Justin has damaged 2 items while tuning
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Velma arrives at the South store on Day 20
+Velma received Harmonica on day 20
+Velma received PaperScore on day 20
+2 items has been added to the inventory
+There is $1867.91 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1431.55
+Velma ordered total of 0 items
+Velma tuned Mandolin.
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma un-adjusted Saxophone.
+Velma un-adjusted Flute.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 2 purchased Mandolin for $52.8.
+Buyer also purchased PracticeAmps for $13.88.
+Buyer 3 purchased Hats for $10.0.
+Buyer 4 purchased Vinyl for $12.6 after a 10%% discount.
+Buyer 5 purchased Mandolin for $40.88.
+Velma bought a poor condition Flute from Seller 1 for $47.27.
+Seller 2 didn't accept the price, and left the store.
+Velma bought a very good condition MusicCD from Seller 3 for $37.99 after offering 10%% more.
+Velma sold 6 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
