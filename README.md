@@ -42,7 +42,7 @@ UML diagram changes:
 Project 4:
 
 Assumptions:
-- The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing the pop-up
+- The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing either pop-up
 - the two stores are not progressing concurrently. This is to say that the code performs 1 action for 1 store and the moves on to the next store to perform the same action.
 - Item sold by user is chosen at random
 - Item bought by user is chosen at random among the items in the store's inventory.
@@ -59,3 +59,4 @@ UML diagram changes:
 - Changed parameters for Writer and Observer methods to keep track of each store separately
 - Added Store attribute to Items
 - Added classes for GuitarKit parts
+- Added methods to GuitarKitFactories
