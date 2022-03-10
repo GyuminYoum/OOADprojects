@@ -18,3 +18,6 @@ Velma tuned Bass.
 Velma un-adjusted Harmonica.
 Velma un-adjusted Harmonica.
 Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

@@ -14,3 +14,6 @@ Justin ordered total of 3 items
 Justin un-tuned Mandolin.
 Justin adjusted Flute.
 Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
