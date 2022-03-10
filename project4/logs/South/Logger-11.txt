@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne arrives at the South store on Day 11
 Daphne received Bass on day 11
 Daphne received CDPlayer on day 11
@@ -32,3 +33,36 @@ Daphne Bought 1 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+=======
+Shaggy arrives at the South store on Day 11
+Shaggy received Cables on day 11
+Shaggy received MP3 on day 11
+2 items has been added to the inventory
+There is $1777.11 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 971.69
+Shaggy put in order for GigBag for $20.43 on day 11
+Shaggy put in order for GigBag for $40.58 on day 11
+Shaggy put in order for GigBag for $6.66 on day 11
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Flute.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $66.0.
+CDPlayer was too expensive, Buyer 2 left the store.
+Buyer 3 purchased MusicCD for $89.44.
+Buyer 4 purchased Bass for $31.68 after a 10%% discount.
+Buyer also purchased PracticeAmps for $21.22.
+Buyer 5 purchased CassettePlayer for $21.6 after a 10%% discount.
+Shaggy bought a fair condition RecordPlayer from Seller 1 for $9.3.
+Shaggy bought a poor condition CassettePlayer from Seller 2 for $50.16.
+Shaggy bought a fair condition Harmonica from Seller 3 for $16.64 after offering 10%% more.
+Shaggy sold 5 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

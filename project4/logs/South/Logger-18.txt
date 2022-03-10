@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne arrives at the South store on Day 18
 Daphne received Vinyl on day 18
 1 items has been added to the inventory
@@ -36,3 +37,28 @@ Daphne has damaged a(n) Bass.
 Daphne damaged an item while cleaning.
 Daphne damaged 1 items while cleaning.
 Daphne went home for the day.
+=======
+Velma arrives at the South store on Day 18
+Velma received PaperScore on day 18
+Velma received Flute on day 18
+2 items has been added to the inventory
+There is $2289.16 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 909.28
+Velma put in order for Mandolin for $33.88 on day 18
+Velma put in order for Mandolin for $1.64 on day 18
+Velma put in order for Mandolin for $17.1 on day 18
+Velma put in order for Cables for $23.0 on day 18
+Velma put in order for Cables for $43.29 on day 18
+Velma put in order for Cables for $31.57 on day 18
+Velma ordered total of 6 items
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma tuned Bass.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

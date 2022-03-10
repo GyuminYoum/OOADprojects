@@ -1,4 +1,5 @@
 Velma arrives at the North store on Day 12
+<<<<<<< HEAD
 Velma received GigBag on day 12
 1 items has been added to the inventory
 There is $1396.62 in the register
@@ -7,10 +8,22 @@ All the items in the inventory are worth total of $ 1156.46
 Velma put in order for Flute for $42.11 on day 12
 Velma put in order for Flute for $3.84 on day 12
 Velma put in order for Flute for $46.96 on day 12
+=======
+Velma received RecordPlayer on day 12
+Velma received Vinyl on day 12
+2 items has been added to the inventory
+There is $1836.66 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1022.88
+Velma put in order for PaperScore for $29.25 on day 12
+Velma put in order for PaperScore for $14.82 on day 12
+Velma put in order for PaperScore for $2.29 on day 12
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
 Velma ordered total of 3 items
 Velma tuned Mandolin.
 Velma adjusted Harmonica.
 Velma un-adjusted Harmonica.
+<<<<<<< HEAD
 Velma has damaged a(n) Harmonica.
 Velma un-adjusted Saxophone.
 Velma tuned Guitar.
@@ -23,6 +36,24 @@ Buyer 3 purchased Mandolin for $70.0.
 Buyer 4 purchased CassettePlayer for $26.0.
 Seller 1 didn't accept the price, and left the store.
 Velma sold 3 items.
+=======
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased Flute for $90.0.
+Buyer 3 purchased Bass for $73.96 after a 10%% discount.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased Strings for $67.76.
+Shirts was too expensive, Buyer 4 left the store.
+Buyer 5 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 6 purchased PracticeAmps for $68.54.
+Buyer 7 purchased Saxophone for $81.78.
+GigBag out of stock, Buyer 8 left the store.
+Buyer 9 purchased Flute for $92.0.
+Velma sold 9 items.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
 Velma Bought 0 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.

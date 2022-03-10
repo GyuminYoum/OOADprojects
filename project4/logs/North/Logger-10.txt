@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the North store on Day 10
 Freddy received Cables on day 10
 1 items has been added to the inventory
@@ -34,3 +35,38 @@ Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Velma arrives at the North store on Day 10
+Velma received Guitar on day 10
+Velma received RecordPlayer on day 10
+2 items has been added to the inventory
+There is $1862.13 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 896.61
+Velma put in order for Vinyl for $11.67 on day 10
+Velma put in order for Vinyl for $38.65 on day 10
+Velma put in order for Vinyl for $24.03 on day 10
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma adjusted Harmonica.
+Velma adjusted Saxophone.
+Velma tuned Mandolin.
+Velma tuned Guitar.
+Velma adjusted Flute.
+Velma tuned Guitar.
+Velma has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Bass was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Cables for $14.13 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $21.6 after a 10%% discount.
+Harmonica was too expensive, Buyer 5 left the store.
+Buyer 6 purchased Cassette for $4.4.
+Seller 1 didn't accept the price, and left the store.
+Velma bought a poor condition MusicCD from Seller 2 for $28.29.
+Velma sold 3 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

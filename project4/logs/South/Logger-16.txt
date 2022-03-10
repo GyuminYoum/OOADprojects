@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 16
 Justin received Harmonica on day 16
 1 items has been added to the inventory
@@ -23,3 +24,44 @@ Justin Bought 0 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Velma arrives at the South store on Day 16
+Velma received GigBag on day 16
+Velma received PaperScore on day 16
+Velma received PaperScore on day 16
+3 items has been added to the inventory
+There is $1871.49 in the register
+There are total of 58 items in the inventory.
+All the items in the inventory are worth total of $ 1108.69
+Velma put in order for Flute for $47.25 on day 16
+Velma put in order for Flute for $21.56 on day 16
+Velma put in order for Flute for $10.65 on day 16
+Velma ordered total of 3 items
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma tuned Mandolin.
+Velma tuned Bass.
+Velma tuned Bass.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged 1 items while tuning
+Flute out of stock, Buyer 1 left the store.
+Buyer 2 purchased PaperScore for $75.22 after a 10%% discount.
+Buyer 3 purchased Bass for $48.0.
+Buyer also purchased GigBag for $81.16.
+Buyer also purchased Cables for $66.24.
+Buyer also purchased Cables for $68.16.
+Buyer also purchased Strings for $10.18.
+Buyer also purchased Strings for $15.36.
+Buyer 4 purchased Vinyl for $9.0 after a 10%% discount.
+Buyer 5 purchased Saxophone for $62.26.
+Buyer 6 purchased CassettePlayer for $30.24 after a 10%% discount.
+Velma bought a good condition Harmonica from Seller 1 for $24.84.
+Velma bought a poor condition Cassette from Seller 2 for $16.79.
+Velma sold 11 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

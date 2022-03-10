@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shaggy arrives at the North store on Day 8
 0 items has been added to the inventory
 There is $1313.7 in the register
@@ -25,3 +26,35 @@ Shaggy has damaged a(n) Saxophone.
 Shaggy damaged an item while cleaning.
 Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.
+=======
+Justin arrives at the North store on Day 8
+Justin received Cables on day 8
+Justin received Guitar on day 8
+Justin received PracticeAmps on day 8
+3 items has been added to the inventory
+There is $1633.97 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 842.66
+Justin put in order for RecordPlayer for $37.35 on day 8
+Justin put in order for RecordPlayer for $34.15 on day 8
+Justin put in order for RecordPlayer for $3.59 on day 8
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin un-adjusted Saxophone.
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $70.54.
+Buyer 2 purchased Bass for $48.0.
+Buyer also purchased GigBag for $12.0.
+Buyer 3 purchased MP3 for $90.0.
+Buyer 4 purchased Saxophone for $84.0.
+Buyer 5 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 6 purchased Vinyl for $14.0.
+Justin bought a very good condition Shirts from Seller 1 for $36.22.
+Justin sold 7 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

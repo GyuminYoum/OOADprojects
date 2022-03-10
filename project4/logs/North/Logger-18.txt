@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Shaggy arrives at the North store on Day 18
 Shaggy received CassettePlayer on day 18
 1 items has been added to the inventory
@@ -28,3 +29,24 @@ Shaggy Bought 1 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.
+=======
+Justin arrives at the North store on Day 18
+Justin received Strings on day 18
+Justin received CassettePlayer on day 18
+Justin received Flute on day 18
+Justin received Cables on day 18
+4 items has been added to the inventory
+There is $2491.98 in the register
+There are total of 41 items in the inventory.
+All the items in the inventory are worth total of $ 949.62
+Justin put in order for Guitar for $16.8 on day 18
+Justin put in order for Guitar for $22.53 on day 18
+Justin put in order for Guitar for $15.47 on day 18
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

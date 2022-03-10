@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Velma arrives at the North store on Day 3
 0 items has been added to the inventory
 There is $1088.15 in the register
@@ -24,3 +25,40 @@ Velma Bought 2 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.
+=======
+Freddy arrives at the North store on Day 3
+0 items has been added to the inventory
+There is $1446.37 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 849.29
+Freddy put in order for Strings for $33.88 on day 3
+Freddy put in order for Strings for $6.47 on day 3
+Freddy put in order for Strings for $20.79 on day 3
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Cables for $27.0 after a 10%% discount.
+Buyer 2 purchased Bass for $41.4 after a 10%% discount.
+Strings out of stock, Buyer 3 left the store.
+Buyer 4 purchased Bandanas for $6.0.
+Freddy bought a good condition Bass from Seller 1 for $45.19 after offering 10%% more.
+Freddy bought a fair condition Harmonica from Seller 2 for $7.67.
+Freddy sold 3 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

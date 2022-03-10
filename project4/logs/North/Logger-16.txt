@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the North store on Day 16
 Freddy received Flute on day 16
 1 items has been added to the inventory
@@ -41,3 +42,40 @@ Freddy Bought 1 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Justin arrives at the North store on Day 16
+Justin received PaperScore on day 16
+Justin received Bass on day 16
+Justin received Saxophone on day 16
+Justin received GigBag on day 16
+Justin received CassettePlayer on day 16
+5 items has been added to the inventory
+There is $2175.31 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 993.55
+Justin put in order for Flute for $24.45 on day 16
+Justin put in order for Flute for $43.19 on day 16
+Justin put in order for Flute for $49.52 on day 16
+Justin ordered total of 3 items
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Cables for $21.38.
+Cables out of stock, Buyer 2 left the store.
+Buyer 3 purchased Bass for $13.82.
+Buyer 4 purchased GigBag for $15.84.
+Buyer 5 purchased Bass for $94.92.
+Buyer also purchased PracticeAmps for $71.96.
+Cables out of stock, Buyer 6 left the store.
+Buyer 7 purchased Guitar for $35.58 after a 10%% discount.
+Buyer also purchased PracticeAmps for $66.3.
+Justin bought a good condition Saxophone from Seller 1 for $46.03 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Justin bought a fair condition RecordPlayer from Seller 3 for $2.61 after offering 10%% more.
+Justin sold 7 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

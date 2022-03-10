@@ -3,6 +3,7 @@ Daphne arrives at the South store on Day 1
 Daphne went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
+<<<<<<< HEAD
 Daphne ordered total of 0 items
 Daphne tuned Guitar.
 Daphne tuned Guitar.
@@ -32,3 +33,43 @@ Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+=======
+Justin ordered total of 0 items
+Justin tuned Guitar.
+Justin tuned Guitar.
+Justin tuned Guitar.
+Justin tuned Bass.
+Justin tuned Bass.
+Justin tuned Mandolin.
+Justin tuned Mandolin.
+Justin tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 2 purchased PaperScore for $10.0.
+Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer also purchased Strings for $7.0.
+Buyer also purchased Strings for $14.0.
+Buyer also purchased Strings for $22.0.
+Buyer 4 purchased Mandolin for $70.0.
+Buyer also purchased GigBag for $11.0.
+Buyer also purchased PracticeAmps for $10.0.
+Buyer also purchased Cables for $10.0.
+Buyer 5 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer also purchased GigBag for $12.0.
+Buyer 6 purchased Flute for $81.0 after a 10%% discount.
+PracticeAmps was too expensive, Buyer 7 left the store.
+Justin bought a very good condition PracticeAmps from Seller 1 for $11.67 after offering 10%% more.
+Justin sold 13 items.
+Justin Bought 1 items.
+Justin has damaged a(n) Cassette.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
+Justin went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

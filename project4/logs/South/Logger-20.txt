@@ -1,4 +1,5 @@
 Justin arrives at the South store on Day 20
+<<<<<<< HEAD
 Justin received Vinyl on day 20
 Justin received PracticeAmps on day 20
 2 items has been added to the inventory
@@ -19,6 +20,31 @@ Buyer also purchased Strings for $80.26.
 Justin bought a good condition CassettePlayer from Seller 1 for $24.22 after offering 10%% more.
 Justin sold 12 items.
 Justin Bought 1 items.
+=======
+Justin received RecordPlayer on day 20
+Justin received Mandolin on day 20
+Justin received GigBag on day 20
+3 items has been added to the inventory
+There is $2723.47 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 919.91
+Justin put in order for PracticeAmps for $15.2 on day 20
+Justin put in order for PracticeAmps for $5.37 on day 20
+Justin put in order for PracticeAmps for $22.66 on day 20
+Justin put in order for Strings for $48.61 on day 20
+Justin put in order for Strings for $36.9 on day 20
+Justin put in order for Strings for $19.45 on day 20
+Justin ordered total of 6 items
+Justin un-adjusted Saxophone.
+Justin un-tuned Bass.
+Justin un-tuned Guitar.
+Justinhas damaged a(n) Guitar.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-tuned Mandolin.
+Justinhas damaged a(n) Mandolin.
+Justin has damaged 2 items while tuning
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.

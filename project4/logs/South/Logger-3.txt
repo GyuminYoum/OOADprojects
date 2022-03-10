@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Justin arrives at the South store on Day 3
 0 items has been added to the inventory
 There is $1054.76 in the register
@@ -23,3 +24,26 @@ Justin Bought 3 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.
 Justin went home for the day.
+=======
+Velma arrives at the South store on Day 3
+Velma received Strings on day 3
+1 items has been added to the inventory
+There is $1398.56 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 868.74
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $21.6 after a 10%% discount.
+Buyer 2 purchased MP3 for $50.0.
+GigBag was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Saxophone for $84.0.
+Velma bought a very good condition Vinyl from Seller 1 for $14.7.
+Velma sold 3 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

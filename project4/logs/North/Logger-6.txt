@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Daphne arrives at the North store on Day 6
 0 items has been added to the inventory
 There is $1261.45 in the register
@@ -35,3 +36,49 @@ Daphne Bought 2 items.
 Daphne cleaned the store without breaking anything.
 Daphne damaged 0 items while cleaning.
 Daphne went home for the day.
+=======
+Freddy arrives at the North store on Day 6
+Freddy received Strings on day 6
+Freddy received Cables on day 6
+2 items has been added to the inventory
+There is $1732.31 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 762.48
+Freddy put in order for Guitar for $22.08 on day 6
+Freddy put in order for Guitar for $35.27 on day 6
+Freddy put in order for Guitar for $19.77 on day 6
+Freddy put in order for PracticeAmps for $33.15 on day 6
+Freddy put in order for PracticeAmps for $34.27 on day 6
+Freddy put in order for PracticeAmps for $35.97 on day 6
+Freddy ordered total of 6 items
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $50.0.
+Buyer 2 purchased Shirts for $9.0.
+Buyer 3 purchased Cassette for $7.38 after a 10%% discount.
+Buyer 4 purchased RecordPlayer for $44.0.
+Buyer 5 purchased CDPlayer for $21.6 after a 10%% discount.
+Buyer 6 purchased RecordPlayer for $19.8 after a 10%% discount.
+Buyer 7 purchased Vinyl for $10.8 after a 10%% discount.
+Freddy bought a good condition CDPlayer from Seller 1 for $2.2.
+Freddy bought a good condition CDPlayer from Seller 2 for $45.99 after offering 10%% more.
+Freddy bought a poor condition MP3 from Seller 3 for $32.22.
+Freddy sold 7 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9

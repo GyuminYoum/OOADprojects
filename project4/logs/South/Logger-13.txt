@@ -1,4 +1,5 @@
 Shaggy arrives at the South store on Day 13
+<<<<<<< HEAD
 Shaggy received Bass on day 13
 Shaggy received CDPlayer on day 13
 Shaggy received Harmonica on day 13
@@ -22,6 +23,30 @@ Hats out of stock, Buyer 3 left the store.
 Shaggy bought a good condition CDPlayer from Seller 1 for $27.77 after offering 10%% more.
 Shaggy bought a fair condition MP3 from Seller 2 for $7.88.
 Shaggy sold 1 items.
+=======
+Shaggy received Strings on day 13
+Shaggy received GigBag on day 13
+2 items has been added to the inventory
+There is $1810.78 in the register
+There are total of 53 items in the inventory.
+All the items in the inventory are worth total of $ 1048.0
+Shaggy put in order for PaperScore for $12.32 on day 13
+Shaggy put in order for PaperScore for $21.31 on day 13
+Shaggy put in order for PaperScore for $24.59 on day 13
+Shaggy ordered total of 3 items
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy adjusted Flute.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased RecordPlayer for $44.0.
+Buyer 2 purchased CDPlayer for $48.0.
+Buyer 3 purchased Mandolin for $15.3 after a 10%% discount.
+PracticeAmps out of stock, Buyer 4 left the store.
+Shaggy bought a fair condition PaperScore from Seller 1 for $41.79.
+Shaggy bought a poor condition Shirts from Seller 2 for $20.98.
+Shaggy sold 3 items.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
 Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.

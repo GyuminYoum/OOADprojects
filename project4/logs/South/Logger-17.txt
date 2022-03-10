@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Freddy arrives at the South store on Day 17
 Freddy received GigBag on day 17
 1 items has been added to the inventory
@@ -35,3 +36,33 @@ Freddy Bought 2 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.
+=======
+Shaggy arrives at the South store on Day 17
+Shaggy received PracticeAmps on day 17
+Shaggy received Flute on day 17
+2 items has been added to the inventory
+There is $2216.21 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 948.8
+Shaggy put in order for Strings for $8.59 on day 17
+Shaggy put in order for Strings for $44.48 on day 17
+Shaggy put in order for Strings for $44.84 on day 17
+Shaggy ordered total of 3 items
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $22.0.
+Buyer 2 purchased Cables for $6.44 after a 10%% discount.
+Buyer 3 purchased Mandolin for $38.58.
+Buyer 4 purchased Guitar for $34.0.
+Buyer also purchased GigBag for $40.86.
+Buyer 5 purchased CDPlayer for $64.8 after a 10%% discount.
+Bandanas out of stock, Buyer 6 left the store.
+Shaggy bought a fair condition Cassette from Seller 1 for $35.82 after offering 10%% more.
+Shaggy sold 10 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
+>>>>>>> 14b377800672b3e85dfc2b9e4d865868163069a9
