@@ -42,6 +42,7 @@ UML diagram changes:
 Project 4:
 
 Assumptions:
+- The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing the pop-up
 
 UML diagram changes:
 - Added Chart class to generate charts
