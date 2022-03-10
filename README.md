@@ -42,15 +42,18 @@ UML diagram changes:
 Project 4:
 
 Assumptions:
-- The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing either pop-up
-- the two stores are not progressing concurrently. This is to say that the code performs 1 action for 1 store and the moves on to the next store to perform the same action.
-- Item sold by user is chosen at random
+- The extra credit charts pop up after the user chooses to end interaction, closing one pop-up closes both charts so look at both before closing either pop-up.
+- The two stores are not progressing concurrently. This is to say that the code performs 1 action for 1 store and the moves on to the next store to perform the same action.
+- Item sold by user is chosen at random.
 - Item bought by user is chosen at random among the items in the store's inventory.
-- the duration is randomly determined. 
-- the duration of the store simulation can't end on any number divisible by 7 because user can't come in to the store on a sunday, so in such case get another random number between 10-30.
-- askTime returns real time in mountain time
-- commands won't work unless the store is specified by the user (no default store).
-- Since the chart was an extra credit opportunity, all the relevent arrayLists used to store necessary data are not included in the uml diagram
+- The duration is randomly determined. 
+- The duration of the store simulation can't end on any number divisible by 7 because user can't come in to the store on a Sunday, so in such case get another random number between 10-30.
+- askTime returns real time in Mountain time.
+- Commands won't work unless the store is specified by the user (no default store).
+- Since the chart was an extra credit opportunity, all the relevent arrayLists used to store necessary data are not included in the UML diagram.
+- The last tracker to be printed by each store has the header "Final: " instead of "Day #: " to indicate that those are the final values for the tracker.
+  - The trackers printed in the final summary will also say "Final: " 
+- Tracker is eager loaded, logger is lazy loaded 
 
 
 UML diagram changes:
