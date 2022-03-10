@@ -1,17 +1,36 @@
-Justin arrives at the South store on Day 12
-Justin received Vinyl on day 12
-Justin received PracticeAmps on day 12
-2 items has been added to the inventory
-There is $1943.41 in the register
-There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 938.12
-Justin put in order for CDPlayer for $50.1 on day 12
-Justin put in order for CDPlayer for $16.13 on day 12
-Justin put in order for CDPlayer for $15.06 on day 12
-Justin ordered total of 3 items
-Justin un-adjusted Flute.
-Justin un-tuned Guitar.
-Justin has damaged 0 items while tuning
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Freddy arrives at the South store on Day 12
+Freddy received Strings on day 12
+Freddy received PracticeAmps on day 12
+Freddy received GigBag on day 12
+3 items has been added to the inventory
+There is $1545.94 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1128.45
+Freddy ordered total of 0 items
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $88.98.
+Buyer 2 purchased RecordPlayer for $39.56 after a 10%% discount.
+Buyer 3 purchased Saxophone for $96.0.
+Buyer 4 purchased GigBag for $3.94 after a 10%% discount.
+Saxophone out of stock, Buyer 5 left the store.
+Freddy bought a good condition Strings from Seller 1 for $35.22 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a fair condition PracticeAmps from Seller 3 for $40.18.
+Freddy sold 4 items.
+Freddy Bought 2 items.
+Freddy has damaged a(n) Mandolin.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.

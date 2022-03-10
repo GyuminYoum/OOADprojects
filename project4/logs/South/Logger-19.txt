@@ -1,32 +1,17 @@
-Shaggy arrives at the South store on Day 19
-Shaggy received Flute on day 19
-Shaggy received CDPlayer on day 19
-2 items has been added to the inventory
-There is $2354.46 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 911.09
-Shaggy put in order for MusicCD for $39.07 on day 19
-Shaggy put in order for MusicCD for $50.61 on day 19
-Shaggy put in order for MusicCD for $35.6 on day 19
-Shaggy put in order for PracticeAmps for $11.43 on day 19
-Shaggy put in order for PracticeAmps for $45.35 on day 19
-Shaggy put in order for PracticeAmps for $18.1 on day 19
-Shaggy put in order for Cables for $7.84 on day 19
-Shaggy put in order for Cables for $10.07 on day 19
-Shaggy put in order for Cables for $4.87 on day 19
-Shaggy ordered total of 9 items
-Shaggy adjusted Saxophone.
-Shaggy un-tuned Guitar.
-Shaggy adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Vinyl was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Cassette for $6.0.
-PracticeAmps out of stock, Buyer 3 left the store.
-Shaggy bought a fair condition CassettePlayer from Seller 1 for $46.16.
-Shaggy bought a good condition MP3 from Seller 2 for $35.14 after offering 10%% more.
-Shaggy bought a good condition Harmonica from Seller 3 for $3.67 after offering 10%% more.
-Shaggy sold 1 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 19
+Justin received CDPlayer on day 19
+Justin received Harmonica on day 19
+Justin received PaperScore on day 19
+3 items has been added to the inventory
+There is $1926.07 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1347.43
+Justin put in order for Cables for $6.63 on day 19
+Justin put in order for Cables for $11.39 on day 19
+Justin put in order for Cables for $40.13 on day 19
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

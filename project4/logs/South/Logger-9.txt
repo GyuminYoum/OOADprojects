@@ -1,27 +1,26 @@
 Justin arrives at the South store on Day 9
-0 items has been added to the inventory
-There is $1418.35 in the register
+Justin received Strings on day 9
+1 items has been added to the inventory
+There is $1243.5 in the register
 There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 995.5
-Justin put in order for Vinyl for $7.73 on day 9
-Justin put in order for Vinyl for $41.21 on day 9
-Justin put in order for Vinyl for $10.18 on day 9
-Justin ordered total of 3 items
-Justin un-tuned Bass.
-Justinhas damaged a(n) Bass.
-Justin un-adjusted Harmonica.
-Justin un-adjusted Saxophone.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased RecordPlayer for $44.0.
-Buyer 2 purchased Saxophone for $90.0.
-Buyer 3 purchased MusicCD for $7.56 after a 10%% discount.
-Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
-Buyer also purchased PracticeAmps for $30.0.
-Buyer 5 purchased Strings for $45.66 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Justin bought a fair condition CassettePlayer from Seller 2 for $37.69.
-Justin bought a good condition CassettePlayer from Seller 3 for $46.26.
-Justin sold 6 items.
+All the items in the inventory are worth total of $ 1179.13
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Bass for $46.0.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 2 purchased MusicCD for $83.62 after a 10%% discount.
+Buyer 3 purchased Bass for $48.0.
+Buyer 4 purchased Saxophone for $84.0.
+Buyer 5 purchased CassettePlayer for $24.0.
+Justin bought a poor condition RecordPlayer from Seller 1 for $27.68 after offering 10%% more.
+Justin bought a poor condition Bandanas from Seller 2 for $39.9.
+Justin sold 7 items.
 Justin Bought 2 items.
 Justin cleaned the store without breaking anything.
 Justin damaged 0 items while cleaning.

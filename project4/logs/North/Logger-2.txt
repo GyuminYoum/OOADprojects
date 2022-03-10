@@ -1,25 +1,29 @@
-Justin arrives at the North store on Day 2
+Shaggy arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1093.16 in the register
-There are total of 60 items in the inventory.
-All the items in the inventory are worth total of $ 1025.71
-Justin ordered total of 0 items
-Justin un-adjusted Harmonica.
-Justinhas damaged a(n) Harmonica.
-Justin un-adjusted Harmonica.
-Justinhas damaged a(n) Harmonica.
-Justin un-adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin has damaged 2 items while tuning
-Buyer 1 purchased Cables for $20.0.
-Buyer 2 purchased Shirts for $8.0.
-Buyer 3 purchased Guitar for $54.0.
-Buyer also purchased Strings for $7.0.
-Justin bought a good condition MusicCD from Seller 1 for $43.29.
-Justin bought a fair condition MusicCD from Seller 2 for $4.38.
-Justin sold 4 items.
-Justin Bought 2 items.
-Justin has damaged a(n) Saxophone.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
-Justin went home for the day.
+There is $1158.15 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1028.72
+Shaggy ordered total of 0 items
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bass for $39.6 after a 10%% discount.
+Buyer also purchased Strings for $14.0.
+Buyer 2 purchased Cables for $20.0.
+Buyer 3 purchased Cassette for $5.4 after a 10%% discount.
+Shaggy bought a good condition Cassette from Seller 1 for $30.36.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,31 +1,41 @@
-Shaggy arrives at the North store on Day 9
-Shaggy received MP3 on day 9
-Shaggy received Mandolin on day 9
-Shaggy received PracticeAmps on day 9
-Shaggy received Cables on day 9
-Shaggy received Strings on day 9
-Shaggy received Strings on day 9
-6 items has been added to the inventory
-There is $1644.26 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 802.74
-Shaggy ordered total of 0 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Cables for $52.59 after a 10%% discount.
-Buyer 2 purchased Mandolin for $10.98.
-Buyer also purchased GigBag for $13.0.
-Buyer also purchased Strings for $84.34.
-Buyer also purchased Strings for $24.98.
-Buyer 3 purchased Shirts for $10.0.
-Buyer 4 purchased PracticeAmps for $32.28.
-Buyer 5 purchased Guitar for $34.0.
-Buyer 6 purchased Vinyl for $12.0.
-Seller 1 didn't accept the price, and left the store.
-Shaggy sold 13 items.
-Shaggy Bought 0 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Daphne arrives at the North store on Day 9
+Daphne received Strings on day 9
+1 items has been added to the inventory
+There is $1893.28 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 725.16
+Daphne put in order for PracticeAmps for $11.75 on day 9
+Daphne put in order for PracticeAmps for $33.67 on day 9
+Daphne put in order for PracticeAmps for $43.73 on day 9
+Daphne put in order for Cables for $3.94 on day 9
+Daphne put in order for Cables for $48.12 on day 9
+Daphne put in order for Cables for $31.11 on day 9
+Daphne put in order for GigBag for $47.99 on day 9
+Daphne put in order for GigBag for $29.81 on day 9
+Daphne put in order for GigBag for $25.78 on day 9
+Daphne ordered total of 9 items
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $34.08.
+Buyer 2 purchased Harmonica for $36.0 after a 10%% discount.
+Buyer 3 purchased Flute for $92.0.
+Buyer 4 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 5 purchased Strings for $9.14 after a 10%% discount.
+Daphne bought a fair condition Vinyl from Seller 1 for $29.37 after offering 10%% more.
+Daphne bought a poor condition Vinyl from Seller 2 for $42.98.
+Daphne bought a poor condition Hats from Seller 3 for $24.12.
+Daphne sold 7 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

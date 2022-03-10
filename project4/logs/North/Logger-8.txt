@@ -1,44 +1,29 @@
-Shaggy arrives at the North store on Day 8
-Shaggy received Cassette on day 8
-1 items has been added to the inventory
-There is $1818.63 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 773.87
-Shaggy put in order for MP3 for $2.06 on day 8
-Shaggy put in order for MP3 for $6.39 on day 8
-Shaggy put in order for MP3 for $40.1 on day 8
-Shaggy put in order for Mandolin for $5.49 on day 8
-Shaggy put in order for Mandolin for $20.79 on day 8
-Shaggy put in order for Mandolin for $41.3 on day 8
-Shaggy put in order for PracticeAmps for $16.14 on day 8
-Shaggy put in order for PracticeAmps for $6.98 on day 8
-Shaggy put in order for PracticeAmps for $13.57 on day 8
-Shaggy put in order for Cables for $29.22 on day 8
-Shaggy put in order for Cables for $3.69 on day 8
-Shaggy put in order for Cables for $46.42 on day 8
-Shaggy put in order for Strings for $42.17 on day 8
-Shaggy put in order for Strings for $47.78 on day 8
-Shaggy put in order for Strings for $12.49 on day 8
-Shaggy ordered total of 15 items
-Shaggy un-tuned Guitar.
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Saxophone.
-Shaggyhas damaged a(n) Saxophone.
-Shaggy un-adjusted Saxophone.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased CassettePlayer for $26.0.
-Buyer 2 purchased Hats for $9.0 after a 10%% discount.
-Mandolin out of stock, Buyer 3 left the store.
-CassettePlayer was too expensive, Buyer 4 left the store.
-Bandanas was too expensive, Buyer 5 left the store.
-Buyer 6 purchased Bass for $41.4 after a 10%% discount.
-Buyer 7 purchased Vinyl for $10.0.
-Buyer 8 purchased Flute for $82.8 after a 10%% discount.
-PracticeAmps out of stock, Buyer 9 left the store.
-Cables out of stock, Buyer 10 left the store.
-Shaggy bought a good condition Harmonica from Seller 1 for $8.97 after offering 10%% more.
-Shaggy sold 7 items.
-Shaggy Bought 1 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the North store on Day 8
+0 items has been added to the inventory
+There is $1586.82 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 896.61
+Justin put in order for Strings for $14.35 on day 8
+Justin put in order for Strings for $5.08 on day 8
+Justin put in order for Strings for $33.03 on day 8
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Harmonica.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $66.6 after a 10%% discount.
+Buyer 2 purchased Mandolin for $74.0.
+Buyer also purchased GigBag for $12.0.
+Buyer also purchased Cables for $30.0.
+Buyer also purchased Cables for $74.84.
+Buyer 3 purchased Guitar for $21.32.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 4 purchased Harmonica for $34.2 after a 10%% discount.
+Justin bought a very good condition Guitar from Seller 1 for $17.04.
+Seller 2 didn't accept the price, and left the store.
+Justin sold 19 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

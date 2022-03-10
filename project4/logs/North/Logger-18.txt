@@ -1,27 +1,29 @@
 Justin arrives at the North store on Day 18
 Justin received RecordPlayer on day 18
-Justin received Cables on day 18
-Justin received Cables on day 18
-Justin received Saxophone on day 18
-4 items has been added to the inventory
-There is $2375.45 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1007.25
-Justin ordered total of 0 items
-Justin adjusted Flute.
+Justin received Bass on day 18
+Justin received GigBag on day 18
+3 items has been added to the inventory
+There is $2050.5 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1181.39
+Justin put in order for CDPlayer for $37.35 on day 18
+Justin put in order for CDPlayer for $40.14 on day 18
+Justin put in order for CDPlayer for $46.07 on day 18
+Justin ordered total of 3 items
 Justin un-tuned Mandolin.
-Justin un-tuned Guitar.
-Justin adjusted Harmonica.
+Justin un-tuned Mandolin.
+Justin un-tuned Bass.
 Justin has damaged 0 items while tuning
-RecordPlayer was too expensive, Buyer 1 left the store.
-Buyer 2 purchased Vinyl for $14.0.
-Shirts out of stock, Buyer 3 left the store.
-Buyer 4 purchased PracticeAmps for $14.48.
-Justin bought a poor condition MusicCD from Seller 1 for $31.0.
-Justin bought a fair condition MusicCD from Seller 2 for $11.92.
-Seller 3 didn't accept the price, and left the store.
-Justin sold 2 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
+Buyer 1 purchased PracticeAmps for $23.5.
+Buyer 2 purchased Saxophone for $101.92.
+Buyer 3 purchased GigBag for $30.52 after a 10%% discount.
+Buyer 4 purchased Bass for $69.73.
+Buyer also purchased PracticeAmps for $67.34.
+PracticeAmps out of stock, Buyer 5 left the store.
+Justin bought a poor condition Bandanas from Seller 1 for $10.26 after offering 10%% more.
+Justin sold 5 items.
+Justin Bought 1 items.
+Justin has damaged a(n) Guitar.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
 Justin went home for the day.

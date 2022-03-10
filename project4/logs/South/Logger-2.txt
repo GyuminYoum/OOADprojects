@@ -1,27 +1,18 @@
-Daphne is sick on day 2
-Velma arrives at the South store on Day 2
+Justin arrives at the South store on Day 2
 0 items has been added to the inventory
-There is $1047.44 in the register
-There are total of 62 items in the inventory.
-All the items in the inventory are worth total of $ 1065.43
-Velma ordered total of 0 items
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma tuned Mandolin.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma un-adjusted Harmonica.
-Velma has damaged 0 items while tuning
-Bandanas was too expensive, Buyer 1 left the store.
-Buyer 2 purchased CDPlayer for $24.0.
-CassettePlayer was too expensive, Buyer 3 left the store.
-Buyer 4 purchased RecordPlayer for $66.0.
-Velma bought a very good condition Strings from Seller 1 for $25.37.
-Velma bought a very good condition RecordPlayer from Seller 2 for $23.6.
-Velma sold 2 items.
-Velma Bought 2 items.
-Velma has damaged a(n) Mandolin.
-Velma damaged an item while cleaning.
-Velma damaged 1 items while cleaning.
-Velma went home for the day.
+There is $1081.34 in the register
+There are total of 59 items in the inventory.
+All the items in the inventory are worth total of $ 1070.53
+Justin ordered total of 0 items
+Justin un-adjusted Saxophone.
+Justin un-adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased RecordPlayer for $44.0.
+Buyer 2 purchased RecordPlayer for $22.0.
+Justin bought a good condition Cassette from Seller 1 for $16.37.
+Justin bought a very good condition MusicCD from Seller 2 for $46.46.
+Justin sold 2 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

@@ -1,38 +1,38 @@
 Freddy arrives at the North store on Day 16
-Freddy received PracticeAmps on day 16
-Freddy received RecordPlayer on day 16
 Freddy received Guitar on day 16
-Freddy received Cassette on day 16
 Freddy received Strings on day 16
-5 items has been added to the inventory
-There is $2454.19 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 836.47
+2 items has been added to the inventory
+There is $1830.51 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1207.54
 Freddy ordered total of 0 items
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
 Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
 Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
 Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
 Freddy tuned Guitar.
 Freddy has damaged 0 items while tuning
-Cables was too expensive, Buyer 1 left the store.
-Buyer 2 purchased PaperScore for $6.0.
-Buyer 3 purchased Saxophone for $96.0.
-Buyer 4 purchased Cables for $10.1.
-Bandanas out of stock, Buyer 5 left the store.
-Buyer 6 purchased CDPlayer for $57.72.
-Hats out of stock, Buyer 7 left the store.
-Freddy bought a good condition PaperScore from Seller 1 for $24.03 after offering 10%% more.
-Freddy sold 4 items.
-Freddy Bought 1 items.
+Buyer 1 purchased GigBag for $53.65 after a 10%% discount.
+Buyer 2 purchased Hats for $27.0 after a 10%% discount.
+Buyer 3 purchased RecordPlayer for $13.86 after a 10%% discount.
+Buyer 4 purchased Bass for $76.95.
+Buyer 5 purchased Saxophone for $61.96.
+Buyer 6 purchased PracticeAmps for $78.71 after a 10%% discount.
+Freddy bought a poor condition Vinyl from Seller 1 for $48.59 after offering 10%% more.
+Freddy bought a very good condition Flute from Seller 2 for $45.17.
+Freddy bought a very good condition MusicCD from Seller 3 for $27.08.
+Freddy sold 6 items.
+Freddy Bought 3 items.
 Freddy cleaned the store without breaking anything.
 Freddy damaged 0 items while cleaning.
 Freddy went home for the day.

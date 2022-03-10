@@ -1,39 +1,24 @@
-Daphne arrives at the North store on Day 13
-Daphne received RecordPlayer on day 13
-Daphne received CDPlayer on day 13
-Daphne received Flute on day 13
-Daphne received Flute on day 13
+Shaggy arrives at the North store on Day 13
+Shaggy received PracticeAmps on day 13
+Shaggy received Guitar on day 13
+Shaggy received Harmonica on day 13
+Shaggy received Strings on day 13
 4 items has been added to the inventory
-There is $1645.55 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 1071.52
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 2 purchased MusicCD for $8.4.
-Buyer 3 purchased CassettePlayer for $47.74.
-Buyer 4 purchased Hats for $20.0.
-Buyer 5 purchased Hats for $10.0.
-Daphne bought a very good condition Saxophone from Seller 1 for $23.59.
-Daphne sold 5 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1719.02 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1068.14
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased GigBag for $51.56.
+Buyer 2 purchased Cables for $96.24.
+Shaggy bought a poor condition Vinyl from Seller 1 for $11.05.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a fair condition Saxophone from Seller 3 for $50.96.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

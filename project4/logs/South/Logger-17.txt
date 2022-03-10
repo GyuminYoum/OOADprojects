@@ -1,29 +1,37 @@
-Justin arrives at the South store on Day 17
-Justin received Cables on day 17
-Justin received PracticeAmps on day 17
-Justin received Flute on day 17
+Daphne arrives at the South store on Day 17
+Daphne received Saxophone on day 17
+Daphne received CDPlayer on day 17
+Daphne received GigBag on day 17
 3 items has been added to the inventory
-There is $2189.53 in the register
+There is $1723.13 in the register
 There are total of 46 items in the inventory.
-All the items in the inventory are worth total of $ 963.75
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin un-adjusted Harmonica.
-Justin adjusted Harmonica.
-Justin adjusted Saxophone.
-Justin adjusted Saxophone.
-Justin un-adjusted Flute.
-Justin adjusted Saxophone.
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $38.64.
-Buyer 2 purchased CDPlayer for $64.8 after a 10%% discount.
-Buyer 3 purchased Bass for $57.94.
-Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
-Justin bought a fair condition PaperScore from Seller 1 for $30.27.
-Justin sold 4 items.
-Justin Bought 1 items.
-Justin has thrown away a(n) PaperScore due to less than poor condition.
-Justin damaged an item while cleaning.
-Justin damaged 1 items while cleaning.
-Justin went home for the day.
+All the items in the inventory are worth total of $ 1259.45
+Daphne put in order for PaperScore for $26.51 on day 17
+Daphne put in order for PaperScore for $50.65 on day 17
+Daphne put in order for PaperScore for $11.62 on day 17
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased PracticeAmps for $101.02.
+Buyer 2 purchased Saxophone for $80.74 after a 10%% discount.
+Buyer 3 purchased Cassette for $4.4.
+Seller 1 didn't accept the price, and left the store.
+Daphne bought a good condition Flute from Seller 2 for $50.1.
+Daphne bought a poor condition Bandanas from Seller 3 for $30.16 after offering 10%% more.
+Daphne sold 3 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

@@ -1,36 +1,47 @@
-Shaggy arrives at the North store on Day 17
-Shaggy received Mandolin on day 17
-Shaggy received Guitar on day 17
-Shaggy received Strings on day 17
-3 items has been added to the inventory
-There is $2599.98 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 876.87
-Shaggy put in order for CDPlayer for $31.81 on day 17
-Shaggy put in order for CDPlayer for $33.06 on day 17
-Shaggy put in order for CDPlayer for $47.42 on day 17
-Shaggy put in order for Cables for $48.12 on day 17
-Shaggy put in order for Cables for $40.21 on day 17
-Shaggy put in order for Cables for $29.78 on day 17
-Shaggy put in order for Saxophone for $39.22 on day 17
-Shaggy put in order for Saxophone for $45.09 on day 17
-Shaggy put in order for Saxophone for $19.88 on day 17
-Shaggy ordered total of 9 items
-Shaggy un-adjusted Flute.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Buyer 2 purchased GigBag for $9.9 after a 10%% discount.
-Buyer 3 purchased Shirts for $16.7 after a 10%% discount.
-Buyer 4 purchased MP3 for $82.98.
-Buyer 5 purchased Bass for $48.0.
-Buyer also purchased Strings for $27.14.
-Shirts out of stock, Buyer 6 left the store.
-Shaggy bought a very good condition RecordPlayer from Seller 1 for $24.91.
-Shaggy bought a good condition PracticeAmps from Seller 2 for $36.6.
-Shaggy bought a very good condition Harmonica from Seller 3 for $13.14 after offering 10%% more.
-Shaggy sold 5 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin is sick on day 17
+Freddy arrives at the North store on Day 17
+Freddy received Cassette on day 17
+1 items has been added to the inventory
+There is $2021.79 in the register
+There are total of 50 items in the inventory.
+All the items in the inventory are worth total of $ 1196.09
+Freddy put in order for RecordPlayer for $34.32 on day 17
+Freddy put in order for RecordPlayer for $17.53 on day 17
+Freddy put in order for RecordPlayer for $33.28 on day 17
+Freddy put in order for Bass for $32.18 on day 17
+Freddy put in order for Bass for $34.86 on day 17
+Freddy put in order for Bass for $31.13 on day 17
+Freddy put in order for GigBag for $23.79 on day 17
+Freddy put in order for GigBag for $16.96 on day 17
+Freddy put in order for GigBag for $33.19 on day 17
+Freddy ordered total of 9 items
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer also purchased Strings for $51.74.
+Buyer also purchased Strings for $68.5.
+Buyer 2 purchased CDPlayer for $72.0.
+Buyer 3 purchased Cables for $55.99 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $21.6 after a 10%% discount.
+Buyer 5 purchased Flute for $39.08.
+Freddy bought a good condition Cassette from Seller 1 for $8.09 after offering 10%% more.
+Freddy bought a fair condition PaperScore from Seller 2 for $35.81.
+Freddy bought a fair condition Cables from Seller 3 for $49.03.
+Freddy sold 7 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

@@ -1,32 +1,28 @@
-Freddy is sick on day 12
-Daphne arrives at the North store on Day 12
-Daphne received RecordPlayer on day 12
-Daphne received GigBag on day 12
-Daphne received CDPlayer on day 12
-3 items has been added to the inventory
-There is $1712.44 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 956.4
-Daphne put in order for Flute for $16.96 on day 12
-Daphne put in order for Flute for $2.95 on day 12
-Daphne put in order for Flute for $46.98 on day 12
-Daphne ordered total of 3 items
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the North store on Day 12
+Justin received PracticeAmps on day 12
+Justin received Cables on day 12
+Justin received GigBag on day 12
+Justin received Guitar on day 12
+4 items has been added to the inventory
+There is $1783.84 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 922.93
+Justin put in order for Strings for $30.27 on day 12
+Justin put in order for Strings for $25.87 on day 12
+Justin put in order for Strings for $34.25 on day 12
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $8.19.
+Buyer 2 purchased Harmonica for $13.56.
+Buyer 3 purchased RecordPlayer for $19.8 after a 10%% discount.
+Vinyl was too expensive, Buyer 4 left the store.
+Seller 1 didn't accept the price, and left the store.
+Justin bought a fair condition Harmonica from Seller 2 for $9.41.
+Justin bought a very good condition Vinyl from Seller 3 for $6.57 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

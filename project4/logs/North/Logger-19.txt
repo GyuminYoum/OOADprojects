@@ -1,40 +1,19 @@
-Daphne arrives at the North store on Day 19
-Daphne received Strings on day 19
-Daphne received CDPlayer on day 19
-Daphne received Saxophone on day 19
+Shaggy arrives at the North store on Day 19
+Shaggy received RecordPlayer on day 19
+Shaggy received GigBag on day 19
+Shaggy received CDPlayer on day 19
 3 items has been added to the inventory
-There is $2361.0 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 1135.77
-Daphne ordered total of 0 items
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Mandolin.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $29.0.
-Buyer 2 purchased RecordPlayer for $85.18.
-Buyer 3 purchased Mandolin for $45.12.
-Buyer also purchased GigBag for $12.0.
-Buyer also purchased PracticeAmps for $84.44.
-Buyer also purchased Cables for $96.24.
-Buyer also purchased Strings for $41.18.
-Buyer also purchased Strings for $93.8.
-Daphne bought a very good condition CDPlayer from Seller 1 for $51.84 after offering 10%% more.
-Daphne sold 8 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $2209.68 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1137.87
+Shaggy put in order for PracticeAmps for $9.88 on day 19
+Shaggy put in order for PracticeAmps for $8.0 on day 19
+Shaggy put in order for PracticeAmps for $27.88 on day 19
+Shaggy put in order for Saxophone for $49.66 on day 19
+Shaggy put in order for Saxophone for $45.25 on day 19
+Shaggy put in order for Saxophone for $22.88 on day 19
+Shaggy ordered total of 6 items
+Shaggy has damaged 0 items while tuning
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

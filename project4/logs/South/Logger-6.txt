@@ -1,38 +1,27 @@
-Freddy arrives at the South store on Day 6
-0 items has been added to the inventory
-There is $1245.21 in the register
-There are total of 57 items in the inventory.
-All the items in the inventory are worth total of $ 1027.46
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Shirts for $8.0.
-Buyer 2 purchased Flute for $82.8 after a 10%% discount.
-Mandolin was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Harmonica for $38.0.
-Strings was too expensive, Buyer 5 left the store.
-Freddy bought a fair condition Hats from Seller 1 for $25.39.
-Freddy bought a poor condition Cassette from Seller 2 for $11.41.
-Seller 3 didn't accept the price, and left the store.
-Freddy sold 3 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the South store on Day 6
+Shaggy received RecordPlayer on day 6
+1 items has been added to the inventory
+There is $1319.34 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1022.61
+Shaggy ordered total of 0 items
+Shaggy un-tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy un-adjusted Saxophone.
+Shaggy un-tuned Mandolin.
+Shaggy un-adjusted Flute.
+Shaggyhas damaged a(n) Flute.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased GigBag for $12.0.
+Buyer 2 purchased Strings for $54.28.
+Buyer 3 purchased Cassette for $8.19.
+Shaggy bought a fair condition Cables from Seller 1 for $45.63 after offering 10%% more.
+Shaggy bought a poor condition MusicCD from Seller 2 for $8.62 after offering 10%% more.
+Shaggy bought a poor condition RecordPlayer from Seller 3 for $44.49.
+Shaggy sold 3 items.
+Shaggy Bought 3 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

@@ -1,22 +1,23 @@
-Shaggy arrives at the South store on Day 5
+Justin arrives at the South store on Day 5
 0 items has been added to the inventory
-There is $1169.6 in the register
-There are total of 59 items in the inventory.
-All the items in the inventory are worth total of $ 1069.46
-Shaggy ordered total of 0 items
-Shaggy un-tuned Guitar.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy un-adjusted Saxophone.
-Shaggy un-adjusted Harmonica.
-Shaggyhas damaged a(n) Harmonica.
-Shaggy has damaged 1 items while tuning
-Buyer 1 purchased CDPlayer for $43.2 after a 10%% discount.
-CassettePlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Harmonica for $32.4 after a 10%% discount.
-Seller 1 didn't accept the price, and left the store.
-Shaggy sold 2 items.
-Shaggy Bought 0 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1314.69 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 998.78
+Justin ordered total of 0 items
+Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Shirts for $8.0.
+Buyer 2 purchased GigBag for $11.0.
+Buyer 3 purchased MusicCD for $8.4.
+Justin bought a very good condition Flute from Seller 1 for $22.75 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Justin sold 3 items.
+Justin Bought 1 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

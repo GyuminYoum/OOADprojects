@@ -1,27 +1,38 @@
-Velma arrives at the North store on Day 5
-Velma received Cassette on day 5
-1 items has been added to the inventory
-There is $1293.68 in the register
-There are total of 50 items in the inventory.
-All the items in the inventory are worth total of $ 969.65
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma un-adjusted Flute.
-Velma adjusted Flute.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 2 purchased MP3 for $45.0 after a 10%% discount.
-MP3 was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Shirts for $8.1 after a 10%% discount.
-Velma bought a poor condition Harmonica from Seller 1 for $36.04.
-Velma sold 3 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Daphne arrives at the North store on Day 5
+0 items has been added to the inventory
+There is $1207.56 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1074.38
+Daphne ordered total of 0 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $90.0.
+Buyer 2 purchased Harmonica for $36.0.
+Buyer 3 purchased Saxophone for $84.0.
+Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
+Buyer 5 purchased Bandanas for $12.0.
+Daphne bought a poor condition Flute from Seller 1 for $19.54.
+Seller 2 didn't accept the price, and left the store.
+Daphne bought a fair condition CassettePlayer from Seller 3 for $17.4 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

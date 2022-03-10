@@ -1,33 +1,25 @@
-Freddy is sick on day 4
-Justin arrives at the North store on Day 4
+Shaggy arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1305.33 in the register
-There are total of 53 items in the inventory.
-All the items in the inventory are worth total of $ 948.48
-Justin put in order for Cassette for $41.23 on day 4
-Justin put in order for Cassette for $10.54 on day 4
-Justin put in order for Cassette for $10.39 on day 4
-Justin ordered total of 3 items
-Justin un-tuned Guitar.
-Justinhas damaged a(n) Guitar.
-Justin un-tuned Bass.
-Justin un-tuned Bass.
-Justin un-adjusted Flute.
-Justin un-adjusted Saxophone.
-Justin has damaged 1 items while tuning
-Buyer 1 purchased Mandolin for $63.0 after a 10%% discount.
-Buyer also purchased GigBag for $11.0.
-Buyer also purchased Strings for $14.0.
-Buyer also purchased Strings for $22.0.
-Buyer 2 purchased MP3 for $10.0.
-Buyer 3 purchased GigBag for $10.8 after a 10%% discount.
-CassettePlayer was too expensive, Buyer 4 left the store.
-RecordPlayer was too expensive, Buyer 5 left the store.
-Seller 1 didn't accept the price, and left the store.
-Justin bought a very good condition Saxophone from Seller 2 for $40.06.
-Justin bought a very good condition Strings from Seller 3 for $40.21.
-Justin sold 7 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1156.06 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1083.09
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Saxophone.
+Shaggy un-adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $12.0.
+Buyer 2 purchased Bandanas for $6.0.
+Buyer 3 purchased Bass for $41.4 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $10.0.
+Guitar was too expensive, Buyer 6 left the store.
+Shaggy bought a poor condition PaperScore from Seller 1 for $10.38 after offering 10%% more.
+Shaggy bought a poor condition Mandolin from Seller 2 for $30.91 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Shaggy sold 5 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) RecordPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
