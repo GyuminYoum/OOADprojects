@@ -1,30 +1,38 @@
 Daphne arrives at the South store on Day 18
-Daphne received Strings on day 18
-Daphne received Guitar on day 18
-Daphne received Harmonica on day 18
-3 items has been added to the inventory
-There is $2075.06 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 1180.13
-Daphne ordered total of 0 items
+Daphne received Vinyl on day 18
+1 items has been added to the inventory
+There is $1738.22 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1141.07
+Daphne put in order for PracticeAmps for $46.06 on day 18
+Daphne put in order for PracticeAmps for $20.49 on day 18
+Daphne put in order for PracticeAmps for $47.83 on day 18
+Daphne ordered total of 3 items
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
 Daphne adjusted Flute.
 Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
+Daphne adjusted Saxophone.
 Daphne tuned Guitar.
-Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
 Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased Guitar for $62.42 after a 10%% discount.
-Buyer also purchased PracticeAmps for $79.76.
-Cables was too expensive, Buyer 2 left the store.
-Buyer 3 purchased GigBag for $67.48.
-Buyer 4 purchased Harmonica for $67.22.
-Daphne bought a poor condition Harmonica from Seller 1 for $30.64.
-Daphne bought a good condition CDPlayer from Seller 2 for $18.21.
-Daphne sold 4 items.
-Daphne Bought 2 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased Flute for $96.0.
+Buyer 3 purchased Mandolin for $52.8.
+Buyer 4 purchased Harmonica for $54.38.
+Daphne bought a very good condition MusicCD from Seller 1 for $44.81.
+Daphne sold 3 items.
+Daphne Bought 1 items.
+Daphne has damaged a(n) Bass.
+Daphne damaged an item while cleaning.
+Daphne damaged 1 items while cleaning.
 Daphne went home for the day.

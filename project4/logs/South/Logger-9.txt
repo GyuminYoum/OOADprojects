@@ -1,29 +1,38 @@
-Freddy arrives at the South store on Day 9
-Freddy received Strings on day 9
-1 items has been added to the inventory
-There is $1560.69 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 981.37
-Freddy put in order for Harmonica for $9.75 on day 9
-Freddy put in order for Harmonica for $29.45 on day 9
-Freddy put in order for Harmonica for $17.47 on day 9
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $48.0.
-Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 3 purchased Flute for $86.4 after a 10%% discount.
-Buyer 4 purchased Bandanas for $6.0.
-Freddy bought a good condition Flute from Seller 1 for $19.77.
-Seller 2 didn't accept the price, and left the store.
-Freddy sold 4 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Velma arrives at the South store on Day 9
+0 items has been added to the inventory
+There is $1547.56 in the register
+There are total of 42 items in the inventory.
+All the items in the inventory are worth total of $ 939.98
+Velma put in order for Bass for $29.06 on day 9
+Velma put in order for Bass for $35.68 on day 9
+Velma put in order for Bass for $27.65 on day 9
+Velma put in order for Strings for $44.39 on day 9
+Velma put in order for Strings for $40.13 on day 9
+Velma put in order for Strings for $4.41 on day 9
+Velma ordered total of 6 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma un-adjusted Saxophone.
+Velma adjusted Saxophone.
+Velma un-adjusted Harmonica.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased GigBag for $11.7 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $72.0.
+GigBag out of stock, Buyer 3 left the store.
+Buyer 4 purchased CassettePlayer for $42.0.
+Buyer 5 purchased Vinyl for $14.0.
+Buyer 6 purchased Harmonica for $40.0.
+Buyer 7 purchased Harmonica for $68.45 after a 10%% discount.
+Buyer 8 purchased PracticeAmps for $30.0.
+Buyer 9 purchased Cassette for $3.96 after a 10%% discount.
+Velma bought a very good condition PaperScore from Seller 1 for $23.95.
+Velma bought a fair condition Shirts from Seller 2 for $27.13.
+Velma sold 8 items.
+Velma Bought 2 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

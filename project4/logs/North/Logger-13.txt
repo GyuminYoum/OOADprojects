@@ -1,35 +1,24 @@
-Daphne arrives at the North store on Day 13
-Daphne received Strings on day 13
+Justin arrives at the North store on Day 13
+Justin received GigBag on day 13
 1 items has been added to the inventory
-There is $2109.29 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 802.77
-Daphne put in order for Saxophone for $41.46 on day 13
-Daphne put in order for Saxophone for $27.97 on day 13
-Daphne put in order for Saxophone for $39.03 on day 13
-Daphne ordered total of 3 items
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $71.62.
-Saxophone out of stock, Buyer 2 left the store.
-Buyer 3 purchased PracticeAmps for $45.62.
-Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
-Buyer 5 purchased GigBag for $13.0.
-Buyer 6 purchased Cassette for $23.38 after a 10%% discount.
-Daphne bought a good condition MP3 from Seller 1 for $12.15.
-Daphne bought a good condition Cassette from Seller 2 for $30.47 after offering 10%% more.
-Daphne bought a fair condition Vinyl from Seller 3 for $4.47 after offering 10%% more.
-Daphne sold 5 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1408.71 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1115.31
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin adjusted Harmonica.
+Justin un-tuned Guitar.
+Justinhas damaged a(n) Guitar.
+Justin un-tuned Guitar.
+Justin has damaged 1 items while tuning
+PracticeAmps was too expensive, Buyer 1 left the store.
+Buyer 2 purchased CassettePlayer for $24.0.
+Buyer 3 purchased RecordPlayer for $44.0.
+Buyer 4 purchased PracticeAmps for $45.0 after a 10%% discount.
+Justin bought a good condition CassettePlayer from Seller 1 for $40.77.
+Justin bought a good condition Flute from Seller 2 for $47.26.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

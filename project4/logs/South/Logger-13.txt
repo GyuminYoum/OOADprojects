@@ -1,25 +1,27 @@
 Shaggy arrives at the South store on Day 13
-Shaggy received Mandolin on day 13
-1 items has been added to the inventory
-There is $1888.83 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 821.21
-Shaggy put in order for Flute for $18.75 on day 13
-Shaggy put in order for Flute for $25.76 on day 13
-Shaggy put in order for Flute for $22.52 on day 13
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
-Buyer 3 purchased Hats for $10.0.
-Buyer 4 purchased MusicCD for $8.4.
-Flute out of stock, Buyer 5 left the store.
-Shaggy bought a fair condition MusicCD from Seller 1 for $20.93 after offering 10%% more.
-Shaggy bought a poor condition Hats from Seller 2 for $42.7.
-Shaggy sold 4 items.
+Shaggy received Bass on day 13
+Shaggy received CDPlayer on day 13
+Shaggy received Harmonica on day 13
+Shaggy received Cassette on day 13
+Shaggy received MusicCD on day 13
+Shaggy received MusicCD on day 13
+6 items has been added to the inventory
+There is $1637.8 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1053.27
+Shaggy ordered total of 0 items
+Shaggy un-tuned Guitar.
+Shaggyhas damaged a(n) Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Bass.
+Shaggy has damaged 1 items while tuning
+Cassette was too expensive, Buyer 1 left the store.
+Buyer 2 purchased MP3 for $10.0.
+Hats out of stock, Buyer 3 left the store.
+Shaggy bought a good condition CDPlayer from Seller 1 for $27.77 after offering 10%% more.
+Shaggy bought a fair condition MP3 from Seller 2 for $7.88.
+Shaggy sold 1 items.
 Shaggy Bought 2 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.

@@ -1,27 +1,29 @@
-Shaggy arrives at the North store on Day 12
-Shaggy received Strings on day 12
-Shaggy received CDPlayer on day 12
-Shaggy received CassettePlayer on day 12
-3 items has been added to the inventory
-There is $2127.81 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 832.8
-Shaggy put in order for PaperScore for $32.36 on day 12
-Shaggy put in order for PaperScore for $38.07 on day 12
-Shaggy put in order for PaperScore for $49.13 on day 12
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Saxophone.
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased PracticeAmps for $45.0 after a 10%% discount.
-Buyer 2 purchased Saxophone for $96.0.
-Saxophone out of stock, Buyer 3 left the store.
-Buyer 4 purchased Cassette for $3.96 after a 10%% discount.
-Shaggy bought a very good condition PracticeAmps from Seller 1 for $1.38.
-Shaggy bought a fair condition Bandanas from Seller 2 for $42.51 after offering 10%% more.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Velma arrives at the North store on Day 12
+Velma received GigBag on day 12
+1 items has been added to the inventory
+There is $1396.62 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1156.46
+Velma put in order for Flute for $42.11 on day 12
+Velma put in order for Flute for $3.84 on day 12
+Velma put in order for Flute for $46.96 on day 12
+Velma ordered total of 3 items
+Velma tuned Mandolin.
+Velma adjusted Harmonica.
+Velma un-adjusted Harmonica.
+Velma has damaged a(n) Harmonica.
+Velma un-adjusted Saxophone.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma has damaged 1 items while tuning
+Buyer 1 purchased Shirts for $9.0 after a 10%% discount.
+Flute out of stock, Buyer 2 left the store.
+Buyer 3 purchased Mandolin for $70.0.
+Buyer 4 purchased CassettePlayer for $26.0.
+Seller 1 didn't accept the price, and left the store.
+Velma sold 3 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

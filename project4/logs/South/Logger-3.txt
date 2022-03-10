@@ -1,35 +1,25 @@
-Freddy is sick on day 3
-Daphne arrives at the South store on Day 3
+Justin arrives at the South store on Day 3
 0 items has been added to the inventory
-There is $1076.11 in the register
-There are total of 58 items in the inventory.
-All the items in the inventory are worth total of $ 1099.45
-Daphne ordered total of 0 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne adjusted Saxophone.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Harmonica for $32.4 after a 10%% discount.
-Buyer 2 purchased Strings for $14.0.
-Buyer 3 purchased Mandolin for $74.0.
-Buyer 4 purchased Flute for $72.0.
-Daphne bought a very good condition MusicCD from Seller 1 for $40.89.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $1054.76 in the register
+There are total of 63 items in the inventory.
+All the items in the inventory are worth total of $ 1087.72
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin un-tuned Mandolin.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
+Flute was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
+Buyer 4 purchased Cables for $9.0 after a 10%% discount.
+Buyer 5 purchased Hats for $20.0.
+Justin bought a poor condition PracticeAmps from Seller 1 for $36.46.
+Justin bought a fair condition Harmonica from Seller 2 for $41.83 after offering 10%% more.
+Justin bought a good condition Guitar from Seller 3 for $10.85.
+Justin sold 4 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

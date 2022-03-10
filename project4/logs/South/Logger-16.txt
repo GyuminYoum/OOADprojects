@@ -1,34 +1,25 @@
-Shaggy arrives at the South store on Day 16
-Shaggy received Mandolin on day 16
-Shaggy received Flute on day 16
-2 items has been added to the inventory
-There is $2035.04 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 882.67
-Shaggy put in order for Cables for $21.4 on day 16
-Shaggy put in order for Cables for $44.04 on day 16
-Shaggy put in order for Cables for $16.61 on day 16
-Shaggy put in order for Strings for $37.22 on day 16
-Shaggy put in order for Strings for $33.58 on day 16
-Shaggy put in order for Strings for $24.0 on day 16
-Shaggy put in order for GigBag for $39.92 on day 16
-Shaggy put in order for GigBag for $29.61 on day 16
-Shaggy put in order for GigBag for $23.09 on day 16
-Shaggy ordered total of 9 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Flute.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $77.14 after a 10%% discount.
-Buyer 2 purchased MP3 for $10.0.
-Buyer 3 purchased Mandolin for $33.15.
-RecordPlayer was too expensive, Buyer 4 left the store.
-Buyer 5 purchased MP3 for $40.0.
-Shaggy bought a fair condition CDPlayer from Seller 1 for $12.14 after offering 10%% more.
-Shaggy bought a poor condition MusicCD from Seller 2 for $32.59 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 16
+Justin received Harmonica on day 16
+1 items has been added to the inventory
+There is $1774.6 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1143.31
+Justin put in order for Vinyl for $18.37 on day 16
+Justin put in order for Vinyl for $1.53 on day 16
+Justin put in order for Vinyl for $22.23 on day 16
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin un-tuned Mandolin.
+Justin adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased CassettePlayer for $57.38 after a 10%% discount.
+Buyer 2 purchased GigBag for $60.5.
+Bandanas out of stock, Buyer 3 left the store.
+Seller 1 didn't accept the price, and left the store.
+Justin sold 2 items.
+Justin Bought 0 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

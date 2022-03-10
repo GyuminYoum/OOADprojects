@@ -1,19 +1,37 @@
-Shaggy arrives at the South store on Day 17
-Shaggy received Saxophone on day 17
-Shaggy received Cables on day 17
-2 items has been added to the inventory
-There is $1881.12 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 901.21
-Shaggy ordered total of 0 items
-Shaggy un-tuned Bass.
-Shaggy adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy un-adjusted Saxophone.
-Shaggy un-adjusted Flute.
-Shaggy has thrown away a(n) Flutedue to less than poor condition.
-Shaggy un-adjusted Flute.
-Shaggy has damaged 1 items while tuning
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy arrives at the South store on Day 17
+Freddy received GigBag on day 17
+1 items has been added to the inventory
+There is $1850.35 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1091.86
+Freddy put in order for CassettePlayer for $47.93 on day 17
+Freddy put in order for CassettePlayer for $11.17 on day 17
+Freddy put in order for CassettePlayer for $35.29 on day 17
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy has damaged 0 items while tuning
+Bandanas out of stock, Buyer 1 left the store.
+Buyer 2 purchased PracticeAmps for $18.07 after a 10%% discount.
+Buyer 3 purchased Harmonica for $4.95 after a 10%% discount.
+Freddy bought a very good condition Mandolin from Seller 1 for $2.09.
+Seller 2 didn't accept the price, and left the store.
+Freddy bought a very good condition Bass from Seller 3 for $38.66 after offering 10%% more.
+Freddy sold 2 items.
+Freddy Bought 2 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

@@ -1,38 +1,28 @@
-Daphne arrives at the South store on Day 22
-Daphne received Mandolin on day 22
-Daphne received Harmonica on day 22
-2 items has been added to the inventory
-There is $2639.75 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1111.37
-Daphne put in order for CassettePlayer for $49.9 on day 22
-Daphne put in order for CassettePlayer for $16.57 on day 22
-Daphne put in order for CassettePlayer for $13.39 on day 22
-Daphne ordered total of 3 items
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $90.0.
-Buyer 2 purchased RecordPlayer for $99.46.
-Hats out of stock, Buyer 3 left the store.
-Mandolin was too expensive, Buyer 4 left the store.
-Bandanas out of stock, Buyer 5 left the store.
-Buyer 6 purchased Mandolin for $21.74.
-Buyer also purchased PracticeAmps for $18.9.
-Daphne sold 4 items.
-Daphne Bought 0 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the South store on Day 22
+Shaggy received CassettePlayer on day 22
+Shaggy received PracticeAmps on day 22
+Shaggy received Flute on day 22
+3 items has been added to the inventory
+There is $2180.45 in the register
+There are total of 46 items in the inventory.
+All the items in the inventory are worth total of $ 1037.22
+Shaggy put in order for Cables for $22.22 on day 22
+Shaggy put in order for Cables for $11.23 on day 22
+Shaggy put in order for Cables for $29.76 on day 22
+Shaggy put in order for Strings for $32.24 on day 22
+Shaggy put in order for Strings for $12.44 on day 22
+Shaggy put in order for Strings for $30.38 on day 22
+Shaggy ordered total of 6 items
+Shaggy adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased PaperScore for $10.0.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased CassettePlayer for $63.52 after a 10%% discount.
+Cables out of stock, Buyer 4 left the store.
+Shaggy bought a poor condition Shirts from Seller 1 for $46.68 after offering 10%% more.
+Shaggy bought a fair condition Cassette from Seller 2 for $32.45.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

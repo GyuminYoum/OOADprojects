@@ -1,34 +1,43 @@
-Velma arrives at the North store on Day 16
-Velma received PaperScore on day 16
-Velma received Saxophone on day 16
-2 items has been added to the inventory
-There is $2322.66 in the register
-There are total of 32 items in the inventory.
-All the items in the inventory are worth total of $ 819.85
-Velma put in order for RecordPlayer for $36.47 on day 16
-Velma put in order for RecordPlayer for $7.79 on day 16
-Velma put in order for RecordPlayer for $30.86 on day 16
-Velma put in order for Bass for $29.47 on day 16
-Velma put in order for Bass for $1.0 on day 16
-Velma put in order for Bass for $10.18 on day 16
-Velma put in order for PracticeAmps for $24.86 on day 16
-Velma put in order for PracticeAmps for $41.79 on day 16
-Velma put in order for PracticeAmps for $23.64 on day 16
-Velma ordered total of 9 items
-Velma tuned Mandolin.
-Velma un-adjusted Harmonica.
-Velma tuned Guitar.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $78.06.
-Bass out of stock, Buyer 2 left the store.
-Buyer 3 purchased CDPlayer for $39.54 after a 10%% discount.
-Velma bought a poor condition RecordPlayer from Seller 1 for $20.29 after offering 10%% more.
-Velma bought a very good condition CDPlayer from Seller 2 for $38.49.
-Velma bought a very good condition Guitar from Seller 3 for $34.12 after offering 10%% more.
-Velma sold 2 items.
-Velma Bought 3 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Freddy arrives at the North store on Day 16
+Freddy received Flute on day 16
+1 items has been added to the inventory
+There is $1574.26 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1162.47
+Freddy put in order for CassettePlayer for $29.76 on day 16
+Freddy put in order for CassettePlayer for $32.77 on day 16
+Freddy put in order for CassettePlayer for $45.49 on day 16
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Harmonica.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy adjusted Harmonica.
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $32.4 after a 10%% discount.
+Strings was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Guitar for $34.0.
+Buyer 4 purchased Harmonica for $38.0.
+Buyer 5 purchased Bass for $41.4 after a 10%% discount.
+Buyer 6 purchased Saxophone for $60.48 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a poor condition PracticeAmps from Seller 2 for $5.35 after offering 10%% more.
+Freddy sold 5 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

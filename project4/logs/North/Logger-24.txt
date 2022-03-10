@@ -1,26 +1,37 @@
-Daphne arrives at the North store on Day 24
-Daphne received Strings on day 24
-1 items has been added to the inventory
-There is $2711.91 in the register
-There are total of 34 items in the inventory.
-All the items in the inventory are worth total of $ 1036.83
-Daphne put in order for Mandolin for $9.86 on day 24
-Daphne put in order for Mandolin for $49.14 on day 24
-Daphne put in order for Mandolin for $20.52 on day 24
-Daphne ordered total of 3 items
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $3.06.
-PracticeAmps was too expensive, Buyer 2 left the store.
-Buyer 3 purchased CDPlayer for $62.04.
-Daphne bought a fair condition PaperScore from Seller 1 for $33.84.
-Daphne sold 2 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the North store on Day 24
+Shaggy received Saxophone on day 24
+Shaggy received GigBag on day 24
+2 items has been added to the inventory
+There is $2597.41 in the register
+There are total of 31 items in the inventory.
+All the items in the inventory are worth total of $ 868.58
+Shaggy put in order for CDPlayer for $14.0 on day 24
+Shaggy put in order for CDPlayer for $15.35 on day 24
+Shaggy put in order for CDPlayer for $5.76 on day 24
+Shaggy put in order for PracticeAmps for $26.85 on day 24
+Shaggy put in order for PracticeAmps for $50.7 on day 24
+Shaggy put in order for PracticeAmps for $21.6 on day 24
+Shaggy put in order for Cables for $17.76 on day 24
+Shaggy put in order for Cables for $8.36 on day 24
+Shaggy put in order for Cables for $4.63 on day 24
+Shaggy ordered total of 9 items
+Shaggy adjusted Flute.
+Shaggy un-adjusted Flute.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Bass for $48.0.
+Buyer also purchased Strings for $15.74.
+Buyer also purchased Strings for $101.8.
+Buyer 2 purchased Mandolin for $59.4 after a 10%% discount.
+Buyer 3 purchased MusicCD for $7.38 after a 10%% discount.
+Buyer 4 purchased PaperScore for $15.64 after a 10%% discount.
+Buyer 5 purchased Flute for $85.06 after a 10%% discount.
+Buyer 6 purchased Flute for $84.22.
+Bandanas out of stock, Buyer 7 left the store.
+Buyer 8 purchased Cassette for $4.4.
+Shaggy bought a very good condition MP3 from Seller 1 for $25.62.
+Shaggy bought a very good condition PracticeAmps from Seller 2 for $15.35.
+Shaggy sold 9 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

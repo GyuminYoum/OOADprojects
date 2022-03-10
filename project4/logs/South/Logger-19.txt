@@ -1,32 +1,38 @@
-Shaggy arrives at the South store on Day 19
-Shaggy received PracticeAmps on day 19
-Shaggy received Mandolin on day 19
-Shaggy received Mandolin on day 19
-Shaggy received Bass on day 19
-4 items has been added to the inventory
-There is $2303.09 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1154.39
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggyhas damaged a(n) Flute.
-Shaggy un-adjusted Harmonica.
-Shaggy has thrown away a(n) Harmonicadue to less than poor condition.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 2 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Buyer 2 purchased Flute for $96.0.
-Buyer 3 purchased Mandolin for $39.88.
-Buyer 4 purchased RecordPlayer for $44.0.
-Harmonica out of stock, Buyer 5 left the store.
-MusicCD was too expensive, Buyer 6 left the store.
-Buyer 7 purchased CDPlayer for $96.84.
-Shaggy bought a very good condition Saxophone from Seller 1 for $33.97 after offering 10%% more.
-Shaggy bought a good condition Guitar from Seller 2 for $36.15.
-Shaggy bought a good condition Harmonica from Seller 3 for $8.27 after offering 10%% more.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Freddy arrives at the South store on Day 19
+Freddy received Vinyl on day 19
+Freddy received CassettePlayer on day 19
+Freddy received CassettePlayer on day 19
+3 items has been added to the inventory
+There is $1782.21 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1179.27
+Freddy put in order for Flute for $40.45 on day 19
+Freddy put in order for Flute for $11.15 on day 19
+Freddy put in order for Flute for $41.35 on day 19
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy tuned Guitar.
+Freddy adjusted Saxophone.
+Freddy adjusted Saxophone.
+Freddy tuned Guitar.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+RecordPlayer was too expensive, Buyer 1 left the store.
+Buyer 2 purchased Vinyl for $44.46.
+Buyer 3 purchased CDPlayer for $77.7.
+Harmonica was too expensive, Buyer 4 left the store.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a poor condition PracticeAmps from Seller 2 for $25.26.
+Freddy sold 2 items.
+Freddy Bought 1 items.
+Freddy has damaged a(n) RecordPlayer.
+Freddy damaged an item while cleaning.
+Freddy damaged 1 items while cleaning.
+Freddy went home for the day.

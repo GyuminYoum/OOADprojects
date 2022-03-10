@@ -1,22 +1,33 @@
 Justin arrives at the South store on Day 10
-0 items has been added to the inventory
-There is $1700.25 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 884.14
-Justin ordered total of 0 items
+Justin received Strings on day 10
+1 items has been added to the inventory
+There is $1597.26 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 845.94
+Justin put in order for CDPlayer for $50.73 on day 10
+Justin put in order for CDPlayer for $38.85 on day 10
+Justin put in order for CDPlayer for $5.63 on day 10
+Justin put in order for Harmonica for $34.39 on day 10
+Justin put in order for Harmonica for $2.75 on day 10
+Justin put in order for Harmonica for $27.19 on day 10
+Justin put in order for Cassette for $27.48 on day 10
+Justin put in order for Cassette for $47.48 on day 10
+Justin put in order for Cassette for $4.18 on day 10
+Justin put in order for GigBag for $30.25 on day 10
+Justin put in order for GigBag for $10.88 on day 10
+Justin put in order for GigBag for $13.87 on day 10
+Justin ordered total of 12 items
+Justin un-tuned Guitar.
 Justin adjusted Flute.
+Justin adjusted Saxophone.
 Justin has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $8.19.
-Buyer 2 purchased Bass for $43.2 after a 10%% discount.
-Buyer also purchased Cables for $90.54.
-Bandanas was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
-Buyer 5 purchased MusicCD for $8.0.
-Justin bought a fair condition Bass from Seller 1 for $23.3.
-Seller 2 didn't accept the price, and left the store.
-Justin bought a very good condition Cables from Seller 3 for $9.05 after offering 10%% more.
-Justin sold 6 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
+Vinyl was too expensive, Buyer 1 left the store.
+Bass out of stock, Buyer 2 left the store.
+CassettePlayer was too expensive, Buyer 3 left the store.
+Hats out of stock, Buyer 4 left the store.
+Justin sold 0 items.
+Justin Bought 0 items.
+Justin has damaged a(n) Mandolin.
+Justin damaged an item while cleaning.
+Justin damaged 1 items while cleaning.
 Justin went home for the day.

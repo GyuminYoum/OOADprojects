@@ -1,46 +1,30 @@
-Freddy arrives at the North store on Day 18
-Freddy received MusicCD on day 18
-Freddy received PaperScore on day 18
-2 items has been added to the inventory
-There is $2089.54 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 1014.26
-Freddy put in order for Mandolin for $40.61 on day 18
-Freddy put in order for Mandolin for $49.11 on day 18
-Freddy put in order for Mandolin for $12.87 on day 18
-Freddy put in order for Cables for $28.98 on day 18
-Freddy put in order for Cables for $1.45 on day 18
-Freddy put in order for Cables for $16.29 on day 18
-Freddy put in order for Strings for $50.23 on day 18
-Freddy put in order for Strings for $31.19 on day 18
-Freddy put in order for Strings for $14.62 on day 18
-Freddy ordered total of 9 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased GigBag for $13.0.
-PracticeAmps was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Guitar for $54.0.
-Buyer also purchased PracticeAmps for $56.38.
-Buyer 4 purchased Bass for $43.2 after a 10%% discount.
-Buyer also purchased PracticeAmps for $34.72.
-Mandolin out of stock, Buyer 5 left the store.
-Freddy bought a poor condition Strings from Seller 1 for $24.42.
-Freddy bought a poor condition Harmonica from Seller 2 for $3.81 after offering 10%% more.
-Freddy bought a fair condition Guitar from Seller 3 for $3.15 after offering 10%% more.
-Freddy sold 5 items.
-Freddy Bought 3 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Shaggy arrives at the North store on Day 18
+Shaggy received CassettePlayer on day 18
+1 items has been added to the inventory
+There is $1703.17 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 1093.35
+Shaggy put in order for Vinyl for $28.05 on day 18
+Shaggy put in order for Vinyl for $20.1 on day 18
+Shaggy put in order for Vinyl for $47.61 on day 18
+Shaggy put in order for RecordPlayer for $30.16 on day 18
+Shaggy put in order for RecordPlayer for $1.82 on day 18
+Shaggy put in order for RecordPlayer for $37.86 on day 18
+Shaggy ordered total of 6 items
+Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy un-tuned Guitar.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $74.0.
+Buyer also purchased GigBag for $43.54.
+Guitar was too expensive, Buyer 2 left the store.
+Buyer 3 purchased Saxophone for $96.0.
+Buyer 4 purchased Cassette for $8.19.
+Buyer 5 purchased CDPlayer for $72.0.
+Buyer 6 purchased GigBag for $88.78.
+Shaggy bought a poor condition MP3 from Seller 1 for $30.2 after offering 10%% more.
+Shaggy sold 6 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

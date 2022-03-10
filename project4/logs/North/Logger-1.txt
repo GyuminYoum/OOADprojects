@@ -1,26 +1,33 @@
-Velma arrives at the North store on Day 1
+Shaggy arrives at the North store on Day 1
 0 items has been added to the inventory
-Velma went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
+Shaggy went to the bank and put $1000 in the register. There is $ 1000.0 in the Cash Register.
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma tuned Mandolin.
-Velma adjusted Flute.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
-Velma adjusted Saxophone.
-Velma has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $6.0.
-Buyer 2 purchased Bass for $44.0.
-Velma bought a good condition Harmonica from Seller 1 for $2.99.
-Velma sold 2 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Shaggy ordered total of 0 items
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Mandolin.
+Shaggy tuned Mandolin.
+Shaggy tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Hats for $30.0.
+Buyer 2 purchased PracticeAmps for $9.0 after a 10%% discount.
+Buyer 3 purchased MP3 for $9.0 after a 10%% discount.
+Buyer 4 purchased Flute for $81.0 after a 10%% discount.
+Shaggy bought a poor condition Hats from Seller 1 for $3.84.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

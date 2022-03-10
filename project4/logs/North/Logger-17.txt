@@ -1,25 +1,16 @@
-Daphne arrives at the North store on Day 17
-Daphne received PaperScore on day 17
-Daphne received GigBag on day 17
-Daphne received GigBag on day 17
-Daphne received RecordPlayer on day 17
-Daphne received Bass on day 17
-5 items has been added to the inventory
-There is $2141.29 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 997.22
-Daphne ordered total of 0 items
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the North store on Day 17
+Justin received CassettePlayer on day 17
+1 items has been added to the inventory
+There is $1667.17 in the register
+There are total of 40 items in the inventory.
+All the items in the inventory are worth total of $ 1078.58
+Justin ordered total of 0 items
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Vinyl for $14.0.
+Buyer 2 purchased RecordPlayer for $22.0.
+RecordPlayer out of stock, Buyer 3 left the store.
+Justin sold 2 items.
+Justin Bought 0 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

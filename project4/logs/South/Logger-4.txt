@@ -1,18 +1,21 @@
-Justin arrives at the South store on Day 4
+Shaggy arrives at the South store on Day 4
 0 items has been added to the inventory
-There is $1227.61 in the register
-There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1033.35
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 2 purchased Hats for $20.0.
-Justin bought a fair condition Cassette from Seller 1 for $32.44.
-Justin sold 2 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1142.2 in the register
+There are total of 62 items in the inventory.
+All the items in the inventory are worth total of $ 1079.85
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased MusicCD for $7.2 after a 10%% discount.
+Buyer 2 purchased GigBag for $11.0.
+Buyer 3 purchased Bandanas for $10.8 after a 10%% discount.
+Buyer 4 purchased Strings for $6.3 after a 10%% discount.
+Shaggy bought a very good condition PaperScore from Seller 1 for $51.88 after offering 10%% more.
+Seller 2 didn't accept the price, and left the store.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy has damaged a(n) Mandolin.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
+Shaggy went home for the day.
