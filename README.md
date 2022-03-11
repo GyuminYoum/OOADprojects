@@ -54,11 +54,11 @@ Assumptions:
 - The last tracker to be printed by each store has the header "Final: " instead of "Day #: " to indicate that those are the final values for the tracker.
   - The trackers printed in the final summary will also say "Final: " 
 - Tracker is eager loaded, logger is lazy loaded 
+- Tests class not included in UML diagram because it wasn't directly a part of the simulation
 
 
 UML diagram changes:
 - Added Chart class to generate charts
-- Added Tests class for JUnit testing
 - Changed parameters for Writer and Observer methods to keep track of each store separately
 - Added Store attribute to Items
 - Added classes for GuitarKit parts
