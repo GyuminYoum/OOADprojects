@@ -1,0 +1,27 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start;
+:game.initialize();
+while (any player has 10 points?) is (no)
+
+:AI player rolls the dice;
+if (any settlement adjacent to the area?) is (yes) then
+  :AI player gets appropriate amount of resources ;
+endif
+if (enough resources to offer trade?) is (yes) then
+:AI player offers trade to other AI players;
+if(offered AI player accepts trade?) is (yes) then
+:resources are redistributed among the involved party;
+endif
+endif
+:check AI player's strategy;
+if (enough resources to build/buy card according to strategy?) is (yes) then
+:build/buy card;
+endif
+
+endwhile
+:display winner, strategy;
+stop
+
+@enduml
