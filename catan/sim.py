@@ -1,12 +1,9 @@
-# each turn
-# each player rolls
-# town/base check
-# adjust player resources
-# give player option to build proximity to his town
-
+from Player import *
 from Field import *
+from cardFactory import *
+"""
+board=Field((500,300),50)
 
-board = Field((500, 300), 50)
 board.build()
 
 pygame.init()
@@ -16,8 +13,70 @@ for x in board.hexlist:
     pygame.draw.polygon(surface, x.Resource.color, x.get_coords())
     # print(x.name, x.Resource.type)
 
+
 points = 0
 while points < 10:
     pygame.event.get()
     pygame.display.flip()
     # points+=1
+points=0
+while(points<10):
+    
+    pygame.event.get()
+    pygame.display.flip()
+    #points+=1
+
+"""
+
+
+class sim:
+    def __init__(self):
+        self.playerlist=[]
+        self.playercount=0
+        self.colorlist=["R","B","W","BK"]
+        cardFactory1= cardFactory()
+        self.deck=cardFactory1.makeDeck()
+        board=Field((500,300),50)
+        board.build()
+        self.field=board.hexlist
+
+    def initializePlayers(self):
+        while (self.playercount< 2 or self.playercount > 4):
+            try:
+                num= int(input("Input the number of players (2-4) \n"))
+                self.playercount = num
+            except ValueError:
+                print("Please provide integer value only")
+        for x in range(self.playercount):
+            val= input("Provide name for Player"+str(x+1)+": \n")
+            temp= random.randint(0,len(self.colorlist)-1)
+            color=self.colorlist[temp]
+            self.colorlist.pop(temp)
+            p1=Player(val,color)
+            self.playerlist.append(p1)
+
+        for x in self.playerlist:
+            print(x.name, x.color)
+
+        for y in self.field:
+            print(y.name, y.value, y.Resource.type)
+
+        #print(self.field)
+
+    def playerAction(self):
+        for x in self.playerlist:
+            val = x.Roll()
+            #loop through all players
+            #loop through each players settlement/city
+            #loop through each settlement/city's adjacentlist
+            #if the hex in adjacentlist contains value equal to val
+            #distribute resources to the player
+
+            x.Trade()
+
+            x.Build()
+
+
+    def initialize(self):
+        self.initializePlayers()
+        #print(self.playercount)

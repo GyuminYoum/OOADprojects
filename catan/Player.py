@@ -1,4 +1,4 @@
-from numpy import random
+import numpy as np
 
 
 class Player:
@@ -11,3 +11,15 @@ class Player:
         self.vp = 0
         self.card = []
         self.color = color
+
+    def Roll(self):
+        rng = np.random.randint(0, 12)
+        return rng
+
+    def trade(self):
+        # trade logic
+        print("halp")
+
+    def build(self):
+        # build logic
+        print("worry bout it later")
