@@ -1,42 +1,19 @@
-Daphne arrives at the North store on Day 19
-Daphne received Harmonica on day 19
-Daphne received PaperScore on day 19
-Daphne received Mandolin on day 19
+Shaggy arrives at the North store on Day 19
+Shaggy received RecordPlayer on day 19
+Shaggy received GigBag on day 19
+Shaggy received CDPlayer on day 19
 3 items has been added to the inventory
-There is $2014.1 in the register
-There are total of 42 items in the inventory.
-All the items in the inventory are worth total of $ 1064.73
-Daphne put in order for PracticeAmps for $4.48 on day 19
-Daphne put in order for PracticeAmps for $37.4 on day 19
-Daphne put in order for PracticeAmps for $31.61 on day 19
-Daphne put in order for GigBag for $4.22 on day 19
-Daphne put in order for GigBag for $2.77 on day 19
-Daphne put in order for GigBag for $12.54 on day 19
-Daphne ordered total of 6 items
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $55.63 after a 10%% discount.
-CDPlayer was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Harmonica for $79.02 after a 10%% discount.
-Buyer 4 purchased Flute for $92.0.
-Buyer 5 purchased Harmonica for $34.5 after a 10%% discount.
-Daphne bought a very good condition Bass from Seller 1 for $15.38.
-Daphne sold 4 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+There is $2209.68 in the register
+There are total of 48 items in the inventory.
+All the items in the inventory are worth total of $ 1137.87
+Shaggy put in order for PracticeAmps for $9.88 on day 19
+Shaggy put in order for PracticeAmps for $8.0 on day 19
+Shaggy put in order for PracticeAmps for $27.88 on day 19
+Shaggy put in order for Saxophone for $49.66 on day 19
+Shaggy put in order for Saxophone for $45.25 on day 19
+Shaggy put in order for Saxophone for $22.88 on day 19
+Shaggy ordered total of 6 items
+Shaggy has damaged 0 items while tuning
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

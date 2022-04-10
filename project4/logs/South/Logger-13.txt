@@ -1,26 +1,37 @@
-Shaggy arrives at the South store on Day 13
-Shaggy received Mandolin on day 13
-1 items has been added to the inventory
-There is $1888.83 in the register
-There are total of 41 items in the inventory.
-All the items in the inventory are worth total of $ 821.21
-Shaggy put in order for Flute for $18.75 on day 13
-Shaggy put in order for Flute for $25.76 on day 13
-Shaggy put in order for Flute for $22.52 on day 13
-Shaggy ordered total of 3 items
-Shaggy un-adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.38 after a 10%% discount.
-Buyer 2 purchased Shirts for $7.2 after a 10%% discount.
-Buyer 3 purchased Hats for $10.0.
-Buyer 4 purchased MusicCD for $8.4.
-Flute out of stock, Buyer 5 left the store.
-Shaggy bought a fair condition MusicCD from Seller 1 for $20.93 after offering 10%% more.
-Shaggy bought a poor condition Hats from Seller 2 for $42.7.
-Shaggy sold 4 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin is sick on day 13
+Freddy arrives at the South store on Day 13
+Freddy received Bass on day 13
+Freddy received PracticeAmps on day 13
+Freddy received GigBag on day 13
+3 items has been added to the inventory
+There is $1699.02 in the register
+There are total of 45 items in the inventory.
+All the items in the inventory are worth total of $ 1192.58
+Freddy put in order for Saxophone for $11.81 on day 13
+Freddy put in order for Saxophone for $47.92 on day 13
+Freddy put in order for Saxophone for $44.86 on day 13
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $64.8 after a 10%% discount.
+Buyer 2 purchased CassettePlayer for $42.0.
+Buyer 3 purchased PaperScore for $9.9 after a 10%% discount.
+Buyer 4 purchased Flute for $81.0 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Freddy bought a good condition Bandanas from Seller 2 for $1.04.
+Freddy sold 4 items.
+Freddy Bought 1 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

@@ -1,28 +1,43 @@
-Freddy arrives at the South store on Day 27
-Freddy received Strings on day 27
-Freddy received Flute on day 27
-Freddy received Cables on day 27
-3 items has been added to the inventory
-There is $2916.69 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 1055.37
-Freddy put in order for MusicCD for $3.93 on day 27
-Freddy put in order for MusicCD for $26.58 on day 27
-Freddy put in order for MusicCD for $43.46 on day 27
-Freddy ordered total of 3 items
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy adjusted Saxophone.
-Freddy tuned Guitar.
-Freddy adjusted Harmonica.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+Daphne arrives at the South store on Day 27
+Daphne received Strings on day 27
+Daphne received Vinyl on day 27
+2 items has been added to the inventory
+There is $2650.46 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1305.84
+Daphne ordered total of 0 items
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Strings for $43.3 after a 10%% discount.
+Bandanas out of stock, Buyer 2 left the store.
+Buyer 3 purchased MP3 for $45.0 after a 10%% discount.
+Buyer 4 purchased Bass for $81.63 after a 10%% discount.
+Buyer also purchased PracticeAmps for $58.34.
+Buyer also purchased Cables for $71.88.
+Buyer also purchased Cables for $62.66.
+Buyer also purchased Strings for $2.06.
+Daphne bought a very good condition CDPlayer from Seller 1 for $37.53.
+Daphne bought a very good condition Hats from Seller 3 for $22.32.
+Daphne sold 7 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

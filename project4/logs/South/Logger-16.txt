@@ -1,34 +1,39 @@
-Shaggy arrives at the South store on Day 16
-Shaggy received Mandolin on day 16
-Shaggy received Flute on day 16
+Daphne arrives at the South store on Day 16
+Daphne received PracticeAmps on day 16
+Daphne received Saxophone on day 16
 2 items has been added to the inventory
-There is $2035.04 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 882.67
-Shaggy put in order for Cables for $21.4 on day 16
-Shaggy put in order for Cables for $44.04 on day 16
-Shaggy put in order for Cables for $16.61 on day 16
-Shaggy put in order for Strings for $37.22 on day 16
-Shaggy put in order for Strings for $33.58 on day 16
-Shaggy put in order for Strings for $24.0 on day 16
-Shaggy put in order for GigBag for $39.92 on day 16
-Shaggy put in order for GigBag for $29.61 on day 16
-Shaggy put in order for GigBag for $23.09 on day 16
-Shaggy ordered total of 9 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy adjusted Flute.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $77.14 after a 10%% discount.
-Buyer 2 purchased MP3 for $10.0.
-Buyer 3 purchased Mandolin for $33.15.
-RecordPlayer was too expensive, Buyer 4 left the store.
-Buyer 5 purchased MP3 for $40.0.
-Shaggy bought a fair condition CDPlayer from Seller 1 for $12.14 after offering 10%% more.
-Shaggy bought a poor condition MusicCD from Seller 2 for $32.59 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+There is $1910.8 in the register
+There are total of 43 items in the inventory.
+All the items in the inventory are worth total of $ 1115.21
+Daphne put in order for Harmonica for $27.24 on day 16
+Daphne put in order for Harmonica for $33.47 on day 16
+Daphne put in order for Harmonica for $39.63 on day 16
+Daphne put in order for GigBag for $36.46 on day 16
+Daphne put in order for GigBag for $44.16 on day 16
+Daphne put in order for GigBag for $20.58 on day 16
+Daphne ordered total of 6 items
+Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne has damaged 0 items while tuning
+CDPlayer out of stock, Buyer 1 left the store.
+GigBag out of stock, Buyer 2 left the store.
+RecordPlayer was too expensive, Buyer 3 left the store.
+Buyer 4 purchased PaperScore for $38.79.
+Buyer 5 purchased PracticeAmps for $80.36.
+Daphne bought a good condition Bandanas from Seller 1 for $55.38 after offering 10%% more.
+Daphne bought a very good condition PracticeAmps from Seller 2 for $49.89.
+Daphne sold 2 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

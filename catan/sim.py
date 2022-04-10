@@ -23,6 +23,7 @@ while(points<10):
     pygame.event.get()
     pygame.display.flip()
     #points+=1
+
 """
 class sim:
     def __init__(self):
@@ -75,6 +76,8 @@ class sim:
     def initialize(self):
         self.initializePlayers()
         #print(self.playercount)
+
+
 
 
 

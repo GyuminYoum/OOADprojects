@@ -1,34 +1,40 @@
-Velma arrives at the South store on Day 15
-Velma received Mandolin on day 15
-Velma received Saxophone on day 15
-Velma received Saxophone on day 15
-Velma received Flute on day 15
-4 items has been added to the inventory
-There is $1791.15 in the register
-There are total of 43 items in the inventory.
-All the items in the inventory are worth total of $ 987.68
-Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
-Velma adjusted Harmonica.
-Velma un-adjusted Harmonica.
-Velma un-adjusted Saxophone.
-Velma has damaged a(n) Saxophone.
-Velma un-adjusted Saxophone.
-Velma un-adjusted Flute.
-Velma has damaged a(n) Flute.
-Velma has damaged 2 items while tuning
-Buyer 1 purchased Cables for $16.46.
-Cables out of stock, Buyer 2 left the store.
-Buyer 3 purchased Bass for $91.67 after a 10%% discount.
-Buyer 4 purchased Saxophone for $65.31.
-Buyer 5 purchased GigBag for $11.7 after a 10%% discount.
-Buyer 6 purchased Strings for $56.8 after a 10%% discount.
-Buyer 7 purchased Harmonica for $17.55 after a 10%% discount.
-Velma bought a poor condition Mandolin from Seller 1 for $15.6 after offering 10%% more.
-Velma sold 6 items.
-Velma Bought 1 items.
-Velma cleaned the store without breaking anything.
-Velma damaged 0 items while cleaning.
-Velma went home for the day.
+Freddy arrives at the South store on Day 15
+Freddy received Bass on day 15
+Freddy received Saxophone on day 15
+2 items has been added to the inventory
+There is $1791.09 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1132.27
+Freddy put in order for CDPlayer for $23.71 on day 15
+Freddy put in order for CDPlayer for $14.15 on day 15
+Freddy put in order for CDPlayer for $24.73 on day 15
+Freddy ordered total of 3 items
+Freddy tuned Guitar.
+Freddy tuned Mandolin.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy adjusted Flute.
+Freddy adjusted Harmonica.
+Freddy tuned Mandolin.
+Freddy adjusted Flute.
+Freddy tuned Bass.
+Freddy tuned Mandolin.
+Freddy tuned Bass.
+Freddy tuned Bass.
+Freddy adjusted Saxophone.
+Freddy has damaged 0 items while tuning
+Buyer 1 purchased Mandolin for $70.0.
+Buyer 2 purchased PracticeAmps for $75.88 after a 10%% discount.
+Buyer 3 purchased GigBag for $27.63 after a 10%% discount.
+Buyer 4 purchased Saxophone for $21.25 after a 10%% discount.
+Buyer 5 purchased PaperScore for $6.0.
+Buyer 6 purchased Harmonica for $40.0.
+GigBag out of stock, Buyer 7 left the store.
+Freddy bought a good condition Shirts from Seller 1 for $6.98.
+Freddy bought a fair condition PaperScore from Seller 2 for $19.39.
+Freddy bought a good condition Mandolin from Seller 3 for $32.09 after offering 10%% more.
+Freddy sold 6 items.
+Freddy Bought 3 items.
+Freddy cleaned the store without breaking anything.
+Freddy damaged 0 items while cleaning.
+Freddy went home for the day.

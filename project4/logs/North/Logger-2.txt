@@ -1,40 +1,29 @@
-Justin is sick on day 2
-Freddy arrives at the North store on Day 2
+Shaggy arrives at the North store on Day 2
 0 items has been added to the inventory
-There is $1047.01 in the register
-There are total of 62 items in the inventory.
-All the items in the inventory are worth total of $ 1052.07
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy tuned Bass.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy tuned Mandolin.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased Bandanas for $5.4 after a 10%% discount.
-Buyer 2 purchased Flute for $81.0 after a 10%% discount.
-Buyer 3 purchased Mandolin for $66.6 after a 10%% discount.
-Buyer also purchased Cables for $10.0.
-Buyer 4 purchased Bass for $46.0.
-Buyer 5 purchased Cables for $20.0.
-Buyer 6 purchased Saxophone for $81.0 after a 10%% discount.
-Freddy bought a poor condition MusicCD from Seller 1 for $20.92.
-Freddy sold 7 items.
-Freddy Bought 1 items.
-Freddy has damaged a(n) Guitar.
-Freddy damaged an item while cleaning.
-Freddy damaged 1 items while cleaning.
-Freddy went home for the day.
+There is $1158.15 in the register
+There are total of 61 items in the inventory.
+All the items in the inventory are worth total of $ 1028.72
+Shaggy ordered total of 0 items
+Shaggy tuned Guitar.
+Shaggy tuned Guitar.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy tuned Bass.
+Shaggy un-tuned Mandolin.
+Shaggyhas damaged a(n) Mandolin.
+Shaggy un-tuned Mandolin.
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased Bass for $39.6 after a 10%% discount.
+Buyer also purchased Strings for $14.0.
+Buyer 2 purchased Cables for $20.0.
+Buyer 3 purchased Cassette for $5.4 after a 10%% discount.
+Shaggy bought a good condition Cassette from Seller 1 for $30.36.
+Shaggy sold 4 items.
+Shaggy Bought 1 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

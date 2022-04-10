@@ -1,28 +1,25 @@
 Shaggy arrives at the North store on Day 4
 0 items has been added to the inventory
-There is $1507.49 in the register
-There are total of 52 items in the inventory.
-All the items in the inventory are worth total of $ 822.48
+There is $1156.06 in the register
+There are total of 57 items in the inventory.
+All the items in the inventory are worth total of $ 1083.09
 Shaggy ordered total of 0 items
-Shaggy adjusted Flute.
-Shaggy adjusted Flute.
-Shaggy adjusted Harmonica.
-Shaggy un-adjusted Harmonica.
+Shaggy un-tuned Guitar.
+Shaggy un-adjusted Saxophone.
 Shaggy un-adjusted Saxophone.
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Bass for $48.0.
-Buyer also purchased Strings for $7.0.
-Strings was too expensive, Buyer 2 left the store.
-Buyer 3 purchased PaperScore for $10.0.
-Cassette was too expensive, Buyer 4 left the store.
-Buyer 5 purchased CassettePlayer for $23.4 after a 10%% discount.
-Buyer 6 purchased Hats for $20.0.
-Buyer 7 purchased Strings for $14.0.
-Shaggy bought a good condition Cables from Seller 1 for $31.03.
-Shaggy bought a very good condition Strings from Seller 2 for $45.07.
-Shaggy bought a good condition Guitar from Seller 3 for $26.63 after offering 10%% more.
-Shaggy sold 6 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
+Buyer 1 purchased Vinyl for $12.0.
+Buyer 2 purchased Bandanas for $6.0.
+Buyer 3 purchased Bass for $41.4 after a 10%% discount.
+Buyer 4 purchased CassettePlayer for $23.4 after a 10%% discount.
+Buyer 5 purchased PracticeAmps for $10.0.
+Guitar was too expensive, Buyer 6 left the store.
+Shaggy bought a poor condition PaperScore from Seller 1 for $10.38 after offering 10%% more.
+Shaggy bought a poor condition Mandolin from Seller 2 for $30.91 after offering 10%% more.
+Seller 3 didn't accept the price, and left the store.
+Shaggy sold 5 items.
+Shaggy Bought 2 items.
+Shaggy has damaged a(n) RecordPlayer.
+Shaggy damaged an item while cleaning.
+Shaggy damaged 1 items while cleaning.
 Shaggy went home for the day.
