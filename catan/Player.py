@@ -11,8 +11,9 @@ class Player:
         self.vp = 0
         self.card = []
         self.color = color
+        # self.command = None
 
-    def Roll(self):
+    def roll(self):
         rng = np.random.randint(0, 12)
         return rng
 
@@ -23,3 +24,9 @@ class Player:
     def build(self):
         # build logic
         print("worry bout it later")
+
+    # def setCommand(self, command):
+    #     self.command = command
+    #
+    # def executeCommand(self):
+    #     self.command.execute(self)
