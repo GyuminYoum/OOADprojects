@@ -75,7 +75,7 @@ class Command:
                 if (0, 0) in sim.current_player.settlement or (0, 0) in sim.current_player.city:
                     print('You can trade z resources at this harbor at a 2:1 rate. ')
                     print('etc etc')
-                    # TODO: hardcode harbor node locations and  
+                    # TODO: hardcode harbor node locations and
                     # allow trading with harbor Z
 
             # check if player wants to conduct more trades

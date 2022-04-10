@@ -14,7 +14,7 @@ class Player:
         # self.command = None
 
     def roll(self):
-        rng = np.random.randint(0, 12)
+        rng = np.random.randint(low=0, high=12)
         return rng
 
     def trade(self):
