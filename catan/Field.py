@@ -14,27 +14,27 @@ class Field:
         self.hexlist = []
 
     def buildLeft(self, name, hex2):
-        hex1=Hex(name, (hex2.p1[0]-2*hex2.lateral, hex2.p1[1]), self.length)
+        hex1 = Hex(name, (hex2.p1[0]-2*hex2.lateral, hex2.p1[1]), self.length)
         self.hexlist.append(hex1)
         return hex1
 
     def buildRight(self, name, hex2):
-        hex1=Hex(name, (hex2.p1[0]+2*hex2.lateral, hex2.p1[1]), self.length)
+        hex1 = Hex(name, (hex2.p1[0]+2*hex2.lateral, hex2.p1[1]), self.length)
         self.hexlist.append(hex1)
         return hex1
 
     def buildBotLeft(self, name, hex2):
-        hex1=Hex(name, hex2.p5, self.length)
+        hex1 = Hex(name, hex2.p5, self.length)
         self.hexlist.append(hex1)
         return hex1
 
     def buildBotRight(self, name, hex2):
-        hex1=Hex(name, hex2.p3, self.length)
+        hex1 = Hex(name, hex2.p3, self.length)
         self.hexlist.append(hex1)
         return hex1
 
     def build(self):
-        hex1=Hex("B", self.start, self.length)
+        hex1 = Hex("B", self.start, self.length)
         self.hexlist.append(hex1)
         hex2 = self.buildLeft("A", hex1)
         hex3 = self.buildRight("C", hex1)
@@ -64,6 +64,7 @@ class Field:
         colors = [sheep, sheep, sheep, sheep, forest, forest, forest, forest, ore, ore, ore, clay, clay, clay, wheat,
                   wheat, wheat, wheat]
 
+        # assigns a random resource to each hexagon
         for shape in self.hexlist:
             index = random.randint(0, len(colors) - 1)
             temp_color = colors[index]
