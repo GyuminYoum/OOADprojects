@@ -1,18 +1,25 @@
-Justin arrives at the South store on Day 4
-0 items has been added to the inventory
-There is $1227.61 in the register
+Velma arrives at the South store on Day 4
+Velma received RecordPlayer on day 4
+1 items has been added to the inventory
+There is $1171.77 in the register
 There are total of 55 items in the inventory.
-All the items in the inventory are worth total of $ 1033.35
-Justin ordered total of 0 items
-Justin un-tuned Mandolin.
-Justin un-adjusted Saxophone.
-Justin un-adjusted Saxophone.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Saxophone for $81.0 after a 10%% discount.
-Buyer 2 purchased Hats for $20.0.
-Justin bought a fair condition Cassette from Seller 1 for $32.44.
-Justin sold 2 items.
-Justin Bought 1 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+All the items in the inventory are worth total of $ 1070.31
+Velma ordered total of 0 items
+Velma tuned Bass.
+Velma tuned Bass.
+Velma tuned Mandolin.
+Velma un-adjusted Flute.
+Velma un-adjusted Harmonica.
+Velma adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Strings for $19.8 after a 10%% discount.
+Buyer 2 purchased CDPlayer for $21.6 after a 10%% discount.
+MusicCD was too expensive, Buyer 3 left the store.
+Buyer 4 purchased Saxophone for $90.0.
+Buyer 5 purchased Cables for $18.0 after a 10%% discount.
+Velma bought a poor condition Hats from Seller 1 for $6.47 after offering 10%% more.
+Velma sold 4 items.
+Velma Bought 1 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

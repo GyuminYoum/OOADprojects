@@ -21,4 +21,3 @@ while(points<10):
     pygame.event.get()
     pygame.display.flip()
     #points+=1
-

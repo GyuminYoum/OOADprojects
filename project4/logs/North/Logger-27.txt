@@ -1,37 +1,22 @@
-Daphne arrives at the North store on Day 27
-Daphne received Mandolin on day 27
-Daphne received CDPlayer on day 27
-Daphne received Flute on day 27
-3 items has been added to the inventory
-There is $3400.09 in the register
-There are total of 28 items in the inventory.
-All the items in the inventory are worth total of $ 757.57
-Daphne put in order for Guitar for $42.91 on day 27
-Daphne put in order for Guitar for $20.99 on day 27
-Daphne put in order for Guitar for $47.82 on day 27
-Daphne put in order for Cables for $26.78 on day 27
-Daphne put in order for Cables for $21.66 on day 27
-Daphne put in order for Cables for $18.73 on day 27
-Daphne put in order for Strings for $33.4 on day 27
-Daphne put in order for Strings for $15.6 on day 27
-Daphne put in order for Strings for $12.12 on day 27
-Daphne put in order for Saxophone for $5.4 on day 27
-Daphne put in order for Saxophone for $35.34 on day 27
-Daphne put in order for Saxophone for $27.79 on day 27
-Daphne put in order for GigBag for $47.5 on day 27
-Daphne put in order for GigBag for $23.35 on day 27
-Daphne put in order for GigBag for $19.69 on day 27
-Daphne ordered total of 15 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne tuned Mandolin.
-Daphne adjusted Flute.
-Daphne has damaged 0 items while tuning
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Velma arrives at the North store on Day 27
+Velma received Strings on day 27
+Velma received Strings on day 27
+2 items has been added to the inventory
+There is $3045.45 in the register
+There are total of 39 items in the inventory.
+All the items in the inventory are worth total of $ 988.53
+Velma ordered total of 0 items
+Velma tuned Guitar.
+Velma tuned Guitar.
+Velma un-adjusted Flute.
+Velma tuned Bass.
+Velma tuned Guitar.
+Velma un-adjusted Saxophone.
+Velma has damaged 0 items while tuning
+Buyer 1 purchased Harmonica for $21.31 after a 10%% discount.
+Buyer 2 purchased RecordPlayer for $34.48 after a 10%% discount.
+Velma sold 2 items.
+Velma Bought 0 items.
+Velma cleaned the store without breaking anything.
+Velma damaged 0 items while cleaning.
+Velma went home for the day.

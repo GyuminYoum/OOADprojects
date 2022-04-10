@@ -4,23 +4,24 @@ Velma went to the bank and put $1000 in the register. There is $ 1000.0 in the C
 There are total of 63 items in the inventory.
 All the items in the inventory are worth total of $ 1074.08
 Velma ordered total of 0 items
-Velma tuned Guitar.
-Velma tuned Guitar.
-Velma tuned Bass.
-Velma tuned Bass.
+Velma tuned Mandolin.
+Velma tuned Mandolin.
 Velma tuned Mandolin.
 Velma adjusted Flute.
+Velma adjusted Flute.
 Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Harmonica.
-Velma adjusted Saxophone.
 Velma adjusted Saxophone.
 Velma has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $6.0.
-Buyer 2 purchased Bass for $44.0.
-Velma bought a good condition Harmonica from Seller 1 for $2.99.
-Velma sold 2 items.
-Velma Bought 1 items.
+Buyer 1 purchased Flute for $90.0.
+Buyer 2 purchased Strings for $6.3 after a 10%% discount.
+Buyer 3 purchased Cables for $10.0.
+Buyer 4 purchased RecordPlayer for $66.0.
+Buyer 5 purchased Guitar for $54.0.
+Velma bought a very good condition RecordPlayer from Seller 1 for $9.63.
+Velma bought a poor condition MP3 from Seller 2 for $16.2 after offering 10%% more.
+Velma bought a poor condition Bass from Seller 3 for $42.31 after offering 10%% more.
+Velma sold 5 items.
+Velma Bought 3 items.
 Velma cleaned the store without breaking anything.
 Velma damaged 0 items while cleaning.
 Velma went home for the day.

@@ -1,22 +1,29 @@
-Justin arrives at the South store on Day 10
+Shaggy arrives at the South store on Day 10
 0 items has been added to the inventory
-There is $1700.25 in the register
-There are total of 45 items in the inventory.
-All the items in the inventory are worth total of $ 884.14
-Justin ordered total of 0 items
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Cassette for $8.19.
-Buyer 2 purchased Bass for $43.2 after a 10%% discount.
-Buyer also purchased Cables for $90.54.
-Bandanas was too expensive, Buyer 3 left the store.
-Buyer 4 purchased Bandanas for $10.8 after a 10%% discount.
-Buyer 5 purchased MusicCD for $8.0.
-Justin bought a fair condition Bass from Seller 1 for $23.3.
-Seller 2 didn't accept the price, and left the store.
-Justin bought a very good condition Cables from Seller 3 for $9.05 after offering 10%% more.
-Justin sold 6 items.
-Justin Bought 2 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+There is $1524.53 in the register
+There are total of 44 items in the inventory.
+All the items in the inventory are worth total of $ 1067.75
+Shaggy put in order for Bass for $29.25 on day 10
+Shaggy put in order for Bass for $39.54 on day 10
+Shaggy put in order for Bass for $34.34 on day 10
+Shaggy put in order for PracticeAmps for $50.51 on day 10
+Shaggy put in order for PracticeAmps for $6.94 on day 10
+Shaggy put in order for PracticeAmps for $42.16 on day 10
+Shaggy put in order for GigBag for $15.35 on day 10
+Shaggy put in order for GigBag for $34.65 on day 10
+Shaggy put in order for GigBag for $2.19 on day 10
+Shaggy ordered total of 9 items
+Shaggy adjusted Flute.
+Shaggy adjusted Harmonica.
+Shaggy adjusted Saxophone.
+Shaggy un-tuned Mandolin.
+Shaggy has damaged 0 items while tuning
+Buyer 1 purchased Strings for $86.59 after a 10%% discount.
+Bass out of stock, Buyer 2 left the store.
+Buyer 3 purchased RecordPlayer for $19.92 after a 10%% discount.
+Seller 1 didn't accept the price, and left the store.
+Shaggy sold 2 items.
+Shaggy Bought 0 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.

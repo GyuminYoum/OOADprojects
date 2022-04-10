@@ -1,29 +1,27 @@
-Freddy arrives at the South store on Day 9
-Freddy received Strings on day 9
+Justin arrives at the South store on Day 9
+Justin received Strings on day 9
 1 items has been added to the inventory
-There is $1560.69 in the register
-There are total of 48 items in the inventory.
-All the items in the inventory are worth total of $ 981.37
-Freddy put in order for Harmonica for $9.75 on day 9
-Freddy put in order for Harmonica for $29.45 on day 9
-Freddy put in order for Harmonica for $17.47 on day 9
-Freddy ordered total of 3 items
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Saxophone.
-Freddy adjusted Saxophone.
-Freddy tuned Mandolin.
-Freddy tuned Bass.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased CDPlayer for $48.0.
-Buyer 2 purchased Saxophone for $75.6 after a 10%% discount.
-Buyer 3 purchased Flute for $86.4 after a 10%% discount.
-Buyer 4 purchased Bandanas for $6.0.
-Freddy bought a good condition Flute from Seller 1 for $19.77.
-Seller 2 didn't accept the price, and left the store.
-Freddy sold 4 items.
-Freddy Bought 1 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1243.5 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1179.13
+Justin ordered total of 0 items
+Justin un-tuned Guitar.
+Justin un-adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Flute.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Bass for $46.0.
+Buyer also purchased GigBag for $13.0.
+Buyer also purchased PracticeAmps for $50.0.
+Buyer 2 purchased MusicCD for $83.62 after a 10%% discount.
+Buyer 3 purchased Bass for $48.0.
+Buyer 4 purchased Saxophone for $84.0.
+Buyer 5 purchased CassettePlayer for $24.0.
+Justin bought a poor condition RecordPlayer from Seller 1 for $27.68 after offering 10%% more.
+Justin bought a poor condition Bandanas from Seller 2 for $39.9.
+Justin sold 7 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

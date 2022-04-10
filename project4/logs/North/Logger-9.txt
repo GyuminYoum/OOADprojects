@@ -1,30 +1,41 @@
-Shaggy arrives at the North store on Day 9
-Shaggy received Bass on day 9
-Shaggy received Cables on day 9
-2 items has been added to the inventory
-There is $2082.14 in the register
-There are total of 33 items in the inventory.
-All the items in the inventory are worth total of $ 592.96
-Shaggy put in order for CDPlayer for $22.12 on day 9
-Shaggy put in order for CDPlayer for $9.85 on day 9
-Shaggy put in order for CDPlayer for $27.46 on day 9
-Shaggy put in order for CassettePlayer for $50.45 on day 9
-Shaggy put in order for CassettePlayer for $11.75 on day 9
-Shaggy put in order for CassettePlayer for $43.85 on day 9
-Shaggy ordered total of 6 items
-Shaggy adjusted Harmonica.
-Shaggy adjusted Saxophone.
-Shaggy has damaged 0 items while tuning
-Shirts was too expensive, Buyer 1 left the store.
-Bandanas was too expensive, Buyer 2 left the store.
-Buyer 3 purchased Bandanas for $18.0.
-Buyer 4 purchased MusicCD for $8.19.
-Buyer 5 purchased Harmonica for $38.0.
-Shaggy bought a very good condition Bandanas from Seller 1 for $14.99.
-Shaggy bought a very good condition MusicCD from Seller 2 for $7.53.
-Seller 3 didn't accept the price, and left the store.
-Shaggy sold 3 items.
-Shaggy Bought 2 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Daphne arrives at the North store on Day 9
+Daphne received Strings on day 9
+1 items has been added to the inventory
+There is $1893.28 in the register
+There are total of 37 items in the inventory.
+All the items in the inventory are worth total of $ 725.16
+Daphne put in order for PracticeAmps for $11.75 on day 9
+Daphne put in order for PracticeAmps for $33.67 on day 9
+Daphne put in order for PracticeAmps for $43.73 on day 9
+Daphne put in order for Cables for $3.94 on day 9
+Daphne put in order for Cables for $48.12 on day 9
+Daphne put in order for Cables for $31.11 on day 9
+Daphne put in order for GigBag for $47.99 on day 9
+Daphne put in order for GigBag for $29.81 on day 9
+Daphne put in order for GigBag for $25.78 on day 9
+Daphne ordered total of 9 items
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne tuned Guitar.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased Guitar for $34.08.
+Buyer 2 purchased Harmonica for $36.0 after a 10%% discount.
+Buyer 3 purchased Flute for $92.0.
+Buyer 4 purchased RecordPlayer for $39.6 after a 10%% discount.
+Buyer 5 purchased Strings for $9.14 after a 10%% discount.
+Daphne bought a fair condition Vinyl from Seller 1 for $29.37 after offering 10%% more.
+Daphne bought a poor condition Vinyl from Seller 2 for $42.98.
+Daphne bought a poor condition Hats from Seller 3 for $24.12.
+Daphne sold 7 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

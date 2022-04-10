@@ -1,15 +1,13 @@
-Shaggy is sick on day 5
 Daphne arrives at the North store on Day 5
 0 items has been added to the inventory
-There is $1527.16 in the register
-There are total of 49 items in the inventory.
-All the items in the inventory are worth total of $ 862.71
-Daphne put in order for Bass for $7.18 on day 5
-Daphne put in order for Bass for $24.6 on day 5
-Daphne put in order for Bass for $34.15 on day 5
-Daphne ordered total of 3 items
+There is $1207.56 in the register
+There are total of 54 items in the inventory.
+All the items in the inventory are worth total of $ 1074.38
+Daphne ordered total of 0 items
 Daphne tuned Guitar.
 Daphne tuned Guitar.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
 Daphne tuned Mandolin.
 Daphne tuned Mandolin.
 Daphne adjusted Flute.
@@ -18,20 +16,23 @@ Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
 Daphne adjusted Harmonica.
 Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
 Daphne tuned Guitar.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
 Daphne has damaged 0 items while tuning
-Buyer 1 purchased RecordPlayer for $66.0.
+Buyer 1 purchased Saxophone for $90.0.
 Buyer 2 purchased Harmonica for $36.0.
-Buyer 3 purchased Shirts for $8.0.
-Buyer 4 purchased Flute for $82.8 after a 10%% discount.
-Buyer 5 purchased MP3 for $9.0 after a 10%% discount.
-Buyer 6 purchased RecordPlayer for $39.6 after a 10%% discount.
-Buyer 7 purchased Flute for $86.4 after a 10%% discount.
-Daphne bought a fair condition Vinyl from Seller 1 for $22.62.
-Daphne sold 7 items.
-Daphne Bought 1 items.
-Daphne has damaged a(n) Strings.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
+Buyer 3 purchased Saxophone for $84.0.
+Buyer 4 purchased Guitar for $30.6 after a 10%% discount.
+Buyer 5 purchased Bandanas for $12.0.
+Daphne bought a poor condition Flute from Seller 1 for $19.54.
+Seller 2 didn't accept the price, and left the store.
+Daphne bought a fair condition CassettePlayer from Seller 3 for $17.4 after offering 10%% more.
+Daphne sold 5 items.
+Daphne Bought 2 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
 Daphne went home for the day.

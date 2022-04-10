@@ -1,43 +1,24 @@
-Daphne arrives at the South store on Day 26
-Daphne received Vinyl on day 26
-Daphne received Strings on day 26
-Daphne received Mandolin on day 26
-3 items has been added to the inventory
-There is $2815.75 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1101.08
-Daphne put in order for Flute for $10.82 on day 26
-Daphne put in order for Flute for $47.78 on day 26
-Daphne put in order for Flute for $41.57 on day 26
-Daphne put in order for Cables for $22.63 on day 26
-Daphne put in order for Cables for $42.54 on day 26
-Daphne put in order for Cables for $31.72 on day 26
-Daphne ordered total of 6 items
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Bass.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Guitar.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $8.19.
-Buyer 2 purchased MusicCD for $8.4.
-Flute out of stock, Buyer 3 left the store.
-Buyer 4 purchased Harmonica for $68.68 after a 10%% discount.
-Buyer 5 purchased Mandolin for $92.18.
-Buyer also purchased Strings for $88.62.
-Buyer also purchased Strings for $34.4.
-Daphne bought a good condition PaperScore from Seller 2 for $2.46.
-Seller 3 didn't accept the price, and left the store.
-Daphne sold 7 items.
-Daphne Bought 1 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the South store on Day 26
+0 items has been added to the inventory
+There is $2538.06 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1185.07
+Justin ordered total of 0 items
+Justin un-adjusted Harmonica.
+Justin un-adjusted Harmonica.
+Justin un-tuned Guitar.
+Justin un-tuned Bass.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased Bandanas for $44.98 after a 10%% discount.
+Hats out of stock, Buyer 2 left the store.
+MusicCD was too expensive, Buyer 3 left the store.
+Buyer 4 purchased CDPlayer for $72.72 after a 10%% discount.
+Buyer 5 purchased Cassette for $3.96 after a 10%% discount.
+Justin bought a fair condition Vinyl from Seller 1 for $51.81 after offering 10%% more.
+Justin bought a good condition Shirts from Seller 2 for $23.66.
+Justin bought a poor condition Bass from Seller 3 for $4.86 after offering 10%% more.
+Justin sold 3 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

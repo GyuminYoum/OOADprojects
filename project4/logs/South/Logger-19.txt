@@ -1,32 +1,17 @@
-Shaggy arrives at the South store on Day 19
-Shaggy received PracticeAmps on day 19
-Shaggy received Mandolin on day 19
-Shaggy received Mandolin on day 19
-Shaggy received Bass on day 19
-4 items has been added to the inventory
-There is $2303.09 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1154.39
-Shaggy ordered total of 0 items
-Shaggy un-adjusted Flute.
-Shaggy un-adjusted Flute.
-Shaggyhas damaged a(n) Flute.
-Shaggy un-adjusted Harmonica.
-Shaggy has thrown away a(n) Harmonicadue to less than poor condition.
-Shaggy un-tuned Mandolin.
-Shaggy has damaged 2 items while tuning
-Hats out of stock, Buyer 1 left the store.
-Buyer 2 purchased Flute for $96.0.
-Buyer 3 purchased Mandolin for $39.88.
-Buyer 4 purchased RecordPlayer for $44.0.
-Harmonica out of stock, Buyer 5 left the store.
-MusicCD was too expensive, Buyer 6 left the store.
-Buyer 7 purchased CDPlayer for $96.84.
-Shaggy bought a very good condition Saxophone from Seller 1 for $33.97 after offering 10%% more.
-Shaggy bought a good condition Guitar from Seller 2 for $36.15.
-Shaggy bought a good condition Harmonica from Seller 3 for $8.27 after offering 10%% more.
-Shaggy sold 4 items.
-Shaggy Bought 3 items.
-Shaggy cleaned the store without breaking anything.
-Shaggy damaged 0 items while cleaning.
-Shaggy went home for the day.
+Justin arrives at the South store on Day 19
+Justin received CDPlayer on day 19
+Justin received Harmonica on day 19
+Justin received PaperScore on day 19
+3 items has been added to the inventory
+There is $1926.07 in the register
+There are total of 49 items in the inventory.
+All the items in the inventory are worth total of $ 1347.43
+Justin put in order for Cables for $6.63 on day 19
+Justin put in order for Cables for $11.39 on day 19
+Justin put in order for Cables for $40.13 on day 19
+Justin ordered total of 3 items
+Justin un-tuned Mandolin.
+Justin has damaged 0 items while tuning
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

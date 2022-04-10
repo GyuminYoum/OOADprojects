@@ -1,33 +1,20 @@
 Shaggy arrives at the North store on Day 20
-Shaggy received PaperScore on day 20
-Shaggy received Mandolin on day 20
-Shaggy received Cables on day 20
-Shaggy received Strings on day 20
-Shaggy received Strings on day 20
-5 items has been added to the inventory
-There is $2166.83 in the register
-There are total of 44 items in the inventory.
-All the items in the inventory are worth total of $ 1056.16
-Shaggy put in order for Saxophone for $29.35 on day 20
-Shaggy put in order for Saxophone for $47.04 on day 20
-Shaggy put in order for Saxophone for $37.65 on day 20
-Shaggy ordered total of 3 items
-Shaggy un-tuned Guitar.
-Shaggy un-tuned Bass.
+Shaggy received RecordPlayer on day 20
+Shaggy received Bass on day 20
+Shaggy received PracticeAmps on day 20
+3 items has been added to the inventory
+There is $2046.12 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1196.41
+Shaggy ordered total of 0 items
 Shaggy has damaged 0 items while tuning
-Buyer 1 purchased Strings for $43.95 after a 10%% discount.
-Buyer 2 purchased Shirts for $9.0 after a 10%% discount.
-Buyer 3 purchased Guitar for $34.0.
-Buyer 4 purchased PaperScore for $20.12.
-Buyer 5 purchased Guitar for $74.0.
-Buyer also purchased Strings for $100.46.
-GigBag out of stock, Buyer 6 left the store.
-Saxophone out of stock, Buyer 7 left the store.
-Buyer 8 purchased Harmonica for $6.94.
-Shaggy bought a poor condition Bass from Seller 1 for $29.15.
-Shaggy bought a good condition PaperScore from Seller 2 for $14.18.
-Shaggy sold 7 items.
-Shaggy Bought 2 items.
+Bandanas was too expensive, Buyer 1 left the store.
+Buyer 2 purchased RecordPlayer for $61.77 after a 10%% discount.
+MP3 was too expensive, Buyer 3 left the store.
+Buyer 4 purchased GigBag for $47.58.
+Seller 1 didn't accept the price, and left the store.
+Shaggy sold 2 items.
+Shaggy Bought 0 items.
 Shaggy cleaned the store without breaking anything.
 Shaggy damaged 0 items while cleaning.
 Shaggy went home for the day.

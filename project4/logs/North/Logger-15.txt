@@ -1,38 +1,24 @@
-Daphne arrives at the North store on Day 15
-Daphne received CassettePlayer on day 15
-Daphne received PaperScore on day 15
-Daphne received Saxophone on day 15
-3 items has been added to the inventory
-There is $2118.16 in the register
-There are total of 38 items in the inventory.
-All the items in the inventory are worth total of $ 893.31
-Daphne put in order for GigBag for $22.75 on day 15
-Daphne put in order for GigBag for $15.1 on day 15
-Daphne put in order for GigBag for $47.22 on day 15
-Daphne ordered total of 3 items
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Saxophone.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Bass for $68.31.
-Buyer also purchased PracticeAmps for $2.76.
-Buyer also purchased Cables for $65.14.
-Buyer 2 purchased Flute for $45.12.
-Buyer 3 purchased Vinyl for $14.0.
-Buyer 4 purchased Strings for $27.24.
-Buyer 5 purchased MP3 for $45.0 after a 10%% discount.
-Buyer 6 purchased RecordPlayer for $22.0.
-Seller 1 didn't accept the price, and left the store.
-Daphne sold 8 items.
-Daphne Bought 0 items.
-Daphne has damaged a(n) CDPlayer.
-Daphne damaged an item while cleaning.
-Daphne damaged 1 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the North store on Day 15
+Justin received GigBag on day 15
+Justin received Cassette on day 15
+Justin received Cassette on day 15
+Justin received Strings on day 15
+4 items has been added to the inventory
+There is $1804.81 in the register
+There are total of 51 items in the inventory.
+All the items in the inventory are worth total of $ 1160.87
+Justin ordered total of 0 items
+Justin adjusted Saxophone.
+Justin adjusted Saxophone.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $43.2 after a 10%% discount.
+Buyer 2 purchased Shirts for $8.0.
+Buyer 3 purchased MusicCD for $8.4.
+Justin bought a fair condition Harmonica from Seller 1 for $16.12.
+Seller 2 didn't accept the price, and left the store.
+Justin bought a good condition Cables from Seller 3 for $17.78.
+Justin sold 3 items.
+Justin Bought 2 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

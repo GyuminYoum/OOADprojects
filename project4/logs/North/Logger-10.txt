@@ -1,37 +1,37 @@
-Shaggy is sick on day 10
-Freddy arrives at the North store on Day 10
-Freddy received Flute on day 10
-Freddy received Cables on day 10
-Freddy received CDPlayer on day 10
+Daphne arrives at the North store on Day 10
+Daphne received Strings on day 10
+Daphne received Cables on day 10
+Daphne received GigBag on day 10
 3 items has been added to the inventory
-There is $1958.33 in the register
-There are total of 35 items in the inventory.
-All the items in the inventory are worth total of $ 676.34
-Freddy ordered total of 0 items
-Freddy tuned Guitar.
-Freddy tuned Mandolin.
-Freddy adjusted Harmonica.
-Freddy adjusted Saxophone.
-Freddy adjusted Harmonica.
-Freddy tuned Guitar.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy adjusted Flute.
-Freddy tuned Bass.
-Freddy adjusted Flute.
-Freddy has damaged 0 items while tuning
-Buyer 1 purchased MusicCD for $7.56 after a 10%% discount.
-Buyer 2 purchased PracticeAmps for $10.0.
-Bandanas was too expensive, Buyer 3 left the store.
-CassettePlayer out of stock, Buyer 4 left the store.
-Buyer 5 purchased Bass for $12.92 after a 10%% discount.
-Buyer also purchased PracticeAmps for $30.0.
-Strings out of stock, Buyer 6 left the store.
-Freddy bought a very good condition Vinyl from Seller 1 for $30.55 after offering 10%% more.
-Freddy bought a good condition Harmonica from Seller 2 for $22.4 after offering 10%% more.
-Seller 3 didn't accept the price, and left the store.
-Freddy sold 5 items.
-Freddy Bought 2 items.
-Freddy cleaned the store without breaking anything.
-Freddy damaged 0 items while cleaning.
-Freddy went home for the day.
+There is $1731.73 in the register
+There are total of 38 items in the inventory.
+All the items in the inventory are worth total of $ 840.64
+Daphne put in order for Guitar for $47.54 on day 10
+Daphne put in order for Guitar for $4.66 on day 10
+Daphne put in order for Guitar for $14.69 on day 10
+Daphne put in order for Harmonica for $6.78 on day 10
+Daphne put in order for Harmonica for $44.03 on day 10
+Daphne put in order for Harmonica for $23.27 on day 10
+Daphne ordered total of 6 items
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne adjusted Saxophone.
+Daphne tuned Bass.
+Daphne tuned Mandolin.
+Daphne tuned Mandolin.
+Daphne adjusted Flute.
+Daphne has damaged 0 items while tuning
+Buyer 1 purchased CDPlayer for $24.0.
+Buyer 2 purchased GigBag for $95.98.
+Buyer 3 purchased Saxophone for $96.0.
+Guitar out of stock, Buyer 4 left the store.
+Buyer 5 purchased Cassette for $60.72.
+Daphne bought a very good condition Guitar from Seller 1 for $38.61.
+Daphne bought a very good condition Saxophone from Seller 2 for $30.98.
+Daphne bought a poor condition Vinyl from Seller 3 for $37.78 after offering 10%% more.
+Daphne sold 4 items.
+Daphne Bought 3 items.
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

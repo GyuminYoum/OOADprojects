@@ -32,6 +32,7 @@ public class logger implements Observer, Writer, Display {
     private logger() {
         //System.out.println("Logger instantiated");
     }
+    //Lazy loading singleton
     public static logger GetInstance() {
         if (instance==null){
             instance = new logger();
@@ -40,7 +41,7 @@ public class logger implements Observer, Writer, Display {
         return instance;
     }
 
-    //creates a file depending on the store parameter
+    //creates a file depending on the store
     public void makeTxt(Store Store) {
         if (Objects.equals(Store.get_location(), "North")){
             str1 = "project4//logs//North//Logger-"+Store.get_daysPassed()+".txt";
@@ -85,6 +86,7 @@ public class logger implements Observer, Writer, Display {
         //File file = new File(file_name);
 
         try {
+            //check which Store the logs are for so that they get added to the correct file
             if (Store.get_location() == "North") {
                 FileWriter fileWriter = new FileWriter(northFile, true);
                 BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);

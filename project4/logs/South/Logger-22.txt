@@ -1,38 +1,30 @@
-Daphne arrives at the South store on Day 22
-Daphne received Mandolin on day 22
-Daphne received Harmonica on day 22
-2 items has been added to the inventory
-There is $2639.75 in the register
-There are total of 39 items in the inventory.
-All the items in the inventory are worth total of $ 1111.37
-Daphne put in order for CassettePlayer for $49.9 on day 22
-Daphne put in order for CassettePlayer for $16.57 on day 22
-Daphne put in order for CassettePlayer for $13.39 on day 22
-Daphne ordered total of 3 items
-Daphne adjusted Saxophone.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Mandolin.
-Daphne tuned Bass.
-Daphne adjusted Saxophone.
-Daphne tuned Guitar.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne tuned Bass.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased MP3 for $90.0.
-Buyer 2 purchased RecordPlayer for $99.46.
-Hats out of stock, Buyer 3 left the store.
-Mandolin was too expensive, Buyer 4 left the store.
-Bandanas out of stock, Buyer 5 left the store.
-Buyer 6 purchased Mandolin for $21.74.
-Buyer also purchased PracticeAmps for $18.9.
-Daphne sold 4 items.
-Daphne Bought 0 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Justin arrives at the South store on Day 22
+Justin received CDPlayer on day 22
+Justin received Bass on day 22
+Justin received MusicCD on day 22
+Justin received MusicCD on day 22
+Justin received PracticeAmps on day 22
+Justin received Cables on day 22
+6 items has been added to the inventory
+There is $2121.4 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1174.85
+Justin ordered total of 0 items
+Justin adjusted Harmonica.
+Justin adjusted Harmonica.
+Justin adjusted Saxophone.
+Justin un-adjusted Flute.
+Justin un-adjusted Flute.
+Justin un-adjusted Harmonica.
+Justin has damaged 0 items while tuning
+Buyer 1 purchased MP3 for $45.0 after a 10%% discount.
+MusicCD was too expensive, Buyer 2 left the store.
+MusicCD was too expensive, Buyer 3 left the store.
+Justin bought a very good condition CassettePlayer from Seller 1 for $17.17.
+Justin bought a very good condition Guitar from Seller 2 for $9.22.
+Justin bought a fair condition Harmonica from Seller 3 for $21.92 after offering 10%% more.
+Justin sold 1 items.
+Justin Bought 3 items.
+Justin cleaned the store without breaking anything.
+Justin damaged 0 items while cleaning.
+Justin went home for the day.

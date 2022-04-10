@@ -24,6 +24,8 @@ public class chart extends ApplicationFrame {
 
         JFrame frame = new JFrame("Many charts same frame");
         frame.setLayout( new FlowLayout() );
+        //chart is a boolean used to pick which chart we want generated
+        //if chart is true, create chart for inventory, daily items damaged, and items sold
         if (chart) {
             JFreeChart linear1 = ChartFactory.createXYLineChart(
                     chartTitle ,
@@ -48,6 +50,7 @@ public class chart extends ApplicationFrame {
             //renderer.setSeriesStroke( 2 , new BasicStroke( 2.0f ) );
             plot.setRenderer( renderer );
             setContentPane( chartPanel );
+        //if chart is false, create chart for itemSales and Register
         } else {
             JFreeChart linear1 = ChartFactory.createXYLineChart(
                     chartTitle ,
@@ -110,6 +113,7 @@ public class chart extends ApplicationFrame {
         */
     }
 
+    //depending on the integer d inputted, generate the chart that we want
     private XYDataset createDataset(int d) {
         final XYSeries itemSales = new XYSeries( "itemSales" );
         for(int i=0; i<sim.day_itemSales.size(); i++){
@@ -132,10 +136,12 @@ public class chart extends ApplicationFrame {
             sold.add(i,sim.day_itemSold.get(i));
         }
         XYSeriesCollection dataset = new XYSeriesCollection( );
+        //if chart is false, and therefore d = 1, then add the itemSales and register Series
         if(d==1) {
             dataset.addSeries(itemSales);
             dataset.addSeries(register);
         }
+        //else chart is true, and therefore d = 0, then add the inventory, day_dmg, and sold Series
         else{
             dataset.addSeries(inventory);
             dataset.addSeries(day_dmg);

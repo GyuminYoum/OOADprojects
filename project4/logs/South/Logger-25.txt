@@ -1,29 +1,34 @@
-Justin arrives at the South store on Day 25
-Justin received Vinyl on day 25
-Justin received MP3 on day 25
-Justin received Strings on day 25
-3 items has been added to the inventory
-There is $2789.01 in the register
-There are total of 40 items in the inventory.
-All the items in the inventory are worth total of $ 1080.16
-Justin put in order for Mandolin for $2.54 on day 25
-Justin put in order for Mandolin for $49.67 on day 25
-Justin put in order for Mandolin for $46.09 on day 25
-Justin ordered total of 3 items
-Justin un-tuned Bass.
-Justin un-tuned Bass.
-Justin adjusted Saxophone.
-Justin un-tuned Bass.
-Justin adjusted Flute.
-Justin adjusted Flute.
-Justin has damaged 0 items while tuning
-Buyer 1 purchased Flute for $46.44.
-Buyer 2 purchased Cables for $55.53 after a 10%% discount.
-Buyer 3 purchased Flute for $23.07 after a 10%% discount.
-Shirts was too expensive, Buyer 4 left the store.
-Seller 1 didn't accept the price, and left the store.
-Justin sold 3 items.
-Justin Bought 0 items.
-Justin cleaned the store without breaking anything.
-Justin damaged 0 items while cleaning.
-Justin went home for the day.
+Daphne arrives at the South store on Day 25
+Daphne received PracticeAmps on day 25
+1 items has been added to the inventory
+There is $2609.82 in the register
+There are total of 52 items in the inventory.
+All the items in the inventory are worth total of $ 1185.07
+Daphne put in order for RecordPlayer for $27.52 on day 25
+Daphne put in order for RecordPlayer for $8.98 on day 25
+Daphne put in order for RecordPlayer for $35.26 on day 25
+Daphne ordered total of 3 items
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Harmonica.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne adjusted Saxophone.
+Daphne tuned Mandolin.
+Daphne adjusted Saxophone.
+Daphne adjusted Flute.
+Daphne adjusted Flute.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne adjusted Harmonica.
+Daphne tuned Mandolin.
+Daphne tuned Bass.
+Daphne tuned Guitar.
+Daphne adjusted Harmonica.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne tuned Bass.
+Daphne has damaged 0 items while tuning
+Daphne cleaned the store without breaking anything.
+Daphne damaged 0 items while cleaning.
+Daphne went home for the day.

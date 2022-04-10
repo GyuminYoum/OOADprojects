@@ -1,35 +1,24 @@
-Daphne arrives at the North store on Day 13
-Daphne received Strings on day 13
-1 items has been added to the inventory
-There is $2109.29 in the register
-There are total of 37 items in the inventory.
-All the items in the inventory are worth total of $ 802.77
-Daphne put in order for Saxophone for $41.46 on day 13
-Daphne put in order for Saxophone for $27.97 on day 13
-Daphne put in order for Saxophone for $39.03 on day 13
-Daphne ordered total of 3 items
-Daphne tuned Mandolin.
-Daphne adjusted Harmonica.
-Daphne adjusted Harmonica.
-Daphne tuned Guitar.
-Daphne adjusted Flute.
-Daphne adjusted Flute.
-Daphne tuned Bass.
-Daphne adjusted Flute.
-Daphne adjusted Harmonica.
-Daphne tuned Mandolin.
-Daphne has damaged 0 items while tuning
-Buyer 1 purchased Flute for $71.62.
-Saxophone out of stock, Buyer 2 left the store.
-Buyer 3 purchased PracticeAmps for $45.62.
-Buyer 4 purchased GigBag for $10.8 after a 10%% discount.
-Buyer 5 purchased GigBag for $13.0.
-Buyer 6 purchased Cassette for $23.38 after a 10%% discount.
-Daphne bought a good condition MP3 from Seller 1 for $12.15.
-Daphne bought a good condition Cassette from Seller 2 for $30.47 after offering 10%% more.
-Daphne bought a fair condition Vinyl from Seller 3 for $4.47 after offering 10%% more.
-Daphne sold 5 items.
-Daphne Bought 3 items.
-Daphne cleaned the store without breaking anything.
-Daphne damaged 0 items while cleaning.
-Daphne went home for the day.
+Shaggy arrives at the North store on Day 13
+Shaggy received PracticeAmps on day 13
+Shaggy received Guitar on day 13
+Shaggy received Harmonica on day 13
+Shaggy received Strings on day 13
+4 items has been added to the inventory
+There is $1719.02 in the register
+There are total of 47 items in the inventory.
+All the items in the inventory are worth total of $ 1068.14
+Shaggy ordered total of 0 items
+Shaggy un-adjusted Saxophone.
+Shaggyhas damaged a(n) Saxophone.
+Shaggy adjusted Harmonica.
+Shaggy has damaged 1 items while tuning
+Buyer 1 purchased GigBag for $51.56.
+Buyer 2 purchased Cables for $96.24.
+Shaggy bought a poor condition Vinyl from Seller 1 for $11.05.
+Seller 2 didn't accept the price, and left the store.
+Shaggy bought a fair condition Saxophone from Seller 3 for $50.96.
+Shaggy sold 2 items.
+Shaggy Bought 2 items.
+Shaggy cleaned the store without breaking anything.
+Shaggy damaged 0 items while cleaning.
+Shaggy went home for the day.
