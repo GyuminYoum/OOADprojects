@@ -1,7 +1,6 @@
 from Player import *
 from Field import *
 from cardFactory import *
-from Invoker import *
 
 import numpy as np
 
@@ -44,7 +43,7 @@ class sim:
         board = Field((500,300),50)
         board.build()
         self.field = board.hexlist
-        self.invoker = Invoker()
+        self.invoker = None
         # self.trade = Trade()
         # self.build = Build()
 
@@ -58,10 +57,27 @@ class sim:
         for x in range(self.playercount):
             val = input("Provide name for Player"+str(x+1)+": \n")
             temp = np.random.randint(0, len(self.colorlist)-1)
-            color=self.colorlist[temp]
+            color = self.colorlist[temp]
             self.colorlist.pop(temp)
             p1 = Player(val, color)
             self.playerlist.append(p1)
+            p1.resources['sheep'] = 0
+            p1.resources['wood'] = 0
+            p1.resources['ore'] = 0
+            p1.resources['clay'] = 0
+            p1.resources['wheat'] = 0
+
+            # changing resources of players to test Build and Trade
+            # TODO: remove code below when done debugging
+            if x == 0:
+                self.current_player = p1
+
+                p1.resources['sheep'] = 3
+                p1.resources['wood'] = 2
+                p1.resources['ore'] = 4
+            if x == 1:
+                p1.resources['sheep'] = 2
+                p1.resources['wood'] = 5
 
         for x in self.playerlist:
             print(x.name, x.color)
@@ -80,17 +96,17 @@ class sim:
             # if the hex in adjacentlist contains value equal to val
             # distribute resources to the player
 
-            x.Trade()
+            # x.Trade()
 
             # trade = Trade()
             # self.invoker.set_command(trade)
             # self.invoker.execute_command(self)
 
-            x.Build()
-
+            # x.Build()
 
     def initialize(self):
         self.initializePlayers()
         # print(self.playercount)
 
-
+    def set_invoker(self, invoker):
+        self.invoker = invoker
