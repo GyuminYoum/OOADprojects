@@ -1,9 +1,9 @@
-from Command import *
+from Commands.Command import Command
 
 
 class Build(Command):
     def __init__(self):
-        pass
+        super().__init__()
 
     def execute(self, sim):
         print('Do you want to build anything this turn? ')

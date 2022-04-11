@@ -1,9 +1,9 @@
-from Command import *
+from Commands.Command import Command
 
 
 class Trade(Command):
     def __init__(self):
-        pass
+        super().__init__()
 
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')

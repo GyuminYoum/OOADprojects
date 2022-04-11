@@ -1,6 +1,6 @@
 from sim import *
-from Build import *
-from Trade import *
+from Commands.Trade import *
+from Commands.Invoker import *
 
 
 sim1 = sim()

@@ -1,7 +1,6 @@
 from Player import *
 from Field import *
 from cardFactory import *
-from Invoker import *
 
 import numpy as np
 
@@ -68,9 +67,10 @@ class sim:
             p1.resources['clay'] = 0
             p1.resources['wheat'] = 0
 
+            # changing resources of players to test Build and Trade
             if x == 0:
                 self.current_player = p1
-                # adding resources to test build()
+
                 p1.resources['sheep'] = 3
                 p1.resources['wood'] = 2
                 p1.resources['ore'] = 4
