@@ -44,7 +44,7 @@ class sim:
         board = Field((500,300),50)
         board.build()
         self.field = board.hexlist
-        self.invoker = Invoker()
+        self.invoker = None
         # self.trade = Trade()
         # self.build = Build()
 
@@ -58,10 +58,16 @@ class sim:
         for x in range(self.playercount):
             val = input("Provide name for Player"+str(x+1)+": \n")
             temp = np.random.randint(0, len(self.colorlist)-1)
-            color=self.colorlist[temp]
+            color = self.colorlist[temp]
             self.colorlist.pop(temp)
             p1 = Player(val, color)
             self.playerlist.append(p1)
+            if x == 0:
+                self.current_player = p1
+                # adding resources to test build()
+                p1.resources['sheep'] = 3
+                p1.resources['wood'] = 2
+                p1.resources['ore'] = 4
 
         for x in self.playerlist:
             print(x.name, x.color)
@@ -80,17 +86,17 @@ class sim:
             # if the hex in adjacentlist contains value equal to val
             # distribute resources to the player
 
-            x.Trade()
+            # x.Trade()
 
-            # trade = Trade()
-            # self.invoker.set_command(trade)
-            # self.invoker.execute_command(self)
+            trade = Trade()
+            self.invoker.set_command(trade)
+            self.invoker.execute_command(self)
 
-            x.Build()
-
+            # x.Build()
 
     def initialize(self):
         self.initializePlayers()
         # print(self.playercount)
 
-
+    def set_invoker(self, invoker):
+        self.invoker = invoker

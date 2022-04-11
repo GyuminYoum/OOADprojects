@@ -17,13 +17,13 @@ class Player:
         rng = np.random.randint(low=0, high=12)
         return rng
 
-    def trade(self):
+    # def trade(self):
         # trade logic
-        print("halp")
+        # print("halp")
 
-    def build(self):
+    # def build(self):
         # build logic
-        print("worry bout it later")
+        # print("worry bout it later")
 
     def number_of_roads(self):
         return len(self.roads)

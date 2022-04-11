@@ -6,7 +6,7 @@ class Trade(Command):
 
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
-        trade = bool(input('(1: Yes, 0: No): '))
+        trade = bool(int(input('(1: Yes, 0: No): ')))
 
         if not trade:
             print(f'Trade phase over for {sim.current_player.name}, no trades made.')
@@ -20,7 +20,7 @@ class Trade(Command):
             print('\n')
 
             print('Would you like to trade with other players? ')
-            player_trade = bool(input('(1: Yes, 0: No): '))
+            player_trade = bool(int(input('(1: Yes, 0: No): ')))
 
             if player_trade:
                 print('What resource are you looking to trade for with another player?')
@@ -45,7 +45,7 @@ class Trade(Command):
                                 for key, value in player.resources.items():
                                     print(f'{key}: {value}')
 
-                                trade_accepted = bool(input("(1: Yes, 0: No): "))
+                                trade_accepted = bool(int(input("(1: Yes, 0: No): ")))
                                 # if player accepts trade
                                 if trade_accepted:
                                     print('Trade accepted!')
@@ -69,7 +69,7 @@ class Trade(Command):
                                     print('Trade rejected. ')
 
                     print('Would you like to trade with another player? ')
-                    trade_again = bool(input("(1: Yes, 0: No): "))
+                    trade_again = bool(int(input("(1: Yes, 0: No): ")))
                     if trade_again:
                         continue
 
@@ -79,7 +79,7 @@ class Trade(Command):
 
             # ask user if they would like to trade with a harbor
             print('Would you like to check if you can trade with any harbors? ')
-            harbor_trade = bool(input('(1: Yes, 0: No): '))
+            harbor_trade = bool(int(input('(1: Yes, 0: No): ')))
             if harbor_trade:
                 # prompt user to trade with harbors if they have any
                 # will replace (0, 0) with the correct nodes that have harbors
@@ -101,10 +101,32 @@ class Trade(Command):
                     # TODO: hardcode harbor node locations and
                     # allow trading with harbor Z
 
-            # TODO: allow 4:1 trades of any kind
+                # allow 4:1 trading regardless of settlement/city locations
+                print('You can trade 4 of the same resource for 1 resource of your choice. ')
+                temp = bool(int(input('Do you want to do so? (1: Yes, 0: No)')))
+
+                while temp:
+                    print(f'{current_player.name}\'s resources: ')
+                    for key, value in current_player.resources.items():
+                        print(f'{key}: {value}')
+                    print('Which resource will you trade in? ')
+                    resource = input('(sheep, wood, ore, clay, wheat, none): ')
+                    if resource == 'none':
+                        break
+                    elif current_player.resources[resource] < 4:
+                        print('Insufficient resources. ')
+                    else:
+                        print('Which resource do you want in return? ')
+                        resource1 = input('(sheep, wood, ore, clay, wheat): ')
+                        current_player.resources[resource] -= 4
+                        current_player.resources[resource1] += 1
+                        print(f'{current_player.name} traded 4 {resource} for 1 {resource1}')
+                        print(f'{current_player.name}\'s resources: ')
+                        for key, value in current_player.resources.items():
+                            print(f'{key}: {value}')
 
             # check if player wants to conduct more trades
             print('Would you like to make any more trades? ')
-            trade = bool(input('(1: Yes, 0: No): '))
+            trade = bool(int(input('(1: Yes, 0: No): ')))
 
         print(f'Trade phase over for {sim.current_player.name}.')
