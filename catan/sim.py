@@ -1,22 +1,28 @@
-#each turn
-#each player rolls
-#town/base check
-#adjust player resources
-#give player option to build proxmity to his town
 from Player import *
 from Field import *
 from cardFactory import *
+from Invoker import *
+
+import numpy as np
+
 """
 board=Field((500,300),50)
+
 board.build()
 
 pygame.init()
-surface=pygame.display.set_mode((1000,1000))
+surface = pygame.display.set_mode((1000, 1000))
 
 for x in board.hexlist:
-    pygame.draw.polygon(surface,x.Resource.color,x.get_coords())
-    #print(x.name, x.Resource.type)
+    pygame.draw.polygon(surface, x.Resource.color, x.get_coords())
+    # print(x.name, x.Resource.type)
 
+
+points = 0
+while points < 10:
+    pygame.event.get()
+    pygame.display.flip()
+    # points+=1
 points=0
 while(points<10):
     
@@ -25,30 +31,36 @@ while(points<10):
     #points+=1
 
 """
+
+
 class sim:
     def __init__(self):
-        self.playerlist=[]
-        self.playercount=0
-        self.colorlist=["R","B","W","BK"]
-        cardFactory1= cardFactory()
-        self.deck=cardFactory1.makeDeck()
-        board=Field((500,300),50)
+        self.playerlist = []
+        self.playercount = 0
+        self.current_player = None
+        self.colorlist = ["R", "B", "W", "BK"]
+        cardFactory1 = cardFactory()
+        self.deck = cardFactory1.makeDeck()
+        board = Field((500,300),50)
         board.build()
-        self.field=board.hexlist
+        self.field = board.hexlist
+        self.invoker = Invoker()
+        # self.trade = Trade()
+        # self.build = Build()
 
     def initializePlayers(self):
-        while (self.playercount< 2 or self.playercount > 4):
+        while self.playercount < 2 or self.playercount > 4:
             try:
-                num= int(input("Input the number of players (2-4) \n"))
+                num = int(input("Input the number of players (2-4) \n"))
                 self.playercount = num
             except ValueError:
                 print("Please provide integer value only")
         for x in range(self.playercount):
-            val= input("Provide name for Player"+str(x+1)+": \n")
-            temp= random.randint(0,len(self.colorlist)-1)
+            val = input("Provide name for Player"+str(x+1)+": \n")
+            temp = np.random.randint(0, len(self.colorlist)-1)
             color=self.colorlist[temp]
             self.colorlist.pop(temp)
-            p1=Player(val,color)
+            p1 = Player(val, color)
             self.playerlist.append(p1)
 
         for x in self.playerlist:
@@ -57,29 +69,28 @@ class sim:
         for y in self.field:
             print(y.name, y.value, y.Resource.type)
 
-        #print(self.field)
+        # print(self.field)
 
     def playerAction(self):
         for x in self.playerlist:
-            val = x.Roll()
-            #loop through all players
-            #loop through each players settlement/city
-            #loop through each settlement/city's adjacentlist
-            #if the hex in adjacentlist contains value equal to val
-            #distribute resources to the player
+            val = x.roll()
+            # loop through all players
+            # loop through each players settlement/city
+            # loop through each settlement/city's adjacentlist
+            # if the hex in adjacentlist contains value equal to val
+            # distribute resources to the player
 
             x.Trade()
+
+            # trade = Trade()
+            # self.invoker.set_command(trade)
+            # self.invoker.execute_command(self)
 
             x.Build()
 
 
     def initialize(self):
         self.initializePlayers()
-        #print(self.playercount)
-
-
-
-
-
+        # print(self.playercount)
 
 

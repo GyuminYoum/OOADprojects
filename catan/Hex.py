@@ -1,4 +1,6 @@
 import numpy as np
+
+
 class Hex:
     def __init__(self,name,origin,length):
         self.p1=origin
@@ -15,4 +17,4 @@ class Hex:
         self.Robber= False
 
     def get_coords(self):
-        return (self.p1,self.p2,self.p3,self.p4,self.p5,self.p6)
+        return self.p1, self.p2, self.p3, self.p4, self.p5, self.p6

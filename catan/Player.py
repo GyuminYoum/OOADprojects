@@ -1,25 +1,41 @@
 import numpy as np
-import random
+
 
 class Player:
-    def __init__(self,name, color):
-        self.name=name
-        self.roads=[]
-        self.settlement=[]
-        self.city=[]
-        self.resources={}
-        self.vp=0
-        self.card=[]
-        self.color=color
+    def __init__(self, name, color):
+        self.name = name
+        self.roads = []
+        self.settlement = []
+        self.city = []
+        self.resources = {}
+        self.vp = 0
+        self.card = []
+        self.color = color
+        # self.command = None
 
-    def Roll(self):
-        rng=random.randint(0,12)
+    def roll(self):
+        rng = np.random.randint(low=0, high=12)
         return rng
 
     def trade(self):
-        #trade logic
+        # trade logic
         print("halp")
 
     def build(self):
-        #build logic
+        # build logic
         print("worry bout it later")
+
+    def number_of_roads(self):
+        return len(self.roads)
+
+    def number_of_settlements(self):
+        return len(self.settlement)
+
+    def number_of_cities(self):
+        return len(self.city)
+
+    # def setCommand(self, command):
+    #     self.command = command
+    #
+    # def executeCommand(self):
+    #     self.command.execute(self)
