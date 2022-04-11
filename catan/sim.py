@@ -68,6 +68,7 @@ class sim:
             p1.resources['wheat'] = 0
 
             # changing resources of players to test Build and Trade
+            # TODO: remove code below when done debugging
             if x == 0:
                 self.current_player = p1
 
@@ -97,9 +98,9 @@ class sim:
 
             # x.Trade()
 
-            trade = Trade()
-            self.invoker.set_command(trade)
-            self.invoker.execute_command(self)
+            # trade = Trade()
+            # self.invoker.set_command(trade)
+            # self.invoker.execute_command(self)
 
             # x.Build()
 
