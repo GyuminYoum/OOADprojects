@@ -73,8 +73,8 @@ class Field:
             # pygame.draw.polygon(surface, temp_color, shape.get_coords())
             colors.remove(temp_color)
             index = random.randint(0, len(roll_list)-1)
-            number= roll_list[index]
-            shape.value=number
+            number = roll_list[index]
+            shape.value = number
             roll_list.remove(number)
 
         # set desert

@@ -43,7 +43,7 @@ class sim:
         board = Field((500,300),50)
         board.build()
         self.field = board.hexlist
-        self.command = None
+        self.invoker = None
 
     def initializePlayers(self):
         while self.playercount < 2 or self.playercount > 4:
@@ -85,11 +85,4 @@ class sim:
         self.initializePlayers()
         # print(self.playercount)
 
-    def set_command(self, command):
-        self.command = command
 
-    def execute_trade(self):
-        self.command.execute_trade(self)
-
-    def execute_build(self):
-        self.command.execute_build(self)
