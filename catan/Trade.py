@@ -1,3 +1,4 @@
+from Command import *
 
 
 class Trade(Command):
@@ -17,7 +18,6 @@ class Trade(Command):
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value}')
-            print('\n')
 
             print('Would you like to trade with other players? ')
             player_trade = bool(int(input('(1: Yes, 0: No): ')))
@@ -25,10 +25,10 @@ class Trade(Command):
             if player_trade:
                 print('What resource are you looking to trade for with another player?')
                 wants = input('Enter text as shown (sheep, wood, ore, clay, wheat): ')
-                wants_number = input('How many of this resource do you want?: ')
+                wants_number = int(input('How many of this resource do you want?: '))
                 print('What resource are you offering?')
                 offers = input('Enter text as shown (sheep, wood, ore, clay, wheat): ')
-                offers_number = input('How many of this resource are you offering?: ')
+                offers_number = int(input('How many of this resource are you offering?: '))
 
                 # if current_player has enough resources to give
                 if sim.current_player.resources[offers] >= offers_number:
@@ -49,17 +49,16 @@ class Trade(Command):
                                 # if player accepts trade
                                 if trade_accepted:
                                     print('Trade accepted!')
-                                    sim.current_player[offers] -= offers_number
-                                    player[offers] += offers_number
+                                    sim.current_player.resources[offers] -= offers_number
+                                    player.resources[offers] += offers_number
 
-                                    sim.current_player[wants] += wants_number
-                                    player[wants] -= wants_number
+                                    sim.current_player.resources[wants] += wants_number
+                                    player.resources[wants] -= wants_number
 
                                     # print resources of both players after trade
                                     print(f'{sim.current_player.name}\'s resources: ')
                                     for key, value in sim.current_player.resources.items():
                                         print(f'{key}: {value}')
-                                    print('\n')
                                     print(f'{player.name}\'s resources: ')
                                     for key, value in player.resources.items():
                                         print(f'{key}: {value}')
@@ -103,26 +102,26 @@ class Trade(Command):
 
                 # allow 4:1 trading regardless of settlement/city locations
                 print('You can trade 4 of the same resource for 1 resource of your choice. ')
-                temp = bool(int(input('Do you want to do so? (1: Yes, 0: No)')))
+                temp = bool(int(input('Do you want to do so? (1: Yes, 0: No): ')))
 
                 while temp:
-                    print(f'{current_player.name}\'s resources: ')
-                    for key, value in current_player.resources.items():
+                    print(f'{sim.current_player.name}\'s resources: ')
+                    for key, value in sim.current_player.resources.items():
                         print(f'{key}: {value}')
                     print('Which resource will you trade in? ')
                     resource = input('(sheep, wood, ore, clay, wheat, none): ')
                     if resource == 'none':
                         break
-                    elif current_player.resources[resource] < 4:
+                    elif sim.current_player.resources[resource] < 4:
                         print('Insufficient resources. ')
                     else:
                         print('Which resource do you want in return? ')
                         resource1 = input('(sheep, wood, ore, clay, wheat): ')
-                        current_player.resources[resource] -= 4
-                        current_player.resources[resource1] += 1
-                        print(f'{current_player.name} traded 4 {resource} for 1 {resource1}')
-                        print(f'{current_player.name}\'s resources: ')
-                        for key, value in current_player.resources.items():
+                        sim.current_player.resources[resource] -= 4
+                        sim.current_player.resources[resource1] += 1
+                        print(f'{sim.current_player.name} traded 4 {resource} for 1 {resource1}')
+                        print(f'{sim.current_player.name}\'s resources: ')
+                        for key, value in sim.current_player.resources.items():
                             print(f'{key}: {value}')
 
             # check if player wants to conduct more trades

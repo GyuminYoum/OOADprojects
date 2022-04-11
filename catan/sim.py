@@ -62,12 +62,21 @@ class sim:
             self.colorlist.pop(temp)
             p1 = Player(val, color)
             self.playerlist.append(p1)
+            p1.resources['sheep'] = 0
+            p1.resources['wood'] = 0
+            p1.resources['ore'] = 0
+            p1.resources['clay'] = 0
+            p1.resources['wheat'] = 0
+
             if x == 0:
                 self.current_player = p1
                 # adding resources to test build()
                 p1.resources['sheep'] = 3
                 p1.resources['wood'] = 2
                 p1.resources['ore'] = 4
+            if x == 1:
+                p1.resources['sheep'] = 2
+                p1.resources['wood'] = 5
 
         for x in self.playerlist:
             print(x.name, x.color)
