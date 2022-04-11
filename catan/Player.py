@@ -25,6 +25,15 @@ class Player:
         # build logic
         print("worry bout it later")
 
+    def number_of_roads(self):
+        return len(self.roads)
+
+    def number_of_settlements(self):
+        return len(self.settlement)
+
+    def number_of_cities(self):
+        return len(self.city)
+
     # def setCommand(self, command):
     #     self.command = command
     #

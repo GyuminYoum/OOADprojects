@@ -6,16 +6,21 @@ class Trade(Command):
 
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
-        trade = bool(input('(1: Yes, 0: No) : '))
+        trade = bool(input('(1: Yes, 0: No): '))
+
+        if not trade:
+            print(f'Trade phase over for {sim.current_player.name}, no trades made.')
+            return
+
         while trade:
             # print out the current player's resources
-            print(f'Player {sim.current_player.name}, your resources: ')
+            print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value}')
             print('\n')
 
             print('Would you like to trade with other players? ')
-            player_trade = bool(input('(1: Yes, 0: No) : '))
+            player_trade = bool(input('(1: Yes, 0: No): '))
 
             if player_trade:
                 print('What resource are you looking to trade for with another player?')
@@ -35,16 +40,36 @@ class Trade(Command):
                             if player.resources[wants] >= wants_number:
                                 print(f'{player.name}, would you like to trade {wants_number} {wants} '
                                       f'for {offers_number} {offers}?')
-                                trade_accepted = bool(input("(1: Yes, 0: No) : "))
+
+                                print(f'{player.name}\'s resources: ')
+                                for key, value in player.resources.items():
+                                    print(f'{key}: {value}')
+
+                                trade_accepted = bool(input("(1: Yes, 0: No): "))
                                 # if player accepts trade
                                 if trade_accepted:
-                                    # TODO: swap resources here
+                                    print('Trade accepted!')
+                                    sim.current_player[offers] -= offers_number
+                                    player[offers] += offers_number
+
+                                    sim.current_player[wants] += wants_number
+                                    player[wants] -= wants_number
+
+                                    # print resources of both players after trade
+                                    print(f'{sim.current_player.name}\'s resources: ')
+                                    for key, value in sim.current_player.resources.items():
+                                        print(f'{key}: {value}')
+                                    print('\n')
+                                    print(f'{player.name}\'s resources: ')
+                                    for key, value in player.resources.items():
+                                        print(f'{key}: {value}')
+
                                     break
                                 else:
                                     print('Trade rejected. ')
 
                     print('Would you like to trade with another player? ')
-                    trade_again = bool(input("(1: Yes, 0: No) : "))
+                    trade_again = bool(input("(1: Yes, 0: No): "))
                     if trade_again:
                         continue
 
@@ -54,7 +79,7 @@ class Trade(Command):
 
             # ask user if they would like to trade with a harbor
             print('Would you like to check if you can trade with any harbors? ')
-            harbor_trade = bool(input('(1: Yes, 0: No) : '))
+            harbor_trade = bool(input('(1: Yes, 0: No): '))
             if harbor_trade:
                 # prompt user to trade with harbors if they have any
                 # will replace (0, 0) with the correct nodes that have harbors
@@ -76,8 +101,10 @@ class Trade(Command):
                     # TODO: hardcode harbor node locations and
                     # allow trading with harbor Z
 
+            # TODO: allow 4:1 trades of any kind
+
             # check if player wants to conduct more trades
             print('Would you like to make any more trades? ')
-            trade = bool(input('(1: Yes, 0: No) : '))
+            trade = bool(input('(1: Yes, 0: No): '))
 
         print(f'Trade phase over for {sim.current_player.name}.')

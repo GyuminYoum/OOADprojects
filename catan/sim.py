@@ -1,7 +1,8 @@
 from Player import *
 from Field import *
 from cardFactory import *
-from Command import *
+from Invoker import *
+
 import numpy as np
 
 """
@@ -43,7 +44,9 @@ class sim:
         board = Field((500,300),50)
         board.build()
         self.field = board.hexlist
-        self.invoker = None
+        self.invoker = Invoker()
+        # self.trade = Trade()
+        # self.build = Build()
 
     def initializePlayers(self):
         while self.playercount < 2 or self.playercount > 4:
@@ -79,7 +82,12 @@ class sim:
 
             x.Trade()
 
+            # trade = Trade()
+            # self.invoker.set_command(trade)
+            # self.invoker.execute_command(self)
+
             x.Build()
+
 
     def initialize(self):
         self.initializePlayers()
