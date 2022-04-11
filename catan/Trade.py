@@ -4,7 +4,6 @@ class Trade(Command):
     def __init__(self):
         pass
 
-    @override
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
         trade = bool(input('(1: Yes, 0: No) : '))
