@@ -10,5 +10,7 @@ class Observer:
         return cls._instance
 
     def update(self, message):
-        # TODO: implement this method
-        pass
+        # any messages sent to the observer are appended to gameLogs.txt
+        with open('gameLogs.txt', 'a') as file:
+            file.write(message)
+        print(message)
