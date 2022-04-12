@@ -58,6 +58,13 @@ class sim:
             print(y.name, y.value, y.Resource.type)
 
         #print(self.field)
+        for z in self.deck:
+            print(z.name)
+
+        for x in self.field:
+            print(x.name , x.get_coords())
+
+        # print(self.field)
 
     def playerAction(self):
         for x in self.playerlist:
