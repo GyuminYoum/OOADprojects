@@ -44,6 +44,7 @@ class sim:
         board.build()
         self.field = board.hexlist
         self.invoker = None
+        self.observer = None
         # self.trade = Trade()
         # self.build = Build()
 
@@ -59,19 +60,19 @@ class sim:
             temp = np.random.randint(0, len(self.colorlist)-1)
             color = self.colorlist[temp]
             self.colorlist.pop(temp)
+
             p1 = Player(val, color)
-            self.playerlist.append(p1)
             p1.resources['sheep'] = 0
             p1.resources['wood'] = 0
             p1.resources['ore'] = 0
             p1.resources['clay'] = 0
             p1.resources['wheat'] = 0
+            self.playerlist.append(p1)
 
             # changing resources of players to test Build and Trade
             # TODO: remove code below when done debugging
             if x == 0:
                 self.current_player = p1
-
                 p1.resources['sheep'] = 3
                 p1.resources['wood'] = 2
                 p1.resources['ore'] = 4
@@ -85,7 +86,6 @@ class sim:
         for y in self.field:
             print(y.name, y.value, y.Resource.type)
 
-<<<<<<< HEAD
         #print(self.field)
         for z in self.deck:
             print(z.name)
@@ -93,8 +93,6 @@ class sim:
         for x in self.field:
             print(x.name , x.get_coords())
 
-=======
->>>>>>> origin/main
         # print(self.field)
 
     def playerAction(self):
@@ -107,12 +105,15 @@ class sim:
             # distribute resources to the player
 
             # x.Trade()
+            # x.Build()
 
             # trade = Trade()
             # self.invoker.set_command(trade)
-            # self.invoker.execute_command(self)
+            # self.invoker.execute_command(self) OR execute()
 
-            # x.Build()
+            # build = Build()
+            # self.invoker.set_command(build)
+            # self.invoker.execute_command(self) OR execute()
 
     def initialize(self):
         self.initializePlayers()
@@ -120,3 +121,12 @@ class sim:
 
     def set_invoker(self, invoker):
         self.invoker = invoker
+
+    def execute(self):
+        self.invoker.execute_command(self)
+
+    def set_observer(self, observer):
+        self.observer = observer
+
+    def update(self, message):
+        self.observer.update(message)
