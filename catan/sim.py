@@ -70,15 +70,16 @@ class sim:
             self.playerlist.append(p1)
 
             # changing resources of players to test Build and Trade
-            # TODO: remove code below when done debugging
             if x == 0:
                 self.current_player = p1
+            # TODO: remove code below when done debugging
                 p1.resources['sheep'] = 3
                 p1.resources['wood'] = 2
                 p1.resources['ore'] = 4
             if x == 1:
                 p1.resources['sheep'] = 2
                 p1.resources['wood'] = 5
+            #
 
         for x in self.playerlist:
             print(x.name, x.color)
@@ -86,7 +87,7 @@ class sim:
         for y in self.field:
             print(y.name, y.value, y.Resource.type)
 
-        #print(self.field)
+        # print(self.field)
         for z in self.deck:
             print(z.name)
 
@@ -99,7 +100,7 @@ class sim:
         for x in self.playerlist:
             val = x.roll()
             # loop through all players
-            # loop through each players settlement/city
+            # loop through each player's settlement/city
             # loop through each settlement/city's adjacentlist
             # if the hex in adjacentlist contains value equal to val
             # distribute resources to the player
