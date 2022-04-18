@@ -16,7 +16,3 @@ class Observer:
             file.write(message)
         print(message)
 
-    # TODO: double check if this works lol
-    @staticmethod
-    def get_instance():
-        return Observer._instance

@@ -5,13 +5,13 @@ class Trade(Command):
     def __init__(self):
         super().__init__()
 
-    # TODO: use sim.observer.update(message) to send messages from Trade to the observer
+    # TODO: use sim.update(message) to send messages from Trade to the observer
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
         trade = bool(int(input('(1: Yes, 0: No): ')))
 
         if not trade:
-            print(f'Trade phase over for {sim.current_player.name}, no trades made.')
+            sim.update(f'Trade phase over for {sim.current_player.name}, no trades made.')
             return
 
         while trade:
@@ -77,12 +77,11 @@ class Trade(Command):
             # ask user if they would like to trade with a harbor
             # possibly make trade strategy
             print('Would you like to check if you can trade with any harbors? ')
+            print('(This includes 4:1 trading)')
             harbor_trade = bool(int(input('(1: Yes, 0: No): ')))
 
             if harbor_trade:
                 self.harbor_trade(sim)
-                # allow 4:1 trading
-                self.generic_trade(sim, 4)
 
             # check if player wants to make more trades
             print('Would you like to make any more trades? ')
@@ -113,7 +112,6 @@ class Trade(Command):
                 print(f'{key}: {value}')
 
     # harbor_trade is called for all harbors with 2:1 trading ratio
-    # TODO: finish this method
     def harbor_trade(self, sim):
         harbor_resource = None
         for node in sim.current_player.settlement:
@@ -131,5 +129,8 @@ class Trade(Command):
             elif node.label == 'P3' or node.label == 'P4':
                 harbor_resource = 'sheep'
 
-        if harbor_resource is None:
-            return
+            if harbor_resource is not None:
+                # TODO: do harbor trade
+                pass
+
+        self.generic_trade(sim, 4)
