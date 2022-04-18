@@ -18,9 +18,8 @@ class Trade(Command):
             # print out the current player's resources
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
-                print(f'{key}: {value}')
-
-            print('Would you like to trade with other players? ')
+                print(f'{key}: {value} // ', end='')
+            print('\nWould you like to trade with other players? ')
             player_trade = bool(int(input('(1: Yes, 0: No): ')))
 
             if player_trade:
@@ -44,24 +43,25 @@ class Trade(Command):
 
                                 print(f'{player.name}\'s resources: ')
                                 for key, value in player.resources.items():
-                                    print(f'{key}: {value}')
+                                    print(f'{key}: {value} //', end='')
 
-                                trade_accepted = bool(int(input("(1: Yes, 0: No): ")))
+                                trade_accepted = bool(int(input("\n(1: Yes, 0: No): ")))
                                 # if player accepts trade
                                 if trade_accepted:
-                                    print('Trade accepted!')
+                                    sim.update(f'{sim.current_player.name} traded {offers_number} {offers}'
+                                               f' for {wants_number} {wants} from {player.name}')
                                     sim.current_player.resources[offers] -= offers_number
                                     player.resources[offers] += offers_number
                                     sim.current_player.resources[wants] += wants_number
                                     player.resources[wants] -= wants_number
-
-                                    # print resources of both players after trade
+                                    # # print resources of both players after trade
                                     print(f'{sim.current_player.name}\'s resources: ')
                                     for key, value in sim.current_player.resources.items():
-                                        print(f'{key}: {value}')
-                                    print(f'{player.name}\'s resources: ')
+                                        print(f'{key}: {value} //', end='')
+                                    print(f'\n{player.name}\'s resources: ')
                                     for key, value in player.resources.items():
-                                        print(f'{key}: {value}')
+                                        print(f'{key}: {value} //', end='')
+                                    print()
                                     break
                                 else:
                                     print('Trade rejected. ')
