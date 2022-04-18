@@ -80,29 +80,11 @@ class Trade(Command):
             harbor_trade = bool(int(input('(1: Yes, 0: No): ')))
 
             if harbor_trade:
-                harbor_resource = None
-                for node in sim.current_player.settlement:
-                    # TODO: remove node.name == 'test'
-                    if node.label == 'A1' or node.label == 'A6' or node.label == 'L2' or node.label == 'L3' \
-                            or node.label == 'Q4' or node.label == 'Q5' or node.label == 'test':
-                        self.generic_trade(sim, 3)
-                    elif node.label == 'B1' or node.label == 'B2':
-                        harbor_resource = 'wheat'
-                    elif node.label == 'C3' or node.label == 'G2':
-                        harbor_resource = 'ore'
-                    elif node.label == 'D5' or node.label == 'D6':
-                        harbor_resource = 'wood'
-                    elif node.label == 'H4' or node.label == 'M5':
-                        harbor_resource = 'clay'
-                    elif node.label == 'P3' or node.label == 'P4':
-                        harbor_resource = 'sheep'
-
-                    self.harbor_trade(sim, harbor_resource)
-
-                # allow 4:1 trading regardless of settlement/city locations
+                self.harbor_trade(sim)
+                # allow 4:1 trading
                 self.generic_trade(sim, 4)
 
-            # check if player wants to conduct more trades
+            # check if player wants to make more trades
             print('Would you like to make any more trades? ')
             trade = bool(int(input('(1: Yes, 0: No): ')))
 
@@ -132,10 +114,22 @@ class Trade(Command):
 
     # harbor_trade is called for all harbors with 2:1 trading ratio
     # TODO: finish this method
-    def harbor_trade(self, sim, resource):
-        if resource is None:
+    def harbor_trade(self, sim):
+        harbor_resource = None
+        for node in sim.current_player.settlement:
+            if node.label == 'A1' or node.label == 'A6' or node.label == 'L2' or node.label == 'L3' \
+                    or node.label == 'Q4' or node.label == 'Q5':
+                self.generic_trade(sim, 3)
+            elif node.label == 'B1' or node.label == 'B2':
+                harbor_resource = 'wheat'
+            elif node.label == 'C3' or node.label == 'G2':
+                harbor_resource = 'ore'
+            elif node.label == 'D5' or node.label == 'D6':
+                harbor_resource = 'wood'
+            elif node.label == 'H4' or node.label == 'M5':
+                harbor_resource = 'clay'
+            elif node.label == 'P3' or node.label == 'P4':
+                harbor_resource = 'sheep'
+
+        if harbor_resource is None:
             return
-        print(f'You can trade in 2 of any resource for 1 {resource}')
-        print(f'{sim.current_player.name}\'s resources: ')
-        for key, value in sim.current_player.resources.items():
-            print(f'{key}: {value}')
