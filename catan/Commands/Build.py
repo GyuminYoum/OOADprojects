@@ -6,6 +6,7 @@ class Build(Command):
         super().__init__()
 
     # TODO: use sim.observer.update(message) to send messages from Build to the observer
+    # MVC
     def execute(self, sim):
         print('Do you want to build anything this turn? ')
         build = True

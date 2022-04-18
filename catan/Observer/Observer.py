@@ -4,6 +4,7 @@
 class Observer:
     _instance = None
 
+# add comments about singleton
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super().__new__(cls)
