@@ -18,7 +18,7 @@ class Trade(Command):
             # print out the current player's resources
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
-                print(f'{key}: {value} // ', end='')
+                print(f'{key}: {value} / ', end='')
             print('\nWould you like to trade with other players? ')
             player_trade = bool(int(input('(1: Yes, 0: No): ')))
 
@@ -43,7 +43,7 @@ class Trade(Command):
 
                                 print(f'{player.name}\'s resources: ')
                                 for key, value in player.resources.items():
-                                    print(f'{key}: {value} //', end='')
+                                    print(f'{key}: {value} / ', end='')
 
                                 trade_accepted = bool(int(input("\n(1: Yes, 0: No): ")))
                                 # if player accepts trade
@@ -57,10 +57,10 @@ class Trade(Command):
                                     # # print resources of both players after trade
                                     print(f'{sim.current_player.name}\'s resources: ')
                                     for key, value in sim.current_player.resources.items():
-                                        print(f'{key}: {value} //', end='')
+                                        print(f'{key}: {value} / ', end='')
                                     print(f'\n{player.name}\'s resources: ')
                                     for key, value in player.resources.items():
-                                        print(f'{key}: {value} //', end='')
+                                        print(f'{key}: {value} / ', end='')
                                     print()
                                     break
                                 else:
@@ -94,8 +94,8 @@ class Trade(Command):
         print(f'You can trade {quantity_needed} of the same resource for 1 resource of your choice at a harbor. ')
         print(f'{sim.current_player.name}\'s resources: ')
         for key, value in sim.current_player.resources.items():
-            print(f'{key}: {value}')
-        print('Which resource will you trade in? ')
+            print(f'{key}: {value} / ', end='')
+        print('\nWhich resource will you trade in? ')
         resource = input('(sheep, wood, ore, clay, wheat, none): ')
         if resource == 'none':
             return
@@ -114,6 +114,7 @@ class Trade(Command):
     # harbor_trade is called for all harbors with 2:1 trading ratio
     def harbor_trade(self, sim):
         harbor_resource = None
+        resource_traded = {'wheat': False, 'ore': False, 'wood': False, 'clay': False, 'sheep': False}
         for node in sim.current_player.settlement:
             if node.label == 'A1' or node.label == 'A6' or node.label == 'L2' or node.label == 'L3' \
                     or node.label == 'Q4' or node.label == 'Q5':
@@ -129,8 +130,28 @@ class Trade(Command):
             elif node.label == 'P3' or node.label == 'P4':
                 harbor_resource = 'sheep'
 
-            if harbor_resource is not None:
-                # TODO: do harbor trade
-                pass
+            if harbor_resource is not None and resource_traded[harbor_resource] is False:
+                harbor_trade = True
+                while harbor_trade:
+                    print(f'You can trade in 2 of any resource for 1 {harbor_resource}.')
+                    print(f'{sim.current_player.name}\'s resources: ')
+                    for key, value in sim.current_player.resources.items():
+                        print(f'{key}: {value} / ', end='')
+                    print('\nWhich resource will you trade in? ')
+                    resource = input('(sheep, wood, ore, clay, wheat, none): ')
+                    if resource == 'none':
+                        break
+                    elif sim.current_player.resources[resource] < 2:
+                        print('Insufficient resources. ')
+                        continue
+                    else:
+                        sim.current_player.resources[resource] -= 2
+                        sim.current_player.resources[harbor_resource] += 1
+                        sim.update(f'{sim.current_player.name} traded 2 {resource} for 1 {harbor_resource}')
+                        print(f'{sim.current_player.name}\'s resources: ')
+                        for key, value in sim.current_player.resources.items():
+                            print(f'{key}: {value} / ', end='')
+                        print()
+                        break
 
         self.generic_trade(sim, 4)
