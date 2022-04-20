@@ -5,6 +5,7 @@ class Trade(Command):
     def __init__(self):
         super().__init__()
 
+    # TODO: use sim.observer.update(message) to send messages from Trade to the observer
     def execute(self, sim):
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
         trade = bool(int(input('(1: Yes, 0: No): ')))
@@ -85,19 +86,19 @@ class Trade(Command):
                 if (0, 0) in sim.current_player.settlement or (0, 0) in sim.current_player.city:
                     print('You can trade x resources at this harbor at a 2:1 rate. ')
                     print('etc etc')
-                    # TODO: hardcode harbor node locations and
+                    # TODO: hardcode harbor X node locations
                     # allow trading with harbor X
 
                 if (0, 0) in sim.current_player.settlement or (0, 0) in sim.current_player.city:
                     print('You can trade y resources at this harbor at a 2:1 rate. ')
                     print('etc etc')
-                    # TODO: hardcode harbor node locations and
+                    # TODO: hardcode harbor Y node locations
                     # allow trading with harbor Y
 
                 if (0, 0) in sim.current_player.settlement or (0, 0) in sim.current_player.city:
                     print('You can trade z resources at this harbor at a 2:1 rate. ')
                     print('etc etc')
-                    # TODO: hardcode harbor node locations and
+                    # TODO: hardcode harbor Z node locations
                     # allow trading with harbor Z
 
                 # allow 4:1 trading regardless of settlement/city locations

@@ -1,19 +1,33 @@
 from sim import *
+<<<<<<< HEAD
+from Commands.Trade import *
+from Commands.Invoker import *
+
+sim1=sim()
+sim1.initialize()
 from Commands.Trade import *
 from Commands.Invoker import *
 import pygame
+=======
 # from Commands.Trade import *
 # from Commands.Invoker import *
 # from Observer.Observer import Observer
+>>>>>>> c641698ad264cc197dd3caa691b3387df3c97dd3
 from Field import *
+import pygame
 
+<<<<<<< HEAD
+"""
+=======
 
+>>>>>>> c641698ad264cc197dd3caa691b3387df3c97dd3
 sim1 = sim()
 sim1.initialize()
 
 # invoker = Invoker()
 # build = Build()
 # invoker.set_command(build)
+<<<<<<< HEAD
 trade = Trade()
 invoker.set_command(trade)
 
@@ -48,6 +62,7 @@ while(1):
 for x in list1:
     print(x.get_nodeNames())
 
+=======
 #
 # trade = Trade()
 # invoker.set_command(trade)
@@ -82,3 +97,4 @@ for x in list1:
 
 # for x in list1:
 #     print(x.get_nodeNames())
+>>>>>>> c641698ad264cc197dd3caa691b3387df3c97dd3
