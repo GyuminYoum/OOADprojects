@@ -2,7 +2,6 @@ from sim import *
 from Commands.Trade import *
 from Commands.Invoker import *
 
-<<<<<<< HEAD
 sim1=sim()
 sim1.initialize()
 from Commands.Trade import *
@@ -11,9 +10,6 @@ import pygame
 from Field import *
 
 """
-=======
-
->>>>>>> origin/main
 sim1 = sim()
 sim1.initialize()
 
@@ -25,7 +21,7 @@ invoker.set_command(trade)
 
 sim1.set_invoker(invoker)
 sim1.invoker.execute_command(sim1)
-<<<<<<< HEAD
+
 """
 
 f1=Field((500,300),50)
@@ -54,6 +50,3 @@ while(1):
 for x in list1:
     print(x.get_nodeNames())
 
-
-=======
->>>>>>> origin/main
