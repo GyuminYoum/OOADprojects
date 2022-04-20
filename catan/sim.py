@@ -67,6 +67,8 @@ class sim:
             p1.resources['ore'] = 0
             p1.resources['clay'] = 0
             p1.resources['wheat'] = 0
+            harbor_test_node = Node('B1', 1)
+            p1.settlement.append(harbor_test_node)
             self.playerlist.append(p1)
 
             # changing resources of players to test Build and Trade
