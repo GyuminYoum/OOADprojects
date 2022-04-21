@@ -1,10 +1,10 @@
 import numpy as np
-
+import copy
 
 class Player:
     def __init__(self, name, color):
         self.name = name
-        self.roads = []
+        self.roads = {}
         self.settlement = []
         self.city = []
         self.resources = {}
@@ -24,7 +24,6 @@ class Player:
     # def build(self):
         # build logic
         # print("worry bout it later")
-
     def number_of_roads(self):
         return len(self.roads)
 
@@ -33,6 +32,26 @@ class Player:
 
     def number_of_cities(self):
         return len(self.city)
+
+    def generateRoadNameList(self):
+        road_list = []
+        for node in self.settlement:
+            for adj in node.adj:
+                road_list.append(node.label + adj.label)
+        for node in self.city:
+            for adj in node.adj:
+                road_list.append(node.label+adj.label)
+
+        dict2 = copy.deepcopy(self.roads)
+        print(f'dict2: {dict2}')
+        for road_key in dict2.keys():
+            for adj_nodes in dict2[road_key]:
+                road_name=road_key.label+adj_nodes.label
+                road_list.append(road_name)
+                dict2[road_key].remove(adj_nodes)
+                dict2[adj_nodes].remove(road_key)
+
+        return road_list
 
     # def setCommand(self, command):
     #     self.command = command

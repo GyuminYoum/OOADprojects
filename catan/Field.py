@@ -250,6 +250,8 @@ class Field:
         hex_list = [Hex1, Hex2, Hex3, Hex4, Hex5, Hex6, Hex7, Hex8, Hex9,
                     Hex11, Hex12, Hex13, Hex14, Hex15, Hex16, Hex17, Hex18, Hex19]
 
+        node_list= [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21, n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40, n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54]
+
         # define resources
         sheep = Resource("Sheep", (144, 238, 144))
         forest = Resource("Forest", (0, 128, 0))
@@ -282,4 +284,25 @@ class Field:
             for x in nodelist:
                 x.hex.append(shape)
 
-        return hex_list
+        return hex_list,node_list
+
+    def generate_roads(self,hex_list1):
+        road_dict={}
+        for hex in hex_list1:
+            #print(hex.name)
+            nodelist=hex.get_nodes()
+            for node in nodelist:
+                for adjacent_node in node.adj:
+                    if node in road_dict.keys():
+                        if adjacent_node not in road_dict[node]:
+                            road_dict[node].append(adjacent_node)
+                    else:
+                        road_dict[node]=[adjacent_node]
+
+                    if adjacent_node in road_dict.keys():
+                        if node not in road_dict[adjacent_node]:
+                            road_dict[adjacent_node].append(node)
+                    else:
+                        road_dict[adjacent_node]=[node]
+        return road_dict
+
