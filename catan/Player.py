@@ -34,7 +34,7 @@ class Player:
         return len(self.city)
 
     def generateRoadNameList(self):
-        road_list=[]
+        road_list = []
         for node in self.settlement:
             for adj in node.adj:
                 road_list.append(node.label + adj.label)
@@ -42,7 +42,8 @@ class Player:
             for adj in node.adj:
                 road_list.append(node.label+adj.label)
 
-        dict2=copy.deepcopy(self.roads)
+        dict2 = copy.deepcopy(self.roads)
+        print(f'dict2: {dict2}')
         for road_key in dict2.keys():
             for adj_nodes in dict2[road_key]:
                 road_name=road_key.label+adj_nodes.label
