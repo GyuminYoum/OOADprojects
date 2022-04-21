@@ -101,6 +101,8 @@ class sim:
     def playerAction(self):
         for x in self.playerlist:
             val = x.roll()
+
+
             # loop through all players
             # loop through each player's settlement/city
             # loop through each settlement/city's adjacentlist

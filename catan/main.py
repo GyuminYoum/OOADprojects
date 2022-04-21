@@ -13,6 +13,7 @@ invoker = Invoker()
 sim1.set_observer(Observer())
 # build = Build()
 # invoker.set_command(build)
+
 trade = Trade()
 invoker.set_command(trade)
 sim1.set_invoker(invoker)
