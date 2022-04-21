@@ -1,6 +1,8 @@
 class Road:
-    def __init__(self, coord1, coord2, player1):
-        self.color = player1.color
-        self.adj = []
-        self.coord1 = coord1
-        self.coord2 = coord2
+    def __init__(self, coord1, coord2):
+        self.color = None
+        self.node1 = coord1
+        self.node2 = coord2
+        self.name = self.node1.label+self.node2.label
+
+
