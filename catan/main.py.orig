@@ -1,15 +1,27 @@
 from sim import *
 from Commands.Trade import *
 from Commands.Invoker import *
+<<<<<<< Updated upstream
 
+<<<<<<< HEAD
 sim1=sim()
 sim1.initialize()
 from Commands.Trade import *
 from Commands.Invoker import *
+=======
 from Commands.Build import *
+>>>>>>> Stashed changes
 import pygame
 from Field import *
+<<<<<<< Updated upstream
 
+"""
+=======
+
+>>>>>>> origin/main
+=======
+#
+>>>>>>> Stashed changes
 sim1 = sim()
 sim1.initialize()
 #
@@ -34,11 +46,14 @@ while(1):
     sim1.playerStart()
 
 
+<<<<<<< Updated upstream
 invoker = Invoker()
+=======
 # for x in sim1.playerlist:
 #     for y in x.settlement:
 #         print(y.label)
 # invoker = Invoker()
+>>>>>>> Stashed changes
 # build = Build()
 # invoker.set_command(build)
 # # trade = Trade()
@@ -46,11 +61,15 @@ invoker = Invoker()
 # sim1.set_invoker(invoker)
 # sim1.invoker.execute_command(sim1)
 
+<<<<<<< Updated upstream
 sim1.set_invoker(invoker)
 sim1.invoker.execute_command(sim1)
+<<<<<<< HEAD
 """
+=======
 
 #player creation test
+>>>>>>> Stashed changes
 
 
 
@@ -101,3 +120,5 @@ while(1):
 """
 
 
+=======
+>>>>>>> origin/main

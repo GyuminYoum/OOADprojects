@@ -46,10 +46,13 @@ class sim:
         self.deck = []
         self.field = []
         self.invoker = None
+<<<<<<< Updated upstream
+=======
         self.observer = None
         self.possible_roads={}
         self.possible_settlements=[]
         self.surface=0
+>>>>>>> Stashed changes
         # self.trade = Trade()
         # self.build = Build()
 
@@ -223,12 +226,21 @@ class sim:
 
 
 
+<<<<<<< Updated upstream
+<<<<<<< HEAD
         #print(self.field)
         for z in self.deck:
             print(z.name)
+=======
+>>>>>>> Stashed changes
 
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/main
         # print(self.field)
+=======
+>>>>>>> Stashed changes
 
     def playerAction(self):
         for x in self.playerlist:
