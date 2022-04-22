@@ -2,6 +2,7 @@ import pygame.draw
 
 from Commands.Build import *
 from Commands.Trade import *
+from Commands.Resource import *
 from Player import *
 from Field import *
 from cardFactory import *
@@ -233,32 +234,19 @@ class sim:
         # for z in self.deck:
         #     print(z.name)
 
-        # print(self.field)
 
     def playerAction(self, player):
         self.current_player = player
-        val = self.roll()
 
-        # for hex in self.sim.
-        # do resource phase stuff
-        build = Build()
+        self.invoker.set_command(Resource())
+        self.invoker.execute_command(self)
         self.invoker.set_command(Build())
         self.invoker.execute_command(self)
         self.invoker.set_command(Trade())
         self.invoker.execute_command(self)
 
-        # loop through all players
-        # loop through each player's settlement/city
-        # loop through each settlement/city's adjacentlist
-        # if the hex in adjacentlist contains value equal to val
-        # distribute resources to the player
-
-        # x.Trade()
-        # x.Build()
-
-        # trade = Trade()
-        # self.invoker.set_command(trade)
-        # self.invoker.execute_command(self) OR execute()
+        # check for win condition
+        # victory points: len(settlements) + len(cities) + longest road/largest army
 
     def initialize(self):
         self.initializePlayers()
@@ -280,4 +268,5 @@ class sim:
         self.observer.update(message)
 
     def roll(self):
-        return self.current_player.roll()
+        rng = np.random.randint(low=0, high=12)
+        return rng

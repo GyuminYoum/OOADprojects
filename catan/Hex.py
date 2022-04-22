@@ -25,8 +25,7 @@ class Hex:
         return self.p1.coord, self.p2.coord, self.p3.coord, self.p4.coord, self.p5.coord, self.p6.coord
 
     def get_nodes(self):
-        list1 = [self.p1, self.p2, self.p3, self.p4, self.p5, self.p6]
-        return list1
+        return [self.p1, self.p2, self.p3, self.p4, self.p5, self.p6]
 
     def get_nodeNames(self):
         list1 = self.get_nodes()
