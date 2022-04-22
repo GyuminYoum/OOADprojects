@@ -1,5 +1,7 @@
 import pygame.draw
 
+from Commands.Build import *
+from Commands.Trade import *
 from Player import *
 from Field import *
 from cardFactory import *
@@ -58,8 +60,8 @@ class sim:
         cardFactory1 = cardFactory()
         self.deck = cardFactory1.makeDeck()
         board = Field((500, 300), 50)
-        self.field = board.build()[0]
-        self.possible_settlements = board.build()[1]
+        self.field, self.possible_settlements = board.build()
+        #self.possible_settlements = board.build()[1]
         self.possible_roads = board.generate_roads(self.field)
 
     def initializePlayers(self):
@@ -102,6 +104,7 @@ class sim:
         print('playerstart1')
         coord = (np.random.randint(100), np.random.randint(100))
         pygame.draw.circle(self.surface, self.playerlist[0].color, coord, 10)
+
         counter += 1
 
     def playerStart(self):
@@ -232,27 +235,30 @@ class sim:
 
         # print(self.field)
 
-    def playerAction(self):
-        for x in self.playerlist:
-            self.current_player = x
-            val = x.roll()
+    def playerAction(self, player):
+        self.current_player = player
+        val = self.roll()
 
-            # loop through all players
-            # loop through each player's settlement/city
-            # loop through each settlement/city's adjacentlist
-            # if the hex in adjacentlist contains value equal to val
-            # distribute resources to the player
+        # for hex in self.sim.
+        # do resource phase stuff
+        build = Build()
+        self.invoker.set_command(Build())
+        self.invoker.execute_command(self)
+        self.invoker.set_command(Trade())
+        self.invoker.execute_command(self)
 
-            # x.Trade()
-            # x.Build()
+        # loop through all players
+        # loop through each player's settlement/city
+        # loop through each settlement/city's adjacentlist
+        # if the hex in adjacentlist contains value equal to val
+        # distribute resources to the player
 
-            # trade = Trade()
-            # self.invoker.set_command(trade)
-            # self.invoker.execute_command(self) OR execute()
+        # x.Trade()
+        # x.Build()
 
-            # build = Build()
-            # self.invoker.set_command(build)
-            # self.invoker.execute_command(self) OR execute()
+        # trade = Trade()
+        # self.invoker.set_command(trade)
+        # self.invoker.execute_command(self) OR execute()
 
     def initialize(self):
         self.initializePlayers()
@@ -272,3 +278,6 @@ class sim:
 
     def update(self, message):
         self.observer.update(message)
+
+    def roll(self):
+        return self.current_player.roll()
