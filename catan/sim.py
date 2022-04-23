@@ -104,7 +104,7 @@ class sim:
     def playerStart1(self, counter):
         print('playerstart1')
         coord = (np.random.randint(100), np.random.randint(100))
-        pygame.draw.circle(self.surface, self.playerlist[0].color, coord, 10)
+        # pygame.draw.circle(self.surface, self.playerlist[0].color, coord, 10)
 
         counter += 1
 

@@ -53,6 +53,12 @@ class Player:
 
         return road_list
 
+    def totalResources(self):
+        count = 0
+        for value in self.resources.values():
+            count += value
+        return value
+
     # def setCommand(self, command):
     #     self.command = command
     #
