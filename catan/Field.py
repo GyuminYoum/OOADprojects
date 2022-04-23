@@ -277,6 +277,7 @@ class Field:
 
         # set desert
         Hex10.Resource = desert
+        Hex10.value = "R"
         hex_list.append(Hex10)
 
         for shape in hex_list:
