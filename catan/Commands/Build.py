@@ -8,11 +8,11 @@ class Build(Command):
     # TODO: use sim.observer.update(message) to send messages from Build to the observer
     # MVC
     def execute(self, sim):
-        print('Do you want to build anything this turn? ')
-        build = True
+        print('Do you want to build anything? ')
+        build = bool(input('(1: Yes, 0: No): '))
 
         # while user still wants to build
-        while build:
+        if build:
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value}')
@@ -22,7 +22,7 @@ class Build(Command):
 
             if build_action == '0':
                 print(f'{sim.current_player.name} ended their build phase. ')
-                break
+                return None, None
 
             elif build_action == '1':
                 if player.canBuildRoad():
@@ -60,6 +60,7 @@ class Build(Command):
                             print("Invalid Selection")
                 else:
                     print(player.name +" doesn't have enough resources to build a road")
+
                 # TODO: prompt user to build road somewhere
                 # create road between 2 nodes
 
@@ -145,5 +146,4 @@ class Build(Command):
                     print(player.name+" doesn't have enough resources to build a city")
                 
 
-            print('Do you want to build anything else? ')
-            build = bool(int(input('(1: Yes, 0: No): ')))
+        return sim.current_player  # , node

@@ -285,20 +285,20 @@ class Field:
             for x in nodelist:
                 x.hex.append(shape)
 
-        return hex_list,node_list
+        return hex_list, node_list
 
-    def generate_roads(self,hex_list1):
-        road_dict={}
+    def generate_roads(self, hex_list1):
+        road_dict = {}
         for hex in hex_list1:
-            #print(hex.name)
-            nodelist=hex.get_nodes()
+            # print(hex.name)
+            nodelist = hex.get_nodes()
             for node in nodelist:
                 for adjacent_node in node.adj:
                     if node in road_dict.keys():
                         if adjacent_node not in road_dict[node]:
                             road_dict[node].append(adjacent_node)
                     else:
-                        road_dict[node]=[adjacent_node]
+                        road_dict[node] = [adjacent_node]
 
                     if adjacent_node in road_dict.keys():
                         if node not in road_dict[adjacent_node]:

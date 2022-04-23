@@ -1,3 +1,4 @@
+import sim
 from sim import *
 from Commands.Build import *
 from Commands.Invoker import *
@@ -11,6 +12,8 @@ import pygame
 import sys
 from pygame.locals import *
 
+import os
+from PIL import Image
 
 
 class Catan:
@@ -19,6 +22,7 @@ class Catan:
         self.board =0
 
     def initialize(self):
+        self.sim.initialize()
         pygame.init()
         # create the display surface object
         # of specific dimension.
@@ -31,6 +35,7 @@ class Catan:
         pygame.font.init()
         default_font=pygame.font.get_default_font()
         font_renderer=pygame.font.Font(default_font, 20)
+
         for x in self.sim.field:
             # for filled hexagon
             pygame.draw.polygon(self.board, x.Resource.color, x.get_coords())
@@ -91,8 +96,5 @@ class Catan:
 
 
             self.sim.playerAction()
-
-
-
 
 
