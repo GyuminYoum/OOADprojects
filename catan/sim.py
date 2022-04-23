@@ -198,7 +198,7 @@ class sim:
 
     def getPossibleRoads(self, user_all_road_list):
         list1 = []
-        #print(user_all_road_list)
+        #print(user_all_road_l  ist)
         for road_name in user_all_road_list:
             parsed = self.stringToRoad(road_name)
             if (parsed != None):
