@@ -12,6 +12,7 @@ from Commands.Invoker import *
 from Commands.Command import *
 import random
 from Commands.useCard import *
+from Commands.buyCard import *
 
 import numpy as np
 
@@ -243,7 +244,10 @@ class sim:
             # self.invoker.execute_command(self)
             # self.invoker.set_command(Trade())
             # self.invoker.execute_command(self)
-            self.invoker.set_command(usecard)
+            # self.invoker.set_command(usecard)
+            # self.invoker.execute_command(self)
+            buycard = buyCard()
+            self.invoker.set_command(buycard)
             self.invoker.execute_command(self)
 
         # loop through all players
@@ -432,6 +436,18 @@ class sim:
             if x.Robber==True:
                 return x.name
         return None
+
+    def buyCard(self,player):
+        if len(self.deck)==0:
+            return None
+        rng= random.randint(0,len(self.deck)-1)
+        card=self.deck[rng]
+        player.card.append(card)
+        self.deck.remove(card)
+        player.resources['ore']-=1
+        player.resources['sheep'] -= 1
+        player.resources['wheat'] -= 1
+        return card
 
 
 
