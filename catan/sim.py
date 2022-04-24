@@ -30,6 +30,8 @@ class sim:
         self.possible_roads = {}
         self.possible_settlements = []
         self.done=False
+        self.largestarmycount=3
+        self.longestroadcount=5
 
         # self.trade = Trade()
         # self.build = Build()
@@ -85,17 +87,24 @@ class sim:
 
             #useCardTest
             if x== 0:
+                p1.card.append(self.deck[11])
                 p1.card.append(self.deck[12])
                 p1.card.append(self.deck[13])
                 p1.card.append(self.deck[14])
                 p1.settlement.append(self.getNode("D3",self.possible_settlements))
             elif x==1:
+                p1.card.append(self.deck[0])
+                p1.card.append(self.deck[1])
+                p1.card.append(self.deck[2])
                 p1.card.append(self.deck[15])
                 p1.card.append(self.deck[17])
                 p1.card.append(self.deck[19])
                 p1.settlement.append(self.getNode("D4", self.possible_settlements))
             elif x==2:
-                p1.card.append(self.deck[0])
+                p1.card.append(self.deck[3])
+                p1.card.append(self.deck[4])
+                p1.card.append(self.deck[5])
+                p1.card.append(self.deck[6])
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
                 p1.settlement.append(self.getNode("E4", self.possible_settlements))
@@ -244,11 +253,18 @@ class sim:
             # self.invoker.execute_command(self)
             # self.invoker.set_command(Trade())
             # self.invoker.execute_command(self)
-            # self.invoker.set_command(usecard)
-            # self.invoker.execute_command(self)
-            buycard = buyCard()
-            self.invoker.set_command(buycard)
+            self.invoker.set_command(usecard)
             self.invoker.execute_command(self)
+            if(x.checkifWin()):
+                print(x.name+" wins")
+                break
+
+            # buycard = buyCard()
+            # self.invoker.set_command(buycard)
+            # self.invoker.execute_command(self)
+            if (x.checkifWin()):
+                print(x.name + " wins")
+                break
 
         # loop through all players
         # loop through each player's settlement/city
@@ -448,6 +464,12 @@ class sim:
         player.resources['sheep'] -= 1
         player.resources['wheat'] -= 1
         return card
+
+    def resetLargestArmy(self):
+        for x in self.playerlist:
+            x.largestarmy=False
+
+
 
 
 

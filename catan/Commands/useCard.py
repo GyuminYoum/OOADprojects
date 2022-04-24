@@ -60,6 +60,14 @@ class useCard(Command):
                         print(player.name+" received "+str(count1)+" "+ rs1+" from "+name1+" and "+str(count2)+" "+ rs2+ " from "+name2)
                         #set 1 knight card to Used=True
                         player.useCard("Knight")
+                        #if after using knight, player's amount of knight exceeds largestarmycount,
+                        #reset largest army for all, set player's largestarmy to true, print
+                        if sim.largestarmycount <= player.countKnights():
+                            sim.resetLargestArmy()
+                            player.largestarmy=True
+                            print("")
+                            print(player.name+" now has the largest army with count of "+str(player.countKnights()))
+                            print("")
 
                         #After resource, card check
                         print("After")
