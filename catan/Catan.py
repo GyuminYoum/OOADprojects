@@ -31,7 +31,6 @@ class Catan:
         pygame.display.set_caption('Settlers of Catan')
         window.fill((255, 255, 255))
         self.board = window
-        self.sim.initialize()
         pygame.font.init()
         default_font=pygame.font.get_default_font()
         font_renderer=pygame.font.Font(default_font, 20)
@@ -43,7 +42,9 @@ class Catan:
             pygame.draw.polygon(self.board, (0, 0, 0), x.get_coords(), width=3)
             pygame.display.flip()
             label= font_renderer.render(str(x.value),1,(0,0,0))
-            self.board.blit(label,(x.p1.coord[0]-5,((x.p1.coord[1]+x.p4.coord[1])/2)-10))
+            label1 = font_renderer.render(str(x.name), 1, (0, 0, 0))
+            self.board.blit(label1, (x.p1.coord[0] - 5, ((x.p1.coord[1] + x.p4.coord[1]) / 2)-20))
+            self.board.blit(label,(x.p1.coord[0]-5,((x.p1.coord[1]+x.p4.coord[1])/2)))
         font_renderer = pygame.font.Font(default_font,17)
         for node in self.sim.possible_settlements:
             label = font_renderer.render(str(node.label), 1, (0, 0, 0))
@@ -68,24 +69,24 @@ class Catan:
 
     def main(self):
 
-        for player in self.sim.playerlist:
-            print("current_player: " + player.name)
-            self.sim.playerStartSettlement(player)
-            # pygame.draw.circle(self.board,p1.color,node.coord,10)
-            # pygame.display.flip()
-            self.sim.playerStartRoad(player)
-            # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
-            # pygame.display.flip()
-
-        reverselist=list(reversed(self.sim.playerlist))
-
-        for player in reverselist:
-            self.sim.playerStartSettlement(player)
-            # # pygame.draw.circle(self.board,p1.color,node.coord,10)
-            # # pygame.display.flip()
-            self.sim.playerStartRoad(player)
-            # # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
-            # # pygame.display.flip()
+        # for player in self.sim.playerlist:
+        #     print("current_player: " + player.name)
+        #     self.sim.playerStartSettlement(player)
+        #     # pygame.draw.circle(self.board,p1.color,node.coord,10)
+        #     # pygame.display.flip()
+        #     self.sim.playerStartRoad(player)
+        #     # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
+        #     # pygame.display.flip()
+        #
+        # reverselist=list(reversed(self.sim.playerlist))
+        #
+        # for player in reverselist:
+        #     self.sim.playerStartSettlement(player)
+        #     # # pygame.draw.circle(self.board,p1.color,node.coord,10)
+        #     # # pygame.display.flip()
+        #     self.sim.playerStartRoad(player)
+        #     # # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
+        #     # # pygame.display.flip()
 
        
         while self.sim.done==False:
@@ -93,7 +94,6 @@ class Catan:
                 #self.sim1.playerAction
                 # check for victory points here probably
                 # we can do resource build trade for one player before updating display tbh
-
 
             self.sim.playerAction()
 

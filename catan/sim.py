@@ -10,6 +10,8 @@ import pygame
 from Commands.Build import *
 from Commands.Invoker import *
 from Commands.Command import *
+import random
+from Commands.useCard import *
 
 import numpy as np
 
@@ -19,7 +21,6 @@ class sim:
         self.playerlist = []
         self.playercount = 0
         self.current_player = None
-        # self.colorlist = ["R", "B", "W", "BK"]
         self.colorlist = [(255, 0, 0), (0, 0, 255), (0, 255, 255), (255, 255, 0)]
         self.deck = []
         self.field = []
@@ -32,18 +33,31 @@ class sim:
         # self.trade = Trade()
         # self.build = Build()
 
+    # function initializeGame
+    # usage: Initiating stage
+    # args: N/A
+    # generate deck of DevelopmentCards, generate field, possible_settlements,roads and set invoker
+    # returns: N/A
     def initializeGame(self):
         cardFactory1 = cardFactory()
         self.deck = cardFactory1.makeDeck()
         board = Field((500, 300), 50)
         self.field, self.possible_settlements = board.build()
         #self.possible_settlements = board.build()[1]
+        self.field[3].Robber=True
         self.possible_roads = board.generate_roads(self.field)
+        invoker=Invoker()
+        self.invoker=invoker
 
+    # function initializePlayers
+    # usage: Initiating stage
+    # args: N/A
+    # prompts user for # of players, and their names, and assign colors
+    # default resources to 0
+    # returns: N/A
     def initializePlayers(self):
         while self.playercount!=3 and self.playercount!=4:
-        #while self.playercount < 1:
-        
+
             try:
                 num = int(input("Input the number of players (3-4) \n"))
                 self.playercount = num
@@ -66,7 +80,28 @@ class sim:
             p1.resources['wheat'] = 10
             #harbor_test_node = Node('B1', 1)
             #p1.settlement.append(harbor_test_node)
+
+
+            #useCardTest
+            if x== 0:
+                p1.card.append(self.deck[12])
+                p1.card.append(self.deck[13])
+                p1.card.append(self.deck[14])
+                p1.settlement.append(self.getNode("D3",self.possible_settlements))
+            elif x==1:
+                p1.card.append(self.deck[15])
+                p1.card.append(self.deck[17])
+                p1.card.append(self.deck[19])
+                p1.settlement.append(self.getNode("D4", self.possible_settlements))
+            elif x==2:
+                p1.card.append(self.deck[0])
+                p1.card.append(self.deck[18])
+                p1.card.append(self.deck[20])
+                p1.settlement.append(self.getNode("E4", self.possible_settlements))
+
             self.playerlist.append(p1)
+
+
 
             # changing resources of players to test Build and Trade
             # if x == 0:
@@ -81,12 +116,23 @@ class sim:
             #     p1.resources['wood'] = 5
             #
 
+    def initialize(self):
+        self.initializeGame()
+        self.initializePlayers()
+
+
+    # function playerStartSettlement
+    # usage: Initiating stage: building settlement for players
+    # args: player:Player
+    # prompts user where he wants to build his settlement and builds if it's available
+    # the settlement loation is taken out from possiblesettlement list and added to user's settlement
+    # reprompt upon invalid request/choice
+    # returns: N/A
     def playerStartSettlement(self, player):
-        #pygame.draw.circle(self.surface, self.playerlist[0].color, coord, 10)
         done = False
         while not done:
             print("Select the location for settlement for " + player.name)
-            val = input("Possible selections are " + str(self.getSettlementNames()) + "\n")
+            val = input("Possible selections are " + str(self.getPossibleSettlementNames()) + "\n")
             if self.AvailableNodeCheck(val, self.possible_settlements):
                 node1 = self.getNode(val, self.possible_settlements)
                 player.settlement.append(node1)
@@ -94,16 +140,18 @@ class sim:
                 for x in node1.adj:
                     if x in self.possible_settlements:
                         self.possible_settlements.remove(x)
-                #print('playerstart pygame draw')
-                # pygame.draw.circle(self.surface, player.color, node1.coord, 10)
                 print("Successfully built a settlement at location "+val+" for "+player.name)
                 done = True
             else:
                 print("Invalid selection. Please enter a valid selection")
-        return player,node1
 
-
-
+    # function playerStartRoad
+    # usage: Initiating stage: building road for players
+    # args: player:Player
+    # prompts user where he wants to build his road based on his settlement and builds if it's available
+    # the road dict etc {A: B} as well as {B: A} are taken out of possible road_list and added to user's road
+    # reprompt upon invalid request/choice
+    # returns: N/A
     def playerStartRoad(self,player):
         done1 = False
         while not done1:
@@ -127,64 +175,52 @@ class sim:
                 done1 = True
             else:
                 print("Invalid Selection")
-        return player, nodes
 
+    #Checks
 
+    # function AvailableNodeCheck
+    # usage: Build Command, playerStartSettlement
+    # args: node-name: str, node_list: list<Node>
+    # true if the node with node_name is available, false if else
+    # returns: N/A
     def AvailableNodeCheck(self, node_name, node_list):
         for x in node_list:
             if x.label == node_name:
                 return True
         return False
 
+    # function isValidRoad
+    # usage: Build Command, playerStartRoad
+    # args: s1:str, s2:str
+    # true if the connection between nodes named s1 and s2 is possible, false if else
+    # returns: N/A
+    def isValidRoad(self, s1, s2):
+        node1 = self.getNode(s1, self.possible_roads.keys())
+        node2 = self.getNode(s2, self.possible_roads.keys())
+        if node2 in self.possible_roads[node1] and node1 in self.possible_roads[node2]:
+            return True
+        return False
+
+    ####################
+    ##Helper functions##
+    ####################
+
+    # function getNode
+    # usage: general purpose
+    # args: node_name: str, node_list: list<Node>
+    # return Node with label node_name from node_list
+    # returns: Node/ None
     def getNode(self, node_name, node_list):
         for x in node_list:
             if x.label == node_name:
                 return x
         return None
 
-    def getSettlementNames(self):
-        list1 = []
-        for x in self.possible_settlements:
-            list1.append(x.label)
-        return list1
-
-    def isValidRoad(self, s1, s2):
-        node1 = self.getNode(s1, self.possible_roads.keys())
-        node2 = self.getNode(s2, self.possible_roads.keys())
-        if node2 in self.possible_roads[node1]:
-            return True
-        return False
-
-    def filterPossibleSettlement(self,listofnode):
-        list1=[]
-        list2=self.getPossibleSettlementNames()
-        print("possible settlements: "+ str(list2))
-        for node in listofnode:
-            if node.label in list2:
-                list1.append(node)
-        return list1
-
-    def getPossibleSettlementNames(self):
-        list1=[]
-        for node in self.possible_settlements:
-            list1.append(node.label)
-        return list1
-
-    def convertNodeListToNameList(self, nodelist):
-        list1=[]
-        for x in nodelist:
-            if x.label not in list1:
-                list1.append(x.label)
-        return list1
-
-    def roadToString(self, dict1):
-        list1=[]
-        for key in dict1.keys():
-            for adj in dict1[key]:
-                list1.append(key.label+adj.label)
-        return list1
-
-
+    # function stringToRoad
+    # usage: parsing userinput for road in to connection
+    # args: string1: str(user_input)
+    # parse the userinput and after validating it, return the two nodes or return None
+    # returns: (Node,Node)/ None
     def stringToRoad(self, string1):
         s1 = string1[:2]
         s2 = string1[2:4]
@@ -193,41 +229,22 @@ class sim:
             node2 = self.getNode(s2, self.possible_roads.keys())
             return (node1, node2)
         else:
-            print("Invalid")
+            #print("Invalid")
             return None
-
-    def getPossibleRoads(self, user_all_road_list):
-        list1 = []
-        #print(user_all_road_l  ist)
-        for road_name in user_all_road_list:
-            parsed = self.stringToRoad(road_name)
-            if (parsed != None):
-                node1 = parsed[0]
-                node2 = parsed[1]
-                if node2 in self.possible_roads[node1]:
-                    list1.append(road_name)
-            # else:
-            #     print(str(road_name)+"null object")
-        return list1
-
-        # print(self.field)
-
-        # for z in self.deck:
-        #     print(z.name)
-
-        # print(self.field)
 
     def playerAction(self):
         for x in self.playerlist:
             self.current_player = x
-        val = self.roll()
-
-        # for hex in self.sim.
-        # do resource phase stuff
-        self.invoker.set_command(Build())
-        self.invoker.execute_command(self)
-        self.invoker.set_command(Trade())
-        self.invoker.execute_command(self)
+            val = self.roll()
+            usecard=useCard()
+            # for hex in self.sim.
+            # do resource phase stuff
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(Trade())
+            # self.invoker.execute_command(self)
+            self.invoker.set_command(usecard)
+            self.invoker.execute_command(self)
 
         # loop through all players
         # loop through each player's settlement/city
@@ -241,14 +258,6 @@ class sim:
         # trade = Trade()
         # self.invoker.set_command(trade)
         # self.invoker.execute_command(self) OR execute()
-
-
-    def initialize(self):
-        self.initializePlayers()
-        self.initializeGame()
-        # self.playerStart()
-        # self.playerAction()
-        # print(self.playercount)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -264,3 +273,171 @@ class sim:
 
     def roll(self):
         return self.current_player.roll()
+
+    #list generation for sim
+
+    # function hexNameList
+    # usage: general purpose
+    # args: N/A
+    # generate list of names of each hex
+    # returns: list<Str>
+    def hexNameList(self):
+        list1 = []
+        for x in self.field:
+            if x.name not in list1:
+                list1.append(x.name)
+        return list1
+
+    # function resourceNameList
+    # usage: general purpose
+    # args: N/A
+    # generate list of names of each resources
+    # returns: list<Str>
+    def resourceNameList(self):
+        list1 = []
+        for x in self.playerlist[0].resources.keys():
+            if x not in list1:
+                list1.append(x)
+        return list1
+
+    # function getPossibleSettlementNames
+    # usage: general purpose
+    # args: N/A
+    # generate list of names of every possible settlement
+    # returns: list<Str>
+    def getPossibleSettlementNames(self):
+        list1=[]
+        for node in self.possible_settlements:
+            list1.append(node.label)
+        return list1
+
+    # function getPossibleRoads
+    # usage: general purpose
+    # args: user_all_road_list:list<string>
+    # given list of all the roads of a player, validate each string and see if the road can still be constructed
+    # returns: list<Str> list of name of roads that can still be built
+    def getPossibleRoads(self, user_all_road_list):
+        list1 = []
+        #print(user_all_road_l  ist)
+        for road_name in user_all_road_list:
+            parsed = self.stringToRoad(road_name)
+            if (parsed != None):
+                node1 = parsed[0]
+                node2 = parsed[1]
+                if node2 in self.possible_roads[node1]:
+                    list1.append(road_name)
+        return list1
+
+    # function filterPossibleSettlement
+    # usage: build command
+    # args: listofnode: list<Node>
+    # given list of nodes, validate which node locations are still available for settlement
+    # returns: list<Node>
+    def filterPossibleSettlement(self,listofnode):
+        list1=[]
+        list2=self.getPossibleSettlementNames()
+        #print("possible settlements: "+ str(list2))
+        for node in listofnode:
+            if node.label in list2:
+                list1.append(node)
+        return list1
+
+    # function convertNodeListToNameList
+    # usage: general purpose
+    # args: nodelist: List<Node>
+    # given a list of nodes, convert to list of node.label
+    # returns: list<Str>
+    def convertNodeListToNameList(self, nodelist):
+        list1=[]
+        for x in nodelist:
+            if x.label not in list1:
+                list1.append(x.label)
+        return list1
+
+    # function roadToString
+    # usage: build command
+    # args: dict1: Dict<Node,Node>
+    # given a dictionary of roads, return list of roadnames
+    # returns: list<Str>
+    def roadToString(self, dict1):
+        list1=[]
+        for key in dict1.keys():
+            for adj in dict1[key]:
+                list1.append(key.label+adj.label)
+        return list1
+
+    ###############################
+    #Functions for useCard Command#
+    ##############################
+
+    #resets robber location across all the hexes
+    def resetRobber(self):
+        for x in self.field:
+            x.Robber=False
+
+    #sets robber location to a certian hex
+    def setRobber(self, name):
+        for x in self.field:
+            if x.name==name:
+                x.Robber=True
+
+    #function monopolize
+    #usage: useCard for monopoly
+    #args: player:Player, resourcename:str
+    #takes all the resources from other user and gives it to the specified user
+    #returns: N/A
+    def monopolize(self,player,resourcename):
+        val=0
+        for x in self.playerlist:
+            if(x.name is not player.name):
+                val+= x.resources[resourcename]
+                x.resources[resourcename]=0
+        for x in self.playerlist:
+            if(x.name is player.name):
+                x.resources[resourcename]+=val
+
+    # function knight
+    # usage: useCard for knight
+    # args: hexname:str , player: Player
+    # when knight is used to move robber from a hex, the owner of the knight card takes away
+    # n(# of settlement+city) random resources from the players who had settlement/city in that hex.
+    # Player.countDonation(hexname) returns the count of settlements/cities in the Hex with hexname.
+    # function then, randomly determines which non-depleted resource to take from the afflicted player
+    # and adds it to the owner of the knight card
+    # returns: N/A
+    def knight(self,hexname,player):
+        list1=[]
+        for x in self.playerlist:
+            count=0
+            if x.name is not player.name:
+                donationcount=x.countDonation(hexname)
+                while count<1:
+                    rand = random.randint(0, 4)
+                    rs=self.resourceNameList()
+                    resourcetype=rs[rand]
+                    count=x.resources[resourcetype]
+                x.resources[resourcetype]-=donationcount
+                player.resources[resourcetype]+=donationcount
+                list1.append((resourcetype,donationcount,x.name))
+        return list1
+
+    # function findRobber
+    # usage: useCard for knight
+    # args: N/A
+    # finds name of the hex that has Robber
+    # returns: str/None
+    def findRobber(self):
+        for x in self.field:
+            print(x.name, x.Robber)
+            if x.Robber==True:
+                return x.name
+        return None
+
+
+
+
+
+
+
+
+
