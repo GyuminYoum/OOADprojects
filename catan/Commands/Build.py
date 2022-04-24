@@ -37,6 +37,7 @@ class Build(Command):
                         road_list = sim.getPossibleRoads(player.generateRoadNameList())
                         val = input("Possible selections are " + str(road_list) + "\n")
 
+
                         if val=="0":
                             break
                         if val in road_list:
@@ -82,7 +83,7 @@ class Build(Command):
                         #resource check: 1 brick, 1 lumber, 1 wool, 1 grain
                         print("Select the location for settlement for " + player.name+ " or enter 0 to exit building settlement")
                         settlement_list=sim.filterPossibleSettlement(player.generatePossibleSettlements())
-                        list1=player.generateSettlementNameList()
+                        #list1=player.generateSettlementNameList()
                         #print("possible settlements from user: "+str(list1))
                         settlement_names=sim.convertNodeListToNameList(settlement_list)
                         if(len(settlement_names)==0):

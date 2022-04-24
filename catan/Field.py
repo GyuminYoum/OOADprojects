@@ -247,8 +247,12 @@ class Field:
         h19 = [n44, n47, n53, n54, n51, n45]
         Hex19 = Hex("S", h19)
 
+
+
         hex_list = [Hex1, Hex2, Hex3, Hex4, Hex5, Hex6, Hex7, Hex8, Hex9,
                     Hex11, Hex12, Hex13, Hex14, Hex15, Hex16, Hex17, Hex18, Hex19]
+
+
 
         node_list= [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21, n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40, n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54]
 
@@ -281,9 +285,10 @@ class Field:
         hex_list.append(Hex10)
 
         for shape in hex_list:
-            nodelist = shape.get_nodes()
-            for x in nodelist:
-                x.hex.append(shape)
+            if shape.Resource is not desert:
+                nodelist = shape.get_nodes()
+                for x in nodelist:
+                    x.hex.append(shape)
 
         return hex_list, node_list
 
