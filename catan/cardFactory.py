@@ -10,10 +10,6 @@ class cardFactory:
             card1 = Card("Knight")
             self.deck.append(card1)
 
-        for _ in range(5):
-            card1 = Card("Victory Point")
-            self.deck.append(card1)
-
         for _ in range(2):
             card1 = Card("Road Building")
             self.deck.append(card1)
@@ -24,6 +20,11 @@ class cardFactory:
 
         for _ in range(2):
             card1 = Card("Monopoly")
+            self.deck.append(card1)
+
+        for _ in range(5):
+            card1 = Card("Victory Point")
+            card1.used=True
             self.deck.append(card1)
 
         return self.deck

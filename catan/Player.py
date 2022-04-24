@@ -14,6 +14,85 @@ class Player:
         self.color = color
         # self.command = None
 
+    def getUnusedCards(self):
+        list1=[]
+        for x in self.card:
+            if x.used==False:
+                list1.append(x)
+        return list1
+
+    def AvailableCardSummary(self):
+        list1 = {}
+        list2=self.getUnusedCards()
+        for x in list2:
+            if x.name not in list1.keys():
+                list1[x.name] = 1
+            else:
+                list1[x.name] += 1
+        return list1
+
+
+
+    def deckSummary(self):
+        list1={}
+        for x in self.card:
+            if x.name not in list1.keys():
+                list1[x.name]=1
+            else:
+                list1[x.name]+=1
+        return list1
+
+    def hasKnight(self):
+        for x in self.card:
+            if x.used==False and x.name=="Knight":
+                return True
+        return False
+
+    def hasRoadBuilding(self):
+        for x in self.card:
+            if x.used==False and x.name=="Road Building":
+                return True
+        return False
+
+    def hasYearOfPlenty(self):
+        for x in self.card:
+            if x.used==False and x.name=="Year of Plenty":
+                return True
+        return False
+
+    def hasMonopoly(self):
+        for x in self.card:
+            if x.used==False and x.name=="Monopoly":
+                return True
+        return False
+
+    def countKnights(self):
+        count=0
+        for x in self.card:
+            if x.name=="Knight":
+                count+=1
+        return count
+
+    def useCard(self,cardname):
+        for x in self.card:
+            if x.name==cardname and x.used==False:
+                x.used=True
+                break
+
+
+    def countDonation(self,hexname):
+        val=0
+        for x in self.settlement:
+            for y in x.hex:
+                if(y.name==hexname):
+                    val+=1
+        for x in self.city:
+            for y in x.hex:
+                if(y.name==hexname):
+                    val+=1
+        return val
+
+
     def roll(self):
         rng = np.random.randint(low=0, high=12)
         return rng
