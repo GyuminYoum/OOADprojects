@@ -1,6 +1,7 @@
 import numpy as np
 import copy
 
+
 class Player:
     def __init__(self, name, color):
         self.name = name
@@ -34,38 +35,37 @@ class Player:
         return len(self.city)
 
     def get_settlementNames(self):
-        name_list=[]
+        name_list = []
         for x in self.settlement:
             name_list.append(x.label)
         return name_list
 
     def get_cityNames(self):
-        name_list=[]
+        name_list = []
         for x in self.city:
             name_list.append(x.label)
         return name_list
 
     def get_roadNames(self):
-        name_dict={}
-        dict2=copy.deepcopy(self.roads)
-        for key,val in dict2.items():
+        name_dict = {}
+        dict2 = copy.deepcopy(self.roads)
+        for key, val in dict2.items():
             for x in val:
                 if key.label not in name_dict.keys():
-                    name_dict[key.label]=[]
+                    name_dict[key.label] = []
                 if x.label not in name_dict.keys():
-                    name_dict[x.label]=[]
+                    name_dict[x.label] = []
                 if x.label not in name_dict[key.label]:
                     name_dict[key.label].append(x.label)
                 if key.label not in name_dict[x.label]:
                     name_dict[x.label].append(key.label)
         return name_dict
 
-
     def generatePossibleSettlements(self):
-        list1=[]
-        #print("Player settlement: ")
-        settlementNames=self.get_settlementNames()
-        cityNames=self.get_cityNames()
+        list1 = []
+        # print("Player settlement: ")
+        settlementNames = self.get_settlementNames()
+        cityNames = self.get_cityNames()
         for key in self.roads.keys():
             if key.label not in settlementNames and key.label not in cityNames:
                 if key not in list1:
@@ -73,8 +73,8 @@ class Player:
         return list1
 
     def generateSettlementNameList(self):
-        namelist=[]
-        settlementList=self.generatePossibleSettlements()
+        namelist = []
+        settlementList = self.generatePossibleSettlements()
         print("list possible settlements: ")
         # for x in settlementList:
         #     print(x.label)
@@ -85,18 +85,18 @@ class Player:
         for node in settlementList:
             if node.label not in namelist:
                 namelist.append(node.label)
-        #print("namelist: "+str(namelist))
+        # print("namelist: "+str(namelist))
         return namelist
 
     def getSettlementName(self):
-        list1=[]
+        list1 = []
         for x in self.settlement:
-            list1.append (x.label)
+            list1.append(x.label)
         return list1
 
     def generatePossibleRoads(self):
-        possible_roads={}
-        list1=[]
+        possible_roads = {}
+        list1 = []
         for x in self.settlement:
             list1.append(x)
         for x in self.city:
@@ -105,10 +105,10 @@ class Player:
             if node not in list1:
                 list1.append(node)
         for node in list1:
-            possible_roads[node]=[]
+            possible_roads[node] = []
             for adj in node.adj:
-                if(adj not in possible_roads.keys()):
-                    possible_roads[adj]=[]
+                if adj not in possible_roads.keys():
+                    possible_roads[adj] = []
                 if adj not in possible_roads[node]:
                     possible_roads[node].append(adj)
                 if node not in possible_roads[adj]:
@@ -117,26 +117,23 @@ class Player:
         return possible_roads
 
     def generateRoadNameList(self):
-        road_name_list=[]
-        road_dict=self.generatePossibleRoads()
+        road_name_list = []
+        road_dict = self.generatePossibleRoads()
 
-        for key,value in road_dict.items():
+        for key, value in road_dict.items():
             for x in value:
-                road_name=key.label+x.label
+                road_name = key.label+x.label
                 # print("gRL")
                 # print(road_name)
-                reverse=x.label+key.label
+                reverse = x.label+key.label
                 if road_name not in road_name_list and reverse not in road_name_list:
                     road_name_list.append(road_name)
                     road_dict[key].remove(x)
-                    #print(x.label+" is removed from "+key.label)
+                    # print(x.label+" is removed from "+key.label)
                     road_dict[x].remove(key)
-                    #print(key.label + " is removed from " + x.label)
+                    # print(key.label + " is removed from " + x.label)
 
         return road_name_list
-
-
-
 
     # def generateRoadNameList(self):
     #     road_list = []
@@ -161,34 +158,28 @@ class Player:
     #             dict2[adj_nodes].remove(road_key)
     #
     #     return road_list
-    
+
     def canBuildSettlement(self):
-        if (self.resources['sheep'] >1 and self.resources['wood'] >1 and self.resources['clay'] >1 and self.resources['wheat']>1):
+        if self.resources['sheep'] > 1 and self.resources['wood'] > 1 and self.resources['clay'] > 1 \
+                and self.resources['wheat'] > 1:
             return True
         else:
             return False
+
     def canBuildCity(self):
-        if (self.resources['ore'] >3 and self.resources['wheat'] >2):
+        if self.resources['ore'] > 3 and self.resources['wheat'] > 2:
             return True
         else:
             return False
 
     def canBuildRoad(self):
-        if (self.resources['clay'] >3 and self.resources['wood'] >2):
+        if self.resources['clay'] > 3 and self.resources['wood'] > 2:
             return True
         else:
             return False
-
-
 
     def totalResources(self):
         count = 0
         for value in self.resources.values():
             count += value
-        return value
-
-    # def setCommand(self, command):
-    #     self.command = command
-    #
-    # def executeCommand(self):
-    #     self.command.execute(self)
+        return count
