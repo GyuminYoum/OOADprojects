@@ -218,8 +218,8 @@ class sim:
     def playerAction(self):
         for x in self.playerlist:
             self.current_player = x
-            val = self.roll()
-            usecard=useCard()
+            # val = self.roll()
+            # usecard=useCard()
             # for hex in self.sim.
             # do resource phase stuff
             # self.invoker.set_command(usecard)
@@ -232,9 +232,8 @@ class sim:
             # self.invoker.execute_command(self)
             # self.invoker.set_command(usecard)
             # self.invoker.execute_command(self)
-            buycard = buyCard()
-            self.invoker.set_command(buycard)
-            self.invoker.execute_command(self)
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
 
         # loop through all players
         # loop through each player's settlement/city
