@@ -7,11 +7,18 @@ class Build(Command):
 
     # TODO: use sim.observer.update(message) to send messages from Build to the observer
     def execute(self, sim):
-        print('Do you want to build anything? ')
-        build = bool(input('(1: Yes, 0: No): '))
-
+        build = True
+        response = 3
         # while user still wants to build
-        if build:
+        while build:
+            print('Does ' + sim.current_player.name + " want to build anything? ")
+            while response!='1' and response!='0':
+                response = input('(1: Yes, 0: No): ')
+                if response!='1' and response!='0':
+                    print("Invalid input")
+            if response == '0':
+                build = False
+                break
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value}')
@@ -36,7 +43,7 @@ class Build(Command):
                         road_list = sim.getPossibleRoads(player.generateRoadNameList())
                         val = input("Possible selections are " + str(road_list) + "\n")
 
-                        if val=="0":
+                        if val == "0":
                             break
                         if val in road_list:
                             nodes = sim.stringToRoad(val)
@@ -52,9 +59,8 @@ class Build(Command):
                                 player.roads[nodes[1]].append(nodes[0])
                             player.resources["clay"] = player.resources["clay"]-1
                             player.resources["wood"] = player.resources["wood"]-1
-                            print(player.name+" built a road at " + val)
+                            sim.update(player.name+" built a road at " + val)
                             done1 = True
-
                         else:
                             print("Invalid Selection")
                 else:
@@ -78,13 +84,14 @@ class Build(Command):
                 if player.canBuildSettlement():
                     done = False
                     while not done:
-                        #resource check: 1 brick, 1 lumber, 1 wool, 1 grain
-                        print("Select the location for settlement for " + player.name+ " or enter 0 to exit building settlement")
-                        settlement_list=sim.filterPossibleSettlement(player.generatePossibleSettlements())
-                        #list1=player.generateSettlementNameList()
-                        #print("possible settlements from user: "+str(list1))
-                        settlement_names=sim.convertNodeListToNameList(settlement_list)
-                        if(len(settlement_names)==0):
+                        # resource check: 1 brick, 1 lumber, 1 wool, 1 grain
+                        print("Select the location for settlement for " + player.name
+                              + " or enter 0 to exit building settlement")
+                        settlement_list = sim.filterPossibleSettlement(player.generatePossibleSettlements())
+                        # list1=player.generateSettlementNameList()
+                        # print("possible settlements from user: "+str(list1))
+                        settlement_names = sim.convertNodeListToNameList(settlement_list)
+                        if len(settlement_names) == 0:
                             print("No possible location available to build a settlement")
                             break
                         val = input("Possible locations to build a settlement are: " + str(settlement_names) + "\n")
@@ -103,12 +110,16 @@ class Build(Command):
                             player.resources["wood"] = player.resources["wood"] - 1
                             player.resources["sheep"] = player.resources["sheep"] - 1
                             player.resources["wheat"] = player.resources["wheat"] - 1
-                            print("Successfully built a settlement at location " + val + " for " + player.name)
+                            sim.update("Successfully built a settlement at location " + val + " for " + player.name)
                             done = True
+                            if player.checkifWin():
+                                sim.done = True
+                                build = False
+                                break
                         else:
                             print("Invalid selection. Please enter a valid selection")
                 else:
-                    print(player.name+" doesn't have enough resources to build a settlement")
+                    print(player.name + " doesn't have enough resources to build a settlement")
 
             elif build_action == '3':
                 # print('city')
@@ -136,10 +147,14 @@ class Build(Command):
                             player.settlement.remove(node1)
                             # print('playerstart pygame draw')
                             # pygame.draw.circle(self.surface, player.color, node1.coord, 10)
-                            print(player.name + " successfully built a city at location " + val)
+                            sim.update(player.name + " successfully built a city at location " + val)
                             done = True
                             player.resources["ore"] = player.resources["ore"] - 3
                             player.resources["wheat"] = player.resources["wheat"] - 2
+                            if player.checkifWin():
+                                sim.done=True
+                                build=False
+                                break
                         else:
                             print("Invalid selection. Please enter a valid selection")
                 else:

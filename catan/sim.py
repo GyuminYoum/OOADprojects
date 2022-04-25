@@ -10,6 +10,7 @@ from Road import *
 import random
 from Commands.useCard import *
 from Commands.buyCard import *
+from Observer.Observer import *
 
 import numpy as np
 
@@ -26,7 +27,9 @@ class sim:
         self.observer = None
         self.possible_roads = {}
         self.possible_settlements = []
-        self.done = False
+        self.done=False
+        self.largestarmycount=3
+        self.longestroadcount=5
 
         # self.trade = Trade()
         # self.build = Build()
@@ -41,10 +44,12 @@ class sim:
         self.deck = cardFactory1.makeDeck()
         board = Field((500, 300), 50)
         self.field, self.possible_settlements = board.build()
-        self.field[3].Robber = True
+        #self.possible_settlements = board.build()[1]
+        #self.field[3].Robber=True
         self.possible_roads = board.generate_roads(self.field)
-        invoker = Invoker()
-        self.invoker = invoker
+        invoker=Invoker()
+        self.set_observer(Observer())
+        self.invoker=invoker
 
     # function initializePlayers
     # usage: Initiating stage
@@ -69,31 +74,52 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 1
-            p1.resources['wood'] = 1
-            p1.resources['ore'] = 1
-            p1.resources['clay'] = 1
-            p1.resources['wheat'] = 1
-
+            p1.resources['sheep'] = 0
+            p1.resources['wood'] = 0
+            p1.resources['ore'] = 0
+            p1.resources['clay'] = 0
+            p1.resources['wheat'] = 0
             #harbor_test_node = Node('B1', 1)
             #p1.settlement.append(harbor_test_node)
 
             #useCardTest
-            if x == 0:
+            """
+            if x== 0:
+                p1.card.append(self.deck[11])
                 p1.card.append(self.deck[12])
                 p1.card.append(self.deck[13])
                 p1.card.append(self.deck[14])
-                p1.settlement.append(self.getNode("D3", self.possible_settlements))
-            elif x == 1:
+                p1.settlement.append(self.getNode("D3",self.possible_settlements))
+                p1.settlement.append(self.getNode("D5", self.possible_settlements))
+                p1.settlement.append(self.getNode("A1", self.possible_settlements))
+                p1.settlement.append(self.getNode("B1", self.possible_settlements))
+                p1.settlement.append(self.getNode("C1", self.possible_settlements))
+                p1.settlement.append(self.getNode("C4", self.possible_settlements))
+                p1.settlement.append(self.getNode("K3", self.possible_settlements))
+                p1.settlement.append(self.getNode("O3", self.possible_settlements))
+                p1.settlement.append(self.getNode("S3", self.possible_settlements))
+                p1.roads[self.getNode("S3", self.possible_settlements)]= [self.getNode("S4", self.possible_settlements)]
+                p1.roads[self.getNode("S4", self.possible_settlements)] = [self.getNode("S3", self.possible_settlements)]
+                p1.roads[self.getNode("S4", self.possible_settlements)].append(self.getNode("R3", self.possible_settlements))
+                p1.roads[self.getNode("R3", self.possible_settlements)] = [self.getNode("S4", self.possible_settlements)]
+
+            elif x==1:
+                p1.card.append(self.deck[0])
+                p1.card.append(self.deck[1])
+                p1.card.append(self.deck[2])
                 p1.card.append(self.deck[15])
                 p1.card.append(self.deck[17])
                 p1.card.append(self.deck[19])
-                p1.settlement.append(self.getNode("D4", self.possible_settlements))
-            elif x == 2:
-                p1.card.append(self.deck[0])
+                p1.settlement.append(self.getNode("N3", self.possible_settlements))
+            elif x==2:
+                p1.card.append(self.deck[3])
+                p1.card.append(self.deck[4])
+                p1.card.append(self.deck[5])
+                p1.card.append(self.deck[6])
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
-                p1.settlement.append(self.getNode("E4", self.possible_settlements))
+                p1.settlement.append(self.getNode("Q3", self.possible_settlements))
+            """
 
             self.playerlist.append(p1)
 
@@ -214,39 +240,35 @@ class sim:
         else:
             #print("Invalid")
             return None
+    def endgame(self,player):
+        sim.update(player.name+" wins with "+str(player.vp)+" points")
+        sim.update(str(player.vp)+" points from: "+str(len(player.settlement))+" settlements, "+str(len(player.city))+" cities, "+str(player.getVPCount())+" VP cards,"+ str(2*player.longestroad)+" points from having the longest road,"+ str(2*player.largestarmy)+" points from having the largest army.")
+        quit()
+
 
     def playerAction(self):
-        for x in self.playerlist:
-            self.current_player = x
-            # val = self.roll()
-            # usecard=useCard()
-            # for hex in self.sim.
+        for p in self.playerlist:
+            self.current_player = p
             # do resource phase stuff
-            # self.invoker.set_command(usecard)
-            # self.invoker.execute_command(self)
             self.invoker.set_command(ResourceCom())
             self.invoker.execute_command(self)
-            # self.invoker.set_command(Build())
-            # self.invoker.execute_command(self)
+            self.invoker.set_command(Build())
+            self.invoker.execute_command(self)
+            if self.done:
+                self.endgame(self.current_player)
+
             # self.invoker.set_command(Trade())
             # self.invoker.execute_command(self)
-            # self.invoker.set_command(usecard)
-            # self.invoker.execute_command(self)
-            # self.invoker.set_command(buyCard())
-            # self.invoker.execute_command(self)
+            self.invoker.set_command(useCard())
+            self.invoker.execute_command(self)
+            if self.done:
+                self.endgame(self.current_player)
 
-        # loop through all players
-        # loop through each player's settlement/city
-        # loop through each settlement/city's adjacentlist
-        # if the hex in adjacentlist contains value equal to val
-        # distribute resources to the player
+            self.invoker.set_command(buyCard())
+            self.invoker.execute_command(self)
+            if self.done:
+                self.endgame(self.current_player)
 
-        # x.Trade()
-        # x.Build()
-
-        # trade = Trade()
-        # self.invoker.set_command(trade)
-        # self.invoker.execute_command(self) OR execute()
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -417,7 +439,7 @@ class sim:
     # returns: str/None
     def findRobber(self):
         for x in self.field:
-            print(x.name, x.Robber)
+            #print(x.name, x.Robber)
             if x.Robber==True:
                 return x.name
         return None
@@ -433,3 +455,8 @@ class sim:
         player.resources['sheep'] -= 1
         player.resources['wheat'] -= 1
         return card
+
+    def resetLargestArmy(self):
+        for x in self.playerlist:
+            x.largestarmy=False
+

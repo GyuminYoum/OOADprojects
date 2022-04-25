@@ -12,6 +12,8 @@ class Player:
         self.vp = 0
         self.card = []
         self.color = color
+        self.longestroad= False
+        self.largestarmy= False
         # self.command = None
 
     def getUnusedCards(self):
@@ -39,7 +41,13 @@ class Player:
                 val+=1
         return val
 
-
+    def checkifWin(self):
+        val=self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
+        self.vp=val
+        if val >=10:
+            return True
+        else:
+            return False
 
     def deckSummary(self):
         list1 = {}
@@ -77,7 +85,7 @@ class Player:
     def countKnights(self):
         count=0
         for x in self.card:
-            if x.name=="Knight":
+            if x.name=="Knight" and x.used==True:
                 count+=1
         return count
 
