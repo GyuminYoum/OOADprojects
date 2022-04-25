@@ -1,6 +1,6 @@
 from Commands.Build import *
 from Commands.Trade import *
-from Commands.Resource import *
+from Commands.ResourceCom import *
 from Commands.Invoker import *
 from Commands.Command import *
 from Player import *
@@ -25,7 +25,7 @@ class sim:
         self.observer = None
         self.possible_roads = {}
         self.possible_settlements = []
-        self.done=False
+        self.done = False
 
         # self.trade = Trade()
         # self.build = Build()
@@ -42,8 +42,8 @@ class sim:
         self.field, self.possible_settlements = board.build()
         self.field[3].Robber = True
         self.possible_roads = board.generate_roads(self.field)
-        invoker=Invoker()
-        self.invoker=invoker
+        invoker = Invoker()
+        self.invoker = invoker
 
     # function initializePlayers
     # usage: Initiating stage
@@ -68,27 +68,27 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 10
-            p1.resources['wood'] = 10
-            p1.resources['ore'] = 10
-            p1.resources['clay'] = 10
-            p1.resources['wheat'] = 10
+            p1.resources['sheep'] = 1
+            p1.resources['wood'] = 1
+            p1.resources['ore'] = 1
+            p1.resources['clay'] = 1
+            p1.resources['wheat'] = 1
 
             #harbor_test_node = Node('B1', 1)
             #p1.settlement.append(harbor_test_node)
 
             #useCardTest
-            if x== 0:
+            if x == 0:
                 p1.card.append(self.deck[12])
                 p1.card.append(self.deck[13])
                 p1.card.append(self.deck[14])
-                p1.settlement.append(self.getNode("D3",self.possible_settlements))
-            elif x==1:
+                p1.settlement.append(self.getNode("D3", self.possible_settlements))
+            elif x == 1:
                 p1.card.append(self.deck[15])
                 p1.card.append(self.deck[17])
                 p1.card.append(self.deck[19])
                 p1.settlement.append(self.getNode("D4", self.possible_settlements))
-            elif x==2:
+            elif x == 2:
                 p1.card.append(self.deck[0])
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
@@ -99,7 +99,6 @@ class sim:
     def initialize(self):
         self.initializeGame()
         self.initializePlayers()
-
 
     # function playerStartSettlement
     # usage: Initiating stage: building settlement for players
@@ -134,7 +133,7 @@ class sim:
     # the road dict etc {A: B} as well as {B: A} are taken out of possible road_list and added to user's road
     # reprompt upon invalid request/choice
     # returns: N/A
-    def playerStartRoad(self,player):
+    def playerStartRoad(self, player):
         done1 = False
         nodes = None
         while not done1:
@@ -222,12 +221,14 @@ class sim:
             usecard=useCard()
             # for hex in self.sim.
             # do resource phase stuff
+            # self.invoker.set_command(usecard)
+            # self.invoker.execute_command(self)
+            self.invoker.set_command(ResourceCom())
+            self.invoker.execute_command(self)
             # self.invoker.set_command(Build())
             # self.invoker.execute_command(self)
             # self.invoker.set_command(Trade())
             # self.invoker.execute_command(self)
-            self.invoker.set_command(usecard)
-            self.invoker.execute_command(self)
 
         # loop through all players
         # loop through each player's settlement/city
@@ -257,7 +258,7 @@ class sim:
     def roll(self):
         return self.current_player.roll()
 
-    #list generation for sim
+    # list generation for sim
 
     # function hexNameList
     # usage: general purpose

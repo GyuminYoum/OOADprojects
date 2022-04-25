@@ -15,15 +15,15 @@ class Player:
         # self.command = None
 
     def getUnusedCards(self):
-        list1=[]
+        list1 = []
         for x in self.card:
-            if x.used==False:
+            if not x.used:
                 list1.append(x)
         return list1
 
     def AvailableCardSummary(self):
         list1 = {}
-        list2=self.getUnusedCards()
+        list2 = self.getUnusedCards()
         for x in list2:
             if x.name not in list1.keys():
                 list1[x.name] = 1
@@ -34,7 +34,7 @@ class Player:
 
 
     def deckSummary(self):
-        list1={}
+        list1 = {}
         for x in self.card:
             if x.name not in list1.keys():
                 list1[x.name]=1
@@ -94,7 +94,7 @@ class Player:
 
 
     def roll(self):
-        rng = np.random.randint(low=0, high=12)
+        rng = np.random.randint(low=1, high=12)
         return rng
 
     # def trade(self):
