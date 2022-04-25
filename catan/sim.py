@@ -74,8 +74,8 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 0
-            p1.resources['wood'] = 0
+            p1.resources['sheep'] = 1
+            p1.resources['wood'] = 1
             p1.resources['ore'] = 0
             p1.resources['clay'] = 0
             p1.resources['wheat'] = 0
@@ -83,8 +83,8 @@ class sim:
             #p1.settlement.append(harbor_test_node)
 
             #useCardTest
-            """
-            if x== 0:
+            # '''
+            if x == 0:
                 p1.card.append(self.deck[11])
                 p1.card.append(self.deck[12])
                 p1.card.append(self.deck[13])
@@ -103,23 +103,23 @@ class sim:
                 p1.roads[self.getNode("S4", self.possible_settlements)].append(self.getNode("R3", self.possible_settlements))
                 p1.roads[self.getNode("R3", self.possible_settlements)] = [self.getNode("S4", self.possible_settlements)]
 
-            elif x==1:
+            elif x == 1:
                 p1.card.append(self.deck[0])
                 p1.card.append(self.deck[1])
                 p1.card.append(self.deck[2])
                 p1.card.append(self.deck[15])
                 p1.card.append(self.deck[17])
                 p1.card.append(self.deck[19])
-                p1.settlement.append(self.getNode("N3", self.possible_settlements))
-            elif x==2:
+                p1.settlement.append(self.getNode("D3", self.possible_settlements))
+            elif x == 2:
                 p1.card.append(self.deck[3])
                 p1.card.append(self.deck[4])
                 p1.card.append(self.deck[5])
                 p1.card.append(self.deck[6])
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
-                p1.settlement.append(self.getNode("Q3", self.possible_settlements))
-            """
+                p1.settlement.append(self.getNode("D4", self.possible_settlements))
+            # '''
 
             self.playerlist.append(p1)
 
@@ -252,22 +252,22 @@ class sim:
             # do resource phase stuff
             self.invoker.set_command(ResourceCom())
             self.invoker.execute_command(self)
-            self.invoker.set_command(Build())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
-
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
             # self.invoker.set_command(Trade())
             # self.invoker.execute_command(self)
-            self.invoker.set_command(useCard())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
-
-            self.invoker.set_command(buyCard())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
+            # self.invoker.set_command(useCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
 
 
     def set_invoker(self, invoker):
@@ -440,7 +440,7 @@ class sim:
     def findRobber(self):
         for x in self.field:
             #print(x.name, x.Robber)
-            if x.Robber==True:
+            if x.Robber == True:
                 return x.name
         return None
 
@@ -458,5 +458,6 @@ class sim:
 
     def resetLargestArmy(self):
         for x in self.playerlist:
-            x.largestarmy=False
+            x.largestarmy = False
 
+    # def

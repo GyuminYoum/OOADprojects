@@ -117,15 +117,22 @@ class ResourceCom(Command):
                 if player.name == robbed:
                     robbed = player
                     break
+
+            if robbed.totalResources() == 0:
+                print(f'{robbed.name} does not have enough resources, 0 resources robbed.')
+                return
+
             options = ['sheep', 'wood', 'ore', 'clay', 'wheat']
             resource = np.random.choice(options)
+
             while robbed.resources[resource] == 0:
                 options.remove(resource)
                 if len(options) == 0:
+                    print(f'options: {options}')
                     break
                 resource = np.random.choice(options)
-            if len(options) == 0:
-                print(f'{player.name} does not have enough resources, 0 resources robbed.')
+            # if len(options) == 0:
+            #     print(f'{robbed.name} does not have enough resources, 0 resources robbed.')
             else:
                 robbed.resources[resource] -= 1
                 sim.current_player.resources[resource] += 1
