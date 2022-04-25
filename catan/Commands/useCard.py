@@ -29,7 +29,7 @@ class useCard(Command):
                 print(player.name + "'s cards are: ")
                 deckDict = player.AvailableCardSummary()
                 print(deckDict)
-                print("What card would you like to use?")
+                print("What card would "+player.    name+" like to use?")
                 val=input("Enter 0 for Knight, 1 for Monopoly, 2 for Year Of Plenty, 3 for Road Building, 4 for Exit: \n")
                 if val=="0":
                     if player.hasKnight():
@@ -55,11 +55,23 @@ class useCard(Command):
                                 print("Invalid location")
                         #set the robber to new hex
                         sim.setRobber(hexname)
-                        print(player.name+" successfully used a Knight card and moved the robber to Hex "+hexname)
+                        sim.update(player.name+" successfully used a Knight card and moved the robber to Hex "+hexname)
                         (rs1,count1,name1),(rs2,count2,name2)=sim.knight(curr_rob,player)
-                        print(player.name+" received "+str(count1)+" "+ rs1+" from "+name1+" and "+str(count2)+" "+ rs2+ " from "+name2)
+                        sim.update(player.name+" received "+str(count1)+" "+ rs1+" from "+name1+" and "+str(count2)+" "+ rs2+ " from "+name2)
                         #set 1 knight card to Used=True
                         player.useCard("Knight")
+                        #if after using knight, player's amount of knight exceeds largestarmycount,
+                        #reset largest army for all, set player's largestarmy to true, print
+                        if sim.largestarmycount <= player.countKnights():
+                            sim.resetLargestArmy()
+                            player.largestarmy=True
+                            print("")
+                            sim.update(player.name+" now has the largest army with count of "+str(player.countKnights()))
+                            print("")
+
+                        if (player.checkifWin()):
+                            sim.done = True
+                            break
 
                         #After resource, card check
                         print("After")
@@ -86,7 +98,7 @@ class useCard(Command):
                                 print("Invalid Input")
                         sim.monopolize(player,resourcename)
                         player.useCard("Monopoly")
-                        print(player.name+ " has successfully monopolized "+ resourcename)
+                        sim.update(player.name+ " has successfully monopolized "+ resourcename)
 
                         #After card, resource check
                         print("After")
@@ -117,7 +129,7 @@ class useCard(Command):
                         #increment values by 1 for each resource
                         player.resources[resourcename1]+=1
                         player.resources[resourcename2]+=1
-                        print(player.name+" has received "+resourcename1+" and "+ resourcename2)
+                        sim.update(player.name+" used Year Of Plenty and has received "+resourcename1+" and "+ resourcename2)
                         #turn 1 card to used=True
                         player.useCard("Year of Plenty")
 
@@ -154,7 +166,7 @@ class useCard(Command):
                                     player.roads[nodes[1]] = [nodes[0]]
                                 else:
                                     player.roads[nodes[1]].append(nodes[0])
-                                print(player.name + " built a road at " + val)
+                                sim.update(player.name + " used road building card and built a road at " + val)
                                 done1 = True
                             else:
                                 print("Invalid Selection")
@@ -182,7 +194,7 @@ class useCard(Command):
                                     player.roads[nodes[1]] = [nodes[0]]
                                 else:
                                     player.roads[nodes[1]].append(nodes[0])
-                                print(player.name + " built a road at " + val)
+                                sim.update(player.name + " used road building card and  built a road at " + val)
                                 done1 = True
                             else:
                                 print("Invalid Selection")
