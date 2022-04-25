@@ -257,12 +257,12 @@ class Field:
         node_list= [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21, n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40, n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54]
 
         # define resources
-        sheep = Resource("Sheep", (144, 238, 144))
-        forest = Resource("Forest", (0, 128, 0))
+        sheep = Resource("sheep", (144, 238, 144))
+        forest = Resource("wood", (0, 128, 0))
         desert = Resource("Desert", (237, 201, 175))
-        ore = Resource("Ore", (192, 192, 192))
-        clay = Resource("Clay", (107, 104, 103))
-        wheat = Resource("Wheat", (255, 255, 0))
+        ore = Resource("ore", (192, 192, 192))
+        clay = Resource("clay", (107, 104, 103))
+        wheat = Resource("wheat", (255, 255, 0))
         # list of all possible colors and rolls to be distributed
         colors = [sheep, sheep, sheep, sheep, forest, forest, forest, forest, ore, ore, ore, clay, clay, clay, wheat,
                   wheat, wheat, wheat]
