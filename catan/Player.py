@@ -29,7 +29,15 @@ class Player:
                 list1[x.name] = 1
             else:
                 list1[x.name] += 1
+        list1['Victory Point']=self.getVPCount()
         return list1
+
+    def getVPCount(self):
+        val=0
+        for x in self.card:
+            if x.name=='Victory Point':
+                val+=1
+        return val
 
 
 
@@ -79,7 +87,6 @@ class Player:
                 x.used=True
                 break
 
-
     def countDonation(self,hexname):
         val=0
         for x in self.settlement:
@@ -91,6 +98,11 @@ class Player:
                 if(y.name==hexname):
                     val+=1
         return val
+
+    def canBuyCard(self):
+        if (self.resources['sheep'] >= 1 and self.resources['ore'] >=1 and self.resources['wheat'] >= 1):
+            return True
+        return False
 
 
     def roll(self):
