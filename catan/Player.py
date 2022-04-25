@@ -42,6 +42,7 @@ class Player:
 
     def checkifWin(self):
         val=self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
+        self.vp=val
         if val >=10:
             return True
         else:
