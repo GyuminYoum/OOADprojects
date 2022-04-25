@@ -67,24 +67,16 @@ class Catan:
 
     def main(self):
 
-        # for player in self.sim.playerlist:
-        #     print("current_player: " + player.name)
-        #     self.sim.playerStartSettlement(player)
-        #     # pygame.draw.circle(self.board,p1.color,node.coord,10)
-        #     # pygame.display.flip()
-        #     self.sim.playerStartRoad(player)
-        #     # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
-        #     # pygame.display.flip()
-        #
-        # reverselist=list(reversed(self.sim.playerlist))
-        #
-        # for player in reverselist:
-        #     self.sim.playerStartSettlement(player)
-        #     # # pygame.draw.circle(self.board,p1.color,node.coord,10)
-        #     # # pygame.display.flip()
-        #     self.sim.playerStartRoad(player)
-        #     # # pygame.draw.line(self.board,p2.color,n1.coord,n2.coord,5)
-        #     # # pygame.display.flip()
+        for player in self.sim.playerlist:
+            print("current_player: " + player.name)
+            self.sim.playerStartSettlement(player)
+            self.sim.playerStartRoad(player)
+
+        reverselist = list(reversed(self.sim.playerlist))
+
+        for player in reverselist:
+            self.sim.playerStartSettlement(player)
+            self.sim.playerStartRoad(player)
 
         while not self.sim.done:
             self.sim.playerAction()

@@ -8,7 +8,7 @@ class ResourceCom(Command):
         super().__init__()
 
     def execute(self, sim):
-        roll = 7 # sim.roll()
+        roll = sim.roll()
 
         if roll == 7:
             for player in sim.playerlist:
@@ -128,7 +128,7 @@ class ResourceCom(Command):
             while robbed.resources[resource] == 0:
                 options.remove(resource)
                 if len(options) == 0:
-                    print(f'options: {options}')
+                    # print(f'options: {options}')
                     break
                 resource = np.random.choice(options)
             # if len(options) == 0:

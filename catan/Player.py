@@ -12,8 +12,8 @@ class Player:
         self.vp = 0
         self.card = []
         self.color = color
-        self.longestroad= False
-        self.largestarmy= False
+        self.longestroad = False
+        self.largestarmy = False
         # self.command = None
 
     def getUnusedCards(self):
@@ -42,9 +42,9 @@ class Player:
         return val
 
     def checkifWin(self):
-        val=self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
-        self.vp=val
-        if val >=10:
+        val = self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
+        self.vp = val
+        if val >= 10:
             return True
         else:
             return False

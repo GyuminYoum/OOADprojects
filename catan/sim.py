@@ -27,9 +27,9 @@ class sim:
         self.observer = None
         self.possible_roads = {}
         self.possible_settlements = []
-        self.done=False
-        self.largestarmycount=3
-        self.longestroadcount=5
+        self.done = False
+        self.largestarmycount = 3
+        self.longestroadcount = 4
 
         # self.trade = Trade()
         # self.build = Build()
@@ -74,16 +74,16 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 1
-            p1.resources['wood'] = 1
-            p1.resources['ore'] = 0
-            p1.resources['clay'] = 0
-            p1.resources['wheat'] = 0
+            p1.resources['sheep'] = 5
+            p1.resources['wood'] = 5
+            p1.resources['ore'] = 5
+            p1.resources['clay'] = 5
+            p1.resources['wheat'] = 5
             #harbor_test_node = Node('B1', 1)
             #p1.settlement.append(harbor_test_node)
 
             #useCardTest
-            # '''
+            '''
             if x == 0:
                 p1.card.append(self.deck[11])
                 p1.card.append(self.deck[12])
@@ -119,7 +119,7 @@ class sim:
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
                 p1.settlement.append(self.getNode("D4", self.possible_settlements))
-            # '''
+            '''
 
             self.playerlist.append(p1)
 
@@ -238,22 +238,27 @@ class sim:
             node2 = self.getNode(s2, self.possible_roads.keys())
             return node1, node2
         else:
-            #print("Invalid")
+            # print("Invalid")
             return None
-    def endgame(self,player):
-        sim.update(player.name+" wins with "+str(player.vp)+" points")
-        sim.update(str(player.vp)+" points from: "+str(len(player.settlement))+" settlements, "+str(len(player.city))+" cities, "+str(player.getVPCount())+" VP cards,"+ str(2*player.longestroad)+" points from having the longest road,"+ str(2*player.largestarmy)+" points from having the largest army.")
-        quit()
 
+    def endgame(self, player):
+        sim.update(player.name + " wins with " + str(player.vp) + " points")
+        sim.update(str(player.vp) + " points from: " + str(len(player.settlement)) + " settlements, "
+                   + str(len(player.city)) + " cities, " + str(player.getVPCount()) + " VP cards," +
+                   str(2*player.longestroad) + " points from having the longest road," + str(2*player.largestarmy)
+                   + " points from having the largest army.")
+        quit()
 
     def playerAction(self):
         for p in self.playerlist:
             self.current_player = p
             # do resource phase stuff
-            self.invoker.set_command(ResourceCom())
-            self.invoker.execute_command(self)
-            # self.invoker.set_command(Build())
+            # self.invoker.set_command(ResourceCom())
             # self.invoker.execute_command(self)
+            self.invoker.set_command(Build())
+            self.invoker.execute_command(self)
+            self.longestRoadCheck()
+            # # TODO: longest road check
             # if self.done:
             #     self.endgame(self.current_player)
             #
@@ -268,7 +273,6 @@ class sim:
             # self.invoker.execute_command(self)
             # if self.done:
             #     self.endgame(self.current_player)
-
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -460,4 +464,31 @@ class sim:
         for x in self.playerlist:
             x.largestarmy = False
 
-    # def
+    def longestRoadCheckSimple(self):
+        if len(self.current_player.roads) > self.longestroadcount:
+            for player in self.playerlist:
+                player.longestroad = False
+            self.current_player.longestroad = True
+            self.longestroadcount = len(self.current_player.roads)
+
+    def longestRoadCheck(self):
+        player = self.current_player
+        maxroad = 0
+        if not player.roads:
+            return
+        for key in player.roads.keys():
+            maxroad = max(maxroad, self.longestRoadDFS(player, key, [key], 1))
+
+        if maxroad > self.longestroadcount:
+            for player in self.playerlist:
+                player.longestroad = False
+            player.longestroad = True
+            self.longestroadcount = maxroad
+
+    def longestRoadDFS(self, player, start, explored, count):
+        for nextnode in player.roads[start]:
+            if nextnode in explored:
+                return count
+            else:
+                explored.append(nextnode)
+                self.longestRoadDFS(player, nextnode, explored, count + 1)
