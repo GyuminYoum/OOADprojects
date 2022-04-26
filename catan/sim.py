@@ -491,5 +491,5 @@ class sim:
             if nextnode not in explored:
                 explored.append(nextnode)
                 maxcount = max(maxcount, self.longestRoadDFS(player, nextnode, explored, count + 1))
-        print(maxcount)
+        # print(maxcount)
         return maxcount
