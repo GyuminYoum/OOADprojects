@@ -34,7 +34,7 @@ class useCard(Command):
                 print("What card would "+player.    name+" like to use?")
                 val=input("Enter 0 for Knight, 1 for Monopoly, 2 for Year Of Plenty, 3 for Road Building, 4 for Exit: \n")
                 if val=="0":
-                    if player.hasKnight():
+                    if player.hasKnight(sim.turn):
                         # previous available card map and resources check
                         print("prev")
                         for x in sim.playerlist:
@@ -99,7 +99,7 @@ class useCard(Command):
                     else:
                         print(player.name + " doesn't have a Knight")
                 elif val=="1":
-                    if player.hasMonopoly():
+                    if player.hasMonopoly(sim.turn):
 
                         #previous card,resource check
                         print("prev")
@@ -126,7 +126,7 @@ class useCard(Command):
                     else:
                         print(player.name + " doesn't have a Monopoly Card")
                 elif val=="2":
-                    if player.hasYearOfPlenty():
+                    if player.hasYearOfPlenty(sim.turn):
                         # previous card, resource check
                         print("prev")
                         for x in sim.playerlist:
@@ -160,7 +160,7 @@ class useCard(Command):
                     else:
                         print(player.name+" doesn't have a Year Of Plenty Card")
                 elif val=="3":
-                    if player.hasRoadBuilding():
+                    if player.hasRoadBuilding(sim.turn):
                         done1 = False
                         while not done1:
                             print('settlement')
