@@ -136,7 +136,7 @@ class sim:
         done = False
         node1 = None
         while not done:
-            print("Select the location for settlement for " + player.name)
+            print(f'Select the location for settlement for  {player.name}')
             val = input("Possible selections are " + str(self.getPossibleSettlementNames()) + "\n")
             if self.AvailableNodeCheck(val, self.possible_settlements):
                 node1 = self.getNode(val, self.possible_settlements)
@@ -146,7 +146,7 @@ class sim:
                     if x in self.possible_settlements:
                         self.possible_settlements.remove(x)
 
-                print("Successfully built a settlement at location " + val + " for " + player.name)
+                print(f'Successfully built a settlement at location {val} for {player.name}.')
                 done = True
             else:
                 print("Invalid selection. Please enter a valid selection")
@@ -162,7 +162,7 @@ class sim:
         done1 = False
         nodes = None
         while not done1:
-            print("Select the location for road for " + player.name)
+            print(f'Select the location for road for {player.name}')
             road_list = self.getPossibleRoads(player.generateRoadNameList())
             val = input("Possible selections are " + str(road_list) + "\n")
             if val in road_list:
@@ -178,7 +178,7 @@ class sim:
                     player.roads[nodes[1]] = [nodes[0]]
                 else:
                     player.roads[nodes[1]].append(nodes[0])
-                print("Road has been built at " + val + " for " + player.name)
+                print(f'Road has been built at {val} for {player.name}.')
                 done1 = True
             else:
                 print("Invalid Selection")
