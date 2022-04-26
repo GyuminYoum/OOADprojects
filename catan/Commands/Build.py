@@ -152,12 +152,12 @@ class Build(Command):
                             player.resources["ore"] = player.resources["ore"] - 3
                             player.resources["wheat"] = player.resources["wheat"] - 2
                             if player.checkifWin():
-                                sim.done=True
-                                build=False
+                                sim.done = True
+                                build = False
                                 break
                         else:
                             print("Invalid selection. Please enter a valid selection")
                 else:
                     print(player.name+" doesn't have enough resources to build a city")
 
-        return sim.current_player  # , node
+        # return sim.current_player  # , node
