@@ -18,7 +18,8 @@ class Observer:
     # Observer publishes output to a game log text file
     def update(self, message):
         # any messages sent to the observer are appended to gameLogs.txt
-        with open('gameLogs.txt', 'a') as file:
+        with open('Observer/gameLogs.txt', 'a') as file:
             file.write(message)
+            file.write('\n')
         print(message)
 

@@ -259,20 +259,20 @@ class Player:
     #     return road_list
 
     def canBuildSettlement(self):
-        if self.resources['sheep'] > 1 and self.resources['wood'] > 1 and self.resources['clay'] > 1 \
-                and self.resources['wheat'] > 1:
+        if self.resources['sheep'] >= 1 and self.resources['wood'] >= 1 and self.resources['clay'] >= 1 \
+                and self.resources['wheat'] >= 1:
             return True
         else:
             return False
 
     def canBuildCity(self):
-        if self.resources['ore'] > 3 and self.resources['wheat'] > 2:
+        if self.resources['ore'] >= 3 and self.resources['wheat'] >= 2:
             return True
         else:
             return False
 
     def canBuildRoad(self):
-        if self.resources['clay'] > 3 and self.resources['wood'] > 2:
+        if self.resources['clay'] >= 1 and self.resources['wood'] >= 1:
             return True
         else:
             return False

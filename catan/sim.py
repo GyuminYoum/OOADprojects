@@ -2,17 +2,15 @@ from Commands.Build import *
 from Commands.Trade import *
 from Commands.ResourceCom import *
 from Commands.Invoker import *
-from Commands.Command import *
+from Commands.useCard import *
+from Commands.buyCard import *
 from Player import *
 from Field import *
 from cardFactory import *
-from Road import *
-import random
-from Commands.useCard import *
-from Commands.buyCard import *
 from Observer.Observer import *
 
 import numpy as np
+import random
 
 
 class sim:
@@ -74,11 +72,11 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 5
-            p1.resources['wood'] = 5
-            p1.resources['ore'] = 5
-            p1.resources['clay'] = 5
-            p1.resources['wheat'] = 5
+            p1.resources['sheep'] = 1
+            p1.resources['wood'] = 1
+            p1.resources['ore'] = 1
+            p1.resources['clay'] = 1
+            p1.resources['wheat'] = 1
             # harbor_test_node = Node('B1', 1)
             # p1.settlement.append(harbor_test_node)
 
@@ -148,7 +146,7 @@ class sim:
                     if x in self.possible_settlements:
                         self.possible_settlements.remove(x)
 
-                print("Successfully built a settlement at location "+val+" for "+player.name)
+                print("Successfully built a settlement at location " + val + " for " + player.name)
                 done = True
             else:
                 print("Invalid selection. Please enter a valid selection")
@@ -185,7 +183,7 @@ class sim:
             else:
                 print("Invalid Selection")
 
-    #Checks
+    # Checks
 
     # function AvailableNodeCheck
     # usage: Build Command, playerStartSettlement
@@ -242,27 +240,26 @@ class sim:
             return None
 
     def endgame(self, player):
-        sim.update(player.name + " wins with " + str(player.vp) + " points")
-        sim.update(str(player.vp) + " points from: " + str(len(player.settlement)) + " settlements, "
-                   + str(len(player.city)) + " cities, " + str(player.getVPCount()) + " VP cards," +
-                   str(2*player.longestroad) + " points from having the longest road," + str(2*player.largestarmy)
-                   + " points from having the largest army.")
+        self.update(f'{player.name} wins with {str(player.vp)} points\n')
+        self.update(f'{str(player.vp)} points from: {str(len(player.settlement))} settlements, {str(len(player.city))}'
+                    f' cities, {str(player.getVPCount())} VP cards, {str(2 * player.longestroad)} points from having '
+                    f'the longest road, {str(2 * player.largestarmy)} points from having the largest army.\n')
         quit()
 
+    # playerAction() plays through a player's entire turn, including Resource, Build, and Trade phase
     def playerAction(self):
         for p in self.playerlist:
             self.current_player = p
-            # do resource phase stuff
             # self.invoker.set_command(ResourceCom())
             # self.invoker.execute_command(self)
-            self.invoker.set_command(Build())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
             # if self.done:
             #     self.endgame(self.current_player)
-            #
-            # self.invoker.set_command(Trade())
-            # self.invoker.execute_command(self)
+
+            self.invoker.set_command(Trade())
+            self.invoker.execute_command(self)
             # self.invoker.set_command(useCard())
             # self.invoker.execute_command(self)
             # self.longestRoadCheck()
@@ -321,7 +318,7 @@ class sim:
     # generate list of names of every possible settlement
     # returns: list<Str>
     def getPossibleSettlementNames(self):
-        list1=[]
+        list1 = []
         for node in self.possible_settlements:
             list1.append(node.label)
         return list1
@@ -333,10 +330,10 @@ class sim:
     # returns: list<Str> list of name of roads that can still be built
     def getPossibleRoads(self, user_all_road_list):
         list1 = []
-        #print(user_all_road_l  ist)
+        # print(user_all_road_l  ist)
         for road_name in user_all_road_list:
             parsed = self.stringToRoad(road_name)
-            if (parsed != None):
+            if parsed is not None:
                 node1 = parsed[0]
                 node2 = parsed[1]
                 if node2 in self.possible_roads[node1]:
@@ -348,10 +345,10 @@ class sim:
     # args: listofnode: list<Node>
     # given list of nodes, validate which node locations are still available for settlement
     # returns: list<Node>
-    def filterPossibleSettlement(self,listofnode):
-        list1=[]
-        list2=self.getPossibleSettlementNames()
-        #print("possible settlements: "+ str(list2))
+    def filterPossibleSettlement(self, listofnode):
+        list1 = []
+        list2 = self.getPossibleSettlementNames()
+        # print("possible settlements: "+ str(list2))
         for node in listofnode:
             if node.label in list2:
                 list1.append(node)
@@ -363,7 +360,7 @@ class sim:
     # given a list of nodes, convert to list of node.label
     # returns: list<Str>
     def convertNodeListToNameList(self, nodelist):
-        list1=[]
+        list1 = []
         for x in nodelist:
             if x.label not in list1:
                 list1.append(x.label)
@@ -375,41 +372,41 @@ class sim:
     # given a dictionary of roads, return list of roadnames
     # returns: list<Str>
     def roadToString(self, dict1):
-        list1=[]
+        list1 = []
         for key in dict1.keys():
             for adj in dict1[key]:
-                list1.append(key.label+adj.label)
+                list1.append(key.label + adj.label)
         return list1
 
     ###############################
-    #Functions for useCard Command#
+    # Functions for useCard Command#
     ##############################
 
-    #resets robber location across all the hexes
+    # resets robber location across all the hexes
     def resetRobber(self):
         for x in self.field:
-            x.Robber=False
+            x.Robber = False
 
-    #sets robber location to a certian hex
+    # sets robber location to a certian hex
     def setRobber(self, name):
         for x in self.field:
-            if x.name==name:
-                x.Robber=True
+            if x.name == name:
+                x.Robber = True
 
-    #function monopolize
-    #usage: useCard for monopoly
-    #args: player:Player, resourcename:str
-    #takes all the resources from other user and gives it to the specified user
-    #returns: N/A
-    def monopolize(self,player,resourcename):
-        val=0
+    # function monopolize
+    # usage: useCard for monopoly
+    # args: player:Player, resourcename:str
+    # takes all the resources from other user and gives it to the specified user
+    # returns: N/A
+    def monopolize(self, player, resourcename):
+        val = 0
         for x in self.playerlist:
-            if(x.name is not player.name):
-                val+= x.resources[resourcename]
-                x.resources[resourcename]=0
+            if x.name is not player.name:
+                val += x.resources[resourcename]
+                x.resources[resourcename] = 0
         for x in self.playerlist:
-            if(x.name is player.name):
-                x.resources[resourcename]+=val
+            if x.name is player.name:
+                x.resources[resourcename] += val
 
     # function knight
     # usage: useCard for knight
@@ -420,20 +417,21 @@ class sim:
     # function then, randomly determines which non-depleted resource to take from the afflicted player
     # and adds it to the owner of the knight card
     # returns: N/A
-    def knight(self,hexname,player):
-        list1=[]
+    def knight(self, hexname, player):
+        list1 = []
+        resourcetype = None
         for x in self.playerlist:
-            count=0
+            count = 0
             if x.name is not player.name:
-                donationcount=x.countDonation(hexname)
-                while count<1:
+                donationcount = x.countDonation(hexname)
+                while count < 1:
                     rand = random.randint(0, 4)
-                    rs=self.resourceNameList()
-                    resourcetype=rs[rand]
-                    count=x.resources[resourcetype]
-                x.resources[resourcetype]-=donationcount
-                player.resources[resourcetype]+=donationcount
-                list1.append((resourcetype,donationcount,x.name))
+                    rs = self.resourceNameList()
+                    resourcetype = rs[rand]
+                    count = x.resources[resourcetype]
+                x.resources[resourcetype] -= donationcount
+                player.resources[resourcetype] += donationcount
+                list1.append((resourcetype, donationcount, x.name))
         return list1
 
     # function findRobber
@@ -443,19 +441,19 @@ class sim:
     # returns: str/None
     def findRobber(self):
         for x in self.field:
-            #print(x.name, x.Robber)
-            if x.Robber == True:
+            # print(x.name, x.Robber)
+            if x.Robber:
                 return x.name
         return None
 
-    def buyCard(self,player):
-        if len(self.deck)==0:
+    def buyCard(self, player):
+        if len(self.deck) == 0:
             return None
-        rng = random.randint(0,len(self.deck)-1)
-        card=self.deck[rng]
+        rng = random.randint(0, len(self.deck) - 1)
+        card = self.deck[rng]
         player.card.append(card)
         self.deck.remove(card)
-        player.resources['ore']-=1
+        player.resources['ore'] -= 1
         player.resources['sheep'] -= 1
         player.resources['wheat'] -= 1
         return card
@@ -484,6 +482,8 @@ class sim:
                 player1.longestroad = False
             player.longestroad = True
             self.longestroadcount = maxroad
+            if player.checkifWin():
+                self.done = True
 
     def longestRoadDFS(self, player, start, explored, count):
         maxcount = count
