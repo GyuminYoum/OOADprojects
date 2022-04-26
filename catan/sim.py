@@ -258,21 +258,21 @@ class sim:
             self.invoker.set_command(Build())
             self.invoker.execute_command(self)
             self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
-
-            self.invoker.set_command(Trade())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(useCard())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
-
-            self.invoker.set_command(buyCard())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(Trade())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(useCard())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -477,7 +477,7 @@ class sim:
         if not player.roads:
             return
         for key in player.roads.keys():
-            maxroad = max(maxroad, self.longestRoadDFS(player, key, [key], 1))
+            maxroad = max(maxroad, self.longestRoadDFS(player, key, [key], 0))
 
         if maxroad > self.longestroadcount:
             for player1 in self.playerlist:
@@ -486,9 +486,10 @@ class sim:
             self.longestroadcount = maxroad
 
     def longestRoadDFS(self, player, start, explored, count):
+        maxcount = count
         for nextnode in player.roads[start]:
-            if nextnode in explored:
-                return count
-            else:
+            if nextnode not in explored:
                 explored.append(nextnode)
-                self.longestRoadDFS(player, nextnode, explored, count + 1)
+                maxcount = max(maxcount, self.longestRoadDFS(player, nextnode, explored, count + 1))
+        print(maxcount)
+        return maxcount
