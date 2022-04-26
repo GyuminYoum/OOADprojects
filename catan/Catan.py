@@ -1,17 +1,7 @@
 import sim
 from sim import *
-from Commands.Build import *
-from Commands.Invoker import *
-from Commands.Trade import *
-from Field import *
 from Observer.Observer import Observer
-import tkinter as tk
-import os
-from PIL import Image
 import pygame
-import sys
-from pygame.locals import *
-
 import os
 from PIL import Image
 
@@ -21,13 +11,15 @@ class Catan:
         self.sim = sim()
         self.board = 0
 
+    # function initialize
+    # usage: creates a randomized Catan board with constant desert, robber, and harbor locations
     def initialize(self):
         self.sim.initialize()
         pygame.init()
         # create the display surface object
         # of specific dimension.
         window = pygame.display.set_mode((1000, 1000))
-        # Fill the scree with white color
+        # Fill the screen with white color
         pygame.display.set_caption('Settlers of Catan')
         window.fill((255, 255, 255))
         self.board = window
@@ -35,8 +27,7 @@ class Catan:
         default_font = pygame.font.get_default_font()
         font_renderer = pygame.font.Font(default_font, 20)
 
-        # counter-clockwise coordinate list
-        # harbor dimensions: x + 25, y - 15
+        # drawing harbors and labels
         pygame.draw.polygon(self.board, (0, 0, 0), [(370, 325), (375, 322), (360, 302), (355, 305)], width=1)  # A6
         pygame.draw.polygon(self.board, (0, 0, 0), [(410, 303), (415, 301), (390, 286), (385, 288)], width=1)  # A1
         pygame.draw.polygon(self.board, (255, 255, 0), [(500, 300), (505, 303), (525, 285), (520, 278)])  # B1
@@ -71,6 +62,7 @@ class Catan:
         self.board.blit(label, (265, 415))
         self.board.blit(label, (265, 565))
 
+        # drawing hexagons and nodes on board
         for x in self.sim.field:
             # for filled hexagon
             pygame.draw.polygon(self.board, x.Resource.color, x.get_coords())
@@ -86,6 +78,9 @@ class Catan:
             label = font_renderer.render(str(node.label), 1, (0, 0, 0))
             self.board.blit(label, (node.coord[0]-10, node.coord[1]-20))
 
+        # saves the randomized board as a jpg image, and then opens the image on the user's computer
+        # the image is deleted after opening, so a user can view the board without the image taking up storage
+        # as long as the image pop-up is not closed
         pygame.image.save(window, 'game.jpg')
         pygame.quit()
         script_dir = os.path.dirname(__file__)
@@ -95,24 +90,23 @@ class Catan:
         im.show()
         os.remove(relative_path)
 
-        # invoker = Invoker()
-        # invoker.set_command(Build())
-        # # invoker.set_command(Trade())
-        # self.sim.set_invoker(invoker)
         self.sim.set_observer(Observer())
 
+    # function main
+    # usage: runs the game of Catan
     def main(self):
 
-        # for player in self.sim.playerlist:
-        #     print("current_player: " + player.name)
-        #     self.sim.playerStartSettlement(player)
-        #     self.sim.playerStartRoad(player)
-        #
-        # reverselist = list(reversed(self.sim.playerlist))
-        #
-        # for player in reverselist:
-        #     self.sim.playerStartSettlement(player)
-        #     self.sim.playerStartRoad(player)
+        # allows player to set up their initial roads and settlements
+        for player in self.sim.playerlist:
+            print("Current player: " + player.name)
+            self.sim.playerStartSettlement(player)
+            self.sim.playerStartRoad(player)
+
+        reverselist = list(reversed(self.sim.playerlist))
+
+        for player in reverselist:
+            self.sim.playerStartSettlement(player)
+            self.sim.playerStartRoad(player)
 
         while not self.sim.done:
             self.sim.playerAction()

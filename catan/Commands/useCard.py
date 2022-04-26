@@ -5,27 +5,27 @@ class useCard(Command):
         super().__init__()
 
     def execute(self, sim):
-        player=sim.current_player
-        done=False
-        #set lists
+        player = sim.current_player
+        done = False
+        # set lists
         hexnamelist = sim.hexNameList()
         resourcenamelist = sim.resourceNameList()
 
         while(done==False):
-            #initial value
+            # initial value
             hexname = "Z"
             resourcename = "A"
             resourcename1 = "A"
             resourcename2 = "A"
 
-            #if user doesn't have unused cards, print it and break out of useCard
+            # if user doesn't have unused cards, print it and break out of useCard
             if len(player.getUnusedCards()) == 0:
-                print(player.name + " doesn't have any development cards")
+                print(player.name + " doesn't have any development cards.")
                 break
             else:
-                #list unused card names and their counts
+                # list unused card names and their counts
                 unused_cards = player.getUnusedCards()
-                print(player.name + " has " + str(len(unused_cards)) + " unused cards")
+                print(player.name + " has " + str(len(unused_cards)) + " unused cards.")
                 print(player.name + "'s cards are: ")
                 deckDict = player.AvailableCardSummary()
                 print(deckDict)
@@ -33,32 +33,32 @@ class useCard(Command):
                 val=input("Enter 0 for Knight, 1 for Monopoly, 2 for Year Of Plenty, 3 for Road Building, 4 for Exit: \n")
                 if val=="0":
                     if player.hasKnight():
-                        #previous available card map and resources check
+                        # previous available card map and resources check
                         print("prev")
                         for x in sim.playerlist:
                             print(x.name, x.AvailableCardSummary())
                         for x in sim.playerlist:
                             print(x.name,x.resources)
-                        #save current robber location to use for random resource collection when moving
+                        # save current robber location to use for random resource collection when moving
                         curr_rob=sim.findRobber()
-                        #reset robber
+                        # reset robber
                         sim.resetRobber()
-                        #error catching for robber
+                        # error catching for robber
                         if curr_rob is not None:
                             print("Robber is currently at "+curr_rob)
                         else:
                             print("Currently Robber isn't placed anywhere")
 
-                        while(hexname not in hexnamelist):
-                            hexname=input("Where would you like to place the robber? (A-S) \n")
-                            if(hexname not in hexnamelist):
+                        while hexname not in hexnamelist:
+                            hexname = input("Where would you like to place the robber? (A-S) \n")
+                            if hexname not in hexnamelist:
                                 print("Invalid location")
-                        #set the robber to new hex
+                        # set the robber to new hex
                         sim.setRobber(hexname)
-                        sim.update(player.name+" successfully used a Knight card and moved the robber to Hex "+hexname)
-                        (rs1,count1,name1),(rs2,count2,name2)=sim.knight(curr_rob,player)
-                        sim.update(player.name+" received "+str(count1)+" "+ rs1+" from "+name1+" and "+str(count2)+" "+ rs2+ " from "+name2)
-                        #set 1 knight card to Used=True
+                        sim.update(f'{player.name} successfully used a Knight card and moved the robber to Hex {hexname}')
+                        (rs1, count1, name1), (rs2, count2, name2) = sim.knight(curr_rob, player)
+                        sim.update(f'{player.name} received {count1} {rs1} from {name1} and {count2} {rs2} from {name2}')
+                        # set 1 knight card to Used=True
                         player.useCard("Knight")
                         #if after using knight, player's amount of knight exceeds largestarmycount,
                         #reset largest army for all, set player's largestarmy to true, print
@@ -66,7 +66,7 @@ class useCard(Command):
                             sim.resetLargestArmy()
                             player.largestarmy=True
                             print("")
-                            sim.update(player.name+" now has the largest army with count of "+str(player.countKnights()))
+                            sim.update(f'{player.name} now has the largest army with count of {player.countKnights()}.')
                             print("")
 
                         if (player.checkifWin()):
@@ -98,9 +98,9 @@ class useCard(Command):
                                 print("Invalid Input")
                         sim.monopolize(player,resourcename)
                         player.useCard("Monopoly")
-                        sim.update(player.name+ " has successfully monopolized "+ resourcename)
+                        sim.update(f'{player.name} has successfully monopolized {resourcename}')
 
-                        #After card, resource check
+                        # After card, resource check
                         print("After")
                         for x in sim.playerlist:
                             print(x.name, x.AvailableCardSummary())
@@ -117,20 +117,21 @@ class useCard(Command):
                         for x in sim.playerlist:
                             print(x.name, x.resources)
 
-                        while (resourcename1 not in resourcenamelist or resourcename2 not in resourcenamelist):
+                        while resourcename1 not in resourcenamelist or resourcename2 not in resourcenamelist:
                             print("What 2 resources would you like to get? ('sheep','clay','tree','ore','wheat') \n")
-                            resourcename1=input("Enter First Resource: \n")
-                            resourcename2=input("Enter Second Resource: \n")
-                            if (resourcename1 not in resourcenamelist):
+                            resourcename1 = input("Enter First Resource: \n")
+                            resourcename2 = input("Enter Second Resource: \n")
+                            if resourcename1 not in resourcenamelist:
                                 print("Invalid Input for first resource")
-                            if (resourcename2 not in resourcenamelist):
+                            if resourcename2 not in resourcenamelist:
                                 print("Invalid Input for second resource")
 
-                        #increment values by 1 for each resource
+                        # increment values by 1 for each resource
                         player.resources[resourcename1]+=1
                         player.resources[resourcename2]+=1
-                        sim.update(player.name+" used Year Of Plenty and has received "+resourcename1+" and "+ resourcename2)
-                        #turn 1 card to used=True
+                        sim.update(f'{player.name} used Year of Plenty and has received {resourcename1} and '
+                                   f'{resourcename2}.')
+                        # turn 1 card to used=True
                         player.useCard("Year of Plenty")
 
                         # After card, resource check
@@ -166,7 +167,7 @@ class useCard(Command):
                                     player.roads[nodes[1]] = [nodes[0]]
                                 else:
                                     player.roads[nodes[1]].append(nodes[0])
-                                sim.update(player.name + " used road building card and built a road at " + val)
+                                sim.update(f'{player.name} used road building card and built a road at {val}.')
                                 done1 = True
                             else:
                                 print("Invalid Selection")
@@ -194,7 +195,7 @@ class useCard(Command):
                                     player.roads[nodes[1]] = [nodes[0]]
                                 else:
                                     player.roads[nodes[1]].append(nodes[0])
-                                sim.update(player.name + " used road building card and  built a road at " + val)
+                                sim.update(f'{player.name} used road building card and built a road at {val}.')
                                 done1 = True
                             else:
                                 print("Invalid Selection")

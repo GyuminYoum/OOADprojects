@@ -6,8 +6,8 @@ class Trade(Command):
         super().__init__()
         self.RESOURCES = ['sheep', 'wood', 'clay', 'ore', 'wheat']
 
-    # execute() handles all possible trading interactions between the current_player and
-    # other players, 3:1 harbors, and the always-available 4:1 harbor
+    # function execute
+    # usage: handles all possible trading interactions for the current_player
     def execute(self, sim):
 
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
@@ -132,7 +132,8 @@ class Trade(Command):
 
         print(f'Trade phase over for {sim.current_player.name}.')
 
-    # generic_trade() represents the harbors in which a player can trade any resource in for a resource of their choice
+    # function generic_trade
+    # usage: allows the current_player to perform 3:1 or 4:1 trading
     def generic_trade(self, sim, quantity_needed):
         print(f'You can trade {quantity_needed} of the same resource for 1 resource of your choice at a harbor. ')
         print(f'{sim.current_player.name}\'s resources: ')
@@ -160,7 +161,8 @@ class Trade(Command):
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value}')
 
-    # harbor_trade() is called for all harbors with 2:1 trading ratio
+    # function harbor_trade
+    # usage: allows the current_player to perform 2:1 trading for all harbors that they are located next to
     def harbor_trade(self, sim):
         harbor_resource = None
         resource_traded = {'wheat': False, 'ore': False, 'wood': False, 'clay': False, 'sheep': False}

@@ -24,7 +24,7 @@ class cardFactory:
 
         for _ in range(5):
             card1 = Card("Victory Point")
-            card1.used=True
+            card1.used = True
             self.deck.append(card1)
 
         return self.deck

@@ -241,35 +241,36 @@ class sim:
 
     def endgame(self, player):
         self.update(f'{player.name} wins with {str(player.vp)} points\n')
-        self.update(f'{str(player.vp)} points from: {str(len(player.settlement))} settlements, {str(len(player.city))}'
-                    f' cities, {str(player.getVPCount())} VP cards, {str(2 * player.longestroad)} points from having '
-                    f'the longest road, {str(2 * player.largestarmy)} points from having the largest army.\n')
+        self.update(f'{player.vp} points from: {len(player.settlement)} settlements, {len(player.city)}'
+                    f' cities, {player.getVPCount()} VP cards, {2 * player.longestroad} points from having '
+                    f'the longest road, {2 * player.largestarmy} points from having the largest army.\n')
         quit()
 
-    # playerAction() plays through a player's entire turn, including Resource, Build, and Trade phase
+    # function playerAction
+    # usage: plays through a player's entire turn, including Resource, Build, and Trade phase
     def playerAction(self):
         for p in self.playerlist:
             self.current_player = p
-            # self.invoker.set_command(ResourceCom())
-            # self.invoker.execute_command(self)
-            # self.invoker.set_command(Build())
-            # self.invoker.execute_command(self)
-            # self.longestRoadCheck()
-            # if self.done:
-            #     self.endgame(self.current_player)
+            self.invoker.set_command(ResourceCom())
+            self.invoker.execute_command(self)
+            self.invoker.set_command(Build())
+            self.invoker.execute_command(self)
+            self.longestRoadCheck()
+            if self.done:
+                self.endgame(self.current_player)
 
             self.invoker.set_command(Trade())
             self.invoker.execute_command(self)
-            # self.invoker.set_command(useCard())
-            # self.invoker.execute_command(self)
-            # self.longestRoadCheck()
-            # if self.done:
-            #     self.endgame(self.current_player)
-            #
-            # self.invoker.set_command(buyCard())
-            # self.invoker.execute_command(self)
-            # if self.done:
-            #     self.endgame(self.current_player)
+            self.invoker.set_command(useCard())
+            self.invoker.execute_command(self)
+            self.longestRoadCheck()
+            if self.done:
+                self.endgame(self.current_player)
+
+            self.invoker.set_command(buyCard())
+            self.invoker.execute_command(self)
+            if self.done:
+                self.endgame(self.current_player)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -284,9 +285,8 @@ class sim:
         self.observer.update(message)
 
     def roll(self):
-        return self.current_player.roll()
-
-    # list generation for sim
+        rng = np.random.randint(low=1, high=12)
+        return rng
 
     # function hexNameList
     # usage: general purpose
@@ -382,12 +382,16 @@ class sim:
     # Functions for useCard Command#
     ##############################
 
-    # resets robber location across all the hexes
+    # function resetRobber
+    # usage: resets robber location across all the hexes
     def resetRobber(self):
         for x in self.field:
             x.Robber = False
 
-    # sets robber location to a certian hex
+    # function setRobber
+    # usage: sets robber location to a certain hex
+    # args: name: Str
+    # move the robber to the hexagon with the given name
     def setRobber(self, name):
         for x in self.field:
             if x.name == name:
@@ -462,13 +466,9 @@ class sim:
         for x in self.playerlist:
             x.largestarmy = False
 
-    def longestRoadCheckSimple(self):
-        if len(self.current_player.roads) > self.longestroadcount:
-            for player in self.playerlist:
-                player.longestroad = False
-            self.current_player.longestroad = True
-            self.longestroadcount = len(self.current_player.roads)
-
+    # function longestRoadCheck
+    # usage: checks if the current_player has both the longest road, and a long enough road to earn the
+    #        Longest Road status
     def longestRoadCheck(self):
         player = self.current_player
         maxroad = 0
@@ -485,6 +485,14 @@ class sim:
             if player.checkifWin():
                 self.done = True
 
+    # function longestRoadDFS
+    # usage: helper method for longestRoadCheck that performs a recursive Depth-First Search (DFS) to find the
+    #        current_player's longest road length
+    # args: player: the current player
+    #       start: the node at which to start DFS
+    #       explored: a list of the nodes that have been explored
+    #       count: the number of roads that exist consecutively on the currently-searched path
+    # returns: length of the current_player's longest consecutive road
     def longestRoadDFS(self, player, start, explored, count):
         maxcount = count
         for nextnode in player.roads[start]:
