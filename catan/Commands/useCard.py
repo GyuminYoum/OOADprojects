@@ -11,7 +11,7 @@ class useCard(Command):
         hexnamelist = sim.hexNameList()
         resourcenamelist = sim.resourceNameList()
 
-        while(done==False):
+        while not done:
             # initial value
             hexname = "Z"
             resourcename = "A"
@@ -19,15 +19,16 @@ class useCard(Command):
             resourcename2 = "A"
 
             # if user doesn't have unused cards, print it and break out of useCard
-            if len(player.getUnusedCards()) == 0:
+            if len(player.getUnusedCards(sim.turn)) == 0:
                 print(player.name + " doesn't have any development cards.")
+                done=True
                 break
             else:
                 # list unused card names and their counts
-                unused_cards = player.getUnusedCards()
+                unused_cards = player.getUnusedCards(sim.turn)
                 print(player.name + " has " + str(len(unused_cards)) + " unused cards.")
                 print(player.name + "'s cards are: ")
-                deckDict = player.AvailableCardSummary()
+                deckDict = player.AvailableCardSummary(sim.turn)
                 print(deckDict)
                 print("What card would "+player.    name+" like to use?")
                 val=input("Enter 0 for Knight, 1 for Monopoly, 2 for Year Of Plenty, 3 for Road Building, 4 for Exit: \n")
@@ -36,7 +37,7 @@ class useCard(Command):
                         # previous available card map and resources check
                         print("prev")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name,x.resources)
                         # save current robber location to use for random resource collection when moving
@@ -55,11 +56,26 @@ class useCard(Command):
                                 print("Invalid location")
                         # set the robber to new hex
                         sim.setRobber(hexname)
+
                         sim.update(f'{player.name} successfully used a Knight card and moved the robber to Hex {hexname}')
-                        (rs1, count1, name1), (rs2, count2, name2) = sim.knight(curr_rob, player)
-                        sim.update(f'{player.name} received {count1} {rs1} from {name1} and {count2} {rs2} from {name2}')
+                        robberlist = sim.knight(curr_rob, player)
+                        if len(robberlist)==0:
+                            sim.update( f'{player.name} moved the robber and received nothing')
+                        elif len(robberlist)==1:
+                            (rs1, count1, name1)=robberlist[0]
+                            sim.update(f'{player.name} received {count1} {rs1} from {name1}')
+                        elif  len(robberlist)==2:
+                            (rs1, count1, name1) = robberlist[0]
+                            (rs2, count2, name2) = robberlist[1]
+                            sim.update(f'{player.name} received {count1} {rs1} from {name1} and {count2} {rs2} from {name2}')
+                        elif len(robberlist)==3:
+                            (rs1, count1, name1) = robberlist[0]
+                            (rs2, count2, name2) = robberlist[1]
+                            (rs3, count3, name3) = robberlist[2]
+                            sim.update(f'{player.name} received {count1} {rs1} from {name1} and {count2} {rs2} from {name2} and {count3} {rs3} from {name3}')
+
                         # set 1 knight card to Used=True
-                        player.useCard("Knight")
+                        player.useCard("Knight",sim.turn)
                         #if after using knight, player's amount of knight exceeds largestarmycount,
                         #reset largest army for all, set player's largestarmy to true, print
                         if sim.largestarmycount <= player.countKnights():
@@ -76,7 +92,7 @@ class useCard(Command):
                         #After resource, card check
                         print("After")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name, x.resources)
                     else:
@@ -87,7 +103,7 @@ class useCard(Command):
                         #previous card,resource check
                         print("prev")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name, x.resources)
 
@@ -97,13 +113,13 @@ class useCard(Command):
                             if (resourcename not in resourcenamelist):
                                 print("Invalid Input")
                         sim.monopolize(player,resourcename)
-                        player.useCard("Monopoly")
+                        player.useCard("Monopoly", sim.turn)
                         sim.update(f'{player.name} has successfully monopolized {resourcename}')
 
                         # After card, resource check
                         print("After")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name, x.resources)
                     else:
@@ -113,7 +129,7 @@ class useCard(Command):
                         # previous card, resource check
                         print("prev")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name, x.resources)
 
@@ -132,12 +148,12 @@ class useCard(Command):
                         sim.update(f'{player.name} used Year of Plenty and has received {resourcename1} and '
                                    f'{resourcename2}.')
                         # turn 1 card to used=True
-                        player.useCard("Year of Plenty")
+                        player.useCard("Year of Plenty", sim.turn)
 
                         # After card, resource check
                         print("After")
                         for x in sim.playerlist:
-                            print(x.name, x.AvailableCardSummary())
+                            print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
                             print(x.name, x.resources)
                     else:
@@ -200,8 +216,7 @@ class useCard(Command):
                             else:
                                 print("Invalid Selection")
 
-                        player.useCard("Road Building")
-
+                        player.useCard("Road Building", sim.turn)
                     else:
                         print(player.name+" doesn't have a Road Building Card")
                 elif val=="4":

@@ -28,6 +28,8 @@ class sim:
         self.done = False
         self.largestarmycount = 3
         self.longestroadcount = 4
+        self.turn=0
+
 
         # self.trade = Trade()
         # self.build = Build()
@@ -249,28 +251,69 @@ class sim:
     # function playerAction
     # usage: plays through a player's entire turn, including Resource, Build, and Trade phase
     def playerAction(self):
+        self.turn=0
         for p in self.playerlist:
             self.current_player = p
-            self.invoker.set_command(ResourceCom())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(Build())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
+            done=False
+            if p.name == self.playerlist[0].name:
+                self.turn+=1
+            choice=-1
+            while not done:
+                while choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5' and choice != '0':
+                    choice = input(f'What would {self.current_player.name} like to do? (1:use Dev Card, 2: Roll, 3: Build, 4: Trade, 5: Buy Dev Card, 0: exit)\n')
+                    if ( choice != '0' and choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5'):
+                        print("Invalid Input")
+                if choice=='1':
+                    self.invoker.set_command(useCard())
+                    self.invoker.execute_command(self)
+                    self.longestRoadCheck()
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='2':
+                    self.invoker.set_command(ResourceCom())
+                    self.invoker.execute_command(self)
+                elif choice=='3':
+                    self.invoker.set_command(Build())
+                    self.invoker.execute_command(self)
+                    self.longestRoadCheck()
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='4':
+                    self.invoker.set_command(Trade())
+                    self.invoker.execute_command(self)
+                elif choice=='5':
+                    self.invoker.set_command(buyCard())
+                    self.invoker.execute_command(self)
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='0':
+                    done=True
 
-            self.invoker.set_command(Trade())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(useCard())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
+                choice=-1
 
-            self.invoker.set_command(buyCard())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
+
+
+
+            # self.invoker.set_command(ResourceCom())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(Trade())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(useCard())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -461,6 +504,7 @@ class sim:
             return None
         rng = random.randint(0, len(self.deck) - 1)
         card = self.deck[rng]
+        card.turn=self.turn
         player.card.append(card)
         self.deck.remove(card)
         player.resources['ore'] -= 1

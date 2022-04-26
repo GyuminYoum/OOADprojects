@@ -20,7 +20,7 @@ class buyCard(Command):
                     card1 = sim.buyCard(sim.current_player)
                     if card1 is not None:
                         sim.update(f'{sim.current_player.name} successfully bought a {card1.name} card.')
-                        print(sim.current_player.name, sim.current_player.AvailableCardSummary())
+                        print(sim.current_player.name, sim.current_player.AvailableCardSummary(sim.turn))
 
                 elif response == 'N':
                     break

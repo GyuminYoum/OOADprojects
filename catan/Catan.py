@@ -95,7 +95,7 @@ class Catan:
     # function main
     # usage: runs the game of Catan
     def main(self):
-
+        """
         # allows player to set up their initial roads and settlements
         for player in self.sim.playerlist:
             print("Current player: " + player.name)
@@ -107,6 +107,7 @@ class Catan:
         for player in reverselist:
             self.sim.playerStartSettlement(player)
             self.sim.playerStartRoad(player)
+        """
 
         while not self.sim.done:
             self.sim.playerAction()
