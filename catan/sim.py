@@ -287,8 +287,8 @@ class sim:
                     if self.done:
                         self.endgame(self.current_player)
                 elif choice=='0':
+                    self.current_player.rolled=False
                     done=True
-
                 choice=-1
 
 
