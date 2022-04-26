@@ -1,15 +1,12 @@
-import pygame.draw
-
 from Commands.Build import *
 from Commands.Trade import *
+from Commands.ResourceCom import *
+from Commands.Invoker import *
+from Commands.Command import *
 from Player import *
 from Field import *
 from cardFactory import *
 from Road import *
-import pygame
-from Commands.Build import *
-from Commands.Invoker import *
-from Commands.Command import *
 import random
 from Commands.useCard import *
 from Commands.buyCard import *
@@ -61,8 +58,7 @@ class sim:
     # default resources to 0
     # returns: N/A
     def initializePlayers(self):
-        while self.playercount!=3 and self.playercount!=4:
-
+        while self.playercount != 3 and self.playercount != 4:
             try:
                 num = int(input("Input the number of players (3-4) \n"))
                 self.playercount = num
@@ -70,26 +66,25 @@ class sim:
                 print("Please provide integer value only")
         for x in range(self.playercount):
             val = input("Provide name for Player" + str(x + 1) + ": \n")
-            #randomize color, no duplicate color
+            # randomize color, no duplicate color
             temp = np.random.randint(0, len(self.colorlist) - 1)
             color = self.colorlist[temp]
             self.colorlist.pop(temp)
 
-            #generate player object
-            #default resources to 0
+            # generate player object
+            # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 0
-            p1.resources['wood'] = 0
+            p1.resources['sheep'] = 1
+            p1.resources['wood'] = 1
             p1.resources['ore'] = 0
             p1.resources['clay'] = 0
             p1.resources['wheat'] = 0
             #harbor_test_node = Node('B1', 1)
             #p1.settlement.append(harbor_test_node)
 
-
             #useCardTest
-            """
-            if x== 0:
+            # '''
+            if x == 0:
                 p1.card.append(self.deck[11])
                 p1.card.append(self.deck[12])
                 p1.card.append(self.deck[13])
@@ -108,55 +103,40 @@ class sim:
                 p1.roads[self.getNode("S4", self.possible_settlements)].append(self.getNode("R3", self.possible_settlements))
                 p1.roads[self.getNode("R3", self.possible_settlements)] = [self.getNode("S4", self.possible_settlements)]
 
-            elif x==1:
+            elif x == 1:
                 p1.card.append(self.deck[0])
                 p1.card.append(self.deck[1])
                 p1.card.append(self.deck[2])
                 p1.card.append(self.deck[15])
                 p1.card.append(self.deck[17])
                 p1.card.append(self.deck[19])
-                p1.settlement.append(self.getNode("N3", self.possible_settlements))
-            elif x==2:
+                p1.settlement.append(self.getNode("D3", self.possible_settlements))
+            elif x == 2:
                 p1.card.append(self.deck[3])
                 p1.card.append(self.deck[4])
                 p1.card.append(self.deck[5])
                 p1.card.append(self.deck[6])
                 p1.card.append(self.deck[18])
                 p1.card.append(self.deck[20])
-                p1.settlement.append(self.getNode("Q3", self.possible_settlements))
-            """
+                p1.settlement.append(self.getNode("D4", self.possible_settlements))
+            # '''
 
             self.playerlist.append(p1)
-
-
-
-            # changing resources of players to test Build and Trade
-            # if x == 0:
-            #     self.current_player = p1
-            #     # TODO: remove code below when done debugging
-            #     p1.resources['sheep'] = 3
-            #     p1.resources['wood'] = 2
-            #     p1.resources['ore'] = 4
-            #     p1.roads = {}
-            # if x == 1:
-            #     p1.resources['sheep'] = 2
-            #     p1.resources['wood'] = 5
-            #
 
     def initialize(self):
         self.initializeGame()
         self.initializePlayers()
 
-
     # function playerStartSettlement
     # usage: Initiating stage: building settlement for players
     # args: player:Player
     # prompts user where he wants to build his settlement and builds if it's available
-    # the settlement loation is taken out from possiblesettlement list and added to user's settlement
+    # the settlement location is taken out from possiblesettlement list and added to user's settlement
     # reprompt upon invalid request/choice
     # returns: N/A
     def playerStartSettlement(self, player):
         done = False
+        node1 = None
         while not done:
             print("Select the location for settlement for " + player.name)
             val = input("Possible selections are " + str(self.getPossibleSettlementNames()) + "\n")
@@ -167,6 +147,7 @@ class sim:
                 for x in node1.adj:
                     if x in self.possible_settlements:
                         self.possible_settlements.remove(x)
+
                 print("Successfully built a settlement at location "+val+" for "+player.name)
                 done = True
             else:
@@ -179,8 +160,9 @@ class sim:
     # the road dict etc {A: B} as well as {B: A} are taken out of possible road_list and added to user's road
     # reprompt upon invalid request/choice
     # returns: N/A
-    def playerStartRoad(self,player):
+    def playerStartRoad(self, player):
         done1 = False
+        nodes = None
         while not done1:
             print("Select the location for road for " + player.name)
             road_list = self.getPossibleRoads(player.generateRoadNameList())
@@ -254,7 +236,7 @@ class sim:
         if self.isValidRoad(s1, s2):
             node1 = self.getNode(s1, self.possible_roads.keys())
             node2 = self.getNode(s2, self.possible_roads.keys())
-            return (node1, node2)
+            return node1, node2
         else:
             #print("Invalid")
             return None
@@ -265,39 +247,28 @@ class sim:
 
 
     def playerAction(self):
-        for x in self.playerlist:
-            self.current_player = x
-            val = self.roll()
-
-            # for hex in self.sim.
+        for p in self.playerlist:
+            self.current_player = p
             # do resource phase stuff
-            self.invoker.set_command(useCard())
+            self.invoker.set_command(ResourceCom())
             self.invoker.execute_command(self)
-            if self.done==True:
-                self.endgame(self.current_player)
-            self.invoker.set_command(Build())
-            self.invoker.execute_command(self)
-            if self.done==True:
-                self.endgame(self.current_player)
-            self.invoker.set_command(Trade())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(buyCard())
-            self.invoker.execute_command(self)
-            if self.done==True:
-                self.endgame(self.current_player)
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(Trade())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(useCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
 
-        # loop through all players
-        # loop through each player's settlement/city
-        # loop through each settlement/city's adjacentlist
-        # if the hex in adjacentlist contains value equal to val
-        # distribute resources to the player
-
-        # x.Trade()
-        # x.Build()
-
-        # trade = Trade()
-        # self.invoker.set_command(trade)
-        # self.invoker.execute_command(self) OR execute()
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -314,7 +285,7 @@ class sim:
     def roll(self):
         return self.current_player.roll()
 
-    #list generation for sim
+    # list generation for sim
 
     # function hexNameList
     # usage: general purpose
@@ -469,14 +440,20 @@ class sim:
     def findRobber(self):
         for x in self.field:
             #print(x.name, x.Robber)
-            if x.Robber==True:
+            if x.Robber == True:
                 return x.name
         return None
 
+    # function buyCard
+    # usage: buyCard command for knight
+    # args: player: Player
+    # if there is still card in the deck, pick 1 randomly and assign it to the player
+    # subtract appropriate resources from the player and exclude that card from the deck
+    # returns: Card/None
     def buyCard(self,player):
         if len(self.deck)==0:
             return None
-        rng= random.randint(0,len(self.deck)-1)
+        rng = random.randint(0,len(self.deck)-1)
         card=self.deck[rng]
         player.card.append(card)
         self.deck.remove(card)
@@ -485,17 +462,12 @@ class sim:
         player.resources['wheat'] -= 1
         return card
 
+    # function resetLargestArmy
+    # usage: useCard for knight
+    # args:
+    # reset all player's largestarmy attribute to False
+    # returns: N/A
     def resetLargestArmy(self):
         for x in self.playerlist:
-            x.largestarmy=False
-
-
-
-
-
-
-
-
-
-
+            x.largestarmy = False
 
