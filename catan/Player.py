@@ -52,12 +52,16 @@ class Player:
 
     def deckSummary(self):
         list1 = {}
+        list2 = {}
         for x in self.card:
             if x.name not in list1.keys():
                 list1[x.name]=1
             else:
-                list1[x.name]+=1
-        return list1
+                if x.used==False:
+                    list1[x.name]+=1
+                else:
+                    list2[x.name]+=1
+        return list1, list2
 
     def hasKnight(self,turn):
         for x in self.card:

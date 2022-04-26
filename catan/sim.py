@@ -251,12 +251,15 @@ class sim:
     # function playerAction
     # usage: plays through a player's entire turn, including Resource, Build, and Trade phase
     def playerAction(self):
-        self.turn=0
         for p in self.playerlist:
             self.current_player = p
             done=False
+            print(p.name)
+            print(self.playerlist[0].name)
+            print(p.name== self.playerlist[0].name)
             if p.name == self.playerlist[0].name:
-                self.turn+=1
+                self.turn= self.turn + 1
+                print("turn: "+str(self.turn))
             choice=-1
             while not done:
                 while choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5' and choice != '0':
@@ -287,8 +290,11 @@ class sim:
                     if self.done:
                         self.endgame(self.current_player)
                 elif choice=='0':
-                    self.current_player.rolled=False
-                    done=True
+                    if not self.current_player.rolled:
+                        print(f'{self.current_player.name} did not roll yet')
+                    else:
+                        self.current_player.rolled=False
+                        done=True
                 choice=-1
 
 

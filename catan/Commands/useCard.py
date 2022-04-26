@@ -19,8 +19,9 @@ class useCard(Command):
             resourcename2 = "A"
 
             # if user doesn't have unused cards, print it and break out of useCard
+            print(player.deckSummary())
             if len(player.getUnusedCards(sim.turn)) == 0:
-                print(player.name + " doesn't have any development cards.")
+                print(player.name + " doesn't have any usable development cards.")
                 done=True
                 break
             else:
