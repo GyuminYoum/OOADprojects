@@ -12,8 +12,8 @@ class Player:
         self.vp = 0
         self.card = []
         self.color = color
-        self.longestroad= False
-        self.largestarmy= False
+        self.longestroad = False
+        self.largestarmy = False
         # self.command = None
 
     def getUnusedCards(self):
@@ -42,9 +42,9 @@ class Player:
         return val
 
     def checkifWin(self):
-        val=self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
-        self.vp=val
-        if val >=10:
+        val = self.getVPCount()+2*self.largestarmy+2*self.longestroad+len(self.settlement)+2*len(self.city)
+        self.vp = val
+        if val >= 10:
             return True
         else:
             return False
@@ -259,20 +259,19 @@ class Player:
     #     return road_list
 
     def canBuildSettlement(self):
-        if self.resources['sheep'] > 1 and self.resources['wood'] > 1 and self.resources['clay'] > 1 \
-                and self.resources['wheat'] > 1:
+        if self.resources['sheep'] >= 1 and self.resources['wood'] >= 1 and self.resources['clay'] >= 1 and self.resources['wheat'] >= 1:
             return True
         else:
             return False
 
     def canBuildCity(self):
-        if self.resources['ore'] > 3 and self.resources['wheat'] > 2:
+        if self.resources['ore'] >= 3 and self.resources['wheat'] >= 2:
             return True
         else:
             return False
 
     def canBuildRoad(self):
-        if self.resources['clay'] > 3 and self.resources['wood'] > 2:
+        if self.resources['clay'] >= 1 and self.resources['wood'] >= 1:
             return True
         else:
             return False
