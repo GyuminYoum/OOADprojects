@@ -268,26 +268,22 @@ class sim:
         for x in self.playerlist:
             self.current_player = x
             val = self.roll()
-            usecard=useCard()
+
             # for hex in self.sim.
             # do resource phase stuff
+            self.invoker.set_command(useCard())
+            self.invoker.execute_command(self)
+            if self.done==True:
+                self.endgame(self.current_player)
             self.invoker.set_command(Build())
             self.invoker.execute_command(self)
             if self.done==True:
                 self.endgame(self.current_player)
-
-            # self.invoker.set_command(Trade())
-            # self.invoker.execute_command(self)
-            self.invoker.set_command(usecard)
+            self.invoker.set_command(Trade())
+            self.invoker.execute_command(self)
+            self.invoker.set_command(buyCard())
             self.invoker.execute_command(self)
             if self.done==True:
-                self.endgame(self.current_player)
-
-
-            buycard = buyCard()
-            self.invoker.set_command(buycard)
-            self.invoker.execute_command(self)
-            if self.done == True:
                 self.endgame(self.current_player)
 
         # loop through all players

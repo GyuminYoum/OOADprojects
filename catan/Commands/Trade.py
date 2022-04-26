@@ -7,8 +7,17 @@ class Trade(Command):
 
     # TODO: use sim.update(message) to send messages from Trade to the observer
     def execute(self, sim):
-        print(f'{sim.current_player.name}, would you like to trade on this turn?')
-        trade = bool(int(input('(1: Yes, 0: No): ')))
+        done=False
+        trade=False
+        while(not done):
+            print(f'{sim.current_player.name}, would you like to trade on this turn?')
+            user_input=input('(1: Yes, 0: No): ')
+            if user_input=='1' or user_input=='0':
+                done=True
+                if user_input=='1':
+                    trade=True
+            else:
+                print("Invalid input")
 
         if not trade:
             sim.update(f'Trade phase over for {sim.current_player.name}, no trades made.')
