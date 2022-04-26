@@ -4,9 +4,12 @@ from Commands.Command import Command
 class Trade(Command):
     def __init__(self):
         super().__init__()
+        self.RESOURCES = ['sheep', 'wood', 'clay', 'ore', 'wheat']
 
-    # TODO: use sim.update(message) to send messages from Trade to the observer
+    # execute() handles all possible trading interactions between the current_player and
+    # other players, 3:1 harbors, and the always-available 4:1 harbor
     def execute(self, sim):
+
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
         trade = bool(int(input('(1: Yes, 0: No): ')))
 
@@ -20,14 +23,23 @@ class Trade(Command):
             for key, value in sim.current_player.resources.items():
                 print(f'{key}: {value} / ', end='')
             print('\nWould you like to trade with other players? ')
-            player_trade = bool(int(input('(1: Yes, 0: No): ')))
+            temp = input('(1: Yes, 0: No): ')
+            while temp != '0' or temp != '1':
+                temp = input("\n(1: Yes, 0: No): ")
+            player_trade = bool(int(temp))
 
             if player_trade:
                 print('What resource are you looking to trade for with another player?')
                 wants = input('Enter text as shown (sheep, wood, ore, clay, wheat): ')
+                if wants not in self.RESOURCES:
+                    print('Enter a valid resource. ')
+                    continue
                 wants_number = int(input('How many of this resource do you want?: '))
                 print('What resource are you offering?')
                 offers = input('Enter text as shown (sheep, wood, ore, clay, wheat): ')
+                if offers not in self.RESOURCES:
+                    print('Enter a valid resource. ')
+                    continue
                 offers_number = int(input('How many of this resource are you offering?: '))
 
                 # if current_player has enough resources to give
@@ -45,7 +57,10 @@ class Trade(Command):
                                 for key, value in player.resources.items():
                                     print(f'{key}: {value} / ', end='')
 
-                                trade_accepted = bool(int(input("\n(1: Yes, 0: No): ")))
+                                temp = input("\n(1: Yes, 0: No): ")
+                                while temp != '0' or temp != '1':
+                                    temp = input("\n(1: Yes, 0: No): ")
+                                trade_accepted = bool(int(temp))
                                 # if player accepts trade
                                 if trade_accepted:
                                     sim.update(f'{sim.current_player.name} traded {offers_number} {offers}'
@@ -67,7 +82,10 @@ class Trade(Command):
                                     print('Trade rejected. ')
 
                     print('Would you like to trade with another player? ')
-                    trade_again = bool(int(input("(1: Yes, 0: No): ")))
+                    temp = input("\n(1: Yes, 0: No): ")
+                    while temp != '0' or temp != '1':
+                        temp = input("\n(1: Yes, 0: No): ")
+                    trade_again = bool(int(temp))
                     if trade_again:
                         continue
                 else:
@@ -78,14 +96,20 @@ class Trade(Command):
             # possibly make trade strategy
             print('Would you like to check if you can trade with any harbors? ')
             print('(This includes 4:1 trading)')
-            harbor_trade = bool(int(input('(1: Yes, 0: No): ')))
+            temp = input("\n(1: Yes, 0: No): ")
+            while temp != '0' or temp != '1':
+                temp = input("\n(1: Yes, 0: No): ")
+            harbor_trade = bool(int(temp))
 
             if harbor_trade:
                 self.harbor_trade(sim)
 
             # check if player wants to make more trades
             print('Would you like to make any more trades? ')
-            trade = bool(int(input('(1: Yes, 0: No): ')))
+            temp = input("\n(1: Yes, 0: No): ")
+            while temp != '0' or temp != '1':
+                temp = input("\n(1: Yes, 0: No): ")
+            trade = bool(int(temp))
 
         print(f'Trade phase over for {sim.current_player.name}.')
 
@@ -97,6 +121,9 @@ class Trade(Command):
             print(f'{key}: {value} / ', end='')
         print('\nWhich resource will you trade in? ')
         resource = input('(sheep, wood, ore, clay, wheat, none): ')
+        while resource not in self.RESOURCES or resource != 'none':
+            print('Enter a valid resource. ')
+            resource = input('(sheep, wood, ore, clay, wheat, none): ')
         if resource == 'none':
             return
         elif sim.current_player.resources[resource] < quantity_needed:
@@ -104,6 +131,9 @@ class Trade(Command):
         else:
             print('Which resource do you want in return? ')
             resource1 = input('(sheep, wood, ore, clay, wheat): ')
+            while resource1 not in self.RESOURCES:
+                print('Enter a valid resource. ')
+                resource1 = input('(sheep, wood, ore, clay, wheat): ')
             sim.current_player.resources[resource] -= quantity_needed
             sim.current_player.resources[resource1] += 1
             print(f'{sim.current_player.name} traded 4 {resource} for 1 {resource1}')
@@ -139,6 +169,9 @@ class Trade(Command):
                         print(f'{key}: {value} / ', end='')
                     print('\nWhich resource will you trade in? ')
                     resource = input('(sheep, wood, ore, clay, wheat, none): ')
+                    while resource not in self.RESOURCES or resource != 'none':
+                        print('Enter a valid resource. ')
+                        resource = input('(sheep, wood, ore, clay, wheat, none): ')
                     if resource == 'none':
                         break
                     elif sim.current_player.resources[resource] < 2:

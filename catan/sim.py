@@ -44,17 +44,17 @@ class sim:
         self.deck = cardFactory1.makeDeck()
         board = Field((500, 300), 50)
         self.field, self.possible_settlements = board.build()
-        #self.possible_settlements = board.build()[1]
-        #self.field[3].Robber=True
+        # self.possible_settlements = board.build()[1]
+        # self.field[3].Robber=True
         self.possible_roads = board.generate_roads(self.field)
-        invoker=Invoker()
+        invoker = Invoker()
         self.set_observer(Observer())
-        self.invoker=invoker
+        self.invoker = invoker
 
     # function initializePlayers
     # usage: Initiating stage
     # args: N/A
-    # prompts user for # of players, and their names, and assign colors
+    # prompt user for # of players, and their names, and assign colors
     # default resources to 0
     # returns: N/A
     def initializePlayers(self):
@@ -79,10 +79,10 @@ class sim:
             p1.resources['ore'] = 5
             p1.resources['clay'] = 5
             p1.resources['wheat'] = 5
-            #harbor_test_node = Node('B1', 1)
-            #p1.settlement.append(harbor_test_node)
+            # harbor_test_node = Node('B1', 1)
+            # p1.settlement.append(harbor_test_node)
 
-            #useCardTest
+            # useCardTest
             '''
             if x == 0:
                 p1.card.append(self.deck[11])
@@ -132,7 +132,7 @@ class sim:
     # args: player:Player
     # prompts user where he wants to build his settlement and builds if it's available
     # the settlement location is taken out from possiblesettlement list and added to user's settlement
-    # reprompt upon invalid request/choice
+    # re-prompt upon invalid request/choice
     # returns: N/A
     def playerStartSettlement(self, player):
         done = False
@@ -157,8 +157,8 @@ class sim:
     # usage: Initiating stage: building road for players
     # args: player:Player
     # prompts user where he wants to build his road based on his settlement and builds if it's available
-    # the road dict etc {A: B} as well as {B: A} are taken out of possible road_list and added to user's road
-    # reprompt upon invalid request/choice
+    # the road dict etc. {A: B} as well as {B: A} are taken out of possible road_list and added to user's road
+    # re-prompt upon invalid request/choice
     # returns: N/A
     def playerStartRoad(self, player):
         done1 = False
@@ -258,21 +258,21 @@ class sim:
             self.invoker.set_command(Build())
             self.invoker.execute_command(self)
             self.longestRoadCheck()
-            # # TODO: longest road check
-            # if self.done:
-            #     self.endgame(self.current_player)
-            #
-            # self.invoker.set_command(Trade())
-            # self.invoker.execute_command(self)
-            # self.invoker.set_command(useCard())
-            # self.invoker.execute_command(self)
-            # if self.done:
-            #     self.endgame(self.current_player)
-            #
-            # self.invoker.set_command(buyCard())
-            # self.invoker.execute_command(self)
-            # if self.done:
-            #     self.endgame(self.current_player)
+            if self.done:
+                self.endgame(self.current_player)
+
+            self.invoker.set_command(Trade())
+            self.invoker.execute_command(self)
+            self.invoker.set_command(useCard())
+            self.invoker.execute_command(self)
+            self.longestRoadCheck()
+            if self.done:
+                self.endgame(self.current_player)
+
+            self.invoker.set_command(buyCard())
+            self.invoker.execute_command(self)
+            if self.done:
+                self.endgame(self.current_player)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -480,8 +480,8 @@ class sim:
             maxroad = max(maxroad, self.longestRoadDFS(player, key, [key], 1))
 
         if maxroad > self.longestroadcount:
-            for player in self.playerlist:
-                player.longestroad = False
+            for player1 in self.playerlist:
+                player1.longestroad = False
             player.longestroad = True
             self.longestroadcount = maxroad
 

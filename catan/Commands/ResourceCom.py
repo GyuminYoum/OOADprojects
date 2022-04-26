@@ -7,6 +7,8 @@ class ResourceCom(Command):
     def __init__(self):
         super().__init__()
 
+    # execute() rolls the die for a player and distributes resources
+    # this method also is in charge of handling the in-game robber and all related actions
     def execute(self, sim):
         roll = sim.roll()
 
@@ -37,7 +39,7 @@ class ResourceCom(Command):
                                     sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
                                     print(f'{player.name}: {player.resources}')
 
-    # steal resources from players with settlements by hexagon with robber
+    # robResources() lets current_player steal resources from players with settlements by the hexagon with the robber
     def robResources(self, sim, hexagon):
         for player in sim.playerlist:
             for node in hexagon.get_nodes():
@@ -46,13 +48,16 @@ class ResourceCom(Command):
                         player.resources[hexagon.Resource.type] -= 1
                         break
 
+    # countResources() counts a player's resources
+    # helper method for giveUpResources()
     def countResources(self, player):
         total = 0
         for value in player.resources.values():
             total += value
         return total
 
-    # called when players have 8+ resources
+    # giveUpResources() called when players have 8+ resources
+    # this method also makes a player give up half of their resources (rounded down)
     def giveUpResources(self, sim, player):
         count = self.countResources(player)
         half = int(np.floor(count/2))
@@ -79,6 +84,7 @@ class ResourceCom(Command):
             print(f'{key}: {value} / ', end='')
         print()
 
+    # moveRobber() updates Hex fields that correspond to the robber's current and previous positions
     def moveRobber(self, sim):
         print(f'{sim.current_player.name}, where would you like to move the robber? ')
         hexes = []
@@ -97,6 +103,7 @@ class ResourceCom(Command):
                 hexagon.Robber = False
         return robberhex
 
+    # robPlayer() lets the current_player pick which other player they want to rob after moving the robber
     def robPlayer(self, sim, hexagon):
         print(f'{sim.current_player.name}, which player would you like to rob? ')
         players = []
