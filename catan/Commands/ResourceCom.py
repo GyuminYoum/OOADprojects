@@ -6,12 +6,13 @@ from Commands.Command import Command
 class ResourceCom(Command):
     def __init__(self):
         super().__init__()
+        self.RESOURCES = ['sheep', 'wood', 'ore', 'wheat', 'clay']
 
     # execute() rolls the die for a player and distributes resources
     # this method also is in charge of handling the in-game robber and all related actions
     def execute(self, sim):
         roll = sim.roll()
-
+        sim.update(f'{sim.current_player.name} rolled a {roll}.')
         if roll == 7:
             for player in sim.playerlist:
                 if self.countResources(player) > 7:
@@ -72,13 +73,20 @@ class ResourceCom(Command):
                     print(f'{key}: {value} / ', end='')
                     resources.append(key)
             res = input(f'\n{resources}:')
-            num = int(input(f'\nHow many {res} will you give up? :'))
+            while res not in self.RESOURCES:
+                print('Enter a valid resource. ')
+                res = input(f'\n{resources}:')
+            num = input(f'\nHow many {res} will you give up? :')
+            while not num.isnumeric():
+                print('Enter a number.')
+                num = input(f'\nHow many {res} will you give up? :')
+            num = int(num)
             if num <= player.resources[res] and given + num <= half:
                 player.resources[res] -= num
                 given += num
             else:
                 print('Not enough/too many resources.')
-        sim.update(f'{player.name} was robbed for {half} of his resources. ')
+        sim.update(f'{player.name} was robbed for {half} of his resources.')
         print(f'{player.name}\'s resources: ')
         for key, value in player.resources.items():
             print(f'{key}: {value} / ', end='')
@@ -91,6 +99,9 @@ class ResourceCom(Command):
         for hexagon in sim.field:
             hexes.append(hexagon.name)
         hexmove = input(f'{hexes}: ')
+        while hexmove not in hexes:
+            print('Enter a valid hexagon. ')
+            hexmove = input(f'{hexes}: ')
         robberhex = None
 
         for hexagon in sim.field:
@@ -132,15 +143,12 @@ class ResourceCom(Command):
             options = ['sheep', 'wood', 'ore', 'clay', 'wheat']
             resource = np.random.choice(options)
 
+            # pick a resource at random, if that resource is 0 then pick another resource at random
             while robbed.resources[resource] == 0:
                 options.remove(resource)
                 if len(options) == 0:
-                    # print(f'options: {options}')
                     break
                 resource = np.random.choice(options)
-            # if len(options) == 0:
-            #     print(f'{robbed.name} does not have enough resources, 0 resources robbed.')
-            else:
-                robbed.resources[resource] -= 1
-                sim.current_player.resources[resource] += 1
-                sim.update(f'{sim.current_player.name} robbed 1 {resource} from {player.name}.')
+            robbed.resources[resource] -= 1
+            sim.current_player.resources[resource] += 1
+            sim.update(f'{sim.current_player.name} robbed 1 {resource} from {player.name}.')

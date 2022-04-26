@@ -4,10 +4,15 @@
     <list default="true" id="753f4b3a-a0d0-4264-8509-530cbb86b578" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Catan.py" beforeDir="false" afterPath="$PROJECT_DIR$/Catan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commands/Build.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/Build.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Commands/ResourceCom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/ResourceCom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Commands/Trade.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/Trade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commands/buyCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/buyCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commands/useCard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commands/useCard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Field.py" beforeDir="false" afterPath="$PROJECT_DIR$/Field.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Observer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Observer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cardFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/cardFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameLogs.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sim.py" beforeDir="false" afterPath="$PROJECT_DIR$/sim.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

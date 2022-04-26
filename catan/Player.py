@@ -112,18 +112,6 @@ class Player:
             return True
         return False
 
-
-    def roll(self):
-        rng = np.random.randint(low=1, high=12)
-        return rng
-
-    # def trade(self):
-        # trade logic
-        # print("halp")
-
-    # def build(self):
-        # build logic
-        # print("worry bout it later")
     def number_of_roads(self):
         return len(self.roads)
 

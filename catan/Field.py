@@ -66,7 +66,7 @@ class Field:
         # G5=F3 n21
         # G6=C4 n14
         n23 = Node("G2", (n13.coord[0] + lateral, n13.coord[1] + height))
-        n24 = Node("G3", (n23.coord[0], n23.coord[1]+ self.length))
+        n24 = Node("G3", (n23.coord[0], n23.coord[1] + self.length))
         n25 = Node("G4", (n13.coord[0], n13.coord[1]+2*self.length))
 
         # H1=D5 n17
@@ -247,14 +247,12 @@ class Field:
         h19 = [n44, n47, n53, n54, n51, n45]
         Hex19 = Hex("S", h19)
 
-
-
         hex_list = [Hex1, Hex2, Hex3, Hex4, Hex5, Hex6, Hex7, Hex8, Hex9,
                     Hex11, Hex12, Hex13, Hex14, Hex15, Hex16, Hex17, Hex18, Hex19]
 
-
-
-        node_list= [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21, n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40, n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54]
+        node_list = [n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21,
+                     n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40,
+                     n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54]
 
         # define resources
         sheep = Resource("sheep", (144, 238, 144))
@@ -309,6 +307,6 @@ class Field:
                         if node not in road_dict[adjacent_node]:
                             road_dict[adjacent_node].append(node)
                     else:
-                        road_dict[adjacent_node]=[node]
+                        road_dict[adjacent_node] = [node]
         return road_dict
 
