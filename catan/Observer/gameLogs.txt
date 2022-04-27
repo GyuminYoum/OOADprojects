@@ -1,0 +1,4 @@
+asdf rolled a 6.
+Trade phase over for asdf, no trades made.
+qwer rolled a 8.
+Trade phase over for qwer, no trades made.
