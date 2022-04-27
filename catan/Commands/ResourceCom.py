@@ -40,8 +40,12 @@ class ResourceCom(Command):
                         for player in sim.playerlist:
                             for node in player.settlement:
                                 if node in hexagon.get_nodes():
-                                    player.resources[hexagon.Resource.type] += 1
-                                    sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
+                                    if node in player.city:
+                                        player.resources[hexagon.Resource.type] += 2
+                                        sim.update(f'{player.name} received 2 {hexagon.Resource.type}')
+                                    else:
+                                        player.resources[hexagon.Resource.type] += 1
+                                        sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
                                     print(f'{player.name}: {player.resources}')
         sim.current_player.rolled=True
 
