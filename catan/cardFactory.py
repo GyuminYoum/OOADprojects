@@ -1,6 +1,6 @@
 from Card import *
 
-
+#Factory pattern
 class cardFactory:
     def __init__(self):
         self.deck = []

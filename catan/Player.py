@@ -50,7 +50,7 @@ class Player:
         else:
             return False
 
-    def deckSummary(self):
+        def deckSummary(self):
         list1 = {}
         list2 = {}
         for x in self.card:
