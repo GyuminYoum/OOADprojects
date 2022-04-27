@@ -74,11 +74,11 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 100
-            p1.resources['wood'] = 100
-            p1.resources['ore'] = 100
-            p1.resources['clay'] = 100
-            p1.resources['wheat'] = 100
+            p1.resources['sheep'] = 1
+            p1.resources['wood'] = 1
+            p1.resources['ore'] = 1
+            p1.resources['clay'] = 1
+            p1.resources['wheat'] = 1
             # harbor_test_node = Node('B1', 1)
             # p1.settlement.append(harbor_test_node)
 
