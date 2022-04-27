@@ -40,8 +40,12 @@ class ResourceCom(Command):
                         for player in sim.playerlist:
                             for node in player.settlement:
                                 if node in hexagon.get_nodes():
-                                    player.resources[hexagon.Resource.type] += 1
-                                    sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
+                                    if node in player.city:
+                                        player.resources[hexagon.Resource.type] += 2
+                                        sim.update(f'{player.name} received 2 {hexagon.Resource.type}')
+                                    else:
+                                        player.resources[hexagon.Resource.type] += 1
+                                        sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
                                     print(f'{player.name}: {player.resources}')
         sim.current_player.rolled=True
 
@@ -80,11 +84,11 @@ class ResourceCom(Command):
             res = input(f'\n{resources}:')
             while res not in self.RESOURCES:
                 print('Enter a valid resource. ')
-                res = input(f'\n{resources}:')
-            num = input(f'\nHow many {res} will you give up? :')
+                res = input(f'{resources}:')
+            num = input(f'How many {res} will you give up?: ')
             while not num.isnumeric():
                 print('Enter a number.')
-                num = input(f'\nHow many {res} will you give up? :')
+                num = input(f'\nHow many {res} will you give up?: ')
             num = int(num)
             if num <= player.resources[res] and given + num <= half:
                 player.resources[res] -= num
