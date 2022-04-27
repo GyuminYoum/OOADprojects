@@ -217,6 +217,7 @@ class useCard(Command):
                             else:
                                 print("Invalid Selection")
 
+                        sim.longestRoadCheck()
                         player.useCard("Road Building", sim.turn)
                     else:
                         print(player.name+" doesn't have a Road Building Card")

@@ -54,13 +54,16 @@ class Player:
         list1 = {}
         list2 = {}
         for x in self.card:
-            if x.name not in list1.keys():
-                list1[x.name]=1
-            else:
-                if x.used==False:
-                    list1[x.name]+=1
+            if not x.used:
+                if x.name not in list1.keys():
+                    list1[x.name] = 1
                 else:
-                    list2[x.name]+=1
+                    list1[x.name] += 1
+            else:
+                if x.name not in list2.keys():
+                    list2[x.name] = 1
+                else:
+                    list2[x.name] += 1
         return list1, list2
 
     def hasKnight(self,turn):

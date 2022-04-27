@@ -269,7 +269,6 @@ class sim:
                 if choice=='1':
                     self.invoker.set_command(useCard())
                     self.invoker.execute_command(self)
-                    self.longestRoadCheck()
                     if self.done:
                         self.endgame(self.current_player)
                 elif choice=='2':
@@ -278,7 +277,6 @@ class sim:
                 elif choice=='3':
                     self.invoker.set_command(Build())
                     self.invoker.execute_command(self)
-                    self.longestRoadCheck()
                     if self.done:
                         self.endgame(self.current_player)
                 elif choice=='4':
@@ -543,6 +541,7 @@ class sim:
                 player1.longestroad = False
             player.longestroad = True
             self.longestroadcount = maxroad
+            self.update(f'{self.current_player.name} now has the longest road with count of '+str(self.longestroadcount))
             if player.checkifWin():
                 self.done = True
 

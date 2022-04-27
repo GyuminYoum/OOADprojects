@@ -1,13 +1,36 @@
+1 successfully bought a Monopoly card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
 1 successfully bought a Victory Point card.
-1 rolled a 3.
-2 successfully bought a Knight card.
-2 rolled a 2.
-3 successfully bought a Monopoly card.
-3 rolled a 9.
-3 received 1 wheat
-3 received 1 wheat
+1 successfully bought a Knight card.
+1 successfully bought a Monopoly card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Year of Plenty card.
+1 successfully bought a Road Building card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Year of Plenty card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Road Building card.
+1 successfully bought a Knight card.
 1 rolled a 9.
-3 received 1 wheat
-3 received 1 wheat
-2 successfully used a Knight card and moved the robber to Hex B
-2 received 0 wood from 1 and 0 clay from 3
+3 received 1 wood
+1 built a road at B2B1
+1 built a road at B2C1
+1 built a road at C1C2
+1 got the longest road with count of 5
+Successfully built a settlement at location C1 for 1
+1 wins with 10 points
+
+10 points from: 3 settlements, 0 cities, 5 VP cards, 2 points from having the longest road, 0 points from having the largest army.
+

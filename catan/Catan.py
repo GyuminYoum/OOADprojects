@@ -103,12 +103,9 @@ class Catan:
             self.sim.playerStartRoad(player)
 
         reverselist = list(reversed(self.sim.playerlist))
-
         for player in reverselist:
             self.sim.playerStartSettlement(player)
             self.sim.playerStartRoad(player)
-
-
 
         while not self.sim.done:
             self.sim.playerAction()
