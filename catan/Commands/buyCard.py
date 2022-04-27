@@ -20,7 +20,7 @@ class buyCard(Command):
                     card1 = sim.buyCard(sim.current_player)
                     if card1 is not None:
                         sim.update(f'{sim.current_player.name} successfully bought a {card1.name} card.')
-                        print(sim.current_player.name, sim.current_player.AvailableCardSummary())
+                        print(sim.current_player.name, sim.current_player.AvailableCardSummary(sim.turn))
 
                 elif response == 'N':
                     break
@@ -32,7 +32,7 @@ class buyCard(Command):
                     done= True
                     break
             else:
-                print(f'{sim.current_player.name} doesn\'t have enough resources to buy a development card')
+                print(f'{sim.current_player.name} doesn\'t have enough resources to buy any development card')
                 print(f'Exiting buy CardPhase for {sim.current_player.name}.')
                 print("")
                 break

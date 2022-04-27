@@ -14,18 +14,19 @@ class Player:
         self.color = color
         self.longestroad = False
         self.largestarmy = False
+        self.rolled= False
         # self.command = None
 
-    def getUnusedCards(self):
+    def getUnusedCards(self,turn):
         list1 = []
         for x in self.card:
-            if not x.used:
+            if not x.used and x.turn!=turn:
                 list1.append(x)
         return list1
 
-    def AvailableCardSummary(self):
+    def AvailableCardSummary(self, turn):
         list1 = {}
-        list2 = self.getUnusedCards()
+        list2 = self.getUnusedCards(turn)
         for x in list2:
             if x.name not in list1.keys():
                 list1[x.name] = 1
@@ -51,34 +52,41 @@ class Player:
 
     def deckSummary(self):
         list1 = {}
+        list2 = {}
         for x in self.card:
-            if x.name not in list1.keys():
-                list1[x.name]=1
+            if not x.used:
+                if x.name not in list1.keys():
+                    list1[x.name] = 1
+                else:
+                    list1[x.name] += 1
             else:
-                list1[x.name]+=1
-        return list1
+                if x.name not in list2.keys():
+                    list2[x.name] = 1
+                else:
+                    list2[x.name] += 1
+        return list1, list2
 
-    def hasKnight(self):
+    def hasKnight(self,turn):
         for x in self.card:
-            if x.used==False and x.name=="Knight":
+            if x.used==False and x.name=="Knight" and x.turn!= turn:
                 return True
         return False
 
-    def hasRoadBuilding(self):
+    def hasRoadBuilding(self,turn):
         for x in self.card:
-            if x.used==False and x.name=="Road Building":
+            if x.used==False and x.name=="Road Building" and x.turn!= turn:
                 return True
         return False
 
-    def hasYearOfPlenty(self):
+    def hasYearOfPlenty(self,turn):
         for x in self.card:
-            if x.used==False and x.name=="Year of Plenty":
+            if x.used==False and x.name=="Year of Plenty" and x.turn!= turn:
                 return True
         return False
 
-    def hasMonopoly(self):
+    def hasMonopoly(self,turn):
         for x in self.card:
-            if x.used==False and x.name=="Monopoly":
+            if x.used==False and x.name=="Monopoly" and x.turn!= turn:
                 return True
         return False
 
@@ -89,9 +97,9 @@ class Player:
                 count+=1
         return count
 
-    def useCard(self,cardname):
+    def useCard(self,cardname, turn):
         for x in self.card:
-            if x.name==cardname and x.used==False:
+            if x.name==cardname and x.used==False and x.turn!=turn:
                 x.used=True
                 break
 
@@ -222,33 +230,8 @@ class Player:
 
         return road_name_list
 
-    # def generateRoadNameList(self):
-    #     road_list = []
-    #     for node in self.settlement:
-    #         for adj in node.adj:
-    #             road_list.append(node.label + adj.label)
-    #     for node in self.city:
-    #         for adj in node.adj:
-    #             road_list.append(node.label+adj.label)
-    #
-    #     dict2 = copy.deepcopy(self.roads)
-    #     #print(f'dict2: {dict2}')
-    #     for road_key in dict2.keys():
-    #         for adj_nodes in dict2[road_key]:
-    #             print(road_key.label, adj_nodes.label)
-    #             if(road_key.label > adj_nodes.label):
-    #                 road_name=adj_nodes.label+road_key.label
-    #             else:
-    #                 road_name=road_key.label+adj_nodes.label
-    #             road_list.append(road_name)
-    #             dict2[road_key].remove(adj_nodes)
-    #             dict2[adj_nodes].remove(road_key)
-    #
-    #     return road_list
-
     def canBuildSettlement(self):
-        if self.resources['sheep'] >= 1 and self.resources['wood'] >= 1 and self.resources['clay'] >= 1 \
-                and self.resources['wheat'] >= 1:
+        if self.resources['sheep'] >= 1 and self.resources['wood'] >= 1 and self.resources['clay'] >= 1 and self.resources['wheat'] >= 1:
             return True
         else:
             return False

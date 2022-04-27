@@ -11,6 +11,10 @@ class ResourceCom(Command):
     # execute() rolls the die for a player and distributes resources
     # this method also is in charge of handling the in-game robber and all related actions
     def execute(self, sim):
+        if sim.current_player.rolled:
+            print(f'{sim.current_player.name} rolled already.')
+            return
+
         roll = sim.roll()
         sim.update(f'{sim.current_player.name} rolled a {roll}.')
         if roll == 7:
@@ -39,6 +43,7 @@ class ResourceCom(Command):
                                     player.resources[hexagon.Resource.type] += 1
                                     sim.update(f'{player.name} received 1 {hexagon.Resource.type}')
                                     print(f'{player.name}: {player.resources}')
+        sim.current_player.rolled=True
 
     # robResources() lets current_player steal resources from players with settlements by the hexagon with the robber
     def robResources(self, sim, hexagon):

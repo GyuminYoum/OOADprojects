@@ -28,6 +28,8 @@ class sim:
         self.done = False
         self.largestarmycount = 3
         self.longestroadcount = 4
+        self.turn=0
+
 
         # self.trade = Trade()
         # self.build = Build()
@@ -251,26 +253,71 @@ class sim:
     def playerAction(self):
         for p in self.playerlist:
             self.current_player = p
-            self.invoker.set_command(ResourceCom())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(Build())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
+            done=False
+            print(p.name)
+            print(self.playerlist[0].name)
+            print(p.name== self.playerlist[0].name)
+            if p.name == self.playerlist[0].name:
+                self.turn= self.turn + 1
+                print("turn: "+str(self.turn))
+            choice=-1
+            while not done:
+                while choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5' and choice != '0':
+                    choice = input(f'What would {self.current_player.name} like to do? (1:use Dev Card, 2: Roll, 3: Build, 4: Trade, 5: Buy Dev Card, 0: exit)\n')
+                    if ( choice != '0' and choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5'):
+                        print("Invalid Input")
+                if choice=='1':
+                    self.invoker.set_command(useCard())
+                    self.invoker.execute_command(self)
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='2':
+                    self.invoker.set_command(ResourceCom())
+                    self.invoker.execute_command(self)
+                elif choice=='3':
+                    self.invoker.set_command(Build())
+                    self.invoker.execute_command(self)
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='4':
+                    self.invoker.set_command(Trade())
+                    self.invoker.execute_command(self)
+                elif choice=='5':
+                    self.invoker.set_command(buyCard())
+                    self.invoker.execute_command(self)
+                    if self.done:
+                        self.endgame(self.current_player)
+                elif choice=='0':
+                    if not self.current_player.rolled:
+                        print(f'{self.current_player.name} did not roll yet')
+                    else:
+                        self.current_player.rolled=False
+                        done=True
+                choice=-1
 
-            self.invoker.set_command(Trade())
-            self.invoker.execute_command(self)
-            self.invoker.set_command(useCard())
-            self.invoker.execute_command(self)
-            self.longestRoadCheck()
-            if self.done:
-                self.endgame(self.current_player)
 
-            self.invoker.set_command(buyCard())
-            self.invoker.execute_command(self)
-            if self.done:
-                self.endgame(self.current_player)
+
+
+            # self.invoker.set_command(ResourceCom())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(Build())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(Trade())
+            # self.invoker.execute_command(self)
+            # self.invoker.set_command(useCard())
+            # self.invoker.execute_command(self)
+            # self.longestRoadCheck()
+            # if self.done:
+            #     self.endgame(self.current_player)
+            #
+            # self.invoker.set_command(buyCard())
+            # self.invoker.execute_command(self)
+            # if self.done:
+            #     self.endgame(self.current_player)
 
     def set_invoker(self, invoker):
         self.invoker = invoker
@@ -450,11 +497,18 @@ class sim:
                 return x.name
         return None
 
+    # function buyCard
+    # usage: buyCard command for knight
+    # args: player: Player
+    # if there is still card in the deck, pick 1 randomly and assign it to the player
+    # subtract appropriate resources from the player and exclude that card from the deck
+    # returns: Card/None
     def buyCard(self, player):
         if len(self.deck) == 0:
             return None
         rng = random.randint(0, len(self.deck) - 1)
         card = self.deck[rng]
+        card.turn=self.turn
         player.card.append(card)
         self.deck.remove(card)
         player.resources['ore'] -= 1
@@ -462,6 +516,11 @@ class sim:
         player.resources['wheat'] -= 1
         return card
 
+    # function resetLargestArmy
+    # usage: useCard for knight
+    # args:
+    # reset all player's largestarmy attribute to False
+    # returns: N/A
     def resetLargestArmy(self):
         for x in self.playerlist:
             x.largestarmy = False
@@ -482,6 +541,7 @@ class sim:
                 player1.longestroad = False
             player.longestroad = True
             self.longestroadcount = maxroad
+            self.update(f'{self.current_player.name} now has the longest road with count of '+str(self.longestroadcount))
             if player.checkifWin():
                 self.done = True
 
