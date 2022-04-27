@@ -9,8 +9,11 @@ class Trade(Command):
     # function execute
     # usage: handles all possible trading interactions for the current_player
     def execute(self, sim):
+        done=False
+        trade=False
 
         print(f'{sim.current_player.name}, would you like to trade on this turn?')
+
         trade = input('(1: Yes, 0: No): ')
         while trade != '0' and trade != '1':
             trade = input("(1: Yes, 0: No): ")

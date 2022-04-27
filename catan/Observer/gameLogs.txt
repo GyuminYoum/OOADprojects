@@ -1,4 +1,36 @@
-asdf rolled a 6.
-Trade phase over for asdf, no trades made.
-qwer rolled a 8.
-Trade phase over for qwer, no trades made.
+1 successfully bought a Monopoly card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Knight card.
+1 successfully bought a Monopoly card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Year of Plenty card.
+1 successfully bought a Road Building card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Knight card.
+1 successfully bought a Victory Point card.
+1 successfully bought a Year of Plenty card.
+1 successfully bought a Knight card.
+1 successfully bought a Knight card.
+1 successfully bought a Road Building card.
+1 successfully bought a Knight card.
+1 rolled a 9.
+3 received 1 wood
+1 built a road at B2B1
+1 built a road at B2C1
+1 built a road at C1C2
+1 got the longest road with count of 5
+Successfully built a settlement at location C1 for 1
+1 wins with 10 points
+
+10 points from: 3 settlements, 0 cities, 5 VP cards, 2 points from having the longest road, 0 points from having the largest army.
+

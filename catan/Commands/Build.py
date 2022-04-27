@@ -60,7 +60,9 @@ class Build(Command):
                             player.resources["clay"] = player.resources["clay"]-1
                             player.resources["wood"] = player.resources["wood"]-1
                             sim.update(player.name+" built a road at " + val)
+                            sim.longestRoadCheck()
                             done1 = True
+
                         else:
                             print("Invalid Selection")
                 else:
