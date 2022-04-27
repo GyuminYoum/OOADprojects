@@ -332,7 +332,7 @@ class sim:
         self.observer.update(message)
 
     def roll(self):
-        rng = np.random.randint(low=1, high=12)
+        rng = np.random.randint(low=2, high=12)
         return rng
 
     # function hexNameList
