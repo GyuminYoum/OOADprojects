@@ -80,11 +80,11 @@ class ResourceCom(Command):
             res = input(f'\n{resources}:')
             while res not in self.RESOURCES:
                 print('Enter a valid resource. ')
-                res = input(f'\n{resources}:')
-            num = input(f'\nHow many {res} will you give up? :')
+                res = input(f'{resources}:')
+            num = input(f'How many {res} will you give up?: ')
             while not num.isnumeric():
                 print('Enter a number.')
-                num = input(f'\nHow many {res} will you give up? :')
+                num = input(f'\nHow many {res} will you give up?: ')
             num = int(num)
             if num <= player.resources[res] and given + num <= half:
                 player.resources[res] -= num

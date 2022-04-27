@@ -74,11 +74,11 @@ class sim:
             # generate player object
             # default resources to 0
             p1 = Player(val, color)
-            p1.resources['sheep'] = 1
-            p1.resources['wood'] = 1
-            p1.resources['ore'] = 1
-            p1.resources['clay'] = 1
-            p1.resources['wheat'] = 1
+            p1.resources['sheep'] = 100
+            p1.resources['wood'] = 100
+            p1.resources['ore'] = 100
+            p1.resources['clay'] = 100
+            p1.resources['wheat'] = 100
             # harbor_test_node = Node('B1', 1)
             # p1.settlement.append(harbor_test_node)
 
@@ -253,51 +253,48 @@ class sim:
     def playerAction(self):
         for p in self.playerlist:
             self.current_player = p
-            done=False
-            print(p.name)
-            print(self.playerlist[0].name)
-            print(p.name== self.playerlist[0].name)
+            done = False
+            print(f'{p.name}\'s turn')
             if p.name == self.playerlist[0].name:
-                self.turn= self.turn + 1
+                self.turn = self.turn + 1
                 print("turn: "+str(self.turn))
             choice=-1
             while not done:
-                while choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5' and choice != '0':
-                    choice = input(f'What would {self.current_player.name} like to do? (1:use Dev Card, 2: Roll, 3: Build, 4: Trade, 5: Buy Dev Card, 0: exit)\n')
-                    if ( choice != '0' and choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5'):
+                while choice != '1' and choice != '2' and choice != '3' and choice != '4' and choice != '5' \
+                        and choice != '0':
+                    choice = input(f'What would {self.current_player.name} like to do? '
+                                   f'(1:use Dev Card, 2: Roll, 3: Build, 4: Trade, 5: Buy Dev Card, 0: end turn)\n')
+                    if choice != '0' and choice != '1' and choice != '2' and choice != '3' and choice != '4' \
+                            and choice != '5':
                         print("Invalid Input")
-                if choice=='1':
+                if choice == '1':
                     self.invoker.set_command(useCard())
                     self.invoker.execute_command(self)
                     if self.done:
                         self.endgame(self.current_player)
-                elif choice=='2':
+                elif choice == '2':
                     self.invoker.set_command(ResourceCom())
                     self.invoker.execute_command(self)
-                elif choice=='3':
+                elif choice == '3':
                     self.invoker.set_command(Build())
                     self.invoker.execute_command(self)
                     if self.done:
                         self.endgame(self.current_player)
-                elif choice=='4':
+                elif choice == '4':
                     self.invoker.set_command(Trade())
                     self.invoker.execute_command(self)
-                elif choice=='5':
+                elif choice == '5':
                     self.invoker.set_command(buyCard())
                     self.invoker.execute_command(self)
                     if self.done:
                         self.endgame(self.current_player)
-                elif choice=='0':
+                elif choice == '0':
                     if not self.current_player.rolled:
                         print(f'{self.current_player.name} did not roll yet')
                     else:
                         self.current_player.rolled=False
-                        done=True
-                choice=-1
-
-
-
-
+                        done = True
+                choice = -1
             # self.invoker.set_command(ResourceCom())
             # self.invoker.execute_command(self)
             # self.invoker.set_command(Build())

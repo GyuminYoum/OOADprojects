@@ -12,17 +12,17 @@ class Build(Command):
         # while user still wants to build
         while build:
             print('Does ' + sim.current_player.name + " want to build anything? ")
-            while response!='1' and response!='0':
+            while response != '1' and response != '0':
                 response = input('(1: Yes, 0: No): ')
-                if response!='1' and response!='0':
+                if response != '1' and response != '0':
                     print("Invalid input")
             if response == '0':
                 build = False
                 break
             print(f'{sim.current_player.name}\'s resources: ')
             for key, value in sim.current_player.resources.items():
-                print(f'{key}: {value}')
-            build_action = input('Enter a number (0: None, 1: Road, 2: Settlement, 3: City): ')
+                print(f'{key}: {value} / ', end='')
+            build_action = input('\nEnter a number (0: None, 1: Road, 2: Settlement, 3: City): ')
             # print(type(build_action))
             player = sim.current_player
 
@@ -75,10 +75,10 @@ class Build(Command):
 
             elif build_action == '2':
                 print('settlement')
-                print("curr_player " + player.name)
-                print("curr_roads: " + str(player.get_roadNames()))
-                print("curr_settlements: " + str(player.get_settlementNames()))
-                print("curr_cities: " + str(player.get_cityNames()))
+                print("Player " + player.name + ":")
+                print("Roads: " + str(player.get_roadNames()))
+                print("Settlements: " + str(player.get_settlementNames()))
+                print("Cities: " + str(player.get_cityNames()))
                 # TODO: prompt user to build settlement somewhere
                 # create settlement at 1 node
                 # sim.current_player.settlement.append( new settlement )

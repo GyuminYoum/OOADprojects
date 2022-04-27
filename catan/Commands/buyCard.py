@@ -34,7 +34,6 @@ class buyCard(Command):
             else:
                 print(f'{sim.current_player.name} doesn\'t have enough resources to buy any development card')
                 print(f'Exiting buy CardPhase for {sim.current_player.name}.')
-                print("")
                 break
 
 

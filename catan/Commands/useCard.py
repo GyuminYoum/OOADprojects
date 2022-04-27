@@ -19,10 +19,14 @@ class useCard(Command):
             resourcename2 = "A"
 
             # if user doesn't have unused cards, print it and break out of useCard
-            print(player.deckSummary())
+            # print(player.deckSummary())
+            print('Used: ')
+            print(player.deckSummary()[0])
+            print('Unused: ')
+            print(player.deckSummary()[1])
             if len(player.getUnusedCards(sim.turn)) == 0:
                 print(player.name + " doesn't have any usable development cards.")
-                done=True
+                done = True
                 break
             else:
                 # list unused card names and their counts
@@ -36,7 +40,7 @@ class useCard(Command):
                 if val=="0":
                     if player.hasKnight(sim.turn):
                         # previous available card map and resources check
-                        print("prev")
+                        # print("prev")
                         for x in sim.playerlist:
                             print(x.name, x.AvailableCardSummary(sim.turn))
                         for x in sim.playerlist:
